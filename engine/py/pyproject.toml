@@ -1,0 +1,13 @@
+[build-system]
+requires = ["maturin>=1.5"]
+build-backend = "maturin"
+
+[project]
+name = "vgcsim"
+version = "0.2.0"
+description = "Fast Pokemon Champions VGC doubles engine (Rust), Python bindings"
+requires-python = ">=3.10"
+license = { text = "MIT-0" }
+
+[tool.maturin]
+features = ["pyo3/extension-module"]

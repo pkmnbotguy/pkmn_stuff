@@ -1,0 +1,59 @@
+Tyranitar @ Air Balloon
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Dragon Dance
+- Protect
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Psychic
+- Helping Hand
+- Trick Room
+
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Timid Nature
+- Solar Beam
+- Weather Ball
+- Dazzling Gleam
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Earthquake
+- Protect
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Terrain Pulse
+- Aura Sphere
+- Nasty Plot
+- Detect
+
+Armarouge @ Life Orb
+Ability: Weak Armor
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Armor Cannon
+- Expanding Force
+- Wide Guard
+- Protect

@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 13 HP / 30 SpD / 23 Spe
+Hasty Nature
+- Hyper Voice
+- Double-Edge
+- Tailwind
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 31 HP / 25 Atk / 2 Def / 8 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Low Kick
+- Sucker Punch
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 1 HP / 30 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Detect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 17 HP / 21 Def / 28 Spe
+Timid Nature
+- Zap Cannon
+- Fake Out
+- Encore
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 3 HP / 6 Def / 30 SpA / 11 SpD / 16 Spe
+Modest Nature
+- Expanding Force
+- Hyper Voice
+- Trick Room
+- Imprison

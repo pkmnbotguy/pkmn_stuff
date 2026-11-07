@@ -1,0 +1,59 @@
+Runerigus @ Leftovers
+Ability: Wandering Spirit
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Sandstorm
+- Trick Room
+- Will-O-Wisp
+- Rock Slide
+
+Garchomp @ Garchompite
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Earth Power
+- Rock Slide
+- Iron Head
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Rock Slide
+- Brick Break
+- Knock Off
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Bold Nature
+- Roar
+- Helping Hand
+- Trick Room
+- Psychic Fangs
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Bold Nature
+- Trick Room
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+
+Milotic @ Grassy Seed
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Relaxed Nature
+- Coil
+- Life Dew
+- Dragon Cheer
+- Scald

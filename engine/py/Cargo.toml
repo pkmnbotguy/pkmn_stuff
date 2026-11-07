@@ -1,0 +1,22 @@
+[package]
+name = "vgcsim-py"
+version = "0.2.0"
+edition = "2024"
+publish = false
+
+[lib]
+name = "vgcsim"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.29", features = ["extension-module"] }
+vgcsim = { path = ".." }
+rayon = "1"
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+codegen-units = 1
+
+[features]
+egprof = []

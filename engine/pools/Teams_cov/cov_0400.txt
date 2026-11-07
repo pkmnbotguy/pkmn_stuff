@@ -1,0 +1,60 @@
+Floette-Eternal @ Yache Berry  
+Ability: Flower Veil  
+Level: 50  
+EVs: 3 Atk / 1 Def / 32 SpA / 30 SpD  
+Lonely Nature  
+- Protect  
+- Trailblaze  
+- Energy Ball  
+- Giga Drain  
+
+Scizor @ Black Glasses  
+Ability: Swarm  
+Level: 50  
+EVs: 6 HP / 25 Atk / 9 Def / 26 SpA  
+Timid Nature  
+- Hyper Beam  
+- Double Hit  
+- Vacuum Wave  
+- Focus Energy  
+
+Tauros-Paldea-Combat @ Leppa Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 32 Atk / 25 SpD / 9 Spe  
+Careful Nature  
+- Outrage  
+- Close Combat  
+- Round  
+- Double-Edge  
+
+Salazzle @ Eject Button  
+Ability: Oblivious  
+Level: 50  
+EVs: 20 Def / 4 SpA / 23 SpD / 19 Spe  
+Lonely Nature  
+- Beat Up  
+- Scary Face  
+- Dragon Cheer  
+- Rest  
+
+Vivillon-Jungle @ White Herb  
+Ability: Shield Dust  
+Level: 50  
+EVs: 5 HP / 19 Def / 16 SpA / 26 SpD  
+Brave Nature  
+- Psychic  
+- Weather Ball  
+- Giga Impact  
+- U-turn  
+
+Araquanid @ Chople Berry  
+Ability: Water Absorb  
+Level: 50  
+EVs: 16 HP / 18 Atk / 32 Def  
+Bold Nature  
+- Pounce  
+- Aqua Ring  
+- Attract  
+- Giga Drain  
+

@@ -1,0 +1,59 @@
+Maushold @ Chople Berry
+Ability: Friend Guard
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Population Bomb
+- Protect
+- Follow Me
+- Helping Hand
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Shell Smash
+- Protect
+- Dark Pulse
+- Muddy Water
+
+Clefable @ Sitrus Berry
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Protect
+- Helping Hand
+- Moonblast
+
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Energy Ball
+- Protect
+- Dragon Pulse
+- Earth Power
+
+Rotom-Heat @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Discharge
+- Overheat
+- Trick
+- Electroweb
+
+Excadrill @ Focus Sash
+Ability: Mold Breaker
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Earthquake
+- Iron Head
+- High Horsepower
+- Protect

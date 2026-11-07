@@ -1,0 +1,60 @@
+Medicham @ Occa Berry  
+Ability: Telepathy  
+Level: 50  
+EVs: 10 Def / 21 SpA / 24 SpD / 11 Spe  
+Relaxed Nature  
+- Guard Swap  
+- Taunt  
+- Protect  
+- Grass Knot  
+
+Alakazam @ Silk Scarf  
+Ability: Inner Focus  
+Level: 50  
+EVs: 3 HP / 29 SpA / 27 SpD / 7 Spe  
+Bold Nature  
+- Role Play  
+- Zen Headbutt  
+- Skill Swap  
+- Thunder Wave  
+
+Gogoat @ Metronome  
+Ability: Grass Pelt  
+Level: 50  
+EVs: 19 HP / 32 Atk / 15 Def  
+Relaxed Nature  
+- Synthesis  
+- Horn Leech  
+- Seed Bomb  
+- Growth  
+
+Indeedee @ Light Clay  
+Ability: Inner Focus  
+Level: 50  
+EVs: 28 Atk / 10 SpA / 28 Spe  
+Jolly Nature  
+- After You  
+- Rest  
+- Dazzling Gleam  
+- Calm Mind  
+
+Pyroar @ Wise Glasses  
+Ability: Moxie  
+Level: 50  
+EVs: 6 HP / 24 Def / 4 SpA / 32 SpD  
+Hardy Nature  
+- Overheat  
+- Acrobatics  
+- Flame Charge  
+- Will-O-Wisp  
+
+Glalie @ Passho Berry  
+Ability: Moody  
+Level: 50  
+EVs: 23 Atk / 11 SpA / 32 Spe  
+Quirky Nature  
+- Round  
+- Freeze-Dry  
+- Snowscape  
+- Ice Beam  
+

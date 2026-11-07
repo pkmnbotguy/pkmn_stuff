@@ -1,0 +1,59 @@
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 25 HP / 15 Def / 26 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Armor Cannon
+- Wide Guard
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 26 HP / 10 Atk / 11 Def / 2 SpD / 17 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Rock Tomb
+- Protect
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 25 HP / 9 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Tailwind
+- Protect
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Psychic
+- Follow Me
+- Helping Hand
+- Protect
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Low Kick

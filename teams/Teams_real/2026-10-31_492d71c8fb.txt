@@ -1,0 +1,59 @@
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Rock Slide
+- Fake Out
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Eruption
+- Heat Wave
+- Curse
+
+Zoroark-Hisui @ Life Orb
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Hyper Voice
+- Flamethrower
+- Hyper Beam
+
+Gardevoir @ Gardevoirite
+Ability: Telepathy
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Protect
+- Expanding Force
+- Mystical Fire
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Psychic
+- Shadow Ball
+- Helping Hand
+- Follow Me
+
+Volcarona @ Focus Sash
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Struggle Bug
+- Fiery Dance
+- heat wave
+- Quiver dance

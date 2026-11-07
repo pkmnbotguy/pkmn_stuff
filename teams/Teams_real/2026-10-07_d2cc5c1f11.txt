@@ -1,0 +1,59 @@
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Protect
+- Draco Meteor
+- Flash Cannon
+- Electro Shot
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Hurricane
+- Heat Wave
+- Weather Ball
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dragon Claw
+- Stomping Tantrum
+- Rock Slide
+- Earthquake
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Sassy Nature
+- Light Screen
+- Spirit Break
+- Parting Shot
+- Reflect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Psychic Fangs
+- Stomping Tantrum
+- Steel Roller
+- Bullet Punch
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Weather Ball
+- Hurricane
+- Wide Guard
+- Tailwind

@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Shadow Ball
+- Disable
+- Perish Song
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Protect
+- Flare Blitz
+- Parting Shot
+- Fake Out
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Protect
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Protect
+- Weather Ball
+- Encore
+- Perish Song
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Protect
+- Dragon Pulse
+- Electro Shot
+- Snarl
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Leech Life
+- Sucker Punch
+- Swords Dance

@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Psychic
+- Substitute
+- Protect
+
+Whimsicott @ Occa Berry
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Moonblast
+- Tailwind
+- Encore
+- Charm
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Rock Slide
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Roost
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Protect
+
+Umbreon @ Sitrus Berry
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Relaxed Nature
+- Snarl
+- Taunt
+- Yawn
+- Helping Hand

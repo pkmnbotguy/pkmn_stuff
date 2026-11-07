@@ -1,0 +1,60 @@
+Sneasler @ Black Belt  
+Ability: Poison Touch  
+Level: 50  
+EVs: 15 HP / 28 Def / 23 SpA  
+Bashful Nature  
+- Lash Out  
+- Poison Jab  
+- Focus Punch  
+- Swords Dance  
+
+Garganacl @ Choice Scarf  
+Ability: Sturdy  
+Level: 50  
+EVs: 25 SpA / 10 SpD / 31 Spe  
+Rash Nature  
+- Heavy Slam  
+- Thunder Punch  
+- Brick Break  
+- Dig  
+
+Victreebel @ Roseli Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 14 Atk / 27 Def / 25 SpD  
+Lax Nature  
+- Swords Dance  
+- Sweet Scent  
+- Pounce  
+- Wrap  
+
+Sharpedo @ Persim Berry  
+Ability: Speed Boost  
+Level: 50  
+EVs: 32 HP / 10 Def / 24 Spe  
+Bashful Nature  
+- Water Pulse  
+- Screech  
+- Substitute  
+- Attract  
+
+Qwilfish @ Tanga Berry  
+Ability: Poison Point  
+Level: 50  
+EVs: 8 HP / 10 Atk / 1 Def / 18 SpD / 29 Spe  
+Gentle Nature  
+- Rest  
+- Steel Roller  
+- Endure  
+- Thunder Wave  
+
+Samurott @ Chilan Berry  
+Ability: Shell Armor  
+Level: 50  
+EVs: 12 HP / 8 SpA / 14 SpD / 32 Spe  
+Sassy Nature  
+- Drill Run  
+- Substitute  
+- X-Scissor  
+- Grass Knot  
+

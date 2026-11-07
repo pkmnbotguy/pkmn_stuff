@@ -1,0 +1,59 @@
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Dragon Dance
+- Glaive Rush
+- Icicle Crash
+- Protect
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 4 Atk / 1 Def / 15 SpD / 14 Spe
+Careful Nature
+- Iron Head
+- Taunt
+- Brave Bird
+- Tailwind
+
+Typhlosion-Hisui @ Focus Sash
+Ability: Frisk
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Overheat
+- Shadow Ball
+- Lava Plume
+- Protect
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Encore
+- Aurora Veil
+- Moonblast
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Imprison
+- Trick Room
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect

@@ -1,0 +1,59 @@
+Volcarona @ Charti Berry
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Calm Nature
+- Rage Powder
+- Tailwind
+- Struggle Bug
+- Overheat
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Dance
+- Protect
+- Knock Off
+- Rock Slide
+
+Houndstone @ Life Orb
+Ability: Sand Rush
+Level: 50
+EVs: 28 HP / 9 Atk / 9 Def / 20 Spe
+Adamant Nature
+- Last Respects
+- Protect
+- Shadow Sneak
+- Ally Switch
+
+Scrafty @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 27 HP / 6 Atk / 2 Def / 31 SpD
+Careful Nature
+- Fake Out
+- Knock Off
+- Close Combat
+- Coaching
+
+Toxapex @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Bold Nature
+- Wide Guard
+- Toxic
+- Baneful Bunker
+- Infestation
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Sucker Punch
+- Protect
+- Leech Life
+- Iron Head

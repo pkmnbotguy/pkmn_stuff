@@ -1,0 +1,60 @@
+Vivillon-Modern @ Grassy Seed  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 23 Atk / 18 Def / 1 SpD / 24 Spe  
+Quirky Nature  
+- Whirlwind  
+- String Shot  
+- Rain Dance  
+- Struggle Bug  
+
+Clawitzer @ Focus Band  
+Ability: Mega Launcher  
+Level: 50  
+EVs: 15 Def / 32 SpA / 19 SpD  
+Brave Nature  
+- Surf  
+- Aqua Tail  
+- Bounce  
+- Blizzard  
+
+Stunfisk-Galar @ Rindo Berry  
+Ability: Mimicry  
+Level: 50  
+EVs: 2 HP / 32 Atk / 32 SpA  
+Serious Nature  
+- Protect  
+- Dig  
+- Yawn  
+- Sandstorm  
+
+Chandelure @ Air Balloon  
+Ability: Flame Body  
+Level: 50  
+EVs: 32 Def / 25 SpA / 9 SpD  
+Docile Nature  
+- Psych Up  
+- Poltergeist  
+- Power Split  
+- Hyper Beam  
+
+Heracross @ Chilan Berry  
+Ability: Swarm  
+Level: 50  
+EVs: 3 SpA / 32 SpD / 31 Spe  
+Bashful Nature  
+- Bug Bite  
+- Bulk Up  
+- Smart Strike  
+- Shadow Claw  
+
+Meowstic @ Zoom Lens  
+Ability: Keen Eye  
+Level: 50  
+EVs: 17 Def / 31 SpA / 18 Spe  
+Serious Nature  
+- Psychic  
+- Psychic Terrain  
+- Helping Hand  
+- Reflect  
+

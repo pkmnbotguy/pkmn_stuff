@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpA
+Modest Nature
+- Hyper Voice
+- Expanding Force
+- Trick Room
+- Protect
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Trick Room
+- Helping Hand
+- Follow Me
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Quiet Nature
+- Armor Cannon
+- Expanding Force
+- Wide Guard
+- Trick Room
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Low Kick
+- Iron Head
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Flash Cannon
+- Dark Pulse
+- Detect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Rock Tomb
+- Protect

@@ -1,0 +1,60 @@
+Tauros-Paldea-Combat @ Black Belt  
+Ability: Cud Chew  
+Level: 50  
+EVs: 32 SpA / 7 SpD / 27 Spe  
+Lax Nature  
+- Iron Tail  
+- Close Combat  
+- Facade  
+- Dig  
+
+Camerupt @ Misty Seed  
+Ability: Anger Point  
+Level: 50  
+EVs: 25 Atk / 9 Def / 23 SpA / 9 Spe  
+Quiet Nature  
+- Bulldoze  
+- Rain Dance  
+- Howl  
+- Endeavor  
+
+Orthworm @ Leftovers  
+Ability: Earth Eater  
+Level: 50  
+EVs: 3 HP / 32 Atk / 21 SpA / 8 SpD / 2 Spe  
+Hasty Nature  
+- Bulldoze  
+- Protect  
+- Steel Beam  
+- Iron Defense  
+
+Incineroar @ Persim Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 3 HP / 32 SpA / 31 Spe  
+Timid Nature  
+- Burning Jealousy  
+- Focus Blast  
+- Taunt  
+- Fire Spin  
+
+Gyarados @ Silver Powder  
+Ability: Moxie  
+Level: 50  
+EVs: 15 HP / 32 Atk / 8 Def / 6 SpD / 5 Spe  
+Brave Nature  
+- Sandstorm  
+- Bounce  
+- Spite  
+- Dive  
+
+Falinks @ Lum Berry  
+Ability: Defiant  
+Level: 50  
+EVs: 8 HP / 32 Atk / 17 Def / 9 SpD  
+Impish Nature  
+- Zen Headbutt  
+- Sunny Day  
+- Screech  
+- Helping Hand  
+

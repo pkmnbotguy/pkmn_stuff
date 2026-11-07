@@ -1,0 +1,60 @@
+Cinderace @ Shed Shell  
+Ability: Blaze  
+Level: 50  
+EVs: 5 HP / 32 Atk / 22 SpD / 7 Spe  
+Bashful Nature  
+- Weather Ball  
+- Helping Hand  
+- Agility  
+- Facade  
+
+Dragalge @ Grassy Seed  
+Ability: Adaptability  
+Level: 50  
+EVs: 32 HP / 26 Atk / 8 SpD  
+Sassy Nature  
+- Waterfall  
+- Toxic  
+- Dragon Tail  
+- Focus Blast  
+
+Cofagrigus @ Black Glasses  
+Ability: Mummy  
+Level: 50  
+EVs: 31 HP / 32 Atk / 3 SpA  
+Sassy Nature  
+- Rain Dance  
+- Shadow Punch  
+- Toxic Spikes  
+- Self-Destruct  
+
+Simisear @ Big Root  
+Ability: Blaze  
+Level: 50  
+EVs: 17 Atk / 17 SpA / 32 Spe  
+Naughty Nature  
+- Facade  
+- Giga Impact  
+- Substitute  
+- Flame Charge  
+
+Vivillon-Sun @ Scope Lens  
+Ability: Friend Guard  
+Level: 50  
+EVs: 23 HP / 11 SpA / 32 SpD  
+Mild Nature  
+- Rage Powder  
+- Pollen Puff  
+- Calm Mind  
+- Hurricane  
+
+Klefki @ Twisted Spoon  
+Ability: Magician  
+Level: 50  
+EVs: 13 Atk / 27 Def / 5 SpD / 21 Spe  
+Timid Nature  
+- Foul Play  
+- Trick Room  
+- Stored Power  
+- Thunder Wave  
+

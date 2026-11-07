@@ -1,0 +1,59 @@
+Typhlosion-Hisui @ Choice Scarf
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Eruption
+- Overheat
+- Burning Jealousy
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Brave Bird
+- Roost
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Charm
+- Tailwind
+- Protect
+
+Goodra-Hisui @ Chople Berry
+Ability: Shell Armor
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Body Press
+- Shelter
+- Protect
+- Knock Off
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Taunt
+- Protect
+- U-turn
+
+Metagross @ Metagrossite
+Ability: Clearbody
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Iron Head
+- Ice Punch
+- Protect
+- Psychic Fangs

@@ -1,0 +1,60 @@
+Gourgeist-Super @ Chesto Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 2 HP / 32 Def / 4 SpD / 28 Spe  
+Relaxed Nature  
+- Rock Slide  
+- Will-O-Wisp  
+- Solar Beam  
+- Endure  
+
+Basculegion @ Silk Scarf  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 9 HP / 25 Atk / 32 SpD  
+Jolly Nature  
+- Night Shade  
+- Chilling Water  
+- Icy Wind  
+- Confuse Ray  
+
+Vivillon-Sandstorm @ Black Glasses  
+Ability: Shield Dust  
+Level: 50  
+EVs: 2 Atk / 32 Def / 32 SpD  
+Quiet Nature  
+- Endure  
+- Sleep Powder  
+- Draining Kiss  
+- Hyper Beam  
+
+Rotom-Wash @ Heat Rock  
+Ability: Levitate  
+Level: 50  
+EVs: 4 Atk / 5 SpA / 26 SpD / 31 Spe  
+Brave Nature  
+- Poltergeist  
+- Round  
+- Stored Power  
+- Confuse Ray  
+
+Liepard @ Never-Melt Ice  
+Ability: Prankster  
+Level: 50  
+EVs: 23 Atk / 30 Def / 13 SpA  
+Brave Nature  
+- Attract  
+- Sunny Day  
+- Snarl  
+- Encore  
+
+Avalugg-Hisui @ Chilan Berry  
+Ability: Strong Jaw  
+Level: 50  
+EVs: 5 HP / 32 Atk / 16 SpA / 13 Spe  
+Quiet Nature  
+- Snowscape  
+- Wide Guard  
+- Facade  
+- Iron Defense  
+

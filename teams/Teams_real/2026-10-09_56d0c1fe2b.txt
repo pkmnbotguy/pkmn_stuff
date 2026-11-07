@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Drill Run
+- Iron Head
+- Protect
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Twin Beam
+- Grass Knot
+- Trick Room
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Weather Ball
+- Hurricane
+- Ice Beam
+- Wide Guard
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Dragon Pulse
+- Snarl
+- Electro Shot
+- Protect
+
+Garchomp @ Garchompite Z
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Earth Power
+- Flamethrower
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Rock Slide

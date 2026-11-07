@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Weather Ball
+- Ancient Power
+- Protect
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Protect
+- Wave Crash
+- Ice Punch
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Wide Guard
+- Helping Hand
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Energy Ball
+- Sludge Bomb
+- Earth Power
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Electro Shot
+- Flash Cannon
+- Snarl
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Dire Claw
+- Close Combat
+- Protect

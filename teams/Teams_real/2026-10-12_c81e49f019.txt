@@ -1,0 +1,59 @@
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Dragon Pulse
+- Earth Power
+- Detect
+
+Bellibolt @ Shuca Berry
+Ability: Electromorphosis
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Modest Nature
+- Protect
+- Parabolic Charge
+- Volt Switch
+- Soak
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Aqua Jet
+- Wave Crash
+- Flip Turn
+- Last Respects
+
+Gholdengo @ Grassy Seed
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Protect
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Protect
+- Heat Wave
+- Ancient Power
+- Earth Power

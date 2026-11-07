@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Perish Song
+- Disable
+- Protect
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Fake Out
+- Grassy Glide
+- Protect
+- U-turn
+
+Incineroar @ Passho Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Fake Out
+- Darkest Lariat
+- Protect
+- Parting Shot
+
+Raichu @ Shuca Berry
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Protect
+- Volt Switch
+- Encore
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Protect
+- Snarl
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 25 Def / 6 SpD / 3 Spe
+Bold Nature
+- Weather Ball
+- Protect
+- Perish Song
+- Encore

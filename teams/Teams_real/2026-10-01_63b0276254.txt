@@ -1,0 +1,59 @@
+Pelipper @ Rocky Helmet
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Weather Ball
+- Wide Guard
+- Hurricane
+
+Raichu-Alola @ Focus Sash
+Ability: Surge Surfer
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Discharge
+- Thunder
+- Psychic Noise
+- Fake Out
+
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Dragon Pulse
+- Protect
+- Earth Power
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Darkest Lariat
+- Fake Out
+- Parting Shot
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Swords Dance
+- Sucker Punch
+
+Empoleon @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 19 SpA / 15 Spe
+Modest Nature
+- Flash Cannon
+- Ice Beam
+- Protect
+- Hydro Pump

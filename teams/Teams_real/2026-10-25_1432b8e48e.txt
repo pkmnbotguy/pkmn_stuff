@@ -1,0 +1,59 @@
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- Flare Blitz
+- Dual Wingbeat
+- U-turn
+
+Indeedee @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Trick Room
+- Imprison
+- Protect
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Revival Blessing
+- Protect
+- Close Combat
+- Double Shock
+
+Reuniclus @ Life Orb
+Ability: Magic Guard
+Level: 50
+EVs: 31 HP / 32 SpA / 3 SpD
+Modest Nature
+- Expanding Force
+- Protect
+- Shadow Ball
+- Focus Blast
+
+Excadrill @ Choice Scarf
+Ability: Mold Breaker
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- High Horsepower
+- Rock Slide
+- Rock Tomb
+- Iron Head
+
+Sirfetchd @ Leek
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- Detect
+- Meteor Assault
+- Night Slash
+- Leaf Blade

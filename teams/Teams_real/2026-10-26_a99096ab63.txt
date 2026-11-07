@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Liquidation
+- Leech Life
+- Protect
+
+Scovillain @ Scovillainite
+Ability: Chlorophyll
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Flamethrower
+- Protect
+- Rage Powder
+- Helping Hand
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Draco Meteor
+- Earth Power
+- Focus Blast
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Jolly Nature
+- Spirit Break
+- Reflect
+- Light Screen
+- Fake Out
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Strength Sap
+- Rage Powder
+- Protect
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Wide Guard
+- Dual Wingbeat
+- Tailwind

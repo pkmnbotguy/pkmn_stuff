@@ -1,0 +1,60 @@
+Typhlosion-Hisui @ Light Clay  
+Ability: Blaze  
+Level: 50  
+EVs: 32 Def / 17 SpA / 6 SpD / 11 Spe  
+Adamant Nature  
+- Infernal Parade  
+- Shadow Claw  
+- Shadow Ball  
+- Protect  
+
+Arcanine-Hisui @ Icy Rock  
+Ability: Intimidate  
+Level: 50  
+EVs: 24 HP / 17 Atk / 18 Def / 7 Spe  
+Quirky Nature  
+- Will-O-Wisp  
+- Round  
+- Iron Tail  
+- Overheat  
+
+Florges @ Yache Berry  
+Ability: Symbiosis  
+Level: 50  
+EVs: 13 HP / 31 Atk / 22 SpD  
+Relaxed Nature  
+- Seed Bomb  
+- Tearful Look  
+- Trick  
+- Charm  
+
+Gourgeist-Super @ Sitrus Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 30 HP / 29 Atk / 7 Def  
+Gentle Nature  
+- Trick Room  
+- Self-Destruct  
+- Solar Beam  
+- Scary Face  
+
+Wigglytuff @ Soft Sand  
+Ability: Cute Charm  
+Level: 50  
+EVs: 20 Atk / 32 SpA / 14 SpD  
+Mild Nature  
+- Protect  
+- Covet  
+- Fire Blast  
+- Rain Dance  
+
+Camerupt @ Hard Stone  
+Ability: Anger Point  
+Level: 50  
+EVs: 24 Atk / 12 Def / 30 SpD  
+Naive Nature  
+- Eruption  
+- Charm  
+- Heavy Slam  
+- Temper Flare  
+

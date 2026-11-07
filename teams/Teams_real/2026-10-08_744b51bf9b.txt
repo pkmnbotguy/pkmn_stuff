@@ -1,0 +1,59 @@
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Imprison
+- Expanding Force
+- Trick Room
+- Energy Ball
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Focus Blast
+- Fake Out
+- Zap Cannon
+
+Meowstic-F @ Meowsticite
+Ability: Competitive
+Level: 50
+EVs: 16 HP / 4 Def / 17 SpA / 29 Spe
+Timid Nature
+- Fake Out
+- Protect
+- Thunderbolt
+- Expanding Force
+
+Primarina @ Grassy Seed
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Calm Mind
+- Protect
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 14 HP / 18 Atk / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Fake Out
+- Knock Off
+- U-turn
+- Wood Hammer
+
+Armarouge @ Psychic Seed
+Ability: Weak Armor
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Wide Guard
+- Ally Switch
+- Armor Cannon

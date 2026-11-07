@@ -1,0 +1,59 @@
+Toxicroak @ Life Orb
+Ability: Poison Touch
+Level: 50
+EVs: 3 HP / 32 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Close Combat
+- Fake Out
+- Poison Jab
+- Sucker Punch
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Swords Dance
+- Play Rough
+- Sucker Punch
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Reflect
+- Light Screen
+- Spirit Break
+- Parting Shot
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Rage Powder
+- Tailwind
+- Overheat
+- Struggle Bug
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dark Pulse
+- Snarl
+- Draco Meteor
+- Flamethrower
+
+Sharpedo @ Sharpedonite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Liquidation
+- Psychic Fangs
+- Crunch

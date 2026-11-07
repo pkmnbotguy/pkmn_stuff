@@ -1,0 +1,59 @@
+Umbreon @ Leftovers
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Bold Nature
+- Foul Play
+- Toxic
+- Wish
+- Protect
+
+Mimikyu @ Rocky Helmet
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Impish Nature
+- Shadow Sneak
+- Drain Punch
+- Trick Room
+- Will-O-Wisp
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Scald
+- Ice Beam
+- Protect
+- Recover
+
+Glimmora @ Focus Sash
+Ability: Corrosion
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Power Gem
+- Toxic
+- Earth Power
+- Spiky Shield
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 29 HP / 3 Atk / 9 SpD / 25 Spe
+Careful Nature
+- Fake Out
+- Snarl
+- Drain Punch
+- Detect
+
+Arcanine @ Eject Button
+Ability: Intimidate
+Level: 50
+EVs: 7 HP / 32 Atk / 1 Def / 1 SpD / 25 Spe
+Modest Nature
+- Will-O-Wisp
+- Snarl
+- Extreme Speed
+- Protect

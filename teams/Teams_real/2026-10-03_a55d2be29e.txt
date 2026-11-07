@@ -1,0 +1,59 @@
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Dark Pulse
+- Steel Beam
+- Protect
+
+Garchomp @ Life Orb
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Naive Nature
+- Earthquake
+- Dragon Claw
+- Iron Tail
+- Thrash
+
+Primarina @ Mystic Water
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Aqua Jet
+- Protect
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 10 HP / 23 Atk / 7 Def / 26 Spe
+Adamant Nature
+- Power Whip
+- Triple Axel
+- Zen Headbutt
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Brave Bird
+- Tailwind
+- Protect
+
+Delphox @ Psychic Seed
+Ability: Magician
+Level: 50
+EVs: 15 HP / 22 Def / 28 SpA / 1 Spe
+Modest Nature
+- Heat Wave
+- Expanding Force
+- Imprison
+- Trick Room

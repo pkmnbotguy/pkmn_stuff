@@ -1,0 +1,60 @@
+Vivillon-Pokeball @ Persim Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 32 Atk / 2 Def / 17 SpA / 15 Spe  
+Gentle Nature  
+- Rain Dance  
+- Stun Spore  
+- String Shot  
+- Energy Ball  
+
+Pikachu @ Misty Seed  
+Ability: Static  
+Level: 50  
+EVs: 32 HP / 10 Atk / 24 Def  
+Quirky Nature  
+- Knock Off  
+- Wild Charge  
+- Zap Cannon  
+- Fake Out  
+
+Decidueye @ Binding Band  
+Ability: Long Reach  
+Level: 50  
+EVs: 10 Def / 18 SpA / 21 SpD / 17 Spe  
+Lonely Nature  
+- Spirit Shackle  
+- Synthesis  
+- Roost  
+- Steel Wing  
+
+Tauros-Paldea-Blaze @ Scope Lens  
+Ability: Cud Chew  
+Level: 50  
+EVs: 1 HP / 22 SpA / 15 SpD / 28 Spe  
+Adamant Nature  
+- Lash Out  
+- Iron Tail  
+- Curse  
+- Raging Bull  
+
+Houndoom @ Metronome  
+Ability: Unnerve  
+Level: 50  
+EVs: 32 Atk / 19 SpA / 15 SpD  
+Docile Nature  
+- Giga Impact  
+- Nasty Plot  
+- Round  
+- Super Fang  
+
+Kommo-o @ Heat Rock  
+Ability: Bulletproof  
+Level: 50  
+EVs: 23 HP / 4 Atk / 28 Def / 11 SpD  
+Modest Nature  
+- X-Scissor  
+- Payback  
+- Rest  
+- Metal Sound  
+

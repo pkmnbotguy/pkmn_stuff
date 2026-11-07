@@ -1,0 +1,59 @@
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Spout
+- Shell Smash
+- Dark Pulse
+- Fake Out
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sludge Bomb
+- Earth Power
+- Sleep Powder
+- Protect
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Brave Nature
+- Flare Blitz
+- Close Combat
+- Throat Chop
+- Fake Out
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Rain Dance
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Weather Ball
+- Eruption
+- Heat Wave
+- Protect

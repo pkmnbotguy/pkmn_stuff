@@ -1,0 +1,59 @@
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Fake Out
+- Dark Pulse
+- Water Spout
+- Shell Smash
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 17 Def / 20 SpD
+Sassy Nature
+- Hyper Voice
+- Psychic
+- Trick Room
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Drain Punch
+- Fake Out
+- Ice Punch
+- Double-Edge
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Heat Wave
+- Earth Power
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+Vivillon @ Choice Scarf
+Ability: Compound Eyes
+Level: 50
+EVs: 24 Def / 10 SpD / 32 Spe
+Timid Nature
+- Hurricane
+- Pollen Puff
+- Rage Powder
+- Sleep Powder

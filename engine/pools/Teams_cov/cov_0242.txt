@@ -1,0 +1,60 @@
+Slowking @ Eject Button  
+Ability: Oblivious  
+Level: 50  
+EVs: 14 HP / 24 SpA / 1 SpD / 27 Spe  
+Timid Nature  
+- Expanding Force  
+- Chilly Reception  
+- Psychic  
+- Flamethrower  
+
+Alakazam @ Never-Melt Ice  
+Ability: Synchronize  
+Level: 50  
+EVs: 1 HP / 23 SpA / 22 SpD / 20 Spe  
+Bold Nature  
+- Rain Dance  
+- Disable  
+- Substitute  
+- Ally Switch  
+
+Banette @ Choice Scarf  
+Ability: Frisk  
+Level: 50  
+EVs: 19 HP / 15 Atk / 32 Def  
+Bold Nature  
+- Encore  
+- Trick  
+- Shadow Punch  
+- Fling  
+
+Excadrill @ Wide Lens  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 23 HP / 3 Def / 25 SpD / 15 Spe  
+Naughty Nature  
+- Rock Tomb  
+- Endure  
+- Drill Run  
+- Scorching Sands  
+
+Heliolisk @ Twisted Spoon  
+Ability: Dry Skin  
+Level: 50  
+EVs: 4 HP / 15 Atk / 2 Def / 13 SpA / 32 SpD  
+Lonely Nature  
+- Dark Pulse  
+- Glare  
+- Thunderbolt  
+- Hyper Beam  
+
+Arbok @ Muscle Band  
+Ability: Shed Skin  
+Level: 50  
+EVs: 26 Atk / 29 Def / 11 SpD  
+Gentle Nature  
+- Snore  
+- Iron Tail  
+- Leech Life  
+- Screech  
+

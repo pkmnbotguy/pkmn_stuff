@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Weather Ball
+- Heat Wave
+- Dragon Pulse
+- Ancient Power
+
+Sneasler @ Iron Ball
+Ability: Poison Touch
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Fake Out
+- Close Combat
+- Poison Jab
+- Fling
+
+Garchomp @ Soft Sand
+Ability: Rough Skin
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Rock Slide
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Low Kick
+
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Water Spout
+- Water Pulse
+- Aura Sphere
+- Dark Pulse
+
+Farigiraf @ Focus Sash
+Ability: Armor Tail
+Level: 50
+EVs: 12 HP / 11 Def / 32 SpA / 11 SpD
+Quiet Nature
+- Trick Room
+- Psychic
+- Hyper Voice
+- Thunderbolt

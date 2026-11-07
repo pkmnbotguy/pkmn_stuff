@@ -1,0 +1,59 @@
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Energy Ball
+- Earth Power
+- Dragon Pulse
+- Detect
+
+Rotom-Heat @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Discharge
+- Volt Switch
+- Electroweb
+- Overheat
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Protect
+- Light of Ruin
+- Dazzling Gleam
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Wide Guard
+- Tailwind
+- Dual Wingbeat
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Dragon Claw
+- Rock Slide
+- Earthquake
+
+Basculegion @ Mystic Water
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Aqua Jet
+- Wave Crash
+- Last Respects
+- Protect

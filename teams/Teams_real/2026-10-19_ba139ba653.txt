@@ -1,0 +1,59 @@
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Drum Beating
+- Fake Out
+- Grassy Glide
+- Protect
+
+Kommo-O @ Dragon Fang
+Ability: Soundproof
+Level: 50
+EVs: 5 HP / 1 Def / 30 SpA / 1 SpD / 29 Spe
+Modest Nature
+- Aura Sphere
+- Clanging Scales
+- Clangorous Soul
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Flare Blitz
+- Parting Shot
+- Fake Out
+- Protect
+
+Milotic @ Grassy Seed
+Ability: Competitive
+Level: 50
+EVs: 22 HP / 31 Def / 1 SpA / 12 SpD
+Calm Nature
+- Protect
+- Scald
+- Ice Beam
+- Icy Wind
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Rock Slide
+- Tailwind
+- Taunt
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Jolly Nature
+- Perish Song
+- Shadow Ball
+- Sludge Bomb
+- Protect

@@ -1,0 +1,59 @@
+Hydreigon @ Focus Sash
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Draco Meteor
+- Dark Pulse
+- Earth Power
+- Protect
+
+Meowscarada @ Choice Scarf
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Triple Axel
+- Flower Trick
+- Night Slash
+- Play Rough
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Protect
+- Tailwind
+
+Absol @ Absolite Z
+Ability: Super Luck
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Claw
+- Close Combat
+- Night Slash
+- Protect
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hydro Pump
+- Thunderbolt
+- Will-O-Wisp
+- Protect
+
+Typhlosion-Hisui @ Charcoal
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Heat Wave
+- Eruption
+- Protect

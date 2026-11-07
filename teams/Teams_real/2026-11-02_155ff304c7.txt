@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Flamethrower
+- Hyper Voice
+- Tailwind
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Roar
+- Parting Shot
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- U-turn
+- Wood Hammer
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Calm Mind
+- Draining Kiss
+- Moonblast
+- Protect
+
+Houndstone @ Spell Tag
+Ability: Sand Rush
+Level: 50
+EVs: 28 HP / 9 Atk / 9 Def / 20 Spe
+Adamant Nature
+- Will-O-Wisp
+- Last Respects
+- Protect
+- Ally Switch
+
+Tyranitar @ Focus Sash
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Rock Slide
+- Low Kick
+- Protect

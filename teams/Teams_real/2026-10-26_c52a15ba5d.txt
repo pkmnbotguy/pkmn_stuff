@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Detect
+- Close Combat
+- Psycho Cut
+
+Scovillain @ Leftovers
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Burning Jealousy
+- Rage Powder
+- Protect
+- Giga Drain
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Relaxed Nature
+- Expanding Force
+- Trick Room
+- Aura Sphere
+- Protect
+
+Hatterene @ Babiri Berry
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Calm Nature
+- Psychic Terrain
+- Expanding Force
+- Protect
+- Dazzling Gleam
+
+Grapploct @ Sitrus Berry
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Impish Nature
+- Payback
+- Octolock
+- Storm Throw
+- Protect
+
+Eelektross @ Eelektrossite
+Ability: Levitate
+Level: 50
+EVs: 7 HP / 4 Def / 32 SpA / 23 Spe
+Modest Nature
+- Flamethrower
+- Protect
+- Muddy Water
+- Thunderbolt

@@ -1,0 +1,60 @@
+Vivillon-Archipelago @ Sharp Beak  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 16 HP / 18 Def / 32 SpA  
+Rash Nature  
+- Sunny Day  
+- Draining Kiss  
+- Solar Beam  
+- Light Screen  
+
+Chimecho @ Silver Powder  
+Ability: Levitate  
+Level: 50  
+EVs: 25 Atk / 12 SpA / 29 SpD  
+Bold Nature  
+- Psychic Noise  
+- Taunt  
+- Knock Off  
+- Fake Tears  
+
+Watchog @ Shed Shell  
+Ability: Illuminate  
+Level: 50  
+EVs: 8 HP / 13 Atk / 15 Def / 3 SpD / 27 Spe  
+Naive Nature  
+- Gunk Shot  
+- Flamethrower  
+- Crunch  
+- Fire Punch  
+
+Wigglytuff @ Shell Bell  
+Ability: Competitive  
+Level: 50  
+EVs: 32 HP / 14 Atk / 20 SpD  
+Careful Nature  
+- Psychic Noise  
+- Energy Ball  
+- Ice Beam  
+- Dazzling Gleam  
+
+Ninetales-Alola @ Rawst Berry  
+Ability: Snow Warning  
+Level: 50  
+EVs: 32 HP / 30 Atk / 4 Spe  
+Naughty Nature  
+- Stored Power  
+- Protect  
+- Chilling Water  
+- Dazzling Gleam  
+
+Florges @ Rocky Helmet  
+Ability: Symbiosis  
+Level: 50  
+EVs: 32 HP / 24 Def / 10 SpD  
+Bashful Nature  
+- Grassy Glide  
+- Round  
+- Draining Kiss  
+- Giga Impact  
+

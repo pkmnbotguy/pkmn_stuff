@@ -1,0 +1,59 @@
+Bellibolt @ Life Orb
+Ability: Electromorphosis
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Bold Nature
+- Parabolic Charge
+- Thunder
+- Rain Dance
+- Protect
+
+Pincurchin @ Eject Button
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpA
+Calm Nature
+- Rising Voltage
+- Sucker Punch
+- Toxic Spikes
+- Protect
+
+Oranguru @ Leftovers
+Ability: Telepathy
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Psychic
+- Instruct
+- Trick Room
+- Brick Break
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Wide Guard
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Wave Crash
+- Ice Punch
+- Protect
+
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dragon Pulse
+- Earth Power
+- Leaf Storm
+- Protect

@@ -1,0 +1,59 @@
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Quiet Nature
+- Wide Guard
+- Expanding Force
+- Armor Cannon
+- Trick Room
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 21 HP / 21 Def / 24 SpA
+Quiet Nature
+- Moonblast
+- Hyper Voice
+- Protect
+- Calm Mind
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Protect
+- Follow Me
+- Trick Room
+- Imprison
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Heat Wave
+- Earth Power
+- Ancient Power
+- Protect
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 10 HP / 23 Atk / 7 Def / 26 Spe
+Brave Nature
+- Power Whip
+- Triple Axel
+- Protect
+- High Jump Kick
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Sassy Nature
+- Iron Head
+- Swords Dance
+- Leech Life
+- Protect

@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Perish Song
+- Disable
+- Protect
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 30 Def / 4 SpD
+Relaxed Nature
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Protect
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 5 Atk / 2 Def / 27 SpD
+Brave Nature
+- Wood Hammer
+- U-turn
+- Fake Out
+- Protect
+
+Tinkaton @ Occa Berry
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Jolly Nature
+- Play Rough
+- Encore
+- Fake Out
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Disable
+- Encore
+- Protect
+
+Swampert @ Sitrus Berry
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Wave Crash
+- High Horsepower
+- Flip Turn
+- Protect

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Missing weights, training scripts, or Showdown client code
+    url: https://pkmn.ai/release
+    about: Certain aspects of this project have been redacted before release to preserve competitive integrity in accordance with the community's Responsible Release policy.

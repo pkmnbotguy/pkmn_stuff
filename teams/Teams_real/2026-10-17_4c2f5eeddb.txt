@@ -1,0 +1,59 @@
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dark Pulse
+- Draco Meteor
+- Earth Power
+- Snarl
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Fake Out
+- Close Combat
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Trick Room
+- Imprison
+- Follow Me
+- Psychic
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Heat Wave
+- Tailwind
+- Rage Powder
+- Protect
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Heat Wave
+- Tailwind
+- Protect

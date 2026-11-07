@@ -1,0 +1,59 @@
+Overqwil @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Adamant Nature
+- Liquidation
+- Throat Chop
+- Poison Jab
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Electro Shot
+- Flash Cannon
+- Protect
+- Aura Sphere
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Weather Ball
+- Hurricane
+- Tailwind
+- Wide Guard
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Stomping Tantrum
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Darkest Lariat
+- Fake Out
+- Parting Shot
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect

@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Low Kick
+- Knock Off
+- Rock Slide
+- Protect
+
+Houndstone @ Life Orb
+Ability: Sand Rush
+Level: 50
+EVs: 20 HP / 13 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Play Rough
+- Shadow Sneak
+- Last Respects
+- Protect
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Rage Powder
+- Overheat
+- Giga Drain
+- Protect
+
+Ceruledge @ Colbur Berry
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Bitter Blade
+- Shadow Sneak
+- Close Combat
+- Protect
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Calm Nature
+- Foul Play
+- Toxic
+- Wish
+- Yawn
+
+Rotom-Wash @ Rocky Helmet
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Hydro Pump
+- Thunderbolt
+- Electroweb
+- Protect

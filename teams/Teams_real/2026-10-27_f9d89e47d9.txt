@@ -1,0 +1,59 @@
+Meowstic-F @ Meowsticite
+Ability: Competitive
+Level: 50
+EVs: 16 HP / 4 Def / 17 SpA / 29 Spe
+Modest Nature
+- Alluring Voice
+- Expanding Force
+- Dark Pulse
+- Protect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Steel Roller
+- Iron Head
+- Bullet Punch
+- Protect
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Calm Nature
+- Follow Me
+- Psychic
+- Helping Hand
+- Trick Room
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Wide Guard
+- Tailwind
+- Weather Ball
+
+Sneasler @ Psychic Seed
+Ability: Pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Coaching
+- Protect
+- Dire Claw
+- Close Combat
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Wave Crash
+- Flip Turn
+- Aqua Jet

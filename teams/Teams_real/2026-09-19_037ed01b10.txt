@@ -1,0 +1,59 @@
+Feraligatr @ Feraligite
+Ability: Sheer Force
+Level: 50
+EVs: 32 HP / 11 Atk / 1 Def / 10 SpD / 12 Spe
+Adamant Nature
+- Liquidation
+- Double-Edge
+- Aqua Jet
+- Protect
+
+Rillaboom @ Expert Belt
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 30 SpD / 4 Spe
+Careful Nature
+- Drain Punch
+- Grassy Glide
+- Protect
+- Fake Out
+
+Klefki @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Draining Kiss
+- Iron Defense
+- Light Screen
+- Reflect
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 16 HP / 15 Def / 5 SpA / 30 Spe
+Modest Nature
+- Fiery Dance
+- Bug Buzz
+- Quiver Dance
+- Protect
+
+Decidueye-Hisui @ Focus Sash
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Triple Arrows
+- Leaf Blade
+- Roost
+- Grassy Glide
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Hyper Voice
+- Draco Meteor
+- Protect

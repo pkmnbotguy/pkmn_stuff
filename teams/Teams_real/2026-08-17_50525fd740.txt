@@ -1,0 +1,59 @@
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+
+Samurott-Hisui @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Razor Shell
+- Night Slash
+- Sacred Sword
+- Flip Turn
+
+Sinistcha @ Occa Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Fake Out
+- Close Combat
+- Poison Jab
+- Rock Slide
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 27 HP / 15 Def / 5 SpA / 19 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 15 HP / 17 Def / 14 SpA / 20 Spe
+Timid Nature
+- Psychic
+- Heat Wave
+- Nasty Plot
+- Protect

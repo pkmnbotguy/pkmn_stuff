@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 22 HP / 12 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Close Combat
+- Tailwind
+- Protect
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 32 Atk / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Head Smash
+- Extreme Speed
+- Protect
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 21 HP / 6 Def / 24 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Detect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 8 Def / 1 SpD / 25 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 14 Def / 23 SpD
+Calm Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Protect

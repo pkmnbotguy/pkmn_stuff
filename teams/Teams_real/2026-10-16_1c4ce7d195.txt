@@ -1,0 +1,59 @@
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Volt Tackle
+- Rain Dance
+- Volt Switch
+- Fake Out
+
+Espathra @ Electric Seed
+Ability: Speed Boost
+Level: 50
+EVs: 20 HP / 20 Def / 14 SpD / 12 Spe
+Bold Nature
+- Lumina Crash
+- Baton Pass
+- Calm Mind
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Swords Dance
+- Leech Life
+- Iron Head
+- Liquidation
+
+Alakazam @ Choice Scarf
+Ability: Magic Guard
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Speed Swap
+- Protect
+- Expanding Force
+- Trick
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Soak
+- Weather Ball
+- Protect

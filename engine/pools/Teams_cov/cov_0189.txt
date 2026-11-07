@@ -1,0 +1,60 @@
+Simisear @ Chesto Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 5 HP / 6 Atk / 24 SpA / 31 SpD  
+Calm Nature  
+- Sleep Talk  
+- Stuff Cheeks  
+- Will-O-Wisp  
+- Fire Punch  
+
+Sableye @ Heat Rock  
+Ability: Stall  
+Level: 50  
+EVs: 26 Def / 15 SpA / 25 Spe  
+Naughty Nature  
+- Rain Dance  
+- Knock Off  
+- Poison Jab  
+- Fake Out  
+
+Barbaracle @ Barbaracite  
+Ability: Tough Claws  
+Level: 50  
+EVs: 2 HP / 13 Atk / 22 Def / 29 Spe  
+Quirky Nature  
+- Scald  
+- Mud Shot  
+- Chilling Water  
+- Facade  
+
+Toucannon @ Shell Bell  
+Ability: Skill Link  
+Level: 50  
+EVs: 19 Def / 17 SpA / 30 Spe  
+Calm Nature  
+- Drill Peck  
+- Substitute  
+- Uproar  
+- Attract  
+
+Toxtricity-Low-Key @ Roseli Berry  
+Ability: Punk Rock  
+Level: 50  
+EVs: 25 Def / 32 SpA / 9 Spe  
+Sassy Nature  
+- Magnetic Flux  
+- Overdrive  
+- Boomburst  
+- Endure  
+
+Basculegion-F @ Zoom Lens  
+Ability: Adaptability  
+Level: 50  
+EVs: 32 Def / 32 SpD / 2 Spe  
+Naive Nature  
+- Spite  
+- Flail  
+- Endeavor  
+- Scale Shot  
+

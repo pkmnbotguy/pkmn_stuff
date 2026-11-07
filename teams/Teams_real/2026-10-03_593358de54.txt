@@ -1,0 +1,59 @@
+Pawmot @ White Herb
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Double Shock
+- Protect
+- Revival Blessing
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Draco Meteor
+- Hyper Voice
+- Protect
+- Tailwind
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Protect
+- Nasty Plot
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Power Gem
+- Earth Power
+- Spiky Shield
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Freeze-Dry
+- Aurora Veil
+- Protect
+
+Meowscarada @ Choice Scarf
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flower Trick
+- Play Rough
+- Night Slash
+- U-turn

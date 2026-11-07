@@ -1,0 +1,60 @@
+Inteleon @ Colbur Berry  
+Ability: Sniper  
+Level: 50  
+EVs: 26 HP / 22 Atk / 18 Def  
+Lax Nature  
+- Endure  
+- Fell Stinger  
+- Vacuum Wave  
+- Bind  
+
+Scrafty @ Metronome  
+Ability: Intimidate  
+Level: 50  
+EVs: 15 HP / 18 Atk / 16 SpA / 17 Spe  
+Bold Nature  
+- Smack Down  
+- Focus Punch  
+- Spite  
+- Scary Face  
+
+Scizor @ Charcoal  
+Ability: Light Metal  
+Level: 50  
+EVs: 32 HP / 1 Atk / 28 SpA / 5 Spe  
+Quiet Nature  
+- U-turn  
+- Trailblaze  
+- Fling  
+- Bug Bite  
+
+Vivillon-Savanna @ Shell Bell  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 17 HP / 12 Atk / 26 Def / 11 SpA  
+Relaxed Nature  
+- Substitute  
+- Giga Drain  
+- Calm Mind  
+- Draining Kiss  
+
+Serperior @ Sitrus Berry  
+Ability: Overgrow  
+Level: 50  
+EVs: 8 Atk / 32 Def / 26 SpA  
+Modest Nature  
+- Grass Knot  
+- Knock Off  
+- Seed Bomb  
+- Brutal Swing  
+
+Machamp @ Damp Rock  
+Ability: Guts  
+Level: 50  
+EVs: 7 HP / 10 Atk / 32 Def / 1 SpA / 16 SpD  
+Timid Nature  
+- Close Combat  
+- Poison Jab  
+- Cross Chop  
+- Superpower  
+

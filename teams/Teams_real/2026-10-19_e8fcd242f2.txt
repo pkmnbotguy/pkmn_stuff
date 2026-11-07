@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Leech Life
+- Sucker Punch
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Electro Shot
+- Dragon Pulse
+- Aura Sphere
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Weather Ball
+- Hurricane
+- Helping Hand
+- Wide Guard
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Fake Out
+- Volt Switch
+- Volt Tackle
+
+Sneasler @ Electric Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Swords Dance
+- Close Combat
+- Dire Claw
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Protect
+- Liquidation
+- Last Respects
+- Aqua Jet

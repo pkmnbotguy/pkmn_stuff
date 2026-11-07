@@ -1,0 +1,59 @@
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Draining Kiss
+- Calm Mind
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+- U-turn
+
+Kangaskhan @ Silk Scarf
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Fake Out
+- Sucker Punch
+- Double-Edge
+- Drain Punch
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 1 Def / 8 SpA / 24 SpD / 1 Spe
+Calm Nature
+- Hydro Pump
+- Thunderbolt
+- Protect
+- Will-O-Wisp
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Flash Cannon
+- Aura Sphere
+- Psychic
+- Detect
+
+Ceruledge @ Grassy Seed
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Bitter Blade
+- Shadow Sneak
+- Protect
+- Swords Dance

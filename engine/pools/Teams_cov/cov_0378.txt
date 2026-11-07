@@ -1,0 +1,60 @@
+Corviknight @ Bright Powder  
+Ability: Unnerve  
+Level: 50  
+EVs: 4 Def / 13 SpA / 32 SpD / 17 Spe  
+Rash Nature  
+- Roost  
+- Double-Edge  
+- Protect  
+- Brave Bird  
+
+Pawmot @ Silk Scarf  
+Ability: Iron Fist  
+Level: 50  
+EVs: 9 HP / 32 Atk / 19 SpA / 6 Spe  
+Lonely Nature  
+- Coaching  
+- Hyper Beam  
+- Electric Terrain  
+- Bulk Up  
+
+Milotic @ Rawst Berry  
+Ability: Competitive  
+Level: 50  
+EVs: 2 HP / 30 Def / 30 SpA / 4 SpD  
+Quirky Nature  
+- Aqua Ring  
+- Endure  
+- Facade  
+- Chilling Water  
+
+Polteageist-Antique @ Wacan Berry  
+Ability: Cursed Body  
+Level: 50  
+EVs: 32 SpA / 5 SpD / 29 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Sucker Punch  
+- Foul Play  
+- Imprison  
+
+Leafeon @ Shuca Berry  
+Ability: Leaf Guard  
+Level: 50  
+EVs: 25 Def / 10 SpA / 31 SpD  
+Lax Nature  
+- Alluring Voice  
+- Protect  
+- Snore  
+- Shadow Ball  
+
+Vivillon-Ocean @ Focus Band  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 32 HP / 16 Def / 18 Spe  
+Naive Nature  
+- Hyper Beam  
+- Air Slash  
+- Facade  
+- Safeguard  
+

@@ -1,0 +1,59 @@
+Persian-Alola @ Sitrus Berry
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Careful Nature
+- Fake Out
+- Parting Shot
+- Knock Off
+- Beat Up
+
+Annihilape @ Leftovers
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 5 Atk / 7 Def / 10 SpD / 12 Spe
+Adamant Nature
+- Drain Punch
+- Rage Fist
+- Bulk Up
+- Protect
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Bold Nature
+- Rage Powder
+- Matcha Gotcha
+- Trick Room
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Dragon Dance
+- Protect
+
+Houndstone @ Life Orb
+Ability: Sand Rush
+Level: 50
+EVs: 28 HP / 9 Atk / 9 Def / 20 Spe
+Adamant Nature
+- Howl
+- Last Respects
+- Poltergeist
+- Will-O-Wisp
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Psyshock
+- Nasty Plot
+- Protect

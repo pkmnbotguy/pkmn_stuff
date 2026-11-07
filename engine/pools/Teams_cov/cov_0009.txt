@@ -1,0 +1,60 @@
+Vivillon-Sun @ Poison Barb  
+Ability: Friend Guard  
+Level: 50  
+EVs: 18 HP / 32 Atk / 16 Def  
+Bold Nature  
+- Hurricane  
+- Air Slash  
+- Struggle Bug  
+- Whirlwind  
+
+Palafin @ Zoom Lens  
+Ability: Zero to Hero  
+Level: 50  
+EVs: 27 HP / 11 Atk / 28 SpA  
+Bashful Nature  
+- Surf  
+- Rain Dance  
+- Iron Head  
+- Water Pulse  
+
+Beartic @ Magnet  
+Ability: Swift Swim  
+Level: 50  
+EVs: 13 HP / 26 Def / 21 SpD / 6 Spe  
+Mild Nature  
+- Shadow Claw  
+- Dive  
+- Ice Fang  
+- Bulk Up  
+
+Houndoom @ Chople Berry  
+Ability: Early Bird  
+Level: 50  
+EVs: 32 HP / 21 Atk / 8 SpA / 5 SpD  
+Calm Nature  
+- Flare Blitz  
+- Endeavor  
+- Foul Play  
+- Flame Charge  
+
+Mr. Mime @ Sitrus Berry  
+Ability: Soundproof  
+Level: 50  
+EVs: 20 Atk / 18 SpA / 28 SpD  
+Sassy Nature  
+- Sleep Talk  
+- Payback  
+- Tickle  
+- Thunder Punch  
+
+Bellibolt @ Binding Band  
+Ability: Electromorphosis  
+Level: 50  
+EVs: 12 HP / 11 Atk / 9 SpA / 8 SpD / 26 Spe  
+Timid Nature  
+- Chilling Water  
+- Hyper Voice  
+- Giga Impact  
+- Sleep Talk  
+

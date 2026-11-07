@@ -1,0 +1,59 @@
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Calm Mind
+- Protect
+- Dazzling Gleam
+- Draining Kiss
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Rock Slide
+- Dragon Claw
+- Breaking Swipe
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Rock Slide
+
+Alakazam @ Choice Scarf
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Expanding Force
+- Drain Punch
+- Dazzling Gleam
+- Shadow Ball
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Fake Out
+- Helping Hand
+- Trick Room
+- Psychic
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Wide Guard
+- Hurricane
+- Protect

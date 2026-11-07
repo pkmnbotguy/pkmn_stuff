@@ -1,0 +1,59 @@
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Psychic
+- Thunderbolt
+- Trick Room
+- Helping Hand
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Calm Mind
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Stomping Tantrum
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Weather Ball
+- Ancient Power
+- Protect
+
+Venusaur @ Wide Lens
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Leaf Storm
+- Sludge Bomb
+- Sleep Powder
+- Protect
+
+Incineroar @ White Herb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Flare Blitz
+- Darkest Lariat
+- Fake Out
+- Close Combat

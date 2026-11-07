@@ -1,0 +1,59 @@
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Light of Ruin
+- Moonblast
+- Dazzling Gleam
+- Protect
+
+Basculegion @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Trick Room
+- Imprison
+- Dazzling Gleam
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Gunk Shot
+- Rock Tomb
+- Protect
+
+Talonflame @ Wide Lens
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- Overheat
+- Hurricane
+- Protect
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Muddy Water
+- Hurricane
+- Ice Beam
+- Hydro Pump

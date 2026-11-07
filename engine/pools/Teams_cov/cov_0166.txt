@@ -1,0 +1,60 @@
+Florges @ Sharp Beak  
+Ability: Flower Veil  
+Level: 50  
+EVs: 13 HP / 22 Def / 2 SpA / 29 SpD  
+Naughty Nature  
+- Petal Dance  
+- Copycat  
+- Petal Blizzard  
+- Giga Drain  
+
+Aurorus @ Chilan Berry  
+Ability: Snow Warning  
+Level: 50  
+EVs: 32 Atk / 21 Def / 4 SpA / 9 SpD  
+Lonely Nature  
+- Zen Headbutt  
+- Rock Tomb  
+- Avalanche  
+- Light Screen  
+
+Altaria @ Oran Berry  
+Ability: Natural Cure  
+Level: 50  
+EVs: 8 HP / 12 Atk / 29 Def / 17 SpD  
+Mild Nature  
+- Helping Hand  
+- Feather Dance  
+- Outrage  
+- Moonblast  
+
+Metagross @ Babiri Berry  
+Ability: Light Metal  
+Level: 50  
+EVs: 22 Def / 29 SpA / 15 Spe  
+Gentle Nature  
+- Bullet Punch  
+- Ice Punch  
+- Psycho Cut  
+- Cosmic Power  
+
+Mudsdale @ Poison Barb  
+Ability: Stamina  
+Level: 50  
+EVs: 21 HP / 6 Def / 7 SpA / 32 SpD  
+Quirky Nature  
+- Superpower  
+- Iron Defense  
+- Round  
+- Double-Edge  
+
+Slowbro-Galar @ Slowbronite  
+Ability: Quick Draw  
+Level: 50  
+EVs: 6 Atk / 15 Def / 14 SpA / 31 SpD  
+Quiet Nature  
+- Shell Side Arm  
+- Ice Punch  
+- Giga Impact  
+- Rain Dance  
+

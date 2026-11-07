@@ -1,0 +1,60 @@
+Roserade @ Zoom Lens  
+Ability: Poison Point  
+Level: 50  
+EVs: 17 Atk / 17 Def / 32 SpA  
+Mild Nature  
+- Endure  
+- Attract  
+- Trailblaze  
+- Spikes  
+
+Glalie @ Psychic Seed  
+Ability: Inner Focus  
+Level: 50  
+EVs: 23 SpA / 29 SpD / 14 Spe  
+Gentle Nature  
+- Self-Destruct  
+- Body Slam  
+- Explosion  
+- Sleep Talk  
+
+Sandaconda @ Oran Berry  
+Ability: Sand Spit  
+Level: 50  
+EVs: 4 HP / 2 Def / 28 SpA / 32 SpD  
+Docile Nature  
+- Brutal Swing  
+- Thunder Fang  
+- Mud Shot  
+- Earthquake  
+
+Camerupt @ Chople Berry  
+Ability: Solid Rock  
+Level: 50  
+EVs: 11 HP / 23 Def / 10 SpA / 22 Spe  
+Quiet Nature  
+- Rain Dance  
+- Overheat  
+- High Horsepower  
+- Mud-Slap  
+
+Vivillon-Monsoon @ Black Belt  
+Ability: Shield Dust  
+Level: 50  
+EVs: 27 Atk / 20 SpA / 19 SpD  
+Mild Nature  
+- Quiver Dance  
+- Air Cutter  
+- Light Screen  
+- Psychic  
+
+Arbok @ Metal Coat  
+Ability: Intimidate  
+Level: 50  
+EVs: 27 HP / 32 Atk / 3 Def / 4 Spe  
+Timid Nature  
+- Gastro Acid  
+- Rain Dance  
+- Sludge Bomb  
+- Round  
+

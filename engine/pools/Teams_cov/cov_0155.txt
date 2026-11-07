@@ -1,0 +1,60 @@
+Barbaracle @ Mystic Water  
+Ability: Sniper  
+Level: 50  
+EVs: 30 Def / 29 SpA / 7 Spe  
+Docile Nature  
+- Stealth Rock  
+- Ancient Power  
+- Iron Defense  
+- Chilling Water  
+
+Toucannon @ King's Rock  
+Ability: Sheer Force  
+Level: 50  
+EVs: 27 HP / 10 Atk / 29 SpA  
+Calm Nature  
+- Air Slash  
+- Acrobatics  
+- Pluck  
+- Tailwind  
+
+Alcremie-Matcha-Cream @ Focus Sash  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 22 SpA / 12 SpD / 32 Spe  
+Timid Nature  
+- Protect  
+- Light Screen  
+- Endeavor  
+- Psychic  
+
+Beartic @ Leppa Berry  
+Ability: Slush Rush  
+Level: 50  
+EVs: 32 HP / 9 Atk / 14 Def / 11 SpA  
+Careful Nature  
+- Body Press  
+- Surf  
+- Liquidation  
+- Water Pulse  
+
+Espeon @ Choice Scarf  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 17 HP / 9 Atk / 29 Def / 11 SpA  
+Naive Nature  
+- Curse  
+- Expanding Force  
+- Weather Ball  
+- Endure  
+
+Persian-Alola @ Fairy Feather  
+Ability: Rattled  
+Level: 50  
+EVs: 11 Atk / 3 Def / 31 SpA / 21 Spe  
+Serious Nature  
+- Uproar  
+- Giga Impact  
+- Amnesia  
+- Protect  
+

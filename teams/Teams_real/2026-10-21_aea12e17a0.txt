@@ -1,0 +1,59 @@
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 16 Def / 10 SpA / 11 SpD
+Quiet Nature
+- Trick Room
+- Psychic Noise
+- Protect
+- Helping Hand
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+- High Horsepower
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Earth Power
+- Heat Wave
+- Protect
+- Ancient Power
+
+Araquanid @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD
+Brave Nature
+- Liquidation
+- Wide Guard
+- Leech Life
+- Protect
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Aura Sphere
+- Clangorous Soul
+- Protect
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Volt Switch
+- Volt Tackle
+- Protect

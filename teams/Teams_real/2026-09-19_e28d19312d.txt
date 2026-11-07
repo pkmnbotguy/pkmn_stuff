@@ -1,0 +1,59 @@
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clangorous Soul
+- Clanging Scales
+- Aura Sphere
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Calm Mind
+- Dazzling Gleam
+- Draining Kiss
+- Protect
+
+Aggron @ Aggronite
+Ability: Sturdy
+Level: 50
+EVs: 31 HP / 1 Atk / 2 Def / 32 SpD
+Adamant Nature
+- Iron Defense
+- Body Press
+- Heavy Slam
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 7 Def / 27 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Trick Room
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Light Screen
+- Reflect
+- Parting Shot
+- Spirit Break
+
+Incineroar @ Passho Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Darkest Lariat

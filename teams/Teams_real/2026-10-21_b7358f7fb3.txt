@@ -1,0 +1,59 @@
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Volt Tackle
+- Volt Switch
+- Encore
+- Fake Out
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Protect
+- Matcha Gotcha
+- Trick Room
+- Rage Powder
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Clangorous Soul
+- Aura Sphere
+- Clanging Scales
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Low Kick
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Psychic
+- Nasty Plot

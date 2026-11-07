@@ -1,0 +1,59 @@
+Starmie @ Starminite
+Ability: Natural Cure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Aqua Jet
+- Liquidation
+- Psycho Cut
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Naive Nature
+- Double-Edge
+- Hyper Voice
+- Tailwind
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Coaching
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 9 HP / 22 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Detect
+
+Skeledirge @ Leftovers
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 2 SpA / 32 SpD
+Bold Nature
+- Torch Song
+- Shadow Ball
+- Snarl
+- Protect
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Light Screen
+- Reflect
+- Foul Play
+- Encore

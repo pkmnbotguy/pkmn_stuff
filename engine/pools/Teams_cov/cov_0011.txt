@@ -1,0 +1,60 @@
+Vivillon-Tundra @ Aspear Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 32 Atk / 23 Def / 10 SpA / 1 Spe  
+Serious Nature  
+- Struggle Bug  
+- Bug Bite  
+- Draining Kiss  
+- Pollen Puff  
+
+Squawkabilly @ King's Rock  
+Ability: Intimidate  
+Level: 50  
+EVs: 26 HP / 3 Atk / 32 SpA / 5 Spe  
+Quirky Nature  
+- Hurricane  
+- Uproar  
+- Sunny Day  
+- Parting Shot  
+
+Persian-Alola @ Chople Berry  
+Ability: Rattled  
+Level: 50  
+EVs: 10 HP / 26 Def / 28 SpA / 2 SpD  
+Serious Nature  
+- Bite  
+- Throat Chop  
+- Thunder  
+- Endure  
+
+Quaquaval @ Chilan Berry  
+Ability: Torrent  
+Level: 50  
+EVs: 18 Atk / 1 Def / 16 SpA / 31 SpD  
+Calm Nature  
+- Liquidation  
+- Whirlpool  
+- Focus Energy  
+- Surf  
+
+Beartic @ Metal Coat  
+Ability: Swift Swim  
+Level: 50  
+EVs: 12 HP / 31 SpA / 23 Spe  
+Jolly Nature  
+- Focus Punch  
+- Charm  
+- Mud Shot  
+- Frost Breath  
+
+Golurk @ Golurkite  
+Ability: Iron Fist  
+Level: 50  
+EVs: 4 HP / 17 Atk / 24 Def / 3 SpA / 18 SpD  
+Bold Nature  
+- Curse  
+- Shadow Ball  
+- Gyro Ball  
+- Grass Knot  
+

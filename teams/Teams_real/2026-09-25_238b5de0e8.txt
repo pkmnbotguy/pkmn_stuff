@@ -1,0 +1,59 @@
+Dragonite @ Dragoninite
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Ice Beam
+- Dragon Pulse
+- Protect
+- Tailwind
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 17 HP / 14 Atk / 1 Def / 2 SpD / 32 Spe
+Jolly Nature
+- Fake Out
+- Grassy Glide
+- Protect
+- Knock Off
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Quiet Nature
+- Iron Head
+- Low Kick
+- Protect
+- Swords Dance
+
+Raichu @ Raichunite Y
+Ability: Static
+Level: 50
+EVs: 32 HP / 14 Def / 20 Spe
+Modest Nature
+- Thunder
+- Protect
+- Fake Out
+- Focus Blast
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Protect
+- Nasty Plot
+- Make It Rain
+
+Sneasler @ White Herb
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Poison Jab
+- Close Combat
+- Protect

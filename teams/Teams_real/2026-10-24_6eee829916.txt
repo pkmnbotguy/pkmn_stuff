@@ -1,0 +1,59 @@
+Ceruledge @ Grassy Seed
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Bitter Blade
+- Shadow Sneak
+- Swords Dance
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- U-turn
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Recover
+- Protect
+
+Maushold @ Chople Berry
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 10 Def / 24 SpD
+Impish Nature
+- Follow Me
+- Super Fang
+- Feint
+- Protect
+
+Lopunny @ Lopunnite
+Ability: Limber
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Fake Out
+- Encore
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 9 HP / 22 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Calm Mind
+- Protect

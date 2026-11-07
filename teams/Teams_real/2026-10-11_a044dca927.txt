@@ -1,0 +1,59 @@
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draining Kiss
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Excadrill @ Excadrite
+Ability: Mold Breaker
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Protect
+- Swords Dance
+- Earthquake
+- Iron Head
+
+Klefki @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Bold Nature
+- Light Screen
+- Reflect
+- Rain Dance
+- Dazzling Gleam
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Life Dew
+- Protect
+- Rage Powder
+
+Squawkabilly @ Eject Button
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Timid Nature
+- Helping Hand
+- Tailwind
+- Taunt
+- U-turn
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Imprison
+- Trick Room
+- Expanding Force
+- Protect

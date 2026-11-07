@@ -1,0 +1,60 @@
+Goodra @ King's Rock  
+Ability: Gooey  
+Level: 50  
+EVs: 8 Atk / 26 SpD / 32 Spe  
+Brave Nature  
+- Hydro Pump  
+- Brutal Swing  
+- Thunder Punch  
+- Blizzard  
+
+Slowking-Galar @ Psychic Seed  
+Ability: Own Tempo  
+Level: 50  
+EVs: 4 Atk / 32 SpA / 30 Spe  
+Jolly Nature  
+- Body Slam  
+- Imprison  
+- Eerie Spell  
+- Snowscape  
+
+Tauros @ Sharp Beak  
+Ability: Anger Point  
+Level: 50  
+EVs: 24 HP / 22 Atk / 9 SpA / 11 SpD  
+Bashful Nature  
+- Reversal  
+- Stomping Tantrum  
+- Giga Impact  
+- Double-Edge  
+
+Manectric @ Shell Bell  
+Ability: Static  
+Level: 50  
+EVs: 27 HP / 11 SpA / 28 SpD  
+Hasty Nature  
+- Rain Dance  
+- Uproar  
+- Trailblaze  
+- Substitute  
+
+Sirfetch’d @ Miracle Seed  
+Ability: Scrappy  
+Level: 50  
+EVs: 32 HP / 32 SpA / 2 Spe  
+Bold Nature  
+- Focus Energy  
+- Assurance  
+- Brave Bird  
+- Final Gambit  
+
+Torkoal @ Roseli Berry  
+Ability: Drought  
+Level: 50  
+EVs: 13 Def / 9 SpA / 15 SpD / 29 Spe  
+Sassy Nature  
+- Self-Destruct  
+- Flail  
+- Rapid Spin  
+- Sandstorm  
+

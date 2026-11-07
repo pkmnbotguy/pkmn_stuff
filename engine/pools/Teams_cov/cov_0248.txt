@@ -1,0 +1,60 @@
+Vivillon-Tundra @ Muscle Band  
+Ability: Friend Guard  
+Level: 50  
+EVs: 29 HP / 25 Atk / 11 Def / 1 Spe  
+Careful Nature  
+- Hyper Beam  
+- Giga Impact  
+- Air Slash  
+- Energy Ball  
+
+Meowstic @ Dragon Fang  
+Ability: Infiltrator  
+Level: 50  
+EVs: 11 HP / 27 Atk / 13 SpA / 15 SpD  
+Modest Nature  
+- Iron Tail  
+- Tickle  
+- Trick Room  
+- Misty Terrain  
+
+Steelix @ Scope Lens  
+Ability: Rock Head  
+Level: 50  
+EVs: 28 Def / 19 SpA / 19 SpD  
+Naive Nature  
+- Body Press  
+- Sleep Talk  
+- Payback  
+- Sunny Day  
+
+Politoed @ Hard Stone  
+Ability: Drizzle  
+Level: 50  
+EVs: 30 HP / 8 Atk / 22 Def / 6 SpA  
+Lax Nature  
+- Water Pulse  
+- Attract  
+- Snore  
+- Round  
+
+Beartic @ Binding Band  
+Ability: Slush Rush  
+Level: 50  
+EVs: 18 Atk / 5 Def / 28 SpA / 15 Spe  
+Adamant Nature  
+- Endure  
+- Swords Dance  
+- Body Press  
+- Encore  
+
+Ampharos @ Life Orb  
+Ability: Plus  
+Level: 50  
+EVs: 7 HP / 4 SpA / 32 SpD / 23 Spe  
+Mild Nature  
+- Rain Dance  
+- Round  
+- Mega Kick  
+- Sleep Talk  
+

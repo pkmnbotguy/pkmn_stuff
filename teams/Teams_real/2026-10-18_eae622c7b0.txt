@@ -1,0 +1,59 @@
+Gholdengo @ Wide Lens
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+- Protect
+
+Kommo-O @ Life Orb
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Aura Sphere
+- Protect
+- Flamethrower
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Wide Guard
+- Tailwind
+- Dual Wingbeat
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Giga Drain
+- Trick Room
+- Rage Powder
+- Protect
+
+Mamoswine @ Focus Sash
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Ice Shard
+- Protect
+- Stomping Tantrum
+
+Ninetales @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 6 Def / 19 SpA / 9 Spe
+Modest Nature
+- Burning Jealousy
+- Weather Ball
+- Protect
+- Solar Beam

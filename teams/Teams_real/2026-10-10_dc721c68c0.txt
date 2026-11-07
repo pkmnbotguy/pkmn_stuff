@@ -1,0 +1,59 @@
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Energy Ball
+- Trick
+- Protect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Iron Head
+- Psychic Fangs
+- Ice Punch
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Darkest Lariat
+- Flare Blitz
+- Parting Shot
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Rock Slide
+- Protect
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Earth Power
+- Power Gem
+- Protect
+
+Typhlosion-Hisui @ Focus Sash
+Ability: Blaze
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Shadow Ball
+- Roar
+- Protect

@@ -1,0 +1,59 @@
+Venusaur @ Life Orb
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sludge Bomb
+- Earth Power
+- Leaf Storm
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Dragon Claw
+- Earthquake
+- Stomping Tantrum
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Double Shock
+- Close Combat
+- Protect
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 1 Atk / 1 Def / 32 SpD
+Adamant Nature
+- Brave Bird
+- Roost
+- Tailwind
+- Protect
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Shadow Claw
+- Icy Wind
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Weather Ball
+- Air Slash
+- Protect

@@ -1,0 +1,59 @@
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Quick Guard
+- Close Combat
+- Gunk Shot
+- Coaching
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Trick
+- Energy Ball
+- Expanding Force
+- Mystical Fire
+
+Milotic @ Rindo Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Coil
+- Hypnosis
+- Muddy Water
+- Recover
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Ice Punch
+- Knock Off
+- Rock Slide
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Protect
+- High Horsepower
+- Iron Head
+- Rock Slide
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Fake Out
+- Focus Blast
+- Zap Cannon

@@ -1,0 +1,60 @@
+Mr. Mime @ Coba Berry  
+Ability: Filter  
+Level: 50  
+EVs: 26 Atk / 2 Def / 3 SpA / 11 SpD / 24 Spe  
+Gentle Nature  
+- Charm  
+- Baton Pass  
+- Fake Out  
+- Payback  
+
+Vivillon-Fancy @ Payapa Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 21 HP / 10 Atk / 1 Def / 2 SpD / 32 Spe  
+Quirky Nature  
+- Endure  
+- Sleep Talk  
+- Weather Ball  
+- Giga Drain  
+
+Machamp @ Muscle Band  
+Ability: Guts  
+Level: 50  
+EVs: 2 Def / 32 SpA / 32 SpD  
+Modest Nature  
+- Darkest Lariat  
+- Bullet Punch  
+- Cross Chop  
+- Cross Poison  
+
+Rillaboom @ Persim Berry  
+Ability: Overgrow  
+Level: 50  
+EVs: 3 HP / 30 Atk / 11 Def / 22 SpA  
+Serious Nature  
+- Hyper Voice  
+- Stomping Tantrum  
+- Assurance  
+- Protect  
+
+Scolipede @ Life Orb  
+Ability: Poison Point  
+Level: 50  
+EVs: 25 HP / 6 Def / 10 SpA / 25 SpD  
+Gentle Nature  
+- Gyro Ball  
+- Hex  
+- X-Scissor  
+- Bite  
+
+Alcremie-Lemon-Cream @ Fairy Feather  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 32 Atk / 18 Def / 1 SpA / 15 Spe  
+Sassy Nature  
+- Play Rough  
+- Wonder Room  
+- Last Resort  
+- Magic Room  
+

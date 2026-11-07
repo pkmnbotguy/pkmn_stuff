@@ -1,0 +1,60 @@
+Hatterene @ Wise Glasses  
+Ability: Healer  
+Level: 50  
+EVs: 4 Atk / 18 Def / 12 SpD / 32 Spe  
+Hardy Nature  
+- Skill Swap  
+- Psycho Cut  
+- Helping Hand  
+- Pain Split  
+
+Trevenant @ Shed Shell  
+Ability: Frisk  
+Level: 50  
+EVs: 11 HP / 24 SpA / 31 Spe  
+Impish Nature  
+- Sleep Talk  
+- Psych Up  
+- Dig  
+- Giga Impact  
+
+Skeledirge @ King's Rock  
+Ability: Unaware  
+Level: 50  
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe  
+Hardy Nature  
+- Thunder Fang  
+- Shadow Ball  
+- Slack Off  
+- Sing  
+
+Toxicroak @ Dragon Fang  
+Ability: Dry Skin  
+Level: 50  
+EVs: 28 Atk / 10 Def / 28 SpD  
+Jolly Nature  
+- Drain Punch  
+- Feint  
+- Spite  
+- Focus Punch  
+
+Wigglytuff @ Normal Gem  
+Ability: Cute Charm  
+Level: 50  
+EVs: 32 Atk / 13 Def / 17 SpD / 4 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Dazzling Gleam  
+- Solar Beam  
+- Dig  
+
+Serperior @ Rocky Helmet  
+Ability: Overgrow  
+Level: 50  
+EVs: 22 HP / 24 SpA / 1 SpD / 19 Spe  
+Bashful Nature  
+- Petal Blizzard  
+- Leaf Storm  
+- Frenzy Plant  
+- Sweet Scent  
+

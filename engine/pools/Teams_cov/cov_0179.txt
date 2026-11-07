@@ -1,0 +1,60 @@
+Morpeko @ Magnet  
+Ability: Hunger Switch  
+Level: 50  
+EVs: 24 Def / 21 SpD / 21 Spe  
+Calm Nature  
+- Charge  
+- Agility  
+- Electric Terrain  
+- Assurance  
+
+Charizard @ Charizardite X  
+Ability: Blaze  
+Level: 50  
+EVs: 26 HP / 9 Atk / 31 Spe  
+Docile Nature  
+- Facade  
+- Beat Up  
+- Fire Spin  
+- Weather Ball  
+
+Vivillon @ Red Card  
+Ability: Friend Guard  
+Level: 50  
+EVs: 11 HP / 20 Atk / 30 SpA / 5 SpD  
+Naive Nature  
+- Safeguard  
+- Bug Buzz  
+- Sleep Powder  
+- Rage Powder  
+
+Medicham @ Charti Berry  
+Ability: Pure Power  
+Level: 50  
+EVs: 4 Atk / 20 Def / 32 SpA / 10 Spe  
+Hasty Nature  
+- Psycho Cut  
+- Endure  
+- Thunder Punch  
+- Psych Up  
+
+Talonflame @ Air Balloon  
+Ability: Gale Wings  
+Level: 50  
+EVs: 14 HP / 7 Atk / 27 Def / 18 SpD  
+Careful Nature  
+- Agility  
+- Bulk Up  
+- Air Cutter  
+- Will-O-Wisp  
+
+Toucannon @ Twisted Spoon  
+Ability: Keen Eye  
+Level: 50  
+EVs: 32 HP / 8 SpA / 26 Spe  
+Sassy Nature  
+- Endeavor  
+- Beak Blast  
+- Air Slash  
+- Helping Hand  
+

@@ -1,0 +1,60 @@
+Pangoro @ Soft Sand  
+Ability: Iron Fist  
+Level: 50  
+EVs: 30 Def / 22 SpD / 14 Spe  
+Docile Nature  
+- Quash  
+- Headlong Rush  
+- Power Trip  
+- Gunk Shot  
+
+Arcanine @ Grassy Seed  
+Ability: Flash Fire  
+Level: 50  
+EVs: 15 HP / 2 Def / 12 SpA / 16 SpD / 21 Spe  
+Calm Nature  
+- Flame Charge  
+- Iron Tail  
+- Flare Blitz  
+- Rest  
+
+Weavile @ Passho Berry  
+Ability: Pressure  
+Level: 50  
+EVs: 16 HP / 2 Atk / 31 SpA / 17 Spe  
+Modest Nature  
+- Ice Beam  
+- Reflect  
+- Baton Pass  
+- Calm Mind  
+
+Raichu-Alola @ Iron Ball  
+Ability: Surge Surfer  
+Level: 50  
+EVs: 17 HP / 32 Atk / 17 Def  
+Timid Nature  
+- Skill Swap  
+- Electroweb  
+- Snore  
+- Rain Dance  
+
+Whimsicott @ Kasib Berry  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 30 HP / 18 SpA / 18 Spe  
+Mild Nature  
+- Cotton Spore  
+- Charm  
+- Dazzling Gleam  
+- Grass Knot  
+
+Starmie @ Haban Berry  
+Ability: Analytic  
+Level: 50  
+EVs: 1 HP / 12 SpA / 30 SpD / 23 Spe  
+Quiet Nature  
+- Trick  
+- Endure  
+- Safeguard  
+- Rain Dance  
+

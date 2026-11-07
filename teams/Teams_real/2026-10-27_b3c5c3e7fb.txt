@@ -1,0 +1,59 @@
+Volcarona @ Charti Berry
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Tailwind
+- Heat Wave
+- Giga Drain
+- Bug Buzz
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+Level: 50
+EVs: 31 HP / 32 Def / 3 SpD
+Relaxed Nature
+- Calm Mind
+- Baton Pass
+- Stored Power
+- Icy Wind
+
+Clefable @ Clefablite
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Baton Pass
+- Cosmic Power
+- Charge Beam
+
+Audino @ Chople Berry
+Ability: Healer
+Level: 50
+EVs: 32 HP / 7 Def / 20 SpA / 7 SpD
+Impish Nature
+- Simple Beam
+- Trick Room
+- Heal Pulse
+- Stomping Tantrum
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Draining Kiss
+- Protect
+- Sleep Powder
+- Hurricane
+
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Spout
+- Protect
+- Dark Pulse
+- Aura Sphere

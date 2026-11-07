@@ -1,0 +1,60 @@
+Rampardos @ Poison Barb  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 30 Def / 22 SpA / 8 SpD / 6 Spe  
+Sassy Nature  
+- Earth Power  
+- Heavy Slam  
+- Dragon Pulse  
+- Zen Headbutt  
+
+Squawkabilly @ Red Card  
+Ability: Intimidate  
+Level: 50  
+EVs: 7 HP / 3 Def / 2 SpA / 29 SpD / 25 Spe  
+Docile Nature  
+- Double-Edge  
+- Sunny Day  
+- Substitute  
+- Tailwind  
+
+Absol @ Absolite Z  
+Ability: Pressure  
+Level: 50  
+EVs: 32 HP / 32 Atk / 2 Spe  
+Docile Nature  
+- Rain Dance  
+- Blizzard  
+- Substitute  
+- Psycho Cut  
+
+Tyranitar @ Silver Powder  
+Ability: Unnerve  
+Level: 50  
+EVs: 15 Atk / 1 SpA / 29 SpD / 21 Spe  
+Hardy Nature  
+- Power Gem  
+- Rock Blast  
+- Superpower  
+- Brutal Swing  
+
+Tinkaton @ Sharp Beak  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 32 Atk / 6 SpA / 28 Spe  
+Lonely Nature  
+- Helping Hand  
+- Steel Beam  
+- Feint  
+- Sweet Kiss  
+
+Oranguru @ Miracle Seed  
+Ability: Telepathy  
+Level: 50  
+EVs: 17 HP / 8 SpA / 16 SpD / 25 Spe  
+Gentle Nature  
+- Calm Mind  
+- Rain Dance  
+- Yawn  
+- Sleep Talk  
+

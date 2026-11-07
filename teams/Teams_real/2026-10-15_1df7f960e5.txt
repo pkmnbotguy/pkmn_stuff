@@ -1,0 +1,59 @@
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dragon Pulse
+- Energy Ball
+- Detect
+- Earth Power
+
+Pincurchin @ Shuca Berry
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Relaxed Nature
+- Rising Voltage
+- Scald
+- Protect
+- Discharge
+
+Golurk @ Colbur Berry
+Ability: No Guard
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Dynamic Punch
+- Earthquake
+- Protect
+- Icy Wind
+
+Weavile @ Focus Sash
+Ability: Pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Triple Axel
+- Fake Out
+- Trailblaze
+
+Hawlucha @ Electric Seed
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Adamant Nature
+- Acrobatics
+- Drain Punch
+- Detect
+- Encore
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 15 HP / 22 Def / 28 SpA / 1 Spe
+Modest Nature
+- Heat Wave
+- Expanding Force
+- Imprison
+- Trick Room

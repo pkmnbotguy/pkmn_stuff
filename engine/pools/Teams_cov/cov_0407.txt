@@ -1,0 +1,60 @@
+Toxtricity-Low-Key @ Chilan Berry  
+Ability: Technician  
+Level: 50  
+EVs: 23 HP / 17 Def / 7 SpA / 19 SpD  
+Jolly Nature  
+- Hex  
+- Rain Dance  
+- Payback  
+- Belch  
+
+Oranguru @ Oran Berry  
+Ability: Inner Focus  
+Level: 50  
+EVs: 25 HP / 9 Atk / 32 Spe  
+Brave Nature  
+- Trick Room  
+- Shadow Ball  
+- Mega Kick  
+- Endure  
+
+Alcremie @ Rindo Berry  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 21 Def / 19 SpA / 15 SpD / 11 Spe  
+Impish Nature  
+- Acid Armor  
+- Solar Beam  
+- Psychic  
+- Baby-Doll Eyes  
+
+Sylveon @ Shuca Berry  
+Ability: Cute Charm  
+Level: 50  
+EVs: 10 HP / 30 Atk / 26 Spe  
+Mild Nature  
+- Moonblast  
+- Last Resort  
+- Sunny Day  
+- Round  
+
+Froslass @ Icy Rock  
+Ability: Cursed Body  
+Level: 50  
+EVs: 15 HP / 9 Atk / 32 Def / 10 SpD  
+Gentle Nature  
+- Spikes  
+- Chilling Water  
+- Crunch  
+- Scary Face  
+
+Alakazam @ Passho Berry  
+Ability: Magic Guard  
+Level: 50  
+EVs: 21 HP / 29 Def / 16 SpD  
+Lonely Nature  
+- Guard Split  
+- Focus Blast  
+- Snore  
+- Grass Knot  
+

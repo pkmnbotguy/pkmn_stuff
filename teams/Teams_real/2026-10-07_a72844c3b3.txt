@@ -1,0 +1,59 @@
+Blaziken @ Blazikenite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flare Blitz
+- Close Combat
+- Rock Slide
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Sleep Powder
+- Rage Powder
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Psychic
+- Helping Hand
+- Roar
+- Trick Room
+
+Dragapult @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Shadow Ball
+- Will-O-Wisp
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Low Kick
+- Iron Head
+- Sucker Punch

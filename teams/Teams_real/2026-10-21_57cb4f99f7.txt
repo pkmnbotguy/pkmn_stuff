@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Rock Slide
+- Knock Off
+- Dragon Dance
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Wide Guard
+- Iron Head
+- Leech Life
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Iron Head
+- High Horsepower
+- Rock Slide
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Coaching
+- Close Combat
+- Dire Claw
+
+Volcarona @ Charti Berry
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Rage Powder
+- Flamethrower
+- Giga Drain
+- Quiver Dance
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 17 Def / 8 SpA / 5 SpD / 4 Spe
+Calm Nature
+- Protect
+- Scald
+- Ice Beam
+- Icy Wind

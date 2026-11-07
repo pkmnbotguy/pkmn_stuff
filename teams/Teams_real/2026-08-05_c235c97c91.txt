@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 25 HP / 5 Atk / 2 Def / 2 SpD / 32 Spe
+Jolly Nature
+- Roost
+- Close Combat
+- Dual Wingbeat
+- Protect
+
+Hippowdon @ Sitrus Berry
+Ability: Sand Stream
+Level: 50
+EVs: 32 HP / 8 Atk / 2 Def / 24 SpD
+Brave Nature
+- Rock Tomb
+- High Horsepower
+- Slack Off
+- Protect
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 29 SpA / 4 SpD / 32 Spe
+Timid Nature
+- Power Gem
+- Earth Power
+- Mortal Spin
+- Spiky Shield
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+EVs: 31 HP / 5 Def / 7 SpA / 9 SpD / 14 Spe
+Modest Nature
+- Shadow Ball
+- Focus Blast
+- Protect
+- Substitute
+
+Mimikyu @ Life Orb
+Ability: Disguise
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Play Rough
+- Phantom Force
+- Protect
+- Shadow Sneak
+
+Tyrantrum @ Choice Scarf
+Ability: Strong Jaw
+Level: 50
+EVs: 16 HP / 18 Atk / 32 Spe
+Jolly Nature
+- High Horsepower
+- Rock Slide
+- Psychic Fangs
+- Ice Fang

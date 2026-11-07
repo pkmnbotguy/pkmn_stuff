@@ -1,0 +1,60 @@
+Vivillon-Monsoon @ Twisted Spoon  
+Ability: Friend Guard  
+Level: 50  
+EVs: 15 Atk / 22 Def / 8 SpA / 21 SpD  
+Rash Nature  
+- Poison Powder  
+- Solar Beam  
+- Sleep Powder  
+- Calm Mind  
+
+Rotom-Fan @ Big Root  
+Ability: Levitate  
+Level: 50  
+EVs: 22 Atk / 27 Def / 16 SpD / 1 Spe  
+Sassy Nature  
+- Double Team  
+- Night Shade  
+- Charge  
+- Rest  
+
+Grapploct @ King's Rock  
+Ability: Limber  
+Level: 50  
+EVs: 11 Atk / 28 Def / 27 SpA  
+Bashful Nature  
+- Stomping Tantrum  
+- Taunt  
+- Brutal Swing  
+- Surf  
+
+Golurk @ Coba Berry  
+Ability: Klutz  
+Level: 50  
+EVs: 8 HP / 20 Def / 32 SpA / 6 Spe  
+Modest Nature  
+- Heavy Slam  
+- Body Press  
+- Shadow Punch  
+- Fire Punch  
+
+Meowstic-F @ Quick Claw  
+Ability: Infiltrator  
+Level: 50  
+EVs: 12 HP / 29 Def / 25 SpD  
+Quiet Nature  
+- Alluring Voice  
+- Round  
+- Thunder Wave  
+- Wonder Room  
+
+Lycanroc-Midnight @ Wide Lens  
+Ability: Vital Spirit  
+Level: 50  
+EVs: 21 HP / 7 Atk / 32 SpD / 6 Spe  
+Rash Nature  
+- Rock Blast  
+- Double Team  
+- Reversal  
+- Bulldoze  
+

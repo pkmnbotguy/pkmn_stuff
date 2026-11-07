@@ -1,0 +1,59 @@
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- U-turn
+- Protect
+- Wood Hammer
+- Fake Out
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Protect
+- Darkest Lariat
+- Fake Out
+- Parting Shot
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Disable
+- Protect
+- Shadow Ball
+- Perish Song
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Draco Meteor
+- Dark Pulse
+- Earth Power
+- Flamethrower
+
+Sableye @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Protect
+- Disable
+- Encore
+- Fake Out
+
+Tinkaton @ Metal Coat
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Jolly Nature
+- Protect
+- Fake Out
+- Gigaton Hammer
+- Encore

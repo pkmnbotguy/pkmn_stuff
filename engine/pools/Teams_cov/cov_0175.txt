@@ -1,0 +1,60 @@
+Thievul @ Focus Band  
+Ability: Run Away  
+Level: 50  
+EVs: 32 HP / 15 Atk / 19 SpD  
+Naive Nature  
+- Double Team  
+- Thief  
+- Lash Out  
+- Baton Pass  
+
+Luxray @ Heat Rock  
+Ability: Rivalry  
+Level: 50  
+EVs: 32 HP / 4 Atk / 21 SpA / 9 Spe  
+Naughty Nature  
+- Swagger  
+- Crunch  
+- Electric Terrain  
+- Electroweb  
+
+Rotom @ Scope Lens  
+Ability: Levitate  
+Level: 50  
+EVs: 8 HP / 22 Atk / 13 Def / 16 SpD / 7 Spe  
+Naive Nature  
+- Volt Switch  
+- Thief  
+- Double Team  
+- Hyper Voice  
+
+Persian-Alola @ Muscle Band  
+Ability: Rattled  
+Level: 50  
+EVs: 17 HP / 19 Def / 30 SpD  
+Bashful Nature  
+- Water Pulse  
+- Thunder Wave  
+- Foul Play  
+- Seed Bomb  
+
+Blaziken @ Blazikenite  
+Ability: Blaze  
+Level: 50  
+EVs: 14 Atk / 27 Def / 8 SpA / 17 Spe  
+Bashful Nature  
+- Feint  
+- Brick Break  
+- Counter  
+- Low Sweep  
+
+Pinsir @ Passho Berry  
+Ability: Moxie  
+Level: 50  
+EVs: 32 HP / 5 Atk / 29 Spe  
+Gentle Nature  
+- Helping Hand  
+- Rock Slide  
+- Lunge  
+- Fling  
+

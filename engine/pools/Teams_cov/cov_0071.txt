@@ -1,0 +1,60 @@
+Mr. Rime @ Icy Rock  
+Ability: Ice Body  
+Level: 50  
+EVs: 32 HP / 6 Atk / 19 SpA / 7 SpD / 2 Spe  
+Impish Nature  
+- Fling  
+- Reflect  
+- Helping Hand  
+- Swagger  
+
+Luxray @ Dragon Fang  
+Ability: Intimidate  
+Level: 50  
+EVs: 21 Def / 14 SpA / 31 SpD  
+Quirky Nature  
+- Confuse Ray  
+- Swagger  
+- Light Screen  
+- Eerie Impulse  
+
+Garganacl @ Air Balloon  
+Ability: Clear Body  
+Level: 50  
+EVs: 5 HP / 21 SpA / 22 SpD / 18 Spe  
+Quiet Nature  
+- Stone Edge  
+- Meteor Beam  
+- Curse  
+- Facade  
+
+Vivillon-Sandstorm @ Never-Melt Ice  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 26 HP / 25 SpA / 15 Spe  
+Quirky Nature  
+- String Shot  
+- Tailwind  
+- Iron Defense  
+- U-turn  
+
+Dragonite @ White Herb  
+Ability: Multiscale  
+Level: 50  
+EVs: 17 HP / 32 Atk / 17 Def  
+Jolly Nature  
+- Protect  
+- Substitute  
+- Surf  
+- Aerial Ace  
+
+Pincurchin @ Psychic Seed  
+Ability: Electric Surge  
+Level: 50  
+EVs: 30 HP / 8 Atk / 28 SpA  
+Naughty Nature  
+- Electro Ball  
+- Assurance  
+- Hex  
+- Rising Voltage  
+

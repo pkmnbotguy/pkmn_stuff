@@ -1,0 +1,60 @@
+Reuniclus @ Kebia Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 6 Def / 26 SpA / 21 SpD / 13 Spe  
+Relaxed Nature  
+- Ice Punch  
+- Wonder Room  
+- Focus Punch  
+- Light Screen  
+
+Squawkabilly-Yellow @ Iron Ball  
+Ability: Hustle  
+Level: 50  
+EVs: 27 HP / 30 Atk / 9 SpA  
+Lax Nature  
+- Pounce  
+- Foul Play  
+- U-turn  
+- Sunny Day  
+
+Basculegion-F @ Oran Berry  
+Ability: Swift Swim  
+Level: 50  
+EVs: 32 Atk / 5 Def / 16 SpA / 4 SpD / 9 Spe  
+Rash Nature  
+- Protect  
+- Muddy Water  
+- Aqua Jet  
+- Chilling Water  
+
+Camerupt @ Roseli Berry  
+Ability: Magma Armor  
+Level: 50  
+EVs: 2 HP / 12 Atk / 32 Def / 2 SpA / 18 SpD  
+Serious Nature  
+- Solar Beam  
+- Zen Headbutt  
+- Heat Wave  
+- Overheat  
+
+Heracross @ Payapa Berry  
+Ability: Guts  
+Level: 50  
+EVs: 24 HP / 26 Atk / 16 SpD  
+Bashful Nature  
+- Focus Punch  
+- Rock Slide  
+- Curse  
+- Hyper Beam  
+
+Mabosstiff @ White Herb  
+Ability: Intimidate  
+Level: 50  
+EVs: 12 HP / 4 Def / 22 SpA / 28 Spe  
+Timid Nature  
+- Jaw Lock  
+- Pain Split  
+- Rest  
+- Destiny Bond  
+

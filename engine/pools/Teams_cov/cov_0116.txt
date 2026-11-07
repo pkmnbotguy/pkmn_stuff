@@ -1,0 +1,60 @@
+Ninetales @ Colbur Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 32 Atk / 32 Def / 2 SpA  
+Brave Nature  
+- Burning Jealousy  
+- Sleep Talk  
+- Mystical Fire  
+- Attract  
+
+Perrserker @ Chilan Berry  
+Ability: Steely Spirit  
+Level: 50  
+EVs: 11 HP / 23 Def / 20 SpA / 12 Spe  
+Docile Nature  
+- Metal Sound  
+- Payback  
+- Sleep Talk  
+- Iron Defense  
+
+Zoroark @ Charcoal  
+Ability: Illusion  
+Level: 50  
+EVs: 4 HP / 31 Atk / 31 Def  
+Bold Nature  
+- Substitute  
+- Endure  
+- Night Shade  
+- Trick  
+
+Glalie @ Spell Tag  
+Ability: Ice Body  
+Level: 50  
+EVs: 32 HP / 32 Atk / 2 Spe  
+Hasty Nature  
+- Earthquake  
+- Sheer Cold  
+- Icicle Spear  
+- Giga Impact  
+
+Abomasnow @ Cheri Berry  
+Ability: Soundproof  
+Level: 50  
+EVs: 13 Atk / 30 SpD / 23 Spe  
+Lax Nature  
+- Ice Spinner  
+- Helping Hand  
+- Mud-Slap  
+- Aurora Veil  
+
+Tauros @ Air Balloon  
+Ability: Intimidate  
+Level: 50  
+EVs: 32 HP / 32 Atk / 2 Def  
+Adamant Nature  
+- Iron Head  
+- Icy Wind  
+- Sleep Talk  
+- Zen Headbutt  
+

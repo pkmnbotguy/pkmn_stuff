@@ -1,0 +1,60 @@
+Kommo-o @ Muscle Band  
+Ability: Bulletproof  
+Level: 50  
+EVs: 8 Atk / 26 Def / 32 SpA  
+Lonely Nature  
+- Flash Cannon  
+- Iron Defense  
+- Facade  
+- Low Kick  
+
+Avalugg @ Metal Coat  
+Ability: Sturdy  
+Level: 50  
+EVs: 26 HP / 28 SpA / 12 SpD  
+Quirky Nature  
+- Sleep Talk  
+- Stone Edge  
+- Body Slam  
+- Body Press  
+
+Machamp @ Rawst Berry  
+Ability: Guts  
+Level: 50  
+EVs: 26 Def / 29 SpA / 11 Spe  
+Brave Nature  
+- Rock Slide  
+- Snore  
+- Double-Edge  
+- Endure  
+
+Indeedee @ Payapa Berry  
+Ability: Inner Focus  
+Level: 50  
+EVs: 32 HP / 10 Atk / 2 Def / 22 SpA  
+Timid Nature  
+- Sleep Talk  
+- Skill Swap  
+- Magic Room  
+- Round  
+
+Vivillon-Monsoon @ Electric Seed  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 HP / 16 SpA / 17 SpD / 1 Spe  
+Adamant Nature  
+- Bug Buzz  
+- Thief  
+- Protect  
+- Rest  
+
+Annihilape @ Soft Sand  
+Ability: Vital Spirit  
+Level: 50  
+EVs: 20 HP / 6 SpA / 13 SpD / 27 Spe  
+Sassy Nature  
+- Scary Face  
+- Focus Blast  
+- Stealth Rock  
+- Shadow Punch  
+

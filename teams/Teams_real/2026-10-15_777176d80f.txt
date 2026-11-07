@@ -1,0 +1,59 @@
+Houndoom @ Houndoominite
+Ability: Flash Fire
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Dark Pulse
+- Solar Beam
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sunny Day
+- Encore
+- Tailwind
+- Moonblast
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Serious Nature
+- Expanding Force
+- Tri Attack
+- Shadow Ball
+- Trick
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Serious Nature
+- Rock Slide
+- Dire Claw
+- Close Combat
+- Protect
+
+Excadrill @ Excadrite
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- High Horsepower
+- Iron Head
+- Swords Dance
+- Protect
+
+Dragapult @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Phantom Force
+- Dragon Darts
+- Will-O-Wisp
+- U-turn

@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Drill Run
+- Protect
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Moonblast
+- Hyper Voice
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Weather Ball
+- Hurricane
+- Ice Beam
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Aura Sphere
+- Protect
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Energy Ball
+- Shadow Ball
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Rock Slide
+- Protect

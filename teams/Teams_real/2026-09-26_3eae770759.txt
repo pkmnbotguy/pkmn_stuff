@@ -1,0 +1,59 @@
+Sneasler @ White Herb
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Protect
+- Close Combat
+- Feint
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Darkest Lariat
+
+Bellibolt @ Magnet
+Ability: Electromorphosis
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Timid Nature
+- Parabolic Charge
+- Protect
+- Water Pulse
+- Thunder
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Serious Nature
+- Close Combat
+- Brave Bird
+- Roost
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Serious Nature
+- Rock Slide
+- Knock Off
+- Protect
+- Ice Punch
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Serious Nature
+- Tailwind
+- Protect
+- Moonblast
+- Helping Hand

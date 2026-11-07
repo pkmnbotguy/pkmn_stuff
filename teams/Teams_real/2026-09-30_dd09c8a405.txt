@@ -1,0 +1,59 @@
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 30 SpD / 4 Spe
+Careful Nature
+- Protect
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Fake Out
+- Dire Claw
+- Close Combat
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 14 Def / 20 Spe
+Modest Nature
+- Protect
+- Fake Out
+- Focus Blast
+- Zap Cannon
+
+Talonflame @ Focus Sash
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Tailwind
+- Dual Wingbeat
+- Flare Blitz
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Protect
+- Nasty Plot
+- Shadow Ball
+- Make It Rain
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 32 HP / 26 Def / 1 SpA / 7 Spe
+Modest Nature
+- Protect
+- Psychic
+- Dazzling Gleam
+- Heat Wave

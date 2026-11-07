@@ -1,0 +1,60 @@
+Lycanroc-Dusk @ Pecha Berry  
+Ability: Tough Claws  
+Level: 50  
+EVs: 13 HP / 9 Def / 29 SpD / 15 Spe  
+Relaxed Nature  
+- Crush Claw  
+- Roar  
+- Accelerock  
+- Sucker Punch  
+
+Basculegion-F @ Normal Gem  
+Ability: Swift Swim  
+Level: 50  
+EVs: 23 HP / 8 Atk / 3 SpA / 32 Spe  
+Lax Nature  
+- Double-Edge  
+- Icy Wind  
+- Muddy Water  
+- Blizzard  
+
+Blastoise @ Blastoisinite  
+Ability: Torrent  
+Level: 50  
+EVs: 14 HP / 25 Def / 16 SpA / 11 Spe  
+Bold Nature  
+- Water Spout  
+- Aqua Jet  
+- Aura Sphere  
+- Terrain Pulse  
+
+Gourgeist-Large @ Haban Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 5 Atk / 28 Def / 12 SpA / 21 Spe  
+Quirky Nature  
+- Sleep Talk  
+- Foul Play  
+- Ally Switch  
+- Curse  
+
+Flapple @ Rawst Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 7 Def / 27 SpA / 20 SpD / 12 Spe  
+Jolly Nature  
+- Endeavor  
+- Heavy Slam  
+- Dual Wingbeat  
+- Snore  
+
+Thievul @ Occa Berry  
+Ability: Run Away  
+Level: 50  
+EVs: 11 Atk / 23 SpA / 32 SpD  
+Docile Nature  
+- Lash Out  
+- Fire Fang  
+- Snore  
+- Agility  
+

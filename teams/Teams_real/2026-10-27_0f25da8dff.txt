@@ -1,0 +1,59 @@
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Darkest Lariat
+- Fake Out
+- Flare Blitz
+- Parting Shot
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Grassy Glide
+- Fake Out
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Light of Ruin
+- Calm Mind
+- Draining Kiss
+- Protect
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Dragon Pulse
+- Power Gem
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Blizzard
+- Aurora Veil
+- Moonblast
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Population Bomb
+- Feint
+- Follow Me
+- Protect

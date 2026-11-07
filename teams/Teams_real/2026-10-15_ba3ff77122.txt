@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Flamethrower
+- Tailwind
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Overgrow
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- U-turn
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect

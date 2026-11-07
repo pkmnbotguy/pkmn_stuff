@@ -1,0 +1,60 @@
+Scovillain @ Scope Lens  
+Ability: Insomnia  
+Level: 50  
+EVs: 32 HP / 17 Atk / 13 SpA / 4 SpD  
+Bashful Nature  
+- Facade  
+- Will-O-Wisp  
+- Helping Hand  
+- Seed Bomb  
+
+Pidgeot @ Colbur Berry  
+Ability: Keen Eye  
+Level: 50  
+EVs: 31 Def / 10 SpA / 25 Spe  
+Mild Nature  
+- Facade  
+- Sunny Day  
+- Rest  
+- Agility  
+
+Grimmsnarl @ Passho Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 26 HP / 13 Atk / 27 SpD  
+Docile Nature  
+- Lash Out  
+- Imprison  
+- Thunder Punch  
+- Torment  
+
+Meowstic-F @ Bright Powder  
+Ability: Competitive  
+Level: 50  
+EVs: 17 HP / 24 Def / 25 Spe  
+Adamant Nature  
+- Covet  
+- Calm Mind  
+- Psychic  
+- Sleep Talk  
+
+Persian @ Mystic Water  
+Ability: Technician  
+Level: 50  
+EVs: 32 HP / 22 SpA / 12 SpD  
+Bold Nature  
+- Play Rough  
+- Thunder Wave  
+- Double Team  
+- Feint  
+
+Sneasler @ Black Belt  
+Ability: Pressure  
+Level: 50  
+EVs: 2 HP / 12 Def / 24 SpD / 28 Spe  
+Bold Nature  
+- Thief  
+- Fake Out  
+- Dig  
+- Acrobatics  
+

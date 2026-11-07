@@ -1,0 +1,60 @@
+Slowking-Galar @ Haban Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 28 HP / 18 Def / 20 SpD  
+Brave Nature  
+- Toxic  
+- Psychic Terrain  
+- Fire Blast  
+- Snore  
+
+Basculegion-F @ Chesto Berry  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 21 HP / 14 Atk / 11 SpA / 20 Spe  
+Adamant Nature  
+- Hydro Pump  
+- Soak  
+- Zen Headbutt  
+- Icy Wind  
+
+Talonflame @ Wide Lens  
+Ability: Flame Body  
+Level: 50  
+EVs: 24 HP / 16 Atk / 25 Def / 1 Spe  
+Docile Nature  
+- Overheat  
+- Acrobatics  
+- Air Cutter  
+- Flame Charge  
+
+Tauros-Paldea-Aqua @ Spell Tag  
+Ability: Intimidate  
+Level: 50  
+EVs: 30 HP / 1 SpA / 15 SpD / 20 Spe  
+Rash Nature  
+- Body Press  
+- Water Pulse  
+- Rock Slide  
+- Sleep Talk  
+
+Weavile @ Grassy Seed  
+Ability: Pickpocket  
+Level: 50  
+EVs: 32 HP / 9 Atk / 8 SpA / 8 SpD / 9 Spe  
+Bold Nature  
+- Reversal  
+- Trailblaze  
+- Lash Out  
+- Assurance  
+
+Metagross @ Metal Coat  
+Ability: Clear Body  
+Level: 50  
+EVs: 32 HP / 32 SpA / 2 SpD  
+Calm Nature  
+- Iron Defense  
+- Bullet Punch  
+- Brutal Swing  
+- Earthquake  
+

@@ -1,0 +1,60 @@
+Pelipper @ Kebia Berry  
+Ability: Rain Dish  
+Level: 50  
+EVs: 26 HP / 15 Atk / 25 Spe  
+Calm Nature  
+- Snowscape  
+- Roost  
+- Hyper Beam  
+- Weather Ball  
+
+Politoed @ Silver Powder  
+Ability: Drizzle  
+Level: 50  
+EVs: 32 HP / 11 Atk / 11 SpA / 12 Spe  
+Relaxed Nature  
+- Bounce  
+- Haze  
+- Hypnosis  
+- Ice Beam  
+
+Rotom @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 27 Def / 29 SpA / 10 Spe  
+Hardy Nature  
+- Substitute  
+- Uproar  
+- Trick  
+- Light Screen  
+
+Clefable @ Grassy Seed  
+Ability: Magic Guard  
+Level: 50  
+EVs: 14 Atk / 30 SpA / 22 Spe  
+Sassy Nature  
+- Brick Break  
+- Sleep Talk  
+- Fire Blast  
+- Gravity  
+
+Corviknight @ Cheri Berry  
+Ability: Unnerve  
+Level: 50  
+EVs: 31 Atk / 30 Def / 5 Spe  
+Serious Nature  
+- Tailwind  
+- Spite  
+- Reversal  
+- Swagger  
+
+Vivillon-Archipelago @ Binding Band  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 32 HP / 31 Def / 3 SpA  
+Modest Nature  
+- Solar Beam  
+- Draining Kiss  
+- Sleep Talk  
+- Pollen Puff  
+

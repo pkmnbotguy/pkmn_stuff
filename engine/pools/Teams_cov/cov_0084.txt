@@ -1,0 +1,60 @@
+Vivillon-Marine @ Black Belt  
+Ability: Friend Guard  
+Level: 50  
+EVs: 25 Atk / 21 SpD / 20 Spe  
+Serious Nature  
+- Acrobatics  
+- Struggle Bug  
+- Hurricane  
+- Whirlwind  
+
+Lopunny @ Dragon Fang  
+Ability: Klutz  
+Level: 50  
+EVs: 8 Atk / 29 SpA / 27 SpD / 2 Spe  
+Hasty Nature  
+- Bounce  
+- Brutal Swing  
+- Fake Tears  
+- Substitute  
+
+Toxapex @ Occa Berry  
+Ability: Merciless  
+Level: 50  
+EVs: 30 HP / 32 Atk / 4 SpA  
+Timid Nature  
+- Wide Guard  
+- Endure  
+- Baneful Bunker  
+- Stockpile  
+
+Rotom-Fan @ Scope Lens  
+Ability: Levitate  
+Level: 50  
+EVs: 32 Atk / 26 SpD / 8 Spe  
+Careful Nature  
+- Air Slash  
+- Volt Switch  
+- Thunder  
+- Hyper Voice  
+
+Klefki @ Chople Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 6 HP / 18 Atk / 10 SpA / 32 SpD  
+Adamant Nature  
+- Snore  
+- Magnet Rise  
+- Sleep Talk  
+- Sandstorm  
+
+Machamp @ Shell Bell  
+Ability: Steadfast  
+Level: 50  
+EVs: 20 HP / 11 Def / 30 SpA / 5 SpD  
+Adamant Nature  
+- Drain Punch  
+- Rock Slide  
+- Brick Break  
+- Low Sweep  
+

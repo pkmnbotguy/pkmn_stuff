@@ -1,0 +1,59 @@
+Dragonite @ Dragoninite
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Dragon Pulse
+- Heat Wave
+- Tailwind
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Draining Kiss
+- Dazzling Gleam
+- Calm Mind
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Protect
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat Chop
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Close Combat
+- Dire Claw
+- Rock Tomb

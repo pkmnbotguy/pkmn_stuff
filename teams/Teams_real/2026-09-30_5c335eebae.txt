@@ -1,0 +1,59 @@
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Protect
+- Flash Cannon
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Weather Ball
+- Hurricane
+- Tailwind
+- U-turn
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Sucker Punch
+- Swords Dance
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Spirit Break
+- Reflect
+- Parting Shot
+- Light Screen
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 3 Def / 2 SpA / 32 SpD
+Modest Nature
+- Twin Beam
+- Thunderbolt
+- Trick Room
+- Protect
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Rain Dance
+- Brave Bird
+- Close Combat

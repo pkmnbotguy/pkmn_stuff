@@ -1,0 +1,57 @@
+Kangaskhan @ Kangaskhanite
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Last Resort
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Careful Nature
+- Bullet Punch
+- Psychic Fangs
+- Explosion
+- Protect
+
+Scizor @ Metal Coat
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+adamant Nature
+- Bullet Punch
+- Knock Off
+- Protect
+- U-turn
+
+Maushold @ Chople Berry
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 15 Def / 15 SpD / 4 Spe
+Careful Nature
+- Follow Me
+- Helping Hand
+- Protect
+- Population Bomb
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Stomping Tantrum
+- Dragon Claw
+- Protect
+
+Banette @ Focus Sash
+Ability: Cursed Body
+Level: 50
+EVs: 32 HP / 5 Atk / 11 Def / 18 SpD
+Calm Nature
+- Will-O-Wisp
+- Protect
+- Taunt
+- Foul Play

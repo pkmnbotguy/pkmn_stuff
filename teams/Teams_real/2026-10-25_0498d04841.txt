@@ -1,0 +1,59 @@
+Ninetales-Alola @ Never-Melt Ice
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Freeze-Dry
+- Blizzard
+- Aurora Veil
+- Moonblast
+
+Beartic @ Life Orb
+Ability: Slush Rush
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Earthquake
+- Icicle Crash
+- Rock Slide
+- Close Combat
+
+Politoed @ Rocky Helmet
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Weather Ball
+- Muddy Water
+- Protect
+- Icy Wind
+
+Talonflame @ Wide Lens
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Modest Nature
+- Tailwind
+- Air Slash
+- Heat Wave
+- Taunt
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Trick Room
+- Hex
+- Rage Powder
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sleep Powder
+- Rage Powder
+- Tailwind
+- Stun Spore

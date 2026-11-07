@@ -1,0 +1,59 @@
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Expanding Force
+- Fake Out
+- Helping Hand
+- After You
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Mystical Fire
+- Hyper Voice
+- Detect
+- Quick Attack
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Relaxed Nature
+- Coil
+- Muddy Water
+- Ice Beam
+- Hypnosis
+
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Armor Cannon
+- Expanding Force
+- Trick Room
+- Wide Guard
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Protect
+- Swords Dance
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Weather Ball
+- Protect
+- Solar Beam
+- Eruption

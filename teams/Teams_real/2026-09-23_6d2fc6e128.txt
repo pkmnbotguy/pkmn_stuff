@@ -1,0 +1,59 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Tailwind
+- Protect
+- Encore
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Population Bomb
+- Feint
+- Crunch
+- U-turn
+
+Pawmot @ Leppa Berry
+Ability: Natural Cure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Careful Nature
+- Supercell Slam
+- Close Combat
+- Rock Tomb
+- Revival Blessing
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Detect
+- Meteor Mash
+- Psychic
+
+Typhlosion-Hisui @ Sitrus Berry
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Eruption
+- Heat Wave
+- Infernal Parade
+- Protect
+
+Glalie @ Glalitite
+Ability: Moody
+Level: 50
+EVs: 28 HP / 30 Atk / 8 Spe
+Relaxed Nature
+- Freeze-Dry
+- Steel Roller
+- Protect
+- Explosion

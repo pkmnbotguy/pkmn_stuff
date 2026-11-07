@@ -1,0 +1,59 @@
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Flamethrower
+- Earth Power
+- Draco Meteor
+- Dark Pulse
+
+Staraptor @ Staraptite
+Ability: Reckless
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Roost
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 17 Def / 20 SpD
+Sassy Nature
+- Trick Room
+- Hyper Voice
+- Twin Beam
+- Protect
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Cloak
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Blizzard
+- Weather Ball
+- Baton Pass
+
+Aegislash @ Spell Tag
+Ability: Stance Change
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Iron Head
+- King's Shield
+- Shadow Sneak
+- Poltergeist
+
+Talonflame @ Muscle Band
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Brave Bird
+- Roost
+- Tailwind

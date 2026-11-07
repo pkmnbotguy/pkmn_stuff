@@ -1,0 +1,59 @@
+Lopunny @ Lopunnite
+Ability: Cute Charm
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Ice Punch
+- Thunder Punch
+- Fire Punch
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Protect
+- Icy Wind
+- Scald
+- Coil
+
+Arcanine @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 27 HP / 1 Atk / 8 Def / 12 SpD / 18 Spe
+Jolly Nature
+- Snarl
+- Helping Hand
+- Will-O-Wisp
+- Flare Blitz
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Protect
+- Nasty Plot
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Fake Out
+- Grassy Glide
+- U-turn
+
+Perrserker @ Grassy Seed
+Ability: Steely Spirit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Careful Nature
+- Fake Out
+- Protect
+- Throat Chop
+- Iron Head

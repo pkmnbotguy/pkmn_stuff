@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Psychic
+- Nasty Plot
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Dragon Claw
+- Earthquake
+- Stomping Tantrum
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Calm Mind
+- Flash Cannon
+- Aura Sphere
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Psychic
+- Imprison
+- Trick Room
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Ice Beam
+- Protect

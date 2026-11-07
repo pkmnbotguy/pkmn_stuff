@@ -1,0 +1,59 @@
+Hawlucha @ Hawluchanite
+Ability: Limber
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Entrainment
+- High Jump Kick
+- Brave Bird
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 25 Atk / 3 Def / 6 SpD
+Brave Nature
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Protect
+
+Snorlax @ Leftovers
+Ability: Thick Fat
+Level: 50
+EVs: 22 HP / 32 Def / 12 SpD
+Relaxed Nature
+- Stockpile
+- Fissure
+- Protect
+- Smack Down
+
+Slowbro @ Slowbronite
+Ability: Own Tempo
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Sassy Nature
+- Body Press
+- Stored Power
+- Calm Mind
+- Slack Off
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Fake Out
+- Grassy Glide
+- Stomping Tantrum
+- U-turn
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Coaching
+- Close Combat
+- Dire Claw

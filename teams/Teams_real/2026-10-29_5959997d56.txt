@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Liquidation
+- Drill Run
+- Protect
+
+Klefki @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Bold Nature
+- Rain Dance
+- Thunder Wave
+- Trick Room
+- Light Screen
+
+Archaludon @ Choice Scarf
+Ability: Sturdy
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse
+- Draco Meteor
+
+Gholdengo @ Metal Coat
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Protect
+- Nasty Plot
+
+Empoleon @ Life Orb
+Ability: Competitive
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hydro Pump
+- Flash Cannon
+- Protect
+- Ice Beam
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 31 HP / 11 Atk / 1 Def / 15 SpD / 8 Spe
+Careful Nature
+- Brave Bird
+- Body Press
+- Roost
+- Bulk Up

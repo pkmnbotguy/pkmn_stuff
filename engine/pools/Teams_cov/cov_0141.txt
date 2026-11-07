@@ -1,0 +1,57 @@
+Squawkabilly @ Payapa Berry  
+Ability: Guts  
+Level: 50  
+EVs: 23 Def / 3 SpA / 32 SpD / 8 Spe  
+Quirky Nature  
+- Lash Out  
+- Aerial Ace  
+- Swagger  
+- Roost  
+
+Oranguru @ Expert Belt  
+Ability: Inner Focus  
+Level: 50  
+EVs: 26 HP / 8 Atk / 8 SpA / 24 SpD  
+Hasty Nature  
+- Fling  
+- Earthquake  
+- Psychic Terrain  
+- Sunny Day  
+
+Maushold @ Focus Sash  
+Ability: Technician  
+Level: 50  
+EVs: 31 HP / 3 Def / 32 SpA  
+Calm Nature  
+- Chilling Water  
+- Trailblaze  
+- Thief  
+- Dig  
+
+Meowstic @ King's Rock  
+Ability: Infiltrator  
+Level: 50  
+EVs: 21 Atk / 5 Def / 11 SpD / 29 Spe  
+Brave Nature  
+- Mean Look  
+- Wish  
+- Yawn  
+- Psychic Terrain  
+
+Toucannon @ Normal Gem  
+Ability: Sheer Force  
+Level: 50  
+EVs: 12 Atk / 30 Def / 24 Spe  
+Docile Nature  
+- Tailwind  
+- Swords Dance  
+- Smack Down  
+- Uproar  
+
+Ditto @ Sharp Beak  
+Ability: Limber  
+Level: 50  
+EVs: 13 HP / 16 SpA / 32 SpD / 5 Spe  
+Mild Nature  
+- Transform  
+

@@ -1,0 +1,60 @@
+Vivillon-Monsoon @ Soft Sand  
+Ability: Friend Guard  
+Level: 50  
+EVs: 19 HP / 32 Atk / 9 SpA / 3 SpD / 3 Spe  
+Mild Nature  
+- Endure  
+- Snore  
+- Stun Spore  
+- Acrobatics  
+
+Oranguru @ Leppa Berry  
+Ability: Symbiosis  
+Level: 50  
+EVs: 22 Def / 12 SpD / 32 Spe  
+Hasty Nature  
+- Foul Play  
+- Psychic Noise  
+- Zen Headbutt  
+- Thunder  
+
+Forretress @ Passho Berry  
+Ability: Overcoat  
+Level: 50  
+EVs: 11 HP / 19 Def / 4 SpD / 32 Spe  
+Bold Nature  
+- Seed Bomb  
+- Stone Edge  
+- Struggle Bug  
+- Smart Strike  
+
+Grapploct @ Silver Powder  
+Ability: Technician  
+Level: 50  
+EVs: 3 Atk / 10 Def / 27 SpA / 7 SpD / 19 Spe  
+Modest Nature  
+- Brutal Swing  
+- Substitute  
+- Ice Punch  
+- Facade  
+
+Weavile @ Magnet  
+Ability: Pressure  
+Level: 50  
+EVs: 18 Atk / 30 SpD / 18 Spe  
+Lonely Nature  
+- Ice Beam  
+- Slash  
+- Foul Play  
+- Icicle Spear  
+
+Gourgeist-Super @ Aspear Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 4 HP / 18 Def / 30 SpA / 14 Spe  
+Calm Nature  
+- Safeguard  
+- Protect  
+- Bullet Seed  
+- Energy Ball  
+

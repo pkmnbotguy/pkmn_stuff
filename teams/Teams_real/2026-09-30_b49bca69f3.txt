@@ -1,0 +1,59 @@
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Ice Shard
+- Icicle Crash
+- Glaive Rush
+- Protect
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Double Shock
+- Coaching
+- Fake Out
+- Revival Blessing
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Low Kick
+- Kowtow Cleave
+- Sucker Punch
+- Iron Defense
+
+Aerodactyl @ Sharp Beak
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Rage Powder
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Flamethrower
+- Hyper Voice
+- Protect

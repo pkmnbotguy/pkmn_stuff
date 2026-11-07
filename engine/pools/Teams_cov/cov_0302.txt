@@ -1,0 +1,57 @@
+Ditto @ Yache Berry  
+Ability: Limber  
+Level: 50  
+EVs: 30 HP / 5 Def / 28 SpD / 3 Spe  
+Hardy Nature  
+- Transform  
+
+Vivillon-Modern @ Twisted Spoon  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 Atk / 3 SpD / 31 Spe  
+Bashful Nature  
+- Sleep Talk  
+- Psychic  
+- Acrobatics  
+- Air Slash  
+
+Thievul @ Metal Coat  
+Ability: Unburden  
+Level: 50  
+EVs: 14 Def / 9 SpA / 21 SpD / 22 Spe  
+Careful Nature  
+- Fake Tears  
+- Snarl  
+- Knock Off  
+- Double Team  
+
+Ariados @ Roseli Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 6 HP / 24 Def / 23 SpA / 8 SpD / 5 Spe  
+Gentle Nature  
+- Spite  
+- Facade  
+- Screech  
+- Bug Buzz  
+
+Simisage @ Magnet  
+Ability: Gluttony  
+Level: 50  
+EVs: 20 Atk / 13 Def / 1 SpD / 32 Spe  
+Quirky Nature  
+- Rest  
+- Endure  
+- Dig  
+- Bullet Seed  
+
+Polteageist-Antique @ Life Orb  
+Ability: Weak Armor  
+Level: 50  
+EVs: 1 Atk / 13 Def / 19 SpA / 1 SpD / 32 Spe  
+Bold Nature  
+- Baton Pass  
+- Memento  
+- Reflect  
+- Trick  
+

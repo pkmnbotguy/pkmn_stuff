@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Sucker Punch
+- Swords Dance
+- Leech Life
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Calm Nature
+- Follow Me
+- Shadow Ball
+- Helping Hand
+- Trick Room
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Expanding Force
+- Moonblast
+- Mystical Fire
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Protect
+- Tailwind
+- Weather Ball
+- Hurricane
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Wave Crash
+- Flip Turn
+- Ice Fang
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Close Combat
+- Throat Chop
+- Dire Claw

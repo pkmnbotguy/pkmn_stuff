@@ -1,0 +1,59 @@
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Body Press
+- Psychic Fangs
+- Protect
+- Steel Roller
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Trick
+- Expanding Force
+- Mystical Fire
+- Protect
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Power Gem
+- Flamethrower
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Ice Beam
+- Icy Wind
+- Scald
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Coaching
+- Feint
+
+Weavile @ Focus Sash
+Ability: Pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Protect
+- Taunt
+- Triple Axel

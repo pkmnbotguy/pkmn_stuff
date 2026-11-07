@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Solar Beam
+- Protect
+- Weather Ball
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Protect
+- Fake Out
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+
+Mr-Mime @ Focus Sash
+Ability: Soundproof
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Timid Nature
+- Reflect
+- Wide Guard
+- Light Screen
+- Shadow Ball
+
+Ceruledge @ Colbur Berry
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Bitter Blade
+- Bulk Up
+- Protect
+- Shadow Sneak

@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Claw
+- Night Slash
+- Icy Wind
+- Detect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 11 Def / 23 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Encore
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Fake Tears
+- Encore
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- High Horsepower
+- U-turn
+
+Kommo-O @ Life Orb
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Clanging Scales
+- Flash Cannon
+- Aura Sphere
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Coaching
+- Protect

@@ -1,0 +1,59 @@
+Greninja @ Choice Scarf
+Ability: Protean
+Level: 50
+EVs: 13 HP / 32 SpA / 21 Spe
+Rash Nature
+- Blizzard
+- Extrasensory
+- Low Kick
+- Switcheroo
+
+Froslass @ Froslassite
+Ability: Snow Cloak
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Shadow Ball
+- Protect
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Bitter Malice
+- Icy Wind
+- Will-O-Wisp
+- Taunt
+
+Scrafty @ Scraftinite
+Ability: Moxie
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Knock Off
+- Bulk Up
+- Drain Punch
+- Protect
+
+Incineroar @ White Herb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Close Combat
+
+Mimikyu @ Sitrus Berry
+Ability: Disguise
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Play Rough
+- Shadow Claw
+- Swords Dance
+- Protect

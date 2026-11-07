@@ -1,0 +1,59 @@
+Blaziken @ Blazikenite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flare Blitz
+- Close Combat
+- Rock Slide
+- Detect
+
+Vileplume @ Coba Berry
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- After You
+- Sludge Bomb
+- Leaf Storm
+- Sleep Powder
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Helping Hand
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 3 Def / 2 SpA / 32 SpD
+Modest Nature
+- Expanding Force
+- Thunderbolt
+- Trick Room
+- Protect
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Swords Dance
+- Ice Spinner
+- Knock Off
+
+Goodra-Hisui @ Leftovers
+Ability: Sap Sipper
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Draco Meteor
+- Muddy Water
+- Sunny Day
+- Protect

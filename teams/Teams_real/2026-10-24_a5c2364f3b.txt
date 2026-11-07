@@ -1,0 +1,59 @@
+Camerupt @ Cameruptite
+Ability: Solid rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Heat Wave
+- Earth Power
+- Ancient Power
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Bold Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 9 HP / 22 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Quick Attack
+- Calm Mind
+- Detect
+
+Sableye @ Roseli Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Careful Nature
+- Fake Out
+- Knock Off
+- Feint
+- Encore

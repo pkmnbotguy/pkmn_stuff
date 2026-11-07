@@ -1,0 +1,59 @@
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sucker Punch
+- Protect
+- Kowtow Cleave
+- Swords Dance
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Zap Cannon
+- Protect
+- Fake Out
+- Focus Blast
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Politoed @ Leftovers
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 15 Def / 1 SpD / 18 Spe
+Bold Nature
+- Weather Ball
+- Helping Hand
+- Protect
+- Encore
+
+Dragonite @ Dragoninite
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Thunder
+- Draco Meteor
+- Protect
+
+Gallade @ Galladite
+Ability: Steadfast
+Level: 50
+EVs: 6 HP / 32 Atk / 1 Def / 27 Spe
+Jolly Nature
+- Sacred Sword
+- Drain Punch
+- Swords Dance
+- Shadow Ball

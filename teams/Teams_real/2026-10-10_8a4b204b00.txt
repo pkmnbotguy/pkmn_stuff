@@ -1,0 +1,59 @@
+Charizard @ Charizardite X
+Ability: Blaze
+Level: 50
+EVs: 14 HP / 21 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Dragon Claw
+- Flare Blitz
+- Dragon Dance
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Earth Power
+- Power Gem
+- Flamethrower
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Rock Tomb
+- Fake Out
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Incineroar @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Darkest Lariat
+- Parting Shot
+- Taunt
+- Fake Out
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Scald
+- Icy Wind
+- Life Dew
+- Protect

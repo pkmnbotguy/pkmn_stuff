@@ -1,0 +1,59 @@
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Leech Seed
+- Rage Powder
+- Protect
+- Overheat
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Swords Dance
+- Kowtow Cleave
+- Sucker Punch
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Volt Switch
+- Volt Tackle
+- Fake Out
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Flare Blitz
+- Head Smash
+- Extreme Speed
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Clanging Scales
+- Clangorous Soul
+- Aura Sphere
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn

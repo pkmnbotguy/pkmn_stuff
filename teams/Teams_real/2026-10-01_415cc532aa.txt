@@ -1,0 +1,59 @@
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Electro Shot
+- Flash Cannon
+- Protect
+- Dragon Pulse
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Wide Guard
+
+Gholdengo @ Grassy Seed
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+- Substitute
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- U-turn
+- Stomping Tantrum
+- Grassy Glide
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Parting Shot
+- Fake Out
+- Throat Chop
+- Flare Blitz
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Protect
+- Ice Punch
+- High Horsepower

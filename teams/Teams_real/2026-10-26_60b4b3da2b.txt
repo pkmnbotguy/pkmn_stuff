@@ -1,0 +1,59 @@
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Protect
+- Bulk Up
+- Drain Punch
+- Knock Off
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Play Rough
+- Sucker Punch
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Trick Room
+- Rage Powder
+- Life Dew
+- Shadow Ball
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Trick Room
+- Dazzling Gleam
+- Mystical Fire
+- Psychic
+
+Araquanid @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD
+Brave Nature
+- Wide Guard
+- Liquidation
+- Leech Life
+- Protect
+
+Dragalge @ Quick Claw
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Sludge Bomb
+- Shadow Ball
+- Dragon Pulse
+- Protect

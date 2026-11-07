@@ -1,0 +1,59 @@
+Blaziken @ Blazikenite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Detect
+- Rock Slide
+- Close Combat
+- Flare Blitz
+
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Spout
+- Dark Pulse
+- Shell Smash
+- Protect
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Protect
+- Life Dew
+- Rage Powder
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Poison Jab
+- Close Combat
+- Protect
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 10 HP / 23 Atk / 7 Def / 26 Spe
+Adamant Nature
+- Triple Axel
+- Power Whip
+- High Jump Kick
+- Protect
+
+Scrafty @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 27 HP / 6 Atk / 2 Def / 31 SpD
+Careful Nature
+- Fake Out
+- Knock Off
+- Rain Dance
+- Protect

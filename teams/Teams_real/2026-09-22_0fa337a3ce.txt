@@ -1,0 +1,59 @@
+Dragapult @ Life Orb
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Shadow Ball
+- Flamethrower
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 26 HP / 32 Def / 3 SpA / 5 SpD
+Calm Nature
+- Muddy Water
+- Coil
+- Hypnosis
+- Recover
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Brave Bird
+- Roost
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Throat Chop
+- Fake Out
+- Parting Shot
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Trick
+- Psychic
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Protect
+- Zap Cannon
+- Focus Blast

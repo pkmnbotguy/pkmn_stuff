@@ -1,0 +1,59 @@
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Wood Hammer
+- Stomping Tantrum
+- Grassy Glide
+- Fake Out
+
+Salazzle @ Life Orb
+Ability: Corrosion
+Level: 50
+EVs: 2 HP / 32 Def / 32 SpA
+Modest Nature
+- Flamethrower
+- Toxic
+- Sludge Bomb
+- Protect
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Careful Nature
+- Superpower
+- Throat Chop
+- Psycho Cut
+- Protect
+
+Kleavor @ Expert Belt
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- X-Scissor
+- Stone Axe
+- Quick Guard
+- Tailwind
+
+Grapploct @ Focus Sash
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Octolock
+- Storm Throw
+- Feint
+- Detect
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Roost
+- Protect

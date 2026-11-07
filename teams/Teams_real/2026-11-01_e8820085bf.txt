@@ -1,0 +1,59 @@
+Gardevoir @ Choice Scarf
+Ability: Telepathy
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Psyshock
+- Mystical Fire
+- Shadow Ball
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Icy Wind
+- Shadow Ball
+- Sludge Bomb
+- Protect
+
+Gallade @ Scope Lens
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Wide Guard
+- Night Slash
+- Sacred Sword
+- Psycho Cut
+
+Gourgeist @ Focus Sash
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Sassy Nature
+- Trick Room
+- Will-O-Wisp
+- Ally Switch
+- Power Whip
+
+Golisopod @ Golisopite
+Ability: Emergency exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Leech Life
+- Sucker Punch
+- Protect

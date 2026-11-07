@@ -1,0 +1,59 @@
+Scrafty @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fake Out
+- Protect
+- Close Combat
+- Knock Off
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Swords Dance
+- Sucker Punch
+- Protect
+
+Sableye @ Leftovers
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Impish Nature
+- Encore
+- Foul Play
+- Fake Out
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Perish Song
+- Disable
+- Shadow Ball
+- Protect
+
+Rotom-Heat @ Magnet
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Protect
+- Overheat
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Tailwind
+- Rock Slide
+- Protect

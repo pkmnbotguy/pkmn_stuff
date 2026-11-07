@@ -1,0 +1,59 @@
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+bold Nature
+- Follow Me
+- Helping Hand
+- Psychic
+- Trick Room
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+timid Nature
+- Hyper Voice
+- Expanding Force
+- Calm Mind
+- Protect
+
+Armarouge @ Charcoal
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+timid Nature
+- Armor Cannon
+- Expanding Force
+- Protect
+- Heat Wave
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+timid Nature
+- Protect
+- Focus Blast
+- Zap Cannon
+- Encore
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+timid Nature
+- Moonblast
+- Tailwind
+- Safeguard
+- Protect
+
+Kommo-O @ Life Orb
+Ability: Bulletproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Clangorous Soul
+- Aura Sphere
+- Protect

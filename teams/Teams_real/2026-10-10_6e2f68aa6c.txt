@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Expanding Force
+- Hyper Voice
+- Calm Mind
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Mystical Fire
+- Expanding Force
+- Shadow Ball
+- After You
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Protect
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Hurricane
+- Weather Ball
+- Tailwind
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Dragon Claw
+- Rock Slide
+- Stomping Tantrum
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Swords Dance
+- Leech Life
+- Iron Head

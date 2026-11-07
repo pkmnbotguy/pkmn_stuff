@@ -1,0 +1,59 @@
+Kommo-O @ Life Orb
+Ability: Bulletproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Clangorous Soul
+- Aura Sphere
+- Protect
+
+Dragapult @ Focus Sash
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Shadow Ball
+- Will-O-Wisp
+- Dragon Cheer
+
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Weather Ball
+- Solar Beam
+- Protect
+- Dazzling Gleam
+
+Talonflame @ Wide Lens
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Modest Nature
+- Air Slash
+- Heat Wave
+- Tailwind
+- Taunt
+
+Inteleon @ Scope Lens
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Snipe Shot
+- Dark Pulse
+- Air Cutter
+
+Lopunny @ Lopunnite
+Ability: Limber
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Adamant Nature
+- Close Combat
+- Fake Out
+- Facade
+- Triple Axel

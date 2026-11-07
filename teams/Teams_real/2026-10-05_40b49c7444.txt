@@ -1,0 +1,59 @@
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Trick
+- Imprison
+- Trick Room
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 11 Def / 23 Spe
+Timid Nature
+- Electroweb
+- Zap Cannon
+- Focus Blast
+- Protect
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Aurora Veil
+- Nasty Plot
+
+Armarouge @ Focus Sash
+Ability: Weak Armor
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Wide Guard
+- Armor Cannon
+- Expanding Force
+- Taunt
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Dark Pulse
+- Draco Meteor
+- Earth Power
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Feint
+- Dire Claw
+- Close Combat
+- Swords Dance

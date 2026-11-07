@@ -1,0 +1,59 @@
+Excadrill @ Excadrite
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Encore
+- Moonblast
+- Protect
+- Tailwind
+
+Pikachu @ Light Ball
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rising Voltage
+- Alluring Voice
+- Protect
+- Volt Switch
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Volt Switch
+- Volt Tackle
+- Protect
+- Fake Out
+
+Stunfisk @ Bright Powder
+Ability: Sand Veil
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Bold Nature
+- Discharge
+- Protect
+- Sandstorm
+- Earth Power
+
+Tinkaton @ Shuca Berry
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 15 Atk / 28 Spe
+Jolly Nature
+- Protect
+- Fake Out
+- Gigaton Hammer
+- Feint

@@ -1,0 +1,59 @@
+Beedrill @ Beedrillite
+Ability: Swarm
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Drill Run
+- U-turn
+- Poison Jab
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Perish Song
+- Sludge Bomb
+- Shadow Ball
+- Protect
+
+Palafin @ Mystic Water
+Ability: Zero to Hero
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Flip Turn
+- Wave Crash
+- Jet Punch
+- Protect
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Aurora Veil
+- Blizzard
+- Moonblast
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Darkest Lariat
+- Fake Out
+- Flare Blitz
+- Parting Shot
+
+Hawlucha @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Adamant Nature
+- Acrobatics
+- Detect
+- Close Combat
+- Thunder Punch

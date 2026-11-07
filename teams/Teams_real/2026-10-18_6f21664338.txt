@@ -1,0 +1,59 @@
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 21 HP / 15 Def / 5 SpA / 1 SpD / 24 Spe
+Modest Nature
+- Fiery Dance
+- Giga Drain
+- Quiver Dance
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Throat Chop
+- Fake Out
+- Parting Shot
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Encore
+- Protect
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 20 HP / 20 Atk / 26 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Tailwind
+- Protect

@@ -1,0 +1,60 @@
+Pawmot @ Metal Coat  
+Ability: Volt Absorb  
+Level: 50  
+EVs: 20 Atk / 15 SpA / 26 SpD / 5 Spe  
+Careful Nature  
+- Protect  
+- Giga Impact  
+- Focus Blast  
+- Super Fang  
+
+Annihilape @ Babiri Berry  
+Ability: Defiant  
+Level: 50  
+EVs: 14 HP / 32 Atk / 20 Spe  
+Bold Nature  
+- Rage Fist  
+- Assurance  
+- Outrage  
+- Reversal  
+
+Swampert @ Sitrus Berry  
+Ability: Damp  
+Level: 50  
+EVs: 31 Def / 11 SpA / 24 SpD  
+Gentle Nature  
+- Yawn  
+- Ice Punch  
+- Mud-Slap  
+- Counter  
+
+Rotom-Frost @ Wise Glasses  
+Ability: Levitate  
+Level: 50  
+EVs: 29 Atk / 8 Def / 12 SpD / 17 Spe  
+Rash Nature  
+- Eerie Impulse  
+- Trick  
+- Charge  
+- Sunny Day  
+
+Golurk @ Mystic Water  
+Ability: Iron Fist  
+Level: 50  
+EVs: 16 SpA / 24 SpD / 26 Spe  
+Docile Nature  
+- Earthquake  
+- Psych Up  
+- Dynamic Punch  
+- Zen Headbutt  
+
+Grimmsnarl @ Quick Claw  
+Ability: Prankster  
+Level: 50  
+EVs: 29 Def / 11 SpA / 26 SpD  
+Calm Nature  
+- Spirit Break  
+- Scary Face  
+- Light Screen  
+- Nasty Plot  
+

@@ -1,0 +1,59 @@
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Calm Nature
+- Trick Room
+- Follow Me
+- Psychic
+- Imprison
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Calm Mind
+- Expanding Force
+- Hyper Voice
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Rock Tomb
+- Close Combat
+- Dire Claw
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Tailwind
+- Wide Guard
+- Weather Ball
+- Hurricane
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Swords Dance
+- Sucker Punch
+- Iron Head
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse

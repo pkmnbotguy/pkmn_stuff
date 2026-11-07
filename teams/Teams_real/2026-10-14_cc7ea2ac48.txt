@@ -1,0 +1,59 @@
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Protect
+- Acrobatics
+- Dire Claw
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Inteleon @ Scope Lens
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Snipe Shot
+- Protect
+- Vacuum Wave
+- Ice Beam
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Sucker Punch
+- Leech Life
+- Iron Head
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 22 HP / 32 Atk / 12 Def
+Brave Nature
+- Grassy Glide
+- Protect
+- Wood Hammer
+- Knock Off
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Relaxed Nature
+- Weather Ball
+- Hurricane
+- Wide Guard
+- Roost

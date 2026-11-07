@@ -1,0 +1,59 @@
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Bitter Malice
+- Nasty Plot
+- Hyper Voice
+- Protect
+
+Whimsicott @ Life Orb
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Moonblast
+- Encore
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Tomb
+- Protect
+- Close Combat
+- Fake Out
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Swords Dance
+- Sucker Punch
+- Protect
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sludge Bomb
+- Giga Drain
+- Earth Power
+- Protect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Tomb
+- Iron Head
+- Psychic Fangs
+- Protect

@@ -1,0 +1,59 @@
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 21 Def / 1 SpA / 12 SpD
+Relaxed Nature
+- Psychic
+- Rain Dance
+- Helping Hand
+- Trick Room
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 SpA / 25 SpD
+Modest Nature
+- Flash Cannon
+- Dragon Pulse
+- Electro Shot
+- Protect
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Weather Ball
+- Hurricane
+- Tailwind
+- Protect
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Play Rough
+- Sucker Punch
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+Level: 50
+EVs: 14 HP / 32 Atk / 12 Def / 8 SpD
+Adamant Nature
+- Double-Edge
+- Hammer Arm
+- Crunch
+- Fake Out
+
+Grapploct @ Life Orb
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Storm Throw
+- Stomping Tantrum
+- Mach Punch
+- Detect

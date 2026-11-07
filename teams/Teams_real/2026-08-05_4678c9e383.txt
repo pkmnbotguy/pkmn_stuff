@@ -1,0 +1,59 @@
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 26 SpD / 2 Spe
+Modest Nature
+- Protect
+- Electro Shot
+- Flash Cannon
+- Snarl
+
+Sneasler @ Lum Berry
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Throat Chop
+- Close Combat
+- Rock Slide
+- Protect
+
+Corviknight @ Bright Powder
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 1 Atk / 4 Def / 28 SpD
+Impish Nature
+- Brave Bird
+- Iron Defense
+- Roost
+- Body Press
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Sassy Nature
+- Protect
+- Perish Song
+- Hypnosis
+- Weather Ball
+
+Banette @ Banettite
+Ability: Frisk
+Level: 50
+EVs: 32 HP / 3 Atk / 30 Def / 1 SpD
+Relaxed Nature
+- Poltergeist
+- Trick Room
+- Destiny Bond
+- Swagger
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 25 HP / 9 Def / 32 SpA
+Quiet Nature
+- Detect
+- Hyper Beam
+- Hyper Voice
+- Quick Attack

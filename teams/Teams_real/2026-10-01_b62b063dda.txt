@@ -1,0 +1,59 @@
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Rash Nature
+- Blizzard
+- Focus Blast
+- Crunch
+- Body Slam
+
+Meowstic @ Kasib Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Gravity
+- Psychic Noise
+- Thunder Wave
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Relaxed Nature
+- Draining Kiss
+- Scald
+- Coil
+- Hypnosis
+
+Cinderace @ Choice Scarf
+Ability: Libero
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Pyro Ball
+- Gunk Shot
+- U-turn
+- Electro Ball
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Trick Room
+- Imprison
+- Psychic
+- Thunderbolt
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Dazzling Gleam
+- Draining Kiss
+- Light of Ruin
+- Protect

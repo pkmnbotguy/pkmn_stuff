@@ -1,0 +1,59 @@
+Mimikyu @ Mental Herb
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Shadow Claw
+- Play Rough
+- Trick Room
+- Protect
+
+Grapploct @ Black Belt
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Storm Throw
+- Mach Punch
+- Sucker Punch
+- Detect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+- Fake Out
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Leech Life
+- Iron Head
+- Drill Run
+- Aqua Jet
+
+Pelipper @ Life Orb
+Ability: Drizzle
+Level: 50
+EVs: 24 HP / 32 SpA / 10 SpD
+Modest Nature
+- Weather Ball
+- Hurricane
+- Ice Beam
+- Wide Guard
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 8 HP / 26 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Dragon Dance
+- Protect

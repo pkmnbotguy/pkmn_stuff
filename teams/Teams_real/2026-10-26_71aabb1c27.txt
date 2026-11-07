@@ -1,0 +1,59 @@
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Calm Nature
+- Giga Drain
+- Overheat
+- Rage Powder
+- Protect
+
+Hydreigon @ Focus Sash
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Dark Pulse
+- Flash Cannon
+- Protect
+
+Hatterene @ Rocky Helmet
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Psychic
+- Dazzling Gleam
+- Trick Room
+- Protect
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Careful Nature
+- Knock Off
+- Reflect
+- Light Screen
+- Quash
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Play Rough
+- Iron Head
+- Sucker Punch
+- Protect
+
+Decidueye-Hisui @ Life Orb
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Leaf Blade
+- Triple Arrows
+- Dual Wingbeat
+- Protect

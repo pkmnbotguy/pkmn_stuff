@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Blizzard
+- Shadow Ball
+- Weather Ball
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Rock Slide
+- Knock Off
+- Low Kick
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 17 HP / 13 Def / 5 SpA / 1 SpD / 30 Spe
+Modest Nature
+- Protect
+- Overheat
+- Heat Wave
+- Rage Powder
+
+Meowscarada @ Focus Sash
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Flower Trick
+- Sucker Punch
+- Low Kick
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hydro Pump
+- Volt Switch
+- Electroweb
+- Trick
+
+Houndstone @ Colbur Berry
+Ability: Sand Rush
+Level: 50
+EVs: 20 HP / 13 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Protect
+- Last Respects
+- Will-O-Wisp
+- Stomping Tantrum

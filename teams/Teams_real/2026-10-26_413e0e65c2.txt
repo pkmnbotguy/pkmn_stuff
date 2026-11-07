@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Dance
+- Rock Slide
+- Knock Off
+- Protect
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Coaching
+- Close Combat
+- Shadow Claw
+- Rock Tomb
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+EVs: 17 HP / 13 Def / 5 SpA / 1 SpD / 30 Spe
+Modest Nature
+- Quiver Dance
+- Giga Drain
+- Heat Wave
+- Protect
+
+Mimikyu @ Life Orb
+Ability: Disguise
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Taunt
+- Play Rough
+- Shadow Sneak
+- Protect
+
+Aromatisse @ Sitrus Berry
+Ability: Aroma Veil
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Bold Nature
+- Aromatic Mist
+- Heal Pulse
+- Helping Hand
+- Alluring Voice
+
+Corviknight @ Rocky Helmet
+Ability: Mirror Armor
+Level: 50
+EVs: 31 HP / 11 Atk / 1 Def / 15 SpD / 8 Spe
+Careful Nature
+- Power Trip
+- Bulk Up
+- Body Press
+- Roost

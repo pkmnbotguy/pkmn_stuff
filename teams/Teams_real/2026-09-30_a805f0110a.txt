@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Nasty Plot
+- Heat Wave
+- Psychic
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Dragon Pulse
+- Power Gem
+- Earth Power
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Dire Claw
+- Close Combat
+- Throat Chop
+
+Clefable @ Rocky Helmet
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Helping Hand
+- Icy Wind
+- Moonblast
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Darkest Lariat

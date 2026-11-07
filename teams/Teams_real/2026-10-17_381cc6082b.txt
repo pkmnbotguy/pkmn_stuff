@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Swords Dance
+- Sucker Punch
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Earth Power
+- Draco Meteor
+- Power Gem
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat Chop
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Protect
+- Moonblast
+- Calm Mind
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Protect
+- Tailwind
+- Draco Meteor
+
+Toxtricity @ Focus Sash
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Snarl
+- Protect
+- Overdrive
+- Sludge Bomb

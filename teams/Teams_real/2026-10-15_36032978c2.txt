@@ -1,0 +1,59 @@
+Sirfetchd @ Leek
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Meteor Assault
+- Feint
+- Detect
+- Close Combat
+
+Politoed @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Sassy Nature
+- Weather Ball
+- Protect
+- Muddy Water
+- Ice Beam
+
+Hatterene @ Leftovers
+Ability: Healer
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Sassy Nature
+- Dazzling Gleam
+- Psychic
+- Life Dew
+- Trick Room
+
+Toxtricity-Low-Key @ Life Orb
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Boomburst
+- Overdrive
+- Tearful Look
+- Sludge Bomb
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Fire Fang
+- Swords Dance
+- Play Rough
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Knock Off
+- Brick Break
+- Detect
+- Fake Out

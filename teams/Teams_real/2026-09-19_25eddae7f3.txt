@@ -1,0 +1,59 @@
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Weather Ball
+- Hurricane
+- Tailwind
+- Wide Guard
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Drill Run
+- Protect
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- High Horsepower
+- Ice Punch
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Flip Turn
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Protect
+
+Gyarados @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Waterfall
+- Power Whip
+- Ice Fang
+- Protect

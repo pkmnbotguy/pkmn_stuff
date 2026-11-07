@@ -1,0 +1,59 @@
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Protect
+- Zap Cannon
+- Focus Blast
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Drum Beating
+- High Horsepower
+
+Ceruledge @ Grassy Seed
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Protect
+- Shadow Sneak
+- Swords Dance
+- Bitter Blade
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Hypnosis
+- Coil
+- Muddy Water
+- Protect
+
+Kommo-O @ Sitrus Berry
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Aura Sphere
+- Clangorous Soul
+- Protect
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Icy Wind
+- Aurora Veil
+- Blizzard
+- Shadow Ball

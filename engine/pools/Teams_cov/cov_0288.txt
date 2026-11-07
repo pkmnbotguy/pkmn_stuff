@@ -1,0 +1,60 @@
+Hydrapple @ Silver Powder  
+Ability: Sticky Hold  
+Level: 50  
+EVs: 3 HP / 7 Def / 24 SpD / 32 Spe  
+Gentle Nature  
+- Sleep Talk  
+- Recover  
+- Earth Power  
+- Infestation  
+
+Squawkabilly-Blue @ Cheri Berry  
+Ability: Guts  
+Level: 50  
+EVs: 13 HP / 19 Def / 13 SpA / 21 Spe  
+Adamant Nature  
+- Fly  
+- Helping Hand  
+- U-turn  
+- Quick Attack  
+
+Mr. Mime @ Black Glasses  
+Ability: Filter  
+Level: 50  
+EVs: 22 HP / 11 Def / 26 SpA / 7 SpD  
+Timid Nature  
+- Dazzling Gleam  
+- Drain Punch  
+- Copycat  
+- Trick  
+
+Stunfisk @ White Herb  
+Ability: Sand Veil  
+Level: 50  
+EVs: 27 HP / 16 Atk / 23 SpD  
+Brave Nature  
+- Lash Out  
+- Discharge  
+- Reflect Type  
+- Electric Terrain  
+
+Aurorus @ Shed Shell  
+Ability: Snow Warning  
+Level: 50  
+EVs: 28 Atk / 15 SpA / 23 Spe  
+Bold Nature  
+- Haze  
+- Icicle Spear  
+- Iron Head  
+- Mirror Coat  
+
+Quaquaval @ Quick Claw  
+Ability: Torrent  
+Level: 50  
+EVs: 1 Def / 32 SpA / 1 SpD / 32 Spe  
+Impish Nature  
+- Helping Hand  
+- Aqua Cutter  
+- Substitute  
+- Detect  
+

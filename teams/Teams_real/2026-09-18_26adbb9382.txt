@@ -1,0 +1,59 @@
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Wide Guard
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Hyper Voice
+- Draco Meteor
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Protect
+- Dragon Pulse
+- Flash Cannon
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Protect
+- Throat Chop
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Protect

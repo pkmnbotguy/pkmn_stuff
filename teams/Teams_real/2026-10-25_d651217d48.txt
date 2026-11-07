@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Calm Nature
+- Shadow Ball
+- Sludge Bomb
+- Protect
+- Perish Song
+
+Incineroar @ Passho Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Relaxed Nature
+- Fake Out
+- Flare Blitz
+- Protect
+- Parting Shot
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Protect
+- U-turn
+- Fake Out
+
+Tinkaton @ Shuca Berry
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Jolly Nature
+- Gigaton Hammer
+- Fake Out
+- Helping Hand
+- Protect
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 25 Def / 6 SpD / 3 Spe
+Bold Nature
+- Weather Ball
+- Protect
+- Icy Wind
+- Perish Song
+
+Kommo-O @ Leftovers
+Ability: Bulletproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clangorous Soul
+- Clanging Scales
+- Protect
+- Aura Sphere

@@ -1,0 +1,60 @@
+Whimsicott @ Electric Seed  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 29 HP / 31 Def / 6 SpA  
+Relaxed Nature  
+- Light Screen  
+- Shadow Ball  
+- Growth  
+- Grassy Glide  
+
+Absol @ Charti Berry  
+Ability: Super Luck  
+Level: 50  
+EVs: 24 HP / 10 Atk / 32 Def  
+Calm Nature  
+- Slash  
+- Quick Attack  
+- Zen Headbutt  
+- Night Slash  
+
+Vivillon-Continental @ Kebia Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 32 Atk / 10 Def / 24 SpD  
+Naive Nature  
+- Round  
+- Air Cutter  
+- U-turn  
+- Light Screen  
+
+Conkeldurr @ Muscle Band  
+Ability: Guts  
+Level: 50  
+EVs: 2 HP / 20 Atk / 10 Def / 32 SpD / 2 Spe  
+Jolly Nature  
+- Wide Guard  
+- Dynamic Punch  
+- Brick Break  
+- Curse  
+
+Meowscarada @ Light Clay  
+Ability: Protean  
+Level: 50  
+EVs: 14 HP / 24 Def / 28 SpD  
+Careful Nature  
+- Psych Up  
+- Fake Tears  
+- Sleep Talk  
+- Facade  
+
+Zoroark-Hisui @ Choice Scarf  
+Ability: Illusion  
+Level: 50  
+EVs: 13 HP / 24 Def / 11 SpA / 18 SpD  
+Impish Nature  
+- Pain Split  
+- Imprison  
+- Focus Punch  
+- Dig  
+

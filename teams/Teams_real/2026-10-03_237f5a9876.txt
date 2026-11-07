@@ -1,0 +1,59 @@
+Vivillon @ Focus Sash
+Ability: Friend Guard
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rage Powder
+- Struggle Bug
+- Pollen Puff
+- Tailwind
+
+Scizor @ Life Orb
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Swords Dance
+- Protect
+- Bullet Punch
+- Bug Bite
+
+Raichu @ Raichunite Y
+Ability: Static
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Zap Cannon
+- Focus Blast
+- Fake Out
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Protect
+- Moonblast
+- Calm Mind
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Earth Power
+- Protect
+- Heat Wave
+- Flamethrower
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Psychic

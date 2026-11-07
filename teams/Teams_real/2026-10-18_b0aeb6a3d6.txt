@@ -1,0 +1,59 @@
+Serperior @ Wide Lens
+Ability: Contrary
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Dragon Pulse
+- Protect
+- Glare
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 18 Atk / 16 SpA / 32 Spe
+Hasty Nature
+- Hyper Voice
+- Double-Edge
+- Protect
+- Tailwind
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Hydro Pump
+- Icy Wind
+- Life Dew
+- Coil
+
+Excadrill @ Excadrite
+Ability: Mold Breaker
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- High Horsepower
+- Iron Head
+- Protect
+- Swords Dance
+
+Ceruledge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Shadow Sneak
+- Swords Dance
+- Bitter Blade
+- Protect
+
+Persian-Alola @ Black Glasses
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Fake Out
+- Foul Play
+- Parting Shot
+- Icy Wind

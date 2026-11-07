@@ -1,0 +1,59 @@
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Dragon Pulse
+- Flash Cannon
+- Electro Shot
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 29 HP / 5 Atk / 16 Def / 16 SpD
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Weather Ball
+- Hurricane
+- Tailwind
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Trick Room
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Jolly Nature
+- Wave Crash
+- High Horsepower
+- Ice Punch
+- Protect

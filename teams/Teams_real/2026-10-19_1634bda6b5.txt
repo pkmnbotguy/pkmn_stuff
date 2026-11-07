@@ -1,0 +1,59 @@
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Snarl
+- Dragon Pulse
+- Protect
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rain Dance
+- Hurricane
+- Weather Ball
+- Tailwind
+
+Basculegion @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Swords Dance
+- Liquidation
+- Aqua Jet
+- Leech Life
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sleep Powder
+- Sludge Bomb
+- Earth Power
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Reflect
+- Light Screen
+- Parting Shot
+- Spirit Break

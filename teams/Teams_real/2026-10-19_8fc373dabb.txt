@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Psychic
+- Nasty Plot
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Calm Mind
+- Draining Kiss
+- Dazzling Gleam
+- Protect
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Protect
+
+Incineroar @ Passho Berry
+Ability: Intimidate
+Level: 50
+EVs: 31 HP / 20 Def / 8 SpD / 7 Spe
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+
+Vivillon @ Choice Scarf
+Ability: Compound Eyes
+Level: 50
+EVs: 24 Def / 10 SpD / 32 Spe
+Timid Nature
+- Hurricane
+- Sleep Powder
+- Rage Powder
+- Pollen Puff
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Double Shock
+- Close Combat
+- Protect

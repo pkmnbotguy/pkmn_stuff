@@ -1,0 +1,59 @@
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Ice Punch
+- Earthquake
+- Wave Crash
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Earth Power
+- Sludge Bomb
+- Leaf Storm
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Protect
+- Tailwind
+- Hurricane
+- Weather Ball
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Protect
+- Snarl
+- Dragon Pulse
+- Electro Shot
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Reflect
+- Light Screen
+- Parting Shot
+- Spirit Break
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Stomping Tantrum
+- Earthquake
+- Dragon Claw

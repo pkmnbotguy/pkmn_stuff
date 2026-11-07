@@ -1,0 +1,59 @@
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Sassy Nature
+- Close Combat
+- Encore
+- Knock Off
+- Fake Out
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Encore
+- Heat Wave
+- Psychic
+
+Hydrapple @ White Herb
+Ability: Supersweet Syrup
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Leaf Storm
+- Fickle Beam
+- Protect
+- Nasty Plot
+
+Golisopod @ Life Orb
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- First Impression
+- Liquidation
+- Protect
+- Wide Guard
+
+Chandelure @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 10 Def / 1 SpD / 23 Spe
+Timid Nature
+- Trick Room
+- Heat Wave
+- Shadow Ball
+- Protect
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Trick Room
+- Matcha Gotcha
+- Rage Powder
+- Life Dew

@@ -1,0 +1,77 @@
+# Rain + Muddy Water into a Light Screen side, with a paralysed Garchomp that has already used Protect once.
+# Run:  python situation.py examples/situations/rain_spread.txt --seeds 500
+
+[p1]
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Swift Swim
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Flip Turn
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Electro Shot
+- Draco Meteor
+- Flash Cannon
+- Protect
+
+[p2]
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Protect
+
+Sylveon @ Pixie Plate
+Ability: Pixilate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Quick Attack
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Knock Off
+
+[setup]
+weather rain 3
+p2 lightscreen 2
+p2a hp 60%, status par, protect 1
+p1b boost atk -1
+p1a moved
+
+[turns]
+p1: Weather Ball p2a, Wave Crash p2b | p2: Protect, Hyper Voice
+p1: Hurricane p2b, switch Archaludon | p2: Earthquake, Moonblast p1a
+replace p1: Basculegion
+p1: random, random | p2: random, random

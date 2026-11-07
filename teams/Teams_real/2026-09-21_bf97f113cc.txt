@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Draco Meteor
+- Hyper Voice
+- Flamethrower
+- Protect
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Throat Chop
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Fake Out
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Ice Beam
+- Scald
+- Recover
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Protect
+- Close Combat
+- Rock Slide
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Nasty Plot
+- Shadow Ball
+- Protect

@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Protect
+- Tailwind
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+Mr-Rime @ Life Orb
+Ability: Ice Body
+Level: 50
+EVs: 32 HP / 15 Def / 10 SpA / 9 SpD
+Relaxed Nature
+- Blizzard
+- Thunderbolt
+- Expanding Force
+- Protect
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Rage Powder
+- Tailwind
+- Struggle Bug
+- Fiery Dance
+
+Slowking-Galar @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Quiet Nature
+- Psychic Terrain
+- Chilly Reception
+- Sludge Bomb
+- Trick Room
+
+Indeedee-F @ Eject Button
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Psychic

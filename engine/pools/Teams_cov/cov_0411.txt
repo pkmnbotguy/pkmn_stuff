@@ -1,0 +1,60 @@
+Jolteon @ Babiri Berry  
+Ability: Volt Absorb  
+Level: 50  
+EVs: 32 Atk / 11 SpA / 23 SpD  
+Quirky Nature  
+- Round  
+- Helping Hand  
+- Protect  
+- Giga Impact  
+
+Toxicroak @ Leftovers  
+Ability: Anticipation  
+Level: 50  
+EVs: 5 HP / 9 Atk / 20 SpD / 32 Spe  
+Naughty Nature  
+- Corrosive Gas  
+- Coaching  
+- Taunt  
+- Quick Guard  
+
+Volcarona @ Choice Scarf  
+Ability: Swarm  
+Level: 50  
+EVs: 29 HP / 4 Atk / 1 SpD / 32 Spe  
+Bashful Nature  
+- Lunge  
+- Snore  
+- Struggle Bug  
+- Rest  
+
+Wyrdeer @ Yache Berry  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 19 HP / 22 Def / 25 SpA  
+Docile Nature  
+- Reflect  
+- Future Sight  
+- Protect  
+- High Horsepower  
+
+Umbreon @ Red Card  
+Ability: Inner Focus  
+Level: 50  
+EVs: 32 HP / 13 Atk / 21 Def  
+Calm Nature  
+- Double-Edge  
+- Wish  
+- Stored Power  
+- Skill Swap  
+
+Vivillon-Polar @ Tanga Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 31 Def / 6 SpA / 29 SpD  
+Quiet Nature  
+- Rest  
+- Thief  
+- Sunny Day  
+- Weather Ball  
+

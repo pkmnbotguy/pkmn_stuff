@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Drill Run
+- Iron Defense
+- Protect
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Protect
+- Flare Blitz
+- Giga Drain
+- Rage Powder
+
+Annihilape @ Leftovers
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 5 Atk / 7 Def / 10 SpD / 12 Spe
+Adamant Nature
+- Protect
+- Bulk Up
+- Rage Fist
+- Drain Punch
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Careful Nature
+- Encore
+- Disable
+- Reflect
+- Light Screen
+
+Lycanroc-Dusk @ Focus Sash
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Accelerock
+- Close Combat
+- Rock Slide
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn

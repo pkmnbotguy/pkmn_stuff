@@ -1,0 +1,59 @@
+Chandelure @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Shadow Ball
+- Heat Wave
+- Trick Room
+- Protect
+
+Zoroark-Hisui @ Life Orb
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Nasty Plot
+- Focus Blast
+- Shadow Ball
+- Protect
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Play Rough
+- Protect
+- Sucker Punch
+
+Eelektross @ Eelektrossite
+Ability: Levitate
+Level: 50
+EVs: 7 HP / 4 Def / 32 SpA / 23 Spe
+Modest Nature
+- Electroweb
+- Discharge
+- Giga Drain
+- Protect
+
+Araquanid @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Lunge
+- Wide Guard
+- Liquidation
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 7 Def / 27 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Trick Room
+- Rage Powder
+- Protect

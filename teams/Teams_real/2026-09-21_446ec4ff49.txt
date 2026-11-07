@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Draco Meteor
+- Hyper Voice
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Darkest Lariat
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- U-turn
+- Wood Hammer
+- Grassy Glide
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Make It Rain
+- Shadow Ball
+- Power Gem
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Spiky Shield
+- Power Gem
+- Sludge Bomb
+- Earth Power
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Detect
+- Nasty Plot
+- Aura Sphere
+- Flash Cannon

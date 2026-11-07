@@ -1,0 +1,60 @@
+Archaludon @ Oran Berry  
+Ability: Sturdy  
+Level: 50  
+EVs: 23 Def / 29 SpA / 14 SpD  
+Lax Nature  
+- Slash  
+- Steel Beam  
+- Solar Beam  
+- Double-Edge  
+
+Vivillon-Ocean @ Normal Gem  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 32 HP / 27 SpD / 7 Spe  
+Naive Nature  
+- Skitter Smack  
+- Light Screen  
+- Weather Ball  
+- Quiver Dance  
+
+Rotom-Wash @ Charcoal  
+Ability: Levitate  
+Level: 50  
+EVs: 1 HP / 5 Atk / 20 SpA / 32 SpD / 8 Spe  
+Modest Nature  
+- Reflect  
+- Rising Voltage  
+- Facade  
+- Thunder Wave  
+
+Sinistcha @ Quick Claw  
+Ability: Hospitality  
+Level: 50  
+EVs: 27 Def / 9 SpA / 24 SpD / 6 Spe  
+Careful Nature  
+- Strength Sap  
+- Sleep Talk  
+- Calm Mind  
+- Grassy Terrain  
+
+Golurk @ Never-Melt Ice  
+Ability: No Guard  
+Level: 50  
+EVs: 18 HP / 22 Def / 26 SpD  
+Calm Nature  
+- Rest  
+- Psychic  
+- Endure  
+- Rock Slide  
+
+Mamoswine @ Shell Bell  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 4 HP / 1 Atk / 11 Def / 32 SpA / 18 Spe  
+Bold Nature  
+- Rest  
+- Hard Press  
+- Protect  
+- Earthquake  
+

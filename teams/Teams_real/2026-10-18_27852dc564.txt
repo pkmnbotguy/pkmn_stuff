@@ -1,0 +1,59 @@
+Incineroar @ Passho Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Protect
+- Throat Chop
+- Parting Shot
+- Fake Out
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Leech Life
+- Swords Dance
+- Sucker Punch
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Dragon Pulse
+- Electro Shot
+- Aura Sphere
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Perish Song
+- Shadow Ball
+- Sludge Bomb
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Muddy Water
+- Protect
+- Icy Wind
+- Weather Ball
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Bold Nature
+- Fake Out
+- Light Screen
+- Reflect
+- Parting Shot

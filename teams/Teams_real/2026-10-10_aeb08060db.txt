@@ -1,0 +1,59 @@
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Weather Ball
+- Hurricane
+- Wide Guard
+- Tailwind
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Sassy Nature
+- Light Screen
+- Reflect
+- Parting Shot
+- Spirit Break
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dragon Claw
+- Stomping Tantrum
+- Earthquake
+- Rock Slide
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Weather Ball
+- Hurricane
+- Protect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Psychic Fangs
+- Stomping Tantrum
+- Steel Roller
+- Bullet Punch
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect

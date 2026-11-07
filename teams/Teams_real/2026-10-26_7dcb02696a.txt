@@ -1,0 +1,59 @@
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Detect
+- Dark Pulse
+
+Decidueye-Hisui @ Scope Lens
+Ability: Scrappy
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Adamant Nature
+- Triple Arrows
+- Leaf Blade
+- Protect
+- Sucker Punch
+
+Kleavor @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- X-Scissor
+- Stone Axe
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Recover
+- Scald
+- Icy Wind
+- Protect
+
+Chimecho @ Chimechite
+Ability: Levitate
+Level: 50
+EVs: 31 HP / 15 Def / 15 SpA / 3 SpD / 2 Spe
+Modest Nature
+- Protect
+- Trick Room
+- Flash Cannon
+- Psychic
+
+Ceruledge @ Charcoal
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Bitter Blade
+- Shadow Sneak
+- Protect
+- Bulk Up

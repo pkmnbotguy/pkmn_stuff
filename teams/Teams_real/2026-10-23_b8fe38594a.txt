@@ -1,0 +1,59 @@
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 25 Def / 6 SpD / 3 Spe
+Bold Nature
+- Weather Ball
+- Protect
+- Helping Hand
+- Icy Wind
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Thunder
+- Dragon Pulse
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Poison Jab
+- Dragon Claw
+- Rock Slide
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Protect
+- Wave Crash
+- Rock Slide
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Flash Cannon
+- Dragon Pulse
+- Electro Shot
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Swift Swim
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Protect

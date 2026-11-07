@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Tailwind
+- Brave Bird
+- Close Combat
+
+Palafin @ Life Orb
+Ability: Zero to Hero
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Protect
+- Ice Punch
+- Jet Punch
+- Wave Crash
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Zap Cannon
+- Fake Out
+- Focus Blast
+
+Rillaboom @ Expert Belt
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- High Horsepower
+- Wood Hammer
+
+Klefki @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Bold Nature
+- Rain Dance
+- Light Screen
+- Reflect
+- Dazzling Gleam
+
+Zoroark-Hisui @ Choice Scarf
+Ability: Illusion
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Fake Tears
+- Icy Wind
+- Trick
+- Shadow Ball

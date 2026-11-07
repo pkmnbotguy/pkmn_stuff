@@ -1,0 +1,59 @@
+Decidueye @ Focus Sash
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Sneak
+- Spirit Shackle
+- Leaf Blade
+- Tailwind
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Fake Out
+- Dark Pulse
+- Aura Sphere
+- Water Pulse
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Hyper Voice
+- Psychic
+- Trick Room
+- Helping Hand
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+Incineroar @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Assurance
+- Close Combat
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Rock Tomb

@@ -1,0 +1,59 @@
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Lax Nature
+- Follow Me
+- Helping Hand
+- Terrain Pulse
+- Trick Room
+
+Orthworm @ Sitrus Berry
+Ability: Earth Eater
+Level: 50
+EVs: 32 HP / 1 Atk / 25 Def / 8 SpD
+Impish Nature
+- Body Press
+- Heavy Slam
+- Iron Defense
+- Shed Tail
+
+Dragapult @ Life Orb
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Shadow Ball
+- Thunderbolt
+- Protect
+
+Emboar @ Expert Belt
+Ability: Reckless
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Flare Blitz
+- Protect
+- Head Smash
+- Earthquake
+
+Toxapex @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 8 Def / 26 SpD
+Relaxed Nature
+- Infestation
+- Baneful Bunker
+- Light Screen
+- Haze
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Dragon Dance
+- Earthquake

@@ -1,0 +1,60 @@
+Sharpedo @ Charti Berry  
+Ability: Rough Skin  
+Level: 50  
+EVs: 30 Atk / 28 Def / 8 SpA  
+Naive Nature  
+- Hydro Pump  
+- Dive  
+- Rest  
+- Crunch  
+
+Gogoat @ Damp Rock  
+Ability: Grass Pelt  
+Level: 50  
+EVs: 9 Atk / 2 Def / 32 SpA / 23 SpD  
+Serious Nature  
+- Grassy Terrain  
+- Endeavor  
+- Snore  
+- Milk Drink  
+
+Gourgeist-Large @ Kebia Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 18 Atk / 17 SpA / 31 SpD  
+Modest Nature  
+- Skill Swap  
+- Safeguard  
+- Imprison  
+- Endure  
+
+Gallade @ Galladite  
+Ability: Steadfast  
+Level: 50  
+EVs: 20 Def / 25 SpD / 21 Spe  
+Modest Nature  
+- Focus Blast  
+- Stone Edge  
+- Knock Off  
+- Close Combat  
+
+Crabominable @ Eject Button  
+Ability: Anger Point  
+Level: 50  
+EVs: 2 Atk / 30 SpA / 2 SpD / 32 Spe  
+Jolly Nature  
+- Swagger  
+- Thunder Punch  
+- Sunny Day  
+- Endeavor  
+
+Samurott @ Never-Melt Ice  
+Ability: Torrent  
+Level: 50  
+EVs: 13 HP / 24 Atk / 18 Def / 11 Spe  
+Hasty Nature  
+- Sleep Talk  
+- Round  
+- Vacuum Wave  
+- Superpower  
+

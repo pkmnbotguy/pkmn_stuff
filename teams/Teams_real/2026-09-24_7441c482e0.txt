@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Nasty Plot
+- Heat Wave
+- Psychic
+- Protect
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Glaive Rush
+- Icicle Crash
+- Swords Dance
+- Protect
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Double Shock
+- Close Combat
+- Ice Punch
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Throat Chop
+
+Rillaboom @ Grassy Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 18 HP / 25 Atk / 5 Def / 10 SpD / 8 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Moonblast
+- Blizzard
+- Protect

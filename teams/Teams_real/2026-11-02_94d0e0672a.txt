@@ -1,0 +1,59 @@
+Alcremie @ Quick Claw
+Ability: Aroma Veil
+Level: 50
+EVs: 32 HP / 32 Def / 1 SpA
+Timid Nature
+- Decorate
+- Dazzling Gleam
+- Attract
+- Protect
+
+Maushold @ King's Rock
+Ability: Technician
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Population Bomb
+- Super Fang
+- Protect
+- Bite
+
+Vanilluxe @ Never-Melt Ice
+Ability: Snow Warning
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Blizzard
+- Weather Ball
+- Protect
+
+Typhlosion-Hisui @ Charcoal
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Eruption
+- Heat Wave
+- Infernal Parade
+- Protect
+
+Hydreigon @ Focus Sash
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Dark Pulse
+- Draco Meteor
+- Tailwind
+- Protect
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Mild Nature
+- Dragon Pulse
+- Earth Power
+- Surf
+- Protect

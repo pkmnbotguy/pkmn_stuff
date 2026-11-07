@@ -1,0 +1,59 @@
+Ninetales @ Focus Sash
+Ability: Drought
+Level: 50
+EVs: 12 HP / 10 Def / 20 SpA / 24 Spe
+Timid Nature
+- Weather Ball
+- Solar Beam
+- Encore
+- Heat Wave
+
+Pyroar @ Pyroarite
+Ability: Rivalry
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Scorching Sands
+- Overheat
+- Protect
+
+Goodra-Hisui @ Leftovers
+Ability: Shell Armor
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Calm Nature
+- Dragon Pulse
+- Shelter
+- Protect
+- Body Press
+
+Victreebel @ Victreebelite
+Ability: Chlorophyll
+Level: 50
+EVs: 29 HP / 32 SpA / 5 Spe
+Modest Nature
+- Sludge Wave
+- Giga Drain
+- Weather Ball
+- Protect
+
+Heliolisk @ Choice Scarf
+Ability: Solar Power
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Volt Switch
+- Electroweb
+- Thunderbolt
+- Weather Ball
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Nasty Plot
+- Shadow Ball
+- Protect

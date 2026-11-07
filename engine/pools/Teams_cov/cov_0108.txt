@@ -1,0 +1,60 @@
+Alcremie-Ruby-Swirl @ Roseli Berry  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 21 Atk / 15 SpA / 30 Spe  
+Serious Nature  
+- Entrainment  
+- Charm  
+- Attract  
+- Sweet Scent  
+
+Salamence @ Salamencite  
+Ability: Intimidate  
+Level: 50  
+EVs: 2 Def / 32 SpA / 32 SpD  
+Bashful Nature  
+- Dragon Dance  
+- Round  
+- Aerial Ace  
+- Heat Wave  
+
+Tauros-Paldea-Blaze @ Eject Button  
+Ability: Intimidate  
+Level: 50  
+EVs: 22 HP / 31 Def / 13 Spe  
+Gentle Nature  
+- Raging Bull  
+- Flame Charge  
+- Temper Flare  
+- Substitute  
+
+Pelipper @ Hard Stone  
+Ability: Drizzle  
+Level: 50  
+EVs: 17 HP / 21 Atk / 25 SpA / 3 SpD  
+Brave Nature  
+- Round  
+- Sleep Talk  
+- Roost  
+- Acrobatics  
+
+Chesnaught @ Big Root  
+Ability: Overgrow  
+Level: 50  
+EVs: 15 HP / 32 Atk / 15 SpD / 4 Spe  
+Jolly Nature  
+- Trailblaze  
+- Spikes  
+- Gyro Ball  
+- Endeavor  
+
+Runerigus @ Silk Scarf  
+Ability: Wandering Spirit  
+Level: 50  
+EVs: 3 Atk / 29 Def / 28 SpD / 6 Spe  
+Hardy Nature  
+- Guard Split  
+- Power Swap  
+- Trick Room  
+- Sleep Talk  
+

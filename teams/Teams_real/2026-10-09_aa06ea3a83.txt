@@ -1,0 +1,59 @@
+Wigglytuff @ Life Orb
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Protect
+- Flamethrower
+- Hyper Beam
+- Moonblast
+
+Froslass @ Froslassite
+Ability: Snow Cloak
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Blizzard
+- Protect
+- Shadow Ball
+
+Rotom-Heat @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overheat
+- Volt Switch
+- Electroweb
+- Will-O-Wisp
+
+Lycanroc-Dusk @ Focus Sash
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Accelerock
+- Close Combat
+- Rock Slide
+- Protect
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Primarina @ Mystic Water
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Aqua Jet
+- Protect

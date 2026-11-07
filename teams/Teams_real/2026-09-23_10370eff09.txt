@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Shadow Ball
+- Blizzard
+- Aurora Veil
+
+Lucario @ Lucarionite Z
+Ability: Steadfast
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Detect
+- Aura Sphere
+- Flash Cannon
+- Dark Pulse
+
+Kleavor @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Tailwind
+- Stone Axe
+- X-Scissor
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Armor Cannon
+- Expanding Force
+- Wide Guard
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Throat Chop
+- Close Combat
+- Dire Claw
+
+Indeedee @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Bold Nature
+- Hyper Voice
+- Expanding Force
+- Imprison
+- Trick Room

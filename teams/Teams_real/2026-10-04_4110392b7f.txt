@@ -1,0 +1,59 @@
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Poison Jab
+- Close Combat
+- Coaching
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 22 HP / 27 Def / 10 SpA / 7 Spe
+Bold Nature
+- Protect
+- Hyper Voice
+- Moonblast
+- Calm Mind
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Bullet Punch
+- Stomping Tantrum
+- Psychic Fangs
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Fake Out
+- Zap Cannon
+- Focus Blast

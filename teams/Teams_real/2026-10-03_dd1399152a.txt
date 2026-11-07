@@ -1,0 +1,59 @@
+Meowscarada @ Leftovers
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flower Trick
+- Shadow Claw
+- Play Rough
+- Seed Bomb
+
+Sylveon @ Sitrus Berry
+Ability: Pixilate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Beam
+- Hyper Voice
+- Quick Attack
+- Shadow Ball
+
+Charizard @ Quick Claw
+Ability: Blaze
+Level: 50
+EVs: 14 HP / 21 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Flare Blitz
+- Outrage
+- Flame Charge
+- Swords Dance
+
+Steelix @ Focus Sash
+Ability: Sturdy
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpD
+Adamant Nature
+- Heavy Slam
+- Earthquake
+- Body Press
+- Iron Defense
+
+Drampa @ Drampanite
+Ability: Berserk
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Draco Meteor
+- Hyper Voice
+- Flamethrower
+- Thunderbolt
+
+Raichu-Alola @ King's Rock
+Ability: Surge Surfer
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Thunderbolt
+- Fake Tears
+- Discharge
+- Nuzzle

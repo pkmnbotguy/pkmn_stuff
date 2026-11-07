@@ -1,0 +1,59 @@
+Chesnaught @ Chesnaughtite
+Ability: Bulletproof
+Level: 50
+EVs: 32 HP / 8 Def / 26 SpD
+Careful Nature
+- Grassy Glide
+- Drain Punch
+- Belly Drum
+- Spiky Shield
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Grassy Glide
+- Fake Out
+- High Horsepower
+- Wood Hammer
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Wide Guard
+- Tailwind
+- Weather Ball
+- Ice Beam
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Calm Mind
+- Protect
+- Moonblast
+- Dazzling Gleam
+
+Basculegion-F @ Focus Sash
+Ability: Swift Swim
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Modest Nature
+- Muddy Water
+- Ice Beam
+- Shadow Ball
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Snarl
+- Electro Shot
+- Protect
+- Dragon Pulse

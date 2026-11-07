@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 25 HP / 9 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Iron Head
+- Earthquake
+- High Horsepower
+- Protect
+
+Dragapult @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 6 HP / 32 SpA / 28 Spe
+Timid Nature
+- Draco Meteor
+- Shadow Ball
+- Thunderbolt
+- Protect
+
+Clefable @ Clefablite
+Ability: Magic Guard
+Level: 50
+EVs: 32 HP / 18 Def / 15 SpA / 1 Spe
+Modest Nature
+- Moonblast
+- Follow Me
+- Helping Hand
+- Protect
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Icy Wind
+- Protect
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Shadow Ball
+- Rage Powder
+- Trick Room

@@ -1,0 +1,59 @@
+Alcremie @ Sitrus Berry
+Ability: Aroma Veil
+Level: 50
+EVs: 32 HP / 32 Def / 1 SpA
+Bold Nature
+- Decorate
+- Protect
+- Imprison
+- Dazzling Gleam
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Bitter Malice
+- Hyper Voice
+- Burning Jealousy
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Protect
+- Heat Wave
+- Draco Meteor
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Iron Head
+- Sucker Punch
+- Leech Life
+
+Gallade @ Life Orb
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Protect
+- Sacred Sword
+- Psycho Cut
+- Shadow Claw
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 26 HP / 32 Def / 3 SpA / 5 SpD
+Calm Nature
+- Coil
+- recover
+- Muddy Water
+- Ice Beam

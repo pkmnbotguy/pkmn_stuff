@@ -1,0 +1,59 @@
+Sableye @ Black Glasses
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Adamant Nature
+- Shadow Sneak
+- Sucker Punch
+- Recover
+- Taunt
+
+Spiritomb @ Sitrus Berry
+Ability: Infiltrator
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Careful Nature
+- Ally Switch
+- Trick Room
+- Sucker Punch
+- Will-O-Wisp
+
+Mimikyu @ Red Card
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Shadow Claw
+- Trick Room
+- Play Rough
+- Protect
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Shadow Ball
+- Flamethrower
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Flip Turn
+- Crunch
+- Last Respects
+
+Golurk @ Golurkite
+Ability: No Guard
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Protect
+- Shadow Punch
+- Knock Off
+- Rock Slide

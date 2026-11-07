@@ -1,0 +1,59 @@
+Gliscor @ Psychic Seed
+Ability: Hyper Cutter
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- High Horsepower
+- Tailwind
+- Acrobatics
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Imprison
+- Expanding Force
+- Protect
+- Trick Room
+
+Venusaur @ Wide Lens
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Sludge Bomb
+- Protect
+- Sleep Powder
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Ice Punch
+- Phantom Force
+- Rock Slide
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Protect
+- Iron Head
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Solar Beam
+- Protect
+- Weather Ball

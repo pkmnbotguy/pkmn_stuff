@@ -1,0 +1,59 @@
+Excadrill @ Occa Berry
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- High Horsepower
+- Rock Slide
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Endeavor
+- Moonblast
+- Tailwind
+- Protect
+
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Low Kick
+- Knock Off
+- Rock Slide
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Trick
+- Protect
+
+Ninetales @ Heat Rock
+Ability: Drought
+Level: 50
+EVs: 12 HP / 10 Def / 20 SpA / 24 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Will-O-Wisp
+- Solar Beam
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Fake Out
+- Protect

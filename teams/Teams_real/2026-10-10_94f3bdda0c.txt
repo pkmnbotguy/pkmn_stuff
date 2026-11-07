@@ -1,0 +1,59 @@
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Blizzard
+- Aurora Veil
+- Encore
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dragon Claw
+- Earthquake
+- Stomping Tantrum
+- Rock Slide
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Throat Chop
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 1 Def / 21 SpA / 20 Spe
+Modest Nature
+- Heat Wave
+- Psyshock
+- Nasty Plot
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dazzling Gleam
+- Moonblast
+- Calm Mind
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 31 HP / 24 Def / 11 SpD
+Bold Nature
+- Psychic Noise
+- Thunderbolt
+- Helping Hand
+- Protect

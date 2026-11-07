@@ -1,0 +1,59 @@
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Hydro Pump
+- Dragon Pulse
+- Thunder
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Muddy Water
+- Tailwind
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- U-turn
+
+Archaludon @ Magnet
+Ability: Stamina
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Electro Shot
+- Aura Sphere
+- Draco Meteor
+- Flash Cannon
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Acrobatics
+- Rock Slide
+- Dire Claw
+
+Quaquaval @ Mystic Water
+Ability: Moxie
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Aqua Step
+- Liquidation
+- Triple Axel
+- Close Combat

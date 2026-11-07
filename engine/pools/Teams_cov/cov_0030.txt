@@ -1,0 +1,60 @@
+Swalot @ Kasib Berry  
+Ability: Liquid Ooze  
+Level: 50  
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpA  
+Relaxed Nature  
+- Zen Headbutt  
+- Shadow Ball  
+- Stuff Cheeks  
+- Water Pulse  
+
+Rotom-Fan @ Rawst Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 31 Atk / 19 Def / 7 SpD / 9 Spe  
+Gentle Nature  
+- Charge Beam  
+- Discharge  
+- Reflect  
+- Round  
+
+Conkeldurr @ Leftovers  
+Ability: Guts  
+Level: 50  
+EVs: 10 HP / 25 SpA / 31 SpD  
+Docile Nature  
+- Smack Down  
+- Ice Punch  
+- Fling  
+- Poison Jab  
+
+Sylveon @ Tanga Berry  
+Ability: Cute Charm  
+Level: 50  
+EVs: 15 Atk / 5 SpA / 14 SpD / 32 Spe  
+Bashful Nature  
+- Safeguard  
+- Mystical Fire  
+- Detect  
+- Skill Swap  
+
+Indeedee @ Passho Berry  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 32 Def / 9 SpA / 25 Spe  
+Lonely Nature  
+- Fake Out  
+- Stored Power  
+- Calm Mind  
+- Drain Punch  
+
+Pidgeot @ Charti Berry  
+Ability: Tangled Feet  
+Level: 50  
+EVs: 22 HP / 21 Atk / 14 Def / 4 SpA / 5 Spe  
+Mild Nature  
+- Rest  
+- Fly  
+- Whirlwind  
+- Sleep Talk  
+

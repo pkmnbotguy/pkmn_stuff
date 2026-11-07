@@ -1,0 +1,59 @@
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Protect
+- Ice Punch
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Protect
+- Earth Power
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Protect
+- Fake Out
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Hydro Pump
+- Volt Switch
+- Protect
+- Will-O-Wisp
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Protect
+- Rock Slide
+
+Incineroar @ Shuca Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+- Fake Out

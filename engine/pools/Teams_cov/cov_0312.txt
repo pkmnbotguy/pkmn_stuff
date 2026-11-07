@@ -1,0 +1,60 @@
+Falinks @ Falinksite  
+Ability: Battle Armor  
+Level: 50  
+EVs: 4 Atk / 32 Def / 12 SpA / 18 SpD  
+Naughty Nature  
+- No Retreat  
+- Uproar  
+- Coaching  
+- Snore  
+
+Squawkabilly @ Coba Berry  
+Ability: Guts  
+Level: 50  
+EVs: 25 Atk / 14 Def / 27 Spe  
+Bashful Nature  
+- Quick Attack  
+- Thief  
+- Aerial Ace  
+- Torment  
+
+Whimsicott @ Hard Stone  
+Ability: Infiltrator  
+Level: 50  
+EVs: 1 HP / 6 Def / 32 SpA / 27 Spe  
+Bold Nature  
+- Grass Knot  
+- Snore  
+- Dazzling Gleam  
+- Worry Seed  
+
+Torterra @ Psychic Seed  
+Ability: Shell Armor  
+Level: 50  
+EVs: 17 Atk / 20 SpA / 29 Spe  
+Mild Nature  
+- Hyper Voice  
+- Stealth Rock  
+- Hyper Beam  
+- Giga Drain  
+
+Diggersby @ Cheri Berry  
+Ability: Pickup  
+Level: 50  
+EVs: 26 Def / 8 SpA / 32 Spe  
+Calm Nature  
+- Stomping Tantrum  
+- Iron Head  
+- Mega Kick  
+- Bulk Up  
+
+Slowking-Galar @ Eject Button  
+Ability: Regenerator  
+Level: 50  
+EVs: 25 Atk / 11 SpA / 30 SpD  
+Naughty Nature  
+- Venoshock  
+- Amnesia  
+- Endure  
+- Trick Room  
+

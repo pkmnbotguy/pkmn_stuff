@@ -1,0 +1,60 @@
+Vivillon-Archipelago @ Charti Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 17 HP / 21 Atk / 19 Def / 9 SpA  
+Timid Nature  
+- Confuse Ray  
+- Psychic  
+- Bug Bite  
+- Pollen Puff  
+
+Beartic @ Passho Berry  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 1 Atk / 5 Def / 28 SpA / 32 SpD  
+Relaxed Nature  
+- Body Slam  
+- Night Slash  
+- Mud Shot  
+- Avalanche  
+
+Mr. Rime @ Never-Melt Ice  
+Ability: Screen Cleaner  
+Level: 50  
+EVs: 12 HP / 24 SpA / 30 SpD  
+Naughty Nature  
+- Thunder  
+- Chilling Water  
+- Snore  
+- Psychic  
+
+Farigiraf @ Iron Ball  
+Ability: Armor Tail  
+Level: 50  
+EVs: 32 HP / 32 Def / 2 SpD  
+Gentle Nature  
+- Grass Knot  
+- Beat Up  
+- Psychic Noise  
+- Mirror Coat  
+
+Ninetales @ Charcoal  
+Ability: Drought  
+Level: 50  
+EVs: 13 HP / 3 Def / 19 SpD / 31 Spe  
+Calm Nature  
+- Hyper Beam  
+- Substitute  
+- Roar  
+- Encore  
+
+Glalie @ Wise Glasses  
+Ability: Moody  
+Level: 50  
+EVs: 21 HP / 22 Atk / 6 SpA / 17 SpD  
+Timid Nature  
+- Disable  
+- Icy Wind  
+- Steel Roller  
+- Chilling Water  
+

@@ -1,0 +1,59 @@
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Volt Tackle
+- Iron Tail
+- Play Rough
+- Fake Out
+
+Rotom-Frost @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Thunderbolt
+- Volt Switch
+- Electroweb
+
+Jolteon @ Life Orb
+Ability: Volt Absorb
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Modest Nature
+- Rising Voltage
+- Thunder
+- Thunderbolt
+- Volt Switch
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Double Shock
+- Ice Punch
+- Fake Out
+- Revival Blessing
+
+Toxtricity @ Quick Claw
+Ability: Punk Rock
+Level: 50
+EVs: 19 HP / 26 SpA / 21 Spe
+Modest Nature
+- Overdrive
+- Sludge Wave
+- Boomburst
+- Psychic Noise
+
+Bellibolt @ Air Balloon
+Ability: Electromorphosis
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Relaxed Nature
+- Parabolic Charge
+- Muddy Water
+- Sucker Punch
+- Soak

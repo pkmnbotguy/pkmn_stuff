@@ -1,0 +1,59 @@
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Rock Slide
+- Iron Head
+- High Horsepower
+- Protect
+
+Pawmot @ Leppa Berry
+Ability: Volt Absorb
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Revival Blessing
+- Double Shock
+- Close Combat
+- Coaching
+
+Tyranitar @ Life Orb
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Ice Punch
+- Knock Off
+- Superpower
+
+Armarouge @ Twisted Spoon
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Trick Room
+- Armor Cannon
+- Protect
+- Expanding Force
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Draco Meteor
+- Protect
+- Hyper Voice
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Impish Nature
+- Brave Bird
+- Bulk Up
+- Roost
+- Tailwind

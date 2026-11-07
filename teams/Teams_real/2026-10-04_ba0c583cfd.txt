@@ -1,0 +1,59 @@
+Hawlucha @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Close Combat
+- Brave Bird
+- Swords Dance
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- Taunt
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Protect
+- Sleep Powder
+- Hurricane
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Earth Power
+- Draco Meteor
+- Power Gem
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Nasty Plot
+- Heat Wave
+- Psychic
+
+Aegislash @ Spell Tag
+Ability: Stance Change
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wide Guard
+- King's Shield
+- Poltergeist
+- Iron Head

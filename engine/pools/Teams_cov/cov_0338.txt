@@ -1,0 +1,60 @@
+Azumarill @ Quick Claw  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 32 Def / 32 SpA / 2 SpD  
+Quirky Nature  
+- Soak  
+- Play Rough  
+- Aqua Jet  
+- Snowscape  
+
+Alakazam @ Shed Shell  
+Ability: Magic Guard  
+Level: 50  
+EVs: 12 HP / 20 Atk / 11 Def / 23 SpD  
+Careful Nature  
+- Fire Punch  
+- Tri Attack  
+- Body Slam  
+- Fling  
+
+Flareon @ Payapa Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 32 Def / 18 SpA / 9 SpD / 7 Spe  
+Bold Nature  
+- Bite  
+- Lava Plume  
+- Scorching Sands  
+- Curse  
+
+Cinderace @ Oran Berry  
+Ability: Libero  
+Level: 50  
+EVs: 11 Atk / 23 SpD / 32 Spe  
+Sassy Nature  
+- Court Change  
+- Burning Jealousy  
+- Endure  
+- Rest  
+
+Musharna @ Sitrus Berry  
+Ability: Forewarn  
+Level: 50  
+EVs: 18 HP / 14 Atk / 6 SpD / 28 Spe  
+Naughty Nature  
+- Psychic  
+- Safeguard  
+- Charge Beam  
+- Reflect  
+
+Sneasler @ Shuca Berry  
+Ability: Unburden  
+Level: 50  
+EVs: 24 HP / 32 SpD / 10 Spe  
+Calm Nature  
+- Slash  
+- Poison Jab  
+- Rain Dance  
+- Aerial Ace  
+

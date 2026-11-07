@@ -1,0 +1,60 @@
+Roserade @ Shell Bell  
+Ability: Technician  
+Level: 50  
+EVs: 17 Atk / 32 SpD / 17 Spe  
+Lonely Nature  
+- Round  
+- Grass Knot  
+- Grassy Terrain  
+- Sweet Scent  
+
+Tauros-Paldea-Blaze @ Chesto Berry  
+Ability: Cud Chew  
+Level: 50  
+EVs: 17 HP / 10 Def / 11 SpA / 28 Spe  
+Relaxed Nature  
+- Bulk Up  
+- Giga Impact  
+- Fire Spin  
+- Double-Edge  
+
+Maushold-Four @ Haban Berry  
+Ability: Technician  
+Level: 50  
+EVs: 32 Atk / 24 Def / 10 Spe  
+Mild Nature  
+- Trailblaze  
+- Giga Impact  
+- Aerial Ace  
+- Endure  
+
+Diggersby @ Silk Scarf  
+Ability: Huge Power  
+Level: 50  
+EVs: 21 HP / 18 Def / 27 SpA  
+Naughty Nature  
+- Swords Dance  
+- Snore  
+- Fire Punch  
+- Rock Tomb  
+
+Vivillon-Tundra @ Psychic Seed  
+Ability: Shield Dust  
+Level: 50  
+EVs: 6 HP / 22 Atk / 8 Def / 30 Spe  
+Docile Nature  
+- Poison Powder  
+- Struggle Bug  
+- Rest  
+- Solar Beam  
+
+Greninja @ Scope Lens  
+Ability: Protean  
+Level: 50  
+EVs: 32 HP / 11 Atk / 3 Def / 9 SpA / 11 SpD  
+Quiet Nature  
+- Night Slash  
+- Thief  
+- Water Pulse  
+- Aerial Ace  
+

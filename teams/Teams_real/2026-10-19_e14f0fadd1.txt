@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Nasty Plot
+- Psychic
+- Dazzling Gleam
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dragon Claw
+- Earthquake
+- Stone Edge
+- Stomping Tantrum
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Draco Meteor
+- Flash Cannon
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Encore
+- Tailwind
+- Sunny Day
+
+Blaziken @ Blazikenite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Protect
+- Rock Slide
+- Flare Blitz
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 22 HP / 12 SpA / 32 Spe
+Timid Nature
+- Scald
+- Hypnosis
+- Light Screen
+- Ice Beam

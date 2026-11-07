@@ -1,0 +1,59 @@
+Typhlosion-Hisui @ Choice Scarf
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Overheat
+- Eruption
+- Protect
+
+Meowscarada @ Focus Sash
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flower Trick
+- Knock Off
+- Triple Axel
+- U-turn
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Sucker Punch
+- Iron Head
+- Drill Run
+
+Tyrantrum @ Air Balloon
+Ability: Strong Jaw
+Level: 50
+EVs: 16 HP / 18 Atk / 32 Spe
+Jolly Nature
+- Head Smash
+- Ice Fang
+- Psychic Fangs
+- Fire Fang
+
+Noivern @ Normal Gem
+Ability: Telepathy
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Draco Meteor
+- Tailwind
+- Focus Blast
+- Boomburst
+
+Golurk @ Golurkite
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Earthquake
+- Poltergeist
+- Close Combat
+- Headlong Rush

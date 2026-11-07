@@ -1,0 +1,60 @@
+Vivillon-Pokeball @ Fairy Feather  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 10 Atk / 32 Def / 20 SpA / 4 Spe  
+Jolly Nature  
+- Pounce  
+- Pollen Puff  
+- Protect  
+- Quiver Dance  
+
+Raichu @ Binding Band  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 22 Def / 31 SpA / 13 SpD  
+Hardy Nature  
+- Body Slam  
+- Round  
+- Rest  
+- Alluring Voice  
+
+Heliolisk @ Black Glasses  
+Ability: Dry Skin  
+Level: 50  
+EVs: 8 Atk / 9 Def / 24 SpA / 25 SpD  
+Relaxed Nature  
+- Electrify  
+- Brutal Swing  
+- Sleep Talk  
+- Substitute  
+
+Spiritomb @ Pecha Berry  
+Ability: Pressure  
+Level: 50  
+EVs: 32 HP / 2 Atk / 23 SpA / 9 Spe  
+Adamant Nature  
+- Helping Hand  
+- Rain Dance  
+- Calm Mind  
+- Memento  
+
+Sirfetch’d @ Colbur Berry  
+Ability: Scrappy  
+Level: 50  
+EVs: 32 Atk / 16 SpA / 18 SpD  
+Rash Nature  
+- Throat Chop  
+- Defog  
+- Attract  
+- Sky Attack  
+
+Rotom-Mow @ Oran Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 10 HP / 24 Atk / 2 Def / 16 SpA / 14 Spe  
+Bashful Nature  
+- Reflect  
+- Sunny Day  
+- Trick  
+- Thunder  
+

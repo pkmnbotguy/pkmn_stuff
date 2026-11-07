@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Claw
+- Night Slash
+- Close Combat
+- Focus Energy
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Bold Nature
+- Protect
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+
+Samurott-Hisui @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Aqua Cutter
+- Night Slash
+- Sacred Sword
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Phantom Force
+- Close Combat
+- U-turn
+- Coaching
+
+Mimikyu @ Life Orb
+Ability: Disguise
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Protect
+- Play Rough
+- Swords Dance
+- Shadow Sneak

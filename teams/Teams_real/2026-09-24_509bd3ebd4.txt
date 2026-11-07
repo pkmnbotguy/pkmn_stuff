@@ -1,0 +1,56 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Protect
+- Iron Head
+- Wide Guard
+
+Ditto @ Sitrus Berry
+Ability: Imposter
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Transform
+
+Pincurchin @ Terrain Extender
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpA
+Jolly Nature
+- Sucker Punch
+- Protect
+- Rising Voltage
+- Rain Dance
+
+Bellibolt @ Electric Seed
+Ability: Electromorphosis
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Modest Nature
+- Parabolic Charge
+- Soak
+- Weather Ball
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Earthquake
+- Poison Jab
+- Dragon Claw
+
+Sinistcha @ Focus Sash
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Modest Nature
+- Matcha Gotcha
+- Rage Powder
+- Protect
+- Life Dew

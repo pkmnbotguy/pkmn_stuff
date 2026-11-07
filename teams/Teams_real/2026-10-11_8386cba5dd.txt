@@ -1,0 +1,59 @@
+Chandelure @ Chandelurite
+Ability: Infiltrator
+Level: 50
+EVs: 27 HP / 32 SpA / 7 Spe
+Modest Nature
+- Heat Wave
+- Shadow Ball
+- Will-O-Wisp
+- Protect
+
+Beedrill @ Beedrillite
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fell Stinger
+- Poison Jab
+- Lunge
+- Protect
+
+Lycanroc-Dusk @ Focus Sash
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Accelerock
+- Close Combat
+- Drill Run
+- Protect
+
+Simipour @ King's Rock
+Ability: Torrent
+Level: 50
+EVs: 32 SpA / 2 SpD / 32 Spe
+Timid Nature
+- Fake Out
+- Flip Turn
+- Fling
+- Hydro Pump
+
+Torkoal @ Life Orb
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Solar Beam
+- Eruption
+- Protect
+- Weather Ball
+
+Whimsicott @ Rocky Helmet
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Trick Room
+- Encore
+- Moonblast

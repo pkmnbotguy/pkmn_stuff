@@ -1,0 +1,59 @@
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Draco Meteor
+- Hyper Voice
+- Tailwind
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Detect
+- Close Combat
+- Meteor Mash
+- Bullet Punch
+
+Samurott-Hisui @ Wide Lens
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Detect
+- Razor Shell
+- Ceaseless Edge
+- Aqua Jet
+
+Sylveon @ Expert Belt
+Ability: Pixilate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Detect
+- Hyper Voice
+- Psychic
+- Helping Hand
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Calm Nature
+- Protect
+- Matcha Gotcha
+- Shadow Ball
+- Life Dew

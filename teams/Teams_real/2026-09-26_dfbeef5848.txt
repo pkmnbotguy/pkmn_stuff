@@ -1,0 +1,59 @@
+Raichu @ Raichunite Y
+Ability: Static
+Level: 50
+EVs: 32 HP / 11 Def / 23 Spe
+Timid Nature
+- Protect
+- Focus Blast
+- Zap Cannon
+- Encore
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Jolly Nature
+- Protect
+- Tailwind
+- Draco Meteor
+- Hyper Voice
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Fake Out
+- Grassy Glide
+- High Horsepower
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Protect
+- Scald
+- Ice Beam
+- Haze
+
+Gholdengo @ Kasib Berry
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Make It Rain
+- Nasty Plot
+- Shadow Ball
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Extreme Speed
+- Flare Blitz
+- Head Smash

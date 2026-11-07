@@ -1,0 +1,59 @@
+Clefable @ Rocky Helmet
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Moonblast
+- Protect
+- Life Dew
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+- High Horsepower
+
+Alakazam @ Alakazite
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Protect
+- Focus Blast
+- Shadow Ball
+
+Kleavor @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stone Axe
+- X-Scissor
+- U-turn
+- Close Combat
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- Flare Blitz
+- Brave Bird
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Psychic

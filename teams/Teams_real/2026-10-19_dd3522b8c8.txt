@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Perish Song
+- Shadow Ball
+- Protect
+- Sludge Bomb
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Wide Guard
+- Hurricane
+- Weather Ball
+- Tailwind
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Wood Hammer
+- U-turn
+- Fake Out
+- Grassy Glide
+
+Sneasler @ Electric Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Electro Shot
+- Dragon Pulse
+- Snarl
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 27 HP / 7 Def / 32 Spe
+Jolly Nature
+- Fake Out
+- Protect
+- Zap Cannon
+- Focus Blast

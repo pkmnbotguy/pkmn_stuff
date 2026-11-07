@@ -1,0 +1,59 @@
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Protect
+- Rock Tomb
+- Dire Claw
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 9 HP / 22 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Protect
+- Yawn
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Extreme Speed
+- Flare Blitz
+- Head Smash
+- Protect

@@ -1,0 +1,59 @@
+Ninetales-Alola @ Never-Melt Ice
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Blizzard
+- Moonblast
+- Protect
+
+Mamoswine @ Life Orb
+Ability: Oblivious
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Jolly Nature
+- Ice Shard
+- Earthquake
+- Protect
+- Icicle Crash
+
+Glaceon @ Bright Powder
+Ability: Snow Cloak
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Blizzard
+- Freeze-Dry
+- Calm Mind
+- Protect
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Triple Axel
+- Knock Off
+- Fake Out
+- Protect
+
+Rotom-Frost @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Volt Switch
+- Discharge
+- Electroweb
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Ice Shard
+- Glaive Rush
+- Dragon Dance
+- Protect

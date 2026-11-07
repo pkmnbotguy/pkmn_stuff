@@ -1,0 +1,60 @@
+Primarina @ Miracle Seed  
+Ability: Torrent  
+Level: 50  
+EVs: 7 HP / 32 Atk / 27 Spe  
+Serious Nature  
+- Sparkling Aria  
+- Charm  
+- Sleep Talk  
+- Hyper Beam  
+
+Incineroar @ Fairy Feather  
+Ability: Blaze  
+Level: 50  
+EVs: 14 HP / 27 Atk / 4 Def / 21 SpA  
+Quirky Nature  
+- Reversal  
+- Aerial Ace  
+- Bulldoze  
+- Double-Edge  
+
+Machamp @ Kebia Berry  
+Ability: No Guard  
+Level: 50  
+EVs: 22 Atk / 6 Def / 15 SpA / 3 SpD / 20 Spe  
+Serious Nature  
+- Rock Slide  
+- Sleep Talk  
+- Close Combat  
+- Bulk Up  
+
+Malamar @ Colbur Berry  
+Ability: Suction Cups  
+Level: 50  
+EVs: 11 HP / 7 Def / 2 SpA / 14 SpD / 32 Spe  
+Calm Nature  
+- Night Slash  
+- Expanding Force  
+- Flamethrower  
+- Calm Mind  
+
+Talonflame @ Grassy Seed  
+Ability: Flame Body  
+Level: 50  
+EVs: 20 Atk / 19 SpA / 27 Spe  
+Modest Nature  
+- Roost  
+- Quick Attack  
+- Flamethrower  
+- Whirlwind  
+
+Heracross @ Black Glasses  
+Ability: Guts  
+Level: 50  
+EVs: 25 Def / 3 SpA / 32 SpD / 6 Spe  
+Hasty Nature  
+- Curse  
+- Close Combat  
+- Knock Off  
+- Megahorn  
+

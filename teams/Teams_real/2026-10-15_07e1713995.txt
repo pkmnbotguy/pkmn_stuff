@@ -1,0 +1,59 @@
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Flare Blitz
+- Extreme Speed
+- Protect
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Aurora Veil
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Coaching
+- Rock Slide
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Heat Wave
+- Tailwind
+- Protect

@@ -1,0 +1,60 @@
+Vivillon-Fancy @ Yache Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 13 Def / 14 SpA / 31 SpD / 8 Spe  
+Serious Nature  
+- Solar Beam  
+- Calm Mind  
+- Protect  
+- Sleep Talk  
+
+Slowbro @ Mental Herb  
+Ability: Oblivious  
+Level: 50  
+EVs: 25 HP / 14 SpA / 11 SpD / 16 Spe  
+Serious Nature  
+- Fire Blast  
+- Thunder Wave  
+- Ice Punch  
+- Nasty Plot  
+
+Medicham @ Binding Band  
+Ability: Pure Power  
+Level: 50  
+EVs: 4 HP / 30 Def / 2 SpA / 30 Spe  
+Lonely Nature  
+- Reversal  
+- Stored Power  
+- Blaze Kick  
+- Helping Hand  
+
+Incineroar @ Tanga Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 10 Def / 24 SpA / 32 SpD  
+Rash Nature  
+- Scary Face  
+- Sleep Talk  
+- Swords Dance  
+- Baton Pass  
+
+Aegislash @ Passho Berry  
+Ability: Stance Change  
+Level: 50  
+EVs: 17 SpA / 23 SpD / 26 Spe  
+Impish Nature  
+- Shadow Ball  
+- Solar Blade  
+- Brick Break  
+- Zen Headbutt  
+
+Mawile @ Mawilite  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 16 Atk / 18 SpA / 10 SpD / 22 Spe  
+Impish Nature  
+- Sandstorm  
+- Swagger  
+- Ancient Power  
+- Swallow  
+

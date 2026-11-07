@@ -1,0 +1,59 @@
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Rage Powder
+- Leech Seed
+- Flamethrower
+- Protect
+
+Maushold @ Chople Berry
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Protect
+- Follow Me
+- Charm
+- Beat Up
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 1 Def / 8 SpA / 24 SpD / 1 Spe
+Calm Nature
+- Hydro Pump
+- Will-O-Wisp
+- Volt Switch
+- Protect
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Tailwind
+- Protect
+
+Hatterene @ Fairy Feather
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Expanding Force
+- Dazzling Gleam
+- Life Dew
+- Trick Room
+
+Annihilape @ Leftovers
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 5 Atk / 7 Def / 10 SpD / 12 Spe
+Adamant Nature
+- Rage Fist
+- Drain Punch
+- Protect
+- Bulk Up

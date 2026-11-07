@@ -1,0 +1,60 @@
+Appletun @ Light Clay  
+Ability: Gluttony  
+Level: 50  
+EVs: 2 HP / 6 Atk / 32 SpA / 26 Spe  
+Bashful Nature  
+- Amnesia  
+- Iron Defense  
+- Grassy Terrain  
+- Snore  
+
+Vivillon-Pokeball @ Iron Ball  
+Ability: Shield Dust  
+Level: 50  
+EVs: 32 HP / 5 SpA / 29 SpD  
+Careful Nature  
+- Hyper Beam  
+- Struggle Bug  
+- Pollen Puff  
+- Giga Impact  
+
+Mawile @ Poison Barb  
+Ability: Sheer Force  
+Level: 50  
+EVs: 24 Atk / 25 Def / 17 SpD  
+Adamant Nature  
+- Double-Edge  
+- Iron Defense  
+- Play Rough  
+- Seismic Toss  
+
+Alcremie-Ruby-Swirl @ Wacan Berry  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 28 HP / 10 Atk / 24 Def / 4 SpA  
+Naive Nature  
+- Facade  
+- Aromatic Mist  
+- Sleep Talk  
+- Play Rough  
+
+Arcanine-Hisui @ Tanga Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 20 HP / 24 SpD / 22 Spe  
+Relaxed Nature  
+- Overheat  
+- Dig  
+- Double-Edge  
+- Reversal  
+
+Hatterene @ Miracle Seed  
+Ability: Healer  
+Level: 50  
+EVs: 10 HP / 29 Atk / 17 Def / 10 Spe  
+Naughty Nature  
+- Psychic Noise  
+- Magic Powder  
+- Power Swap  
+- Hyper Beam  
+

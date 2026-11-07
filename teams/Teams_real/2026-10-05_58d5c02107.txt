@@ -1,0 +1,59 @@
+Garchomp @ Focus Sash
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stomping Tantrum
+- Dragon Rush
+- Rock Slide
+- Protect
+
+Espathra @ Electric Seed
+Ability: Speed Boost
+Level: 50
+EVs: 32 HP / 7 Def / 14 SpD / 13 Spe
+Timid Nature
+- Lumina Crash
+- Calm Mind
+- Baton Pass
+- Protect
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Weather Ball
+- Muddy Water
+- Psych Up
+- Protect
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rising Voltage
+- Fake Out
+- Reflect
+- Light Screen
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Weather Ball
+- Heat Wave
+- Roar
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse
+- Protect

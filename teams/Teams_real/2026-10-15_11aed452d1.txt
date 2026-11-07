@@ -1,0 +1,59 @@
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Muddy Water
+- Hypnosis
+- Coil
+- Protect
+
+Clefable @ Grassy Seed
+Ability: Unaware
+Level: 50
+EVs: 29 HP / 5 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Helping Hand
+- Follow Me
+- Protect
+
+Salazzle @ Focus Sash
+Ability: Corrosion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Fake Out
+- Sludge Bomb
+- Heat Wave
+- Protect
+
+Kommo-O @ Sitrus Berry
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Clanging Scales
+- Clangorous Soul
+- Aura Sphere
+- Protect
+
+Manectric @ Manectite
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Thunderbolt
+- Overheat
+- Snarl
+- Protect

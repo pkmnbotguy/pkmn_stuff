@@ -1,0 +1,59 @@
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Fake Out
+- Revival Blessing
+- Double Shock
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Earthquake
+- High Horsepower
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Weather Ball
+- Hurricane
+- Wide Guard
+- Tailwind
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Flamethrower
+- Draco Meteor
+- Dark Pulse
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Weather Ball
+- Heat Wave
+- Solar Beam
+- Protect
+
+Whimsicott @ Life Orb
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Encore
+- Protect
+- Tailwind

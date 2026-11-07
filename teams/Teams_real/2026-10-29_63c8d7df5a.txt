@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Psyshock
+- Nasty Plot
+
+Rotom-Heat @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Volt Switch
+- Thunderbolt
+- Overheat
+- Discharge
+
+Maushold @ Sitrus Berry
+Ability: Friend Guard
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Follow Me
+- Taunt
+- Super Fang
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Protect
+- Draco Meteor
+- Snarl
+- Electro Shot
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Weather Ball
+- Protect
+- Tailwind
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Wave Crash
+- Earthquake
+- Ice Punch

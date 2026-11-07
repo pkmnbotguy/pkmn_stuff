@@ -1,0 +1,60 @@
+Vivillon-Elegant @ Fairy Feather  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 7 HP / 15 SpA / 13 SpD / 31 Spe  
+Mild Nature  
+- Weather Ball  
+- Whirlwind  
+- Draining Kiss  
+- Bug Buzz  
+
+Armarouge @ Shell Bell  
+Ability: Flash Fire  
+Level: 50  
+EVs: 29 HP / 23 Atk / 1 SpA / 9 SpD / 4 Spe  
+Bold Nature  
+- Armor Cannon  
+- Disable  
+- Fling  
+- Confuse Ray  
+
+Maushold-Four @ Electric Seed  
+Ability: Friend Guard  
+Level: 50  
+EVs: 2 HP / 32 Atk / 32 SpD  
+Quirky Nature  
+- Rain Dance  
+- Agility  
+- Low Sweep  
+- Sleep Talk  
+
+Garchomp @ Big Root  
+Ability: Rough Skin  
+Level: 50  
+EVs: 14 Atk / 30 Def / 22 Spe  
+Adamant Nature  
+- Aerial Ace  
+- Rest  
+- Iron Tail  
+- Crunch  
+
+Ninetales-Alola @ Red Card  
+Ability: Snow Warning  
+Level: 50  
+EVs: 29 HP / 6 Atk / 8 SpA / 23 Spe  
+Lonely Nature  
+- Blizzard  
+- Freeze-Dry  
+- Hyper Beam  
+- Foul Play  
+
+Decidueye-Hisui @ Normal Gem  
+Ability: Overgrow  
+Level: 50  
+EVs: 21 Atk / 32 Def / 3 SpA / 10 SpD  
+Serious Nature  
+- Brick Break  
+- Triple Arrows  
+- Pluck  
+- Focus Punch  
+

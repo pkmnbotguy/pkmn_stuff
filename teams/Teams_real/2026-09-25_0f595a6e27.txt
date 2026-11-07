@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 22 HP / 20 SpA / 24 Spe
+Timid Nature
+- Energy Ball
+- Hyper Voice
+- Psychic
+- Protect
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Careful Nature
+- Light Screen
+- Reflect
+- Sunny Day
+- Helping Hand
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Shadow Claw
+- Slash
+- Detect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Mirror Coat
+- Protect
+
+Mawile @ Expert Belt
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Play Rough
+- Sucker Punch
+- Swords Dance
+
+Salamence @ Life Orb
+Ability: Moxie
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Air Slash
+- Flamethrower
+- Draco Meteor
+- Protect

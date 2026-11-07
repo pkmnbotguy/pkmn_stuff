@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Swords Dance
+- Aqua Jet
+- Leech Life
+- Iron Head
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Weather Ball
+- Ice Beam
+- Wide Guard
+- Tailwind
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- Superpower
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 16 Def / 10 SpA / 11 SpD
+Quiet Nature
+- Psychic
+- Trick Room
+- Ally Switch
+- Rain Dance
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Fake Out
+- Light Screen
+- Parting Shot
+- Foul Play
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Draco Meteor
+- Flamethrower
+- Hurricane

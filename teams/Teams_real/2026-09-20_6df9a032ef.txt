@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Dragon Pulse
+- Tailwind
+- Protect
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Volt Tackle
+- Knock Off
+- Fake Out
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Toxtricity-Low-Key @ Focus Sash
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overdrive
+- Sludge Bomb
+- Rising Voltage
+- Protect
+
+Incineroar @ Shuca Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+- Fake Out
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 1 Atk / 1 Def / 32 SpD
+Adamant Nature
+- Iron Head
+- Body Press
+- Bulk Up
+- Tailwind

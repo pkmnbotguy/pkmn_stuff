@@ -1,0 +1,59 @@
+Whimsicott @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 15 Def / 7 SpA / 5 SpD / 7 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Fake Tears
+- Taunt
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 10 HP / 6 Def / 18 SpA / 32 Spe
+Timid Nature
+- Psyshock
+- Heat Wave
+- Will-O-Wisp
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dazzling Gleam
+- Light of Ruin
+- Moonblast
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Aqua Jet
+- Liquidation
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Protect
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 12 Def / 10 SpD / 12 Spe
+Careful Nature
+- Flare Blitz
+- Roar
+- Parting Shot
+- Fake Out

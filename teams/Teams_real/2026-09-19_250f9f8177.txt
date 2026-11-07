@@ -1,0 +1,59 @@
+Basculegion @ Choice Scarf
+Ability: Swift Swim
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Muddy Water
+- U-turn
+- Hurricane
+- Weather Ball
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fire Punch
+- Dire Claw
+- Fake Out
+- Close Combat
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 9 HP / 22 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Detect
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Earthquake
+- Ice Beam
+- Protect

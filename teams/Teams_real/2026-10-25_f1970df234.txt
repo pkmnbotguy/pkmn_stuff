@@ -1,0 +1,59 @@
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 7 Def / 27 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect
+
+Bellibolt @ Leftovers
+Ability: Electromorphosis
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Modest Nature
+- Muddy Water
+- Thunderbolt
+- Parabolic Charge
+- Slack Off
+
+Grapploct @ Life Orb
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Storm Throw
+- Mach Punch
+- Protect
+- Brutal Swing
+
+Staraptor @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Tailwind
+- Final Gambit
+- Close Combat
+
+Mudsdale @ Rocky Helmet
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Relaxed Nature
+- Body Press
+- High Horsepower
+- Iron Defense
+- Protect
+
+Aurorus @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Ancient Power
+- Protect

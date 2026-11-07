@@ -1,0 +1,59 @@
+Tyranitar @ Chople Berry
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Superpower
+- Protect
+
+Sinistcha @ Focus Sash
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 13 Def / 1 SpA / 20 SpD
+Modest Nature
+- Matcha Gotcha
+- Shadow Ball
+- Rage Powder
+- Trick Room
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hydro Pump
+- Electroweb
+- Volt Switch
+- Protect
+
+Eelektross @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 6 Atk / 9 Def / 19 Spe
+Impish Nature
+- Wild Charge
+- Fire Punch
+- Zen Headbutt
+- Substitute
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Grassy Glide
+- Fake Out
+- Protect
+- U-turn
+
+Chesnaught @ Chesnaughtite
+Ability: Bulletproof
+Level: 50
+EVs: 32 HP / 8 Def / 26 SpD
+Sassy Nature
+- Body Press
+- Iron Defense
+- Leech Seed
+- Spiky Shield

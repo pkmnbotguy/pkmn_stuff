@@ -1,0 +1,59 @@
+Aromatisse @ Sitrus Berry
+Ability: Aroma Veil
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Moonblast
+- Trick Room
+- Aromatic Mist
+- Protect
+
+Slowbro @ Slowbronite
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Relaxed Nature
+- Stored Power
+- Body Press
+- Iron Defense
+- Protect
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 32 SpD / 2 Spe
+Careful Nature
+- Power Trip
+- Body Press
+- Iron Defense
+- Roost
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Trop Kick
+- High Jump Kick
+- Triple Axel
+- Protect
+
+Samurott-Hisui @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Aqua Cutter
+- Ceaseless Edge
+- Sacred Sword
+- Protect
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Heat Wave
+- Earth Power
+- Ancient Power
+- Protect

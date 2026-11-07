@@ -1,0 +1,59 @@
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Protect
+- Follow Me
+- Psychic
+- Helping Hand
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Hyper Voice
+- Expanding Force
+- Thunderbolt
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Brave Bird
+- Roost
+
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Expanding Force
+- Armor Cannon
+- Wide Guard
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Dire Claw
+- Close Combat
+- Rock Slide
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Ice Punch
+- Phantom Force
+- Shadow Claw

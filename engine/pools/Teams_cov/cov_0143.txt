@@ -1,0 +1,60 @@
+Vivillon-High Plains @ Pecha Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 16 Def / 21 SpA / 29 Spe  
+Hardy Nature  
+- Weather Ball  
+- Snore  
+- Substitute  
+- Tailwind  
+
+Rampardos @ Icy Rock  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 29 HP / 16 Atk / 18 Def / 3 Spe  
+Jolly Nature  
+- Stone Edge  
+- Facade  
+- Uproar  
+- Earth Power  
+
+Trevenant @ Red Card  
+Ability: Frisk  
+Level: 50  
+EVs: 16 HP / 28 Atk / 14 Def / 8 SpA  
+Careful Nature  
+- Leaf Storm  
+- Haze  
+- Shadow Ball  
+- Grassy Glide  
+
+Pawmot @ Focus Band  
+Ability: Natural Cure  
+Level: 50  
+EVs: 32 HP / 19 Atk / 6 Def / 3 SpA / 6 Spe  
+Calm Nature  
+- Rain Dance  
+- Nuzzle  
+- Charge  
+- Body Press  
+
+Mabosstiff @ Eject Button  
+Ability: Intimidate  
+Level: 50  
+EVs: 26 Def / 23 SpA / 17 Spe  
+Impish Nature  
+- Bite  
+- Swagger  
+- Endure  
+- Scary Face  
+
+Ninetales @ Big Root  
+Ability: Flash Fire  
+Level: 50  
+EVs: 6 HP / 22 Atk / 19 SpA / 19 Spe  
+Lonely Nature  
+- Baby-Doll Eyes  
+- Agility  
+- Sunny Day  
+- Substitute  
+

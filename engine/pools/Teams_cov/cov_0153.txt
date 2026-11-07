@@ -1,0 +1,60 @@
+Krookodile @ Scope Lens  
+Ability: Anger Point  
+Level: 50  
+EVs: 8 Atk / 9 Def / 32 SpA / 17 SpD  
+Sassy Nature  
+- Swagger  
+- Shadow Claw  
+- Bulk Up  
+- Smack Down  
+
+Vivillon-High Plains @ Haban Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 12 HP / 31 Atk / 1 SpA / 22 Spe  
+Modest Nature  
+- Light Screen  
+- Air Slash  
+- Whirlwind  
+- Bug Buzz  
+
+Garbodor @ Heat Rock  
+Ability: Stench  
+Level: 50  
+EVs: 15 HP / 11 Def / 19 SpA / 14 SpD / 7 Spe  
+Naughty Nature  
+- Dark Pulse  
+- Substitute  
+- Rest  
+- Stockpile  
+
+Archaludon @ Iron Ball  
+Ability: Stalwart  
+Level: 50  
+EVs: 16 HP / 17 Atk / 31 SpD / 2 Spe  
+Hasty Nature  
+- Iron Head  
+- Dragon Claw  
+- Snarl  
+- Flash Cannon  
+
+Heliolisk @ Charti Berry  
+Ability: Dry Skin  
+Level: 50  
+EVs: 12 HP / 11 Atk / 23 SpA / 20 Spe  
+Calm Nature  
+- Wild Charge  
+- Snore  
+- Thunder Wave  
+- Endure  
+
+Squawkabilly @ Metal Coat  
+Ability: Hustle  
+Level: 50  
+EVs: 23 HP / 24 Atk / 4 Def / 15 Spe  
+Hardy Nature  
+- Rest  
+- Helping Hand  
+- Feather Dance  
+- U-turn  
+

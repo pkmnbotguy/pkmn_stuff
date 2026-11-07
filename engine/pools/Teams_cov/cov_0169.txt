@@ -1,0 +1,60 @@
+Slowbro @ Chilan Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 21 HP / 22 Def / 23 SpD  
+Careful Nature  
+- Zen Headbutt  
+- Trick  
+- Ice Punch  
+- Curse  
+
+Vivillon-Sun @ Metronome  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 32 HP / 21 SpA / 13 Spe  
+Rash Nature  
+- Safeguard  
+- Weather Ball  
+- Sleep Talk  
+- Protect  
+
+Indeedee-F @ Poison Barb  
+Ability: Synchronize  
+Level: 50  
+EVs: 25 Atk / 14 Def / 27 SpD  
+Hardy Nature  
+- Rest  
+- Guard Swap  
+- Fake Out  
+- Psychic  
+
+Wyrdeer @ Eject Button  
+Ability: Frisk  
+Level: 50  
+EVs: 19 Def / 15 SpA / 32 SpD  
+Sassy Nature  
+- Bite  
+- Substitute  
+- Psychic  
+- Psyshock  
+
+Heracross @ Binding Band  
+Ability: Moxie  
+Level: 50  
+EVs: 5 HP / 32 Def / 24 SpA / 5 SpD  
+Timid Nature  
+- Smack Down  
+- Shadow Claw  
+- Bulldoze  
+- Earthquake  
+
+Musharna @ Zoom Lens  
+Ability: Telepathy  
+Level: 50  
+EVs: 17 HP / 11 Atk / 19 Def / 19 Spe  
+Gentle Nature  
+- Trick Room  
+- Shadow Ball  
+- Stored Power  
+- Zen Headbutt  
+

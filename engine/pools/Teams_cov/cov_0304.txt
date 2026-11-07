@@ -1,0 +1,60 @@
+Persian-Alola @ Payapa Berry  
+Ability: Technician  
+Level: 50  
+EVs: 27 Atk / 31 SpA / 8 SpD  
+Lax Nature  
+- Shadow Claw  
+- Smack Down  
+- Flatter  
+- Giga Impact  
+
+Sableye @ Focus Band  
+Ability: Keen Eye  
+Level: 50  
+EVs: 24 HP / 9 Atk / 11 Def / 22 SpA  
+Sassy Nature  
+- Sunny Day  
+- Fling  
+- Thunder Punch  
+- Sucker Punch  
+
+Alcremie-Lemon-Cream @ Oran Berry  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 32 HP / 9 Atk / 25 Spe  
+Quirky Nature  
+- Round  
+- Play Rough  
+- Calm Mind  
+- Psychic  
+
+Spiritomb @ Sharp Beak  
+Ability: Infiltrator  
+Level: 50  
+EVs: 32 HP / 2 Def / 32 SpD  
+Quiet Nature  
+- Sleep Talk  
+- Payback  
+- Shadow Ball  
+- Psychic  
+
+Delphox @ Air Balloon  
+Ability: Magician  
+Level: 50  
+EVs: 25 Def / 12 SpD / 29 Spe  
+Bold Nature  
+- Flame Charge  
+- Psyshock  
+- Giga Impact  
+- Facade  
+
+Mawile @ Leppa Berry  
+Ability: Sheer Force  
+Level: 50  
+EVs: 15 Atk / 31 Def / 20 SpA  
+Quirky Nature  
+- Steel Beam  
+- Seismic Toss  
+- Misty Terrain  
+- Knock Off  
+

@@ -1,0 +1,59 @@
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Protect
+- Scald
+- Ice Beam
+- Icy Wind
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Protect
+- Iron Head
+- Play Rough
+- Knock Off
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Brave Bird
+- Tailwind
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Dragon Claw
+- Stomping Tantrum
+- Rock Slide
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Psychic
+- Helping Hand
+- Trick Room

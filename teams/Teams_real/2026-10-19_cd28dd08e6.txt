@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 12 HP / 1 Def / 20 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Blizzard
+- Shadow Ball
+- Aurora Veil
+- Protect
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Armarouge @ Sitrus Berry
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Psyshock
+- Armor Cannon
+- Wide Guard
+- Trick Room
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect
+
+Kommo-O @ Life Orb
+Ability: Overcoat
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Clanging Scales
+- Aura Sphere
+- Flamethrower
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Last Respects
+- Flip Turn
+- Aqua Jet

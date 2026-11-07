@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Sludge Bomb
+- Shadow Ball
+- Substitute
+- Protect
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Aurora Veil
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Strength Sap
+- Protect
+
+Toxapex @ Leftovers
+Ability: Merciless
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Bold Nature
+- Wide Guard
+- Baneful Bunker
+- Infestation
+- Toxic
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Bold Nature
+- Light Screen
+- Reflect
+- Spirit Break
+- Parting Shot
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Electroweb
+- Volt Switch
+- Thunder
+- Hydro Pump

@@ -1,0 +1,59 @@
+Espathra @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Baton Pass
+- Calm Mind
+- Lumina Crash
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Draco Meteor
+- Earth Power
+- Power Gem
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Weather Ball
+- Heat Wave
+- Hurricane
+
+Venusaur @ Life Orb
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Energy Ball
+- Sludge Bomb
+- Sleep Powder
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 19 Def / 10 SpA / 6 SpD
+Quiet Nature
+- Protect
+- Helping Hand
+- Ice Beam
+- Weather Ball
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Snarl
+- Aura Sphere
+- Electro Shot

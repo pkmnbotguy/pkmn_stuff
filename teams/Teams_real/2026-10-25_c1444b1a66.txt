@@ -1,0 +1,59 @@
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Light Screen
+- Volt Tackle
+- Fake Out
+- Reflect
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Protect
+- Muddy Water
+- Ice Beam
+- Psych Up
+
+Espathra @ Electric Seed
+Ability: Speed Boost
+Level: 50
+EVs: 32 HP / 7 Def / 14 SpD / 13 Spe
+Timid Nature
+- Protect
+- Lumina Crash
+- Calm Mind
+- Baton Pass
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Weather Ball
+- Hurricane
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Protect
+- Dragon Pulse
+- Electro Shot
+- Flash Cannon
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Sludge Bomb
+- Energy Ball
+- Sleep Powder

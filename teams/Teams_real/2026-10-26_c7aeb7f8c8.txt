@@ -1,0 +1,59 @@
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Strength Sap
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Impish Nature
+- Fake Out
+- Close Combat
+- Protect
+- Knock Off
+
+Hatterene @ Life Orb
+Ability: Healer
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Psychic
+- Dazzling Gleam
+- Trick Room
+- Protect
+
+Slurpuff @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dazzling Gleam
+- Psychic
+- Energy Ball
+- Protect
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Protect
+- Dual Wingbeat
+- Tailwind
+
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Armor Cannon
+- Aura Sphere
+- Protect
+- Psychic

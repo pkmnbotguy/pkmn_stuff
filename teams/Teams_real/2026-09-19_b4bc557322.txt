@@ -1,0 +1,59 @@
+Milotic @ Grassy Seed
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 24 Def / 9 SpD / 2 Spe
+Bold Nature
+- Protect
+- Ice Beam
+- Scald
+- Recover
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Sucker Punch
+- Iron Head
+- Kowtow Cleave
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Dragon Pulse
+- Flamethrower
+- Power Gem
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 10 Def / 3 SpA / 20 SpD
+Relaxed Nature
+- Thunderbolt
+- Trick Room
+- Psychic
+- Helping Hand
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Flare Blitz
+- Head Smash
+- Extreme Speed
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower

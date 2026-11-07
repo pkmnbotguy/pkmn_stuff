@@ -1,0 +1,60 @@
+Vivillon-Archipelago @ Metal Coat  
+Ability: Shield Dust  
+Level: 50  
+EVs: 12 HP / 30 Atk / 24 Def  
+Relaxed Nature  
+- Solar Beam  
+- Calm Mind  
+- Energy Ball  
+- Psychic  
+
+Sinistcha @ Babiri Berry  
+Ability: Hospitality  
+Level: 50  
+EVs: 18 HP / 5 Atk / 32 Def / 2 SpA / 9 Spe  
+Brave Nature  
+- Stun Spore  
+- Rest  
+- Foul Play  
+- Uproar  
+
+Indeedee @ Metronome  
+Ability: Synchronize  
+Level: 50  
+EVs: 19 HP / 14 Def / 19 SpA / 7 SpD / 7 Spe  
+Quiet Nature  
+- Sleep Talk  
+- Skill Swap  
+- Terrain Pulse  
+- Psychic  
+
+Garbodor @ Rindo Berry  
+Ability: Weak Armor  
+Level: 50  
+EVs: 3 HP / 4 Atk / 5 Def / 25 SpA / 29 Spe  
+Sassy Nature  
+- Thief  
+- Screech  
+- Recycle  
+- Rain Dance  
+
+Hippowdon @ Haban Berry  
+Ability: Sand Force  
+Level: 50  
+EVs: 21 Atk / 15 SpA / 30 Spe  
+Gentle Nature  
+- Fire Fang  
+- Sandstorm  
+- Slack Off  
+- Amnesia  
+
+Slowking @ Wise Glasses  
+Ability: Own Tempo  
+Level: 50  
+EVs: 27 Def / 17 SpA / 22 Spe  
+Sassy Nature  
+- Surf  
+- Focus Blast  
+- Whirlpool  
+- Ice Beam  
+

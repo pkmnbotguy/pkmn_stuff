@@ -1,0 +1,60 @@
+Absol @ Sharp Beak  
+Ability: Super Luck  
+Level: 50  
+EVs: 29 Atk / 32 SpD / 5 Spe  
+Adamant Nature  
+- Night Slash  
+- Double Team  
+- Throat Chop  
+- Thunder Wave  
+
+Grimmsnarl @ Shell Bell  
+Ability: Pickpocket  
+Level: 50  
+EVs: 23 SpA / 18 SpD / 25 Spe  
+Hardy Nature  
+- Draining Kiss  
+- Reflect  
+- Low Kick  
+- Giga Impact  
+
+Houndoom @ Psychic Seed  
+Ability: Early Bird  
+Level: 50  
+EVs: 2 Atk / 32 SpA / 32 Spe  
+Jolly Nature  
+- Payback  
+- Flame Charge  
+- Snarl  
+- Reversal  
+
+Scrafty @ Electric Seed  
+Ability: Moxie  
+Level: 50  
+EVs: 32 HP / 19 Def / 15 SpA  
+Relaxed Nature  
+- Acid Spray  
+- Uproar  
+- Drain Punch  
+- Hyper Beam  
+
+Inteleon @ Twisted Spoon  
+Ability: Torrent  
+Level: 50  
+EVs: 26 HP / 26 Atk / 14 Def  
+Serious Nature  
+- Snipe Shot  
+- Bind  
+- Soak  
+- Scald  
+
+Sneasler @ Shed Shell  
+Ability: Pressure  
+Level: 50  
+EVs: 27 Def / 30 SpD / 9 Spe  
+Hardy Nature  
+- Sleep Talk  
+- Rock Tomb  
+- Upper Hand  
+- Dig  
+

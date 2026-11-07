@@ -1,0 +1,59 @@
+Incineroar @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Close Combat
+
+Scovillain @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Timid Nature
+- Overheat
+- Leaf Storm
+- Sunny Day
+- Rage Powder
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Play Rough
+- Sucker Punch
+- Rock Slide
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Weather Ball
+- Heat Wave
+- Ancient Power
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Psychic
+- Helping Hand
+- Thunderbolt
+- Trick Room
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Helping Hand
+- Protect

@@ -1,0 +1,59 @@
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Throat Chop
+- Dire Claw
+- Close Combat
+- Fake Out
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Double-Edge
+- Protect
+- Hyper Voice
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Flip Turn
+- Aqua Jet
+- Wave Crash
+- Last Respects
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Expanding Force
+- Protect
+- Energy Ball
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Psychic
+- Trick Room
+- Helping Hand

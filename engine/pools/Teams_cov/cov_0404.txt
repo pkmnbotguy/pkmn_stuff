@@ -1,0 +1,60 @@
+Vivillon-Garden @ Tanga Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 Def / 2 SpD / 32 Spe  
+Docile Nature  
+- Rest  
+- Snore  
+- Whirlwind  
+- Calm Mind  
+
+Typhlosion @ Black Belt  
+Ability: Blaze  
+Level: 50  
+EVs: 14 Def / 20 SpA / 32 Spe  
+Relaxed Nature  
+- Fire Punch  
+- Heat Wave  
+- Focus Blast  
+- Rest  
+
+Persian @ Roseli Berry  
+Ability: Unnerve  
+Level: 50  
+EVs: 31 HP / 32 Atk / 3 Spe  
+Adamant Nature  
+- Substitute  
+- Helping Hand  
+- Sleep Talk  
+- Rest  
+
+Staraptor @ Air Balloon  
+Ability: Reckless  
+Level: 50  
+EVs: 28 Def / 22 SpA / 16 SpD  
+Calm Nature  
+- Final Gambit  
+- Brave Bird  
+- Hurricane  
+- Air Slash  
+
+Ariados @ Chilan Berry  
+Ability: Sniper  
+Level: 50  
+EVs: 19 HP / 4 Atk / 18 Def / 13 SpA / 12 Spe  
+Rash Nature  
+- Rest  
+- Giga Drain  
+- X-Scissor  
+- Cross Poison  
+
+Whimsicott @ White Herb  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 10 Def / 31 SpA / 25 Spe  
+Hardy Nature  
+- Hyper Beam  
+- Attract  
+- Grass Knot  
+- Moonblast  
+

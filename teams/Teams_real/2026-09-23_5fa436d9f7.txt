@@ -1,0 +1,59 @@
+Jolteon @ Life Orb
+Ability: Volt Absorb
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Rising Voltage
+- Volt Switch
+- Discharge
+
+Raichu @ Raichunite X
+Ability: Static
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Encore
+- Fake Out
+- Protect
+- Volt Tackle
+
+Typhlosion-Hisui @ Quick Claw
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Calm Mind
+- Shadow Ball
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Giga Drain
+- Trick Room
+- Tailwind
+- Charm
+
+Dragonite @ Choice Scarf
+Ability: Inner Focus
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Breaking Swipe
+- Rock Slide
+- Iron Head
+- Ice Spinner
+
+Floette-Eternal @ Floettite
+Ability: Symbiosis
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Light of Ruin
+- Protect
+- Calm Mind
+- Dazzling Gleam

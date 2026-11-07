@@ -1,0 +1,59 @@
+Conkeldurr @ Life Orb
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 20 Atk / 11 Def / 3 SpD
+Adamant Nature
+- Drain Punch
+- Mach Punch
+- Wide Guard
+- Ice Punch
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dark Pulse
+- Water Spout
+- Shell Smash
+- Protect
+
+Gholdengo @ Expert Belt
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sleep Powder
+- Pollen Puff
+- Hurricane
+- U-turn
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Darkest Lariat
+
+Clefable @ Leftovers
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Moonblast
+- Follow Me
+- Rain Dance
+- Helping Hand

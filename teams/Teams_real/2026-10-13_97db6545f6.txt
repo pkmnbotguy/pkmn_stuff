@@ -1,0 +1,59 @@
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Snarl
+- Electro Shot
+- Dragon Pulse
+
+Politoed @ Mystic Water
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 25 Def / 6 SpD / 3 Spe
+Bold Nature
+- Psych Up
+- Muddy Water
+- Ice Beam
+- Protect
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Volt Tackle
+- Knock Off
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Weather Ball
+- Heat Wave
+- Ancient Power
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Protect
+- Giga Drain
+- Sludge Bomb
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 15 Def / 19 SpD
+Impish Nature
+- Taunt
+- Reflect
+- Light Screen
+- Protect

@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Protect
+- Dragon Dance
+- Knock Off
+
+Indeedee @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Bold Nature
+- Helping Hand
+- Protect
+- Terrain Pulse
+- Expanding Force
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Scald
+- Ice Beam
+- Icy Wind
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Iron Head
+- Rock Slide
+- High Horsepower
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Acrobatics
+- Coaching
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Hyper Beam
+- Hyper Voice
+- Protect
+- Quick Attack

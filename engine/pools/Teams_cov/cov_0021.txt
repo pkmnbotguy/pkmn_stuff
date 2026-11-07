@@ -1,0 +1,60 @@
+Qwilfish @ Hard Stone  
+Ability: Swift Swim  
+Level: 50  
+EVs: 10 HP / 13 Atk / 19 SpA / 24 SpD  
+Naughty Nature  
+- Sludge Wave  
+- Agility  
+- Protect  
+- Taunt  
+
+Archaludon @ Wide Lens  
+Ability: Sturdy  
+Level: 50  
+EVs: 29 HP / 30 SpD / 7 Spe  
+Hasty Nature  
+- Aura Sphere  
+- Smack Down  
+- Solar Beam  
+- Stealth Rock  
+
+Torkoal @ Eject Button  
+Ability: Shell Armor  
+Level: 50  
+EVs: 10 HP / 32 Atk / 24 Def  
+Quiet Nature  
+- Flail  
+- Body Press  
+- Yawn  
+- Earth Power  
+
+Decidueye-Hisui @ Misty Seed  
+Ability: Overgrow  
+Level: 50  
+EVs: 3 Def / 31 SpA / 32 SpD  
+Hardy Nature  
+- Frenzy Plant  
+- Triple Arrows  
+- Leaf Blade  
+- Aura Sphere  
+
+Slowking @ Shell Bell  
+Ability: Regenerator  
+Level: 50  
+EVs: 2 Atk / 32 Def / 32 SpD  
+Careful Nature  
+- Curse  
+- Rock Slide  
+- Ice Punch  
+- Flamethrower  
+
+Arcanine @ Soft Sand  
+Ability: Flash Fire  
+Level: 50  
+EVs: 29 HP / 24 Def / 3 SpD / 10 Spe  
+Quiet Nature  
+- Raging Fury  
+- Sunny Day  
+- Agility  
+- Fire Blast  
+

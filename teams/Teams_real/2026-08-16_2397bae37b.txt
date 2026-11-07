@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 8 HP / 3 Def / 32 SpA / 23 Spe
+Timid Nature
+- Overheat
+- Heat Wave
+- Solar Beam
+- Protect
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Ice Fang
+- Protect
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Low Kick
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 10 Def / 24 Spe
+Jolly Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Flip Turn
+
+Whimsicott @ Fairy Feather
+Ability: Prankster
+Level: 50
+EVs: 30 HP / 17 Def / 19 SpD
+Bold Nature
+- Moonblast
+- Sunny Day
+- Tailwind
+- Encore
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Rock Tomb
+- Protect

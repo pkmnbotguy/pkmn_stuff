@@ -1,0 +1,60 @@
+Charizard @ Psychic Seed  
+Ability: Blaze  
+Level: 50  
+EVs: 12 HP / 27 Def / 27 SpD  
+Jolly Nature  
+- Sunny Day  
+- Weather Ball  
+- Heat Wave  
+- Endure  
+
+Mr. Rime @ Expert Belt  
+Ability: Ice Body  
+Level: 50  
+EVs: 2 HP / 8 Atk / 31 Def / 25 Spe  
+Careful Nature  
+- After You  
+- Encore  
+- Future Sight  
+- Expanding Force  
+
+Corviknight @ Quick Claw  
+Ability: Unnerve  
+Level: 50  
+EVs: 20 HP / 26 Atk / 20 SpA  
+Jolly Nature  
+- Power Trip  
+- Giga Impact  
+- Thief  
+- Feather Dance  
+
+Avalugg-Hisui @ Black Belt  
+Ability: Strong Jaw  
+Level: 50  
+EVs: 32 HP / 32 SpA / 2 Spe  
+Adamant Nature  
+- Double-Edge  
+- Ice Beam  
+- Blizzard  
+- Meteor Beam  
+
+Skarmory @ Metronome  
+Ability: Weak Armor  
+Level: 50  
+EVs: 21 Atk / 8 SpA / 23 SpD / 14 Spe  
+Hasty Nature  
+- Air Cutter  
+- Round  
+- Dual Wingbeat  
+- Icy Wind  
+
+Emboar @ Emboarite  
+Ability: Blaze  
+Level: 50  
+EVs: 12 HP / 32 Def / 3 SpA / 15 SpD / 4 Spe  
+Naive Nature  
+- Flare Blitz  
+- Hammer Arm  
+- Storm Throw  
+- Blast Burn  
+

@@ -1,0 +1,60 @@
+Indeedee @ Yache Berry  
+Ability: Synchronize  
+Level: 50  
+EVs: 4 Atk / 24 Def / 32 SpD / 6 Spe  
+Impish Nature  
+- Future Sight  
+- Imprison  
+- Energy Ball  
+- Rest  
+
+Houndstone @ Iron Ball  
+Ability: Sand Rush  
+Level: 50  
+EVs: 24 Atk / 15 Def / 27 Spe  
+Lax Nature  
+- Charm  
+- Crunch  
+- Double-Edge  
+- Will-O-Wisp  
+
+Espathra @ Chesto Berry  
+Ability: Opportunist  
+Level: 50  
+EVs: 12 HP / 17 Atk / 28 Def / 9 Spe  
+Lonely Nature  
+- Lumina Crash  
+- Flash Cannon  
+- Light Screen  
+- Dazzling Gleam  
+
+Greninja @ Greninjite  
+Ability: Torrent  
+Level: 50  
+EVs: 32 HP / 8 SpA / 15 SpD / 11 Spe  
+Impish Nature  
+- Water Shuriken  
+- U-turn  
+- Substitute  
+- Double Team  
+
+Gourgeist-Small @ Air Balloon  
+Ability: Insomnia  
+Level: 50  
+EVs: 22 Atk / 12 SpD / 32 Spe  
+Quiet Nature  
+- Trick Room  
+- Will-O-Wisp  
+- Facade  
+- Imprison  
+
+Araquanid @ Aspear Berry  
+Ability: Water Bubble  
+Level: 50  
+EVs: 2 HP / 32 Atk / 1 Def / 31 Spe  
+Timid Nature  
+- Pounce  
+- Icy Wind  
+- Infestation  
+- Snore  
+

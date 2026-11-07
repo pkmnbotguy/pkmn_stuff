@@ -1,0 +1,60 @@
+Manectric @ White Herb  
+Ability: Minus  
+Level: 50  
+EVs: 13 HP / 3 Atk / 18 SpA / 32 SpD  
+Rash Nature  
+- Light Screen  
+- Ice Fang  
+- Discharge  
+- Round  
+
+Oranguru @ Focus Band  
+Ability: Symbiosis  
+Level: 50  
+EVs: 20 Def / 29 SpD / 17 Spe  
+Relaxed Nature  
+- Magic Room  
+- Round  
+- Chilling Water  
+- Encore  
+
+Basculegion-F @ Wide Lens  
+Ability: Swift Swim  
+Level: 50  
+EVs: 8 Atk / 28 Def / 30 SpD  
+Hardy Nature  
+- Soak  
+- Agility  
+- Icy Wind  
+- Confuse Ray  
+
+Clefable @ Kebia Berry  
+Ability: Magic Guard  
+Level: 50  
+EVs: 32 HP / 1 Def / 19 SpA / 14 SpD  
+Mild Nature  
+- Thunder Punch  
+- Light Screen  
+- Encore  
+- Amnesia  
+
+Dragapult @ King's Rock  
+Ability: Cursed Body  
+Level: 50  
+EVs: 17 HP / 5 SpA / 32 SpD / 12 Spe  
+Quirky Nature  
+- Tri Attack  
+- Dragon Pulse  
+- Dragon Claw  
+- Light Screen  
+
+Noivern @ Zoom Lens  
+Ability: Frisk  
+Level: 50  
+EVs: 18 HP / 16 SpA / 32 Spe  
+Calm Nature  
+- Roost  
+- Dragon Rush  
+- Dual Wingbeat  
+- Flamethrower  
+

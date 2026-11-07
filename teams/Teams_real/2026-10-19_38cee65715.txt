@@ -1,0 +1,59 @@
+Milotic @ Psychic Seed
+Ability: competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- scald
+- protect
+- coil
+- muddy water
+
+Armarouge @ Focus Sash
+Ability: flash fire
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- expanding force
+- armor cannon
+- protect
+- trick room
+
+Indeedee-F @ Rocky Helmet
+Ability: psychic surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- follow me
+- helping hand
+- trick room
+- psychic
+
+Dragapult @ Life Orb
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- draco meteor
+- will-o-wisp
+- protect
+
+Gengar @ Gengarite
+Ability: cursed body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- protect
+- sludge bomb
+- focus blast
+- shadow ball
+
+Staraptor @ Staraptite
+Ability: intimidate
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- close combat
+- protect
+- brave bird
+- roost

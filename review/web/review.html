@@ -1,0 +1,770 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VGC Game Review</title>
+<style>
+:root {
+  --bg: #f6f7f9; --card: #ffffff; --ink: #1d2330; --muted: #667085; --line: #e3e6ec; --soft: #eef1f5;
+  --good: #1f9d74; --bad: #d1453b; --accent: #3b6fd8;
+  --best: #1aa39a; --excellent: #4f9d2d; --goodl: #86ad3f; --inaccuracy: #e0b23a; --mistake: #e5822a; --blunder: #cf3a33;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #12151b; --card: #1b2029; --ink: #e8ebf1; --muted: #9aa3b2; --line: #2b3240; --soft: #222835; --accent: #7ea2ff; }
+}
+/* the replay's "Color scheme" buttons set the whole page's theme */
+:root[data-theme="dark"] { --bg: #12151b; --card: #1b2029; --ink: #e8ebf1; --muted: #9aa3b2; --line: #2b3240; --soft: #222835; --accent: #7ea2ff; }
+@media (prefers-color-scheme: dark) {
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+main { max-width: 1400px; margin: 0 auto; padding: 0 16px 60px; }
+.topbar { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); }
+.topbar-in { max-width: 1400px; margin: 0 auto; padding: 10px 16px; display: flex; gap: 14px; align-items: center; }
+.back { display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border: 1px solid var(--line); border-radius: 8px;
+        background: var(--card); color: var(--ink); text-decoration: none; font-weight: 600; font-size: 14px; white-space: nowrap; }
+.back:hover { border-color: var(--accent); color: var(--accent); }
+.bar-title { color: var(--muted); font-size: 14px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.split { display: grid; grid-template-columns: minmax(0, 660px) minmax(0, 1fr); gap: 16px; align-items: start; }
+@media (max-width: 1350px) { .split { grid-template-columns: minmax(0, 1fr); } }
+.replay-card { padding: 10px; }
+#replay { width: 100%; height: 480px; border: 0; display: block; }
+.now { position: sticky; top: 64px; max-height: calc(100vh - 80px); overflow: auto; }
+@media (max-width: 1350px) { .now { position: static; max-height: none; } }
+.now-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 4px; }
+.navbtn { padding: 5px 11px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink); cursor: pointer; font: inherit; font-size: 13.5px; }
+.navbtn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.navbtn:disabled { opacity: .45; cursor: default; }
+.turn.current { background: var(--soft); border-radius: 8px; margin: 0 -8px; padding-left: 8px; padding-right: 8px; }
+.turn-head b.seek { cursor: pointer; color: var(--accent); }
+.now .turn { border-top: 0; padding-top: 4px; }
+.now .turn + .turn { border-top: 1px solid var(--line); padding-top: 12px; }
+h1 { font-size: 22px; margin: 0 0 4px; }
+h2 { font-size: 17px; margin: 0 0 12px; }
+.sub { color: var(--muted); }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; margin: 14px 0; }
+.top { display: flex; gap: 18px; align-items: center; flex-wrap: wrap; }
+.acc { width: 86px; height: 86px; border-radius: 50%; display: grid; place-items: center; font-weight: 700; font-size: 22px;
+       border: 6px solid var(--accent); flex: none; }
+.acc small { display: block; font-size: 11px; font-weight: 500; color: var(--muted); text-align: center; margin-top: -4px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.spr { display: inline-block; vertical-align: -6px; width: 26px; height: 26px; margin: -6px 1px -6px -1px; object-fit: contain; image-rendering: auto; }
+.pill { display: inline-block; padding: 2px 9px; border-radius: 999px; font-size: 12.5px; font-weight: 600; color: #fff; white-space: nowrap; }
+.pill.best { background: var(--best); } .pill.excellent { background: var(--excellent); } .pill.good { background: var(--goodl); }
+.pill.inaccuracy { background: var(--inaccuracy); color: #2a2100; } .pill.mistake { background: var(--mistake); } .pill.blunder { background: var(--blunder); }
+.pill.none, .pill.forced { background: var(--soft); color: var(--muted); }
+.why { color: var(--muted); font-size: 13px; font-style: italic; }
+.result-win { color: var(--good); font-weight: 700; } .result-loss { color: var(--bad); font-weight: 700; }
+svg text { fill: var(--muted); font-size: 11px; }
+.turn { border-top: 1px solid var(--line); padding: 12px 0; }
+.board { margin: 8px 0 4px; }
+.boardsvg { display: block; width: 100%; max-width: 520px; height: auto; }
+.boardsvg .bname { fill: var(--ink); font-size: 12px; font-weight: 600; }
+.boardsvg .bhp { fill: var(--muted); font-size: 10px; }
+.boardsvg .bmove { fill: var(--ink); font-size: 12px; } .boardsvg .b2 { fill: var(--muted); font-size: 11px; }
+.boardsvg .bdmg { font-size: 11.5px; font-weight: 700; }
+.boardsvg .bn { fill: #fff; font-size: 10px; font-weight: 700; }
+body.noboards .list .board { display: none; }
+.opt { cursor: pointer; } .opt:hover td { background: var(--soft); } .opt.open td:first-child { font-weight: 600; }
+.opt-row td { padding: 4px 0 10px; }
+.boardtoggle { font-weight: 400; font-size: 13px; color: var(--muted); margin-left: 12px; cursor: pointer; }
+.turn:first-child { border-top: 0; }
+.turn-head { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.turn-head b { min-width: 58px; }
+.played { font-weight: 600; }
+.nums { color: var(--muted); font-size: 13.5px; margin-top: 3px; }
+.up { color: var(--good); font-weight: 600; } .down { color: var(--bad); font-weight: 600; }
+.ev { display: inline-block; font-size: 12.5px; padding: 1px 8px; border-radius: 6px; margin: 4px 4px 0 0; background: var(--soft); }
+.ev.goodluck { border-left: 3px solid var(--good); } .ev.badluck { border-left: 3px solid var(--bad); }
+details { margin-top: 8px; }
+summary { cursor: pointer; color: var(--accent); font-size: 13.5px; }
+table { width: 100%; border-collapse: collapse; margin-top: 8px; font-size: 13.5px; }
+th, td { text-align: left; padding: 5px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); font-weight: 600; font-size: 12px; }
+td.n { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+tr.me td { background: var(--soft); font-weight: 600; }
+.bar { height: 6px; background: var(--soft); border-radius: 3px; overflow: hidden; min-width: 50px; }
+.bar i { display: block; height: 100%; background: var(--accent); }
+.whybtn { display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; padding: 0;
+          border: 1px solid var(--line); border-radius: 50%; background: var(--card); color: var(--accent); cursor: pointer; }
+.whybtn svg { width: 14px; height: 14px; }
+.whybtn:hover { border-color: var(--accent); }
+.whybtn[aria-expanded="true"] { border-color: var(--accent); background: var(--accent); color: var(--card); }
+tr.why-row td { background: var(--soft); border-left: 3px solid var(--accent); padding: 6px 10px 10px; }
+tr.why-row ul { margin: 2px 0 0; font-size: 13px; }
+tr.why-row li { margin: 3px 0; }
+tr.why-row b.nm { font-size: 14px; font-weight: 700; color: var(--ink); }
+.log { font: 12.5px/1.5 ui-monospace, Consolas, monospace; color: var(--muted); white-space: pre-wrap; margin-top: 6px; }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+@media (max-width: 640px) { .grid2 { grid-template-columns: 1fr; } }
+/* team preview: columns as wide as their team lines, side by side when both fit, stacked otherwise; a team wraps only if it alone is wider than the screen */
+.pvgrid { display: grid; grid-template-columns: repeat(2, max-content); grid-template-areas: "a b" "c d"; column-gap: 32px; }
+.pvgrid .pa { grid-area: a; } .pvgrid .pb { grid-area: b; } .pvgrid .pc { grid-area: c; } .pvgrid .pd { grid-area: d; }
+.pvgrid ul { margin-bottom: 0; }
+/* fitPreviews(): stacked when the two columns don't fit the box, and teams may wrap only when even one column doesn't */
+.pvgrid.stacked { grid-template-columns: minmax(0, 1fr); grid-template-areas: "a" "c" "b" "d"; } .pvgrid.stacked .pb { margin-top: 14px; }
+.team { white-space: nowrap; } .pvgrid.tight .team { white-space: normal; }
+.kv { color: var(--muted); font-size: 13px; }
+.big { font-size: 26px; font-weight: 700; }
+ul { margin: 6px 0 0; padding-left: 20px; }
+.note { color: var(--muted); font-size: 12.5px; margin-top: 10px; }
+#status { padding: 30px; text-align: center; color: var(--muted); }
+.turn.flash { outline: 2px solid var(--accent); outline-offset: 2px; }
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-in"><a class="back" href="/">&larr; All reviews</a><span class="bar-title" id="bar-title"></span></div></div>
+<main>
+  <div id="status">Loading the review...</div>
+  <div id="app" hidden></div>
+</main>
+<script>
+const id = location.pathname.split("/").pop();
+const pct = x => x == null ? "-" : `${(100 * x).toFixed(0)}%`;
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"}[c]));
+const LABEL = {best: "Best", excellent: "Excellent", good: "Good", inaccuracy: "Inaccuracy", mistake: "Mistake", blunder: "Blunder",
+               forced: "Forced"};
+const COLOR = {best: "var(--best)", excellent: "var(--excellent)", good: "var(--goodl)", inaccuracy: "var(--inaccuracy)",
+               mistake: "var(--mistake)", blunder: "var(--blunder)", forced: "var(--muted)"};
+
+async function poll() {
+  const r = await fetch(`/api/review/${id}`);
+  if (!r.ok) { document.getElementById("status").textContent = "No such review."; return; }
+  const s = await r.json();
+  if (s.status === "done") {
+    try { GAME = await (await fetch(`/api/game/${id}`)).json(); BOARDS = parseBoards(GAME.log || ""); } catch (e) { GAME = BOARDS = null; }
+    return render(s.result);
+  }
+  if (s.status === "error") { document.getElementById("status").textContent = "The review failed: " + s.error; return; }
+  const [d, t] = s.progress || [0, 0];
+  document.getElementById("status").textContent = s.status === "queued" ? "Waiting to start..." :
+    `Analysing your game... ${t ? `turn ${d} of ${t}` : ""}`;
+  setTimeout(poll, 800);
+}
+
+function previewLabel(loss) {
+  return loss < 1 ? "best" : loss < 2.5 ? "excellent" : loss < 5 ? "good" : loss < 10 ? "inaccuracy" : loss < 20 ? "mistake" : "blunder";
+}
+
+function showPreview() {
+  seek(0);
+  const el = document.getElementById("now");
+  if (el) el.scrollIntoView({behavior: "smooth", block: "nearest"});
+}
+
+function graph(r) {
+  const pts = r.turns.map((t, i) => ({t, i})).filter(o => o.t.win != null);
+  // turn 0 = team preview (your pick's chance to win), graded by how much it gave up against the best pick
+  if (r.preview && r.preview.win_picked != null)
+    pts.unshift({i: -1, t: {turn: 0, kind: "preview", win: r.preview.win_picked, label: previewLabel(r.preview.loss || 0)}});
+  if (!pts.length) return "";
+  const W = 900, H = 210, L = 34, R = 10, T = 12, B = 24;
+  const xs = k => L + (pts.length === 1 ? 0 : k * (W - L - R) / (pts.length - 1));
+  const ys = p => T + (1 - p) * (H - T - B);
+  let path = pts.map((o, k) => `${k ? "L" : "M"}${xs(k).toFixed(1)},${ys(o.t.win).toFixed(1)}`).join(" ");
+  const area = `${path} L${xs(pts.length - 1)},${ys(0.5)} L${xs(0)},${ys(0.5)} Z`;
+  let g = `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Win chance by turn">`;
+  for (const p of [0, 0.25, 0.5, 0.75, 1]) {
+    g += `<line x1="${L}" x2="${W - R}" y1="${ys(p)}" y2="${ys(p)}" stroke="var(--line)" ${p === 0.5 ? 'stroke-width="1.6"' : ""}/>`;
+    g += `<text x="${L - 6}" y="${ys(p) + 4}" text-anchor="end">${100 * p}%</text>`;
+  }
+  g += `<path d="${area}" fill="var(--accent)" opacity="0.12"/><path d="${path}" fill="none" stroke="var(--accent)" stroke-width="2.2"/>`;
+  pts.forEach((o, k) => {
+    g += `<circle cx="${xs(k)}" cy="${ys(o.t.win)}" r="5.5" fill="${COLOR[o.t.label] || "var(--muted)"}" stroke="var(--card)" stroke-width="1.5"
+          style="cursor:pointer" onclick="${o.i < 0 ? "showPreview()" : `pick(${o.i})`}">
+          <title>${o.t.kind === "preview" ? "Team preview" : `Turn ${o.t.turn}`}${o.t.kind === "switch" ? " (switch-in)" : ""}: ${pct(o.t.win)} - ${LABEL[o.t.label] || ""}</title></circle>`;
+    g += `<text x="${xs(k)}" y="${H - 6}" text-anchor="middle">${o.t.kind === "switch" ? "&#8635;" : o.t.turn}</text>`;
+  });
+  // the selected decision (a clicked dot), else the turn's first decision
+  let cur = pts.findIndex(o => o.i === SEL && o.t.turn === NOW);
+  if (cur < 0) cur = pts.findIndex(o => o.t.turn === NOW);
+  if (cur >= 0) g += `<line x1="${xs(cur)}" x2="${xs(cur)}" y1="${T}" y2="${H - B}" stroke="var(--ink)" stroke-dasharray="3 3" opacity="0.5"/>`;
+  return g + "</svg>";
+}
+
+// (user, 2026-10-11: no scroll bars, and side by side whenever possible) shrink the two columns (down to 70%) so they fit
+// next to each other; stack them only if even that isn't enough. (All measured synchronously: no visible flicker, and the
+// ResizeObserver below sees only the final state.)
+function fitPreviews() {
+  for (const g of document.querySelectorAll(".pvgrid")) {
+    if (!g.offsetParent) continue;
+    g.classList.remove("stacked", "tight");
+    g.style.zoom = "";
+    const ratio = g.clientWidth / g.scrollWidth;
+    if (ratio < 1) {
+      if (ratio >= 0.7) g.style.zoom = String(Math.floor(ratio * 100) / 100);
+      else {
+        g.classList.add("stacked");
+        if (g.scrollWidth > g.clientWidth + 1) g.classList.add("tight");
+      }
+    }
+  }
+}
+// re-fit whenever a panel is (re)drawn or its box changes width
+const pvResize = new ResizeObserver(() => fitPreviews());
+new MutationObserver(() => {
+  for (const g of document.querySelectorAll(".pvgrid")) if (!g._watched) {
+    g._watched = true; pvResize.observe(g.parentElement);
+    for (const cell of g.children) pvResize.observe(cell);          // cells change width when the web font arrives
+  }
+  setTimeout(fitPreviews, 0); setTimeout(fitPreviews, 300);
+}).observe(document.documentElement, {childList: true, subtree: true});
+addEventListener("resize", fitPreviews);
+if (document.fonts) document.fonts.ready.then(fitPreviews);
+
+function preview(p) {
+  if (!p) return "";
+  if (p.error) return `<div class="card"><h2>Team preview</h2><div class="sub">${esc(p.error)}</div></div>`;
+  const list = a => `<span class="team">${a.map(esc).join(", ")}</span>`;
+  // four cells: your pick | their pick, then your other / better teams | their other good teams (rows line up);
+  // on a narrow screen: your two cells, then theirs
+  const sec = t => `<div style="margin-top:12px"><b>${t}</b></div>`;
+  let a = "", b = "", c = "", d = "";
+  if (p.picked) {
+    a += `<div class="kv">Your pick</div><div><b>${list([...p.picked.lead, ...p.picked.bring.filter(m => !p.picked.lead.includes(m))])}</b></div>
+          <div style="margin-top:8px"><span class="big">${pct(p.win_picked)}</span> <span class="kv">chance to win from this pick</span></div>`;
+    if (p.loss > 0.5) a += `<div class="nums">This pick cost about <b>${p.loss.toFixed(1)}%</b> chance to win.</div>`;
+    else if (p.match === "close") a += `<div class="nums">A good pick: almost as strong as the best one.</div>`;
+    else a += `<div class="nums">That was the best pick available.</div>`;
+  }
+  const bts = p.better_teams || (p.better_team ? [p.better_team] : []);
+  if (bts.length) c = sec(bts.length > 1 ? "Better teams" : "Better team") + "<ul>" + bts.map(t => `<li>${list(t)}</li>`).join("") + "</ul>";
+  else if (p.swaps && p.swaps.length) c = sec("Clearly better options") + "<ul>" +
+    p.swaps.map(s => `<li>${esc(s.change)}: <span class="up">+${s.gain.toFixed(1)}%</span> (${pct(s.win)})</li>`).join("") + "</ul>";
+  else if (p.next_best && p.next_best.length) c = sec("Other good teams") + "<ul>" +
+    p.next_best.map(s => `<li>${s.team ? list(s.team) : esc(s.change)}</li>`).join("") + "</ul>";
+  if (p.their_pick && p.their_pick.bring.length) {
+    const tp = p.their_pick;
+    // leads first, then the rest in the order they came out
+    const order = [...tp.lead, ...tp.bring.filter(m => !tp.lead.includes(m))];
+    b += `<div class="kv">The opponent's pick</div><div><b>${list(order)}</b>${tp.seen < 4 ? ` <span class="kv">(+${4 - tp.seen} never sent out)</span>` : ""}</div>`;
+  }
+  if (p.their_likely.length) d = sec("Other good teams for the opponent") + "<ul>" +
+    // leads first, then the back two
+    p.their_likely.map(t => `<li>${list([...t.lead, ...t.bring.filter(m => !t.lead.includes(m))])}</li>`).join("") + "</ul>";
+  let h = `<div class="card"><h2>Team preview</h2><div class="pvgrid"><div class="pa">${a}</div><div class="pb">${b}</div>` +
+          `<div class="pc">${c}</div><div class="pd">${d}</div></div>`;
+  const threats = p.threats || (p.notes || []).filter(n => n.startsWith("Biggest threat: ")).map(n => n.slice(16));
+  if (threats.length) h += `<div style="margin-top:12px"><b>Threats</b><ul>` + threats.slice(0, 2).map(n => `<li>${esc(n)}</li>`).join("") + "</ul></div>";
+  h += `</div>`;
+  return h;
+}
+
+// explanation text: [[name]] = a Pokemon or move name, shown bold
+const marked = s => esc(s).replace(/\[\[(.+?)\]\]/g, '<b class="nm">$1</b>');
+
+function toggleWhy(btn) {
+  const row = btn.closest("tr").nextElementSibling;
+  row.hidden = !row.hidden;
+  btn.setAttribute("aria-expanded", String(!row.hidden));
+}
+
+function turn(t, i, open) {
+  const ti = typeof i === "number" ? i : +String(i).replace("now", "");
+  if (t.error) return `<div class="turn" id="t${i}"><div class="turn-head"><b>Turn ${t.turn ?? "?"}</b><span class="sub">${esc(t.choice)}</span></div>
+    <div class="nums">Couldn't analyse this decision (${esc(t.error)}).</div></div>`;
+  if (t.win == null && (t.note || "").startsWith("couldn't tell")) return `<div class="turn" id="t${i}"><div class="turn-head">
+    <b>Turn ${t.turn ?? "?"}</b><span class="pill none">Not read</span></div><div class="nums">${esc(t.note)}</div></div>`;
+  if (t.win == null) return `<div class="turn" id="t${i}"><div class="turn-head"><b>Turn ${t.turn ?? "?"}</b><span class="pill none">Replacement</span>
+    <span>${esc(t.choice.replace(/^pass, |, pass$/g, ""))}</span></div><div class="nums">${esc(t.note || "")}</div></div>`;
+  const swing = t.luck;
+  let h = `<div class="turn" id="t${i}"><div class="turn-head"><b class="seek" onclick="seek(${t.turn})" title="Show this turn in the replay">Turn ${t.turn}</b><span class="pill ${t.label}">${LABEL[t.label]}</span>
+    <span class="played">${esc(t.played)}</span>${t.reason ? `<span class="why">${esc(t.reason)}</span>` : ""}</div>
+    ${boardHtml(t.turn)}<div class="nums">Chance to win before your ${t.kind === "switch" ? "choice" : "move"}: <b>${pct(t.win)}</b>`;
+  if (swing != null && t.played_win != null) {
+    const after = Math.min(100, Math.max(0, 100 * t.played_win + swing));
+    h += ` &middot; Chance to win after your ${t.kind === "switch" ? "choice" : "move"}: <b>${after.toFixed(0)}%</b>`;
+  }
+  h += `</div>`;
+  if (t.note) h += `<div class="note" style="margin-top:4px">${esc(t.note)}</div>`;
+  if (t.luck_events && t.luck_events.length) h += `<div>` + t.luck_events.map(e => `<span class="ev ${e.good ? "goodluck" : "badluck"}">${esc(e.text)}</span>`).join("") + `</div>`;
+  const whyOf = {};
+  for (const w of (t.why || [])) if (w.action) whyOf[w.action] = w;
+  h += `<details${open ? " open" : ""}><summary>Options and what happened</summary><table><tr><th>Option</th><th class="n">Win chance</th><th></th></tr>`;
+  const rowsSorted = [...t.table].sort((a, b) => b.win - a.win);
+  for (const o of rowsSorted) {
+    const w = whyOf[o.action];
+    h += `<tr class="opt${o.played ? " me" : ""}" onclick="toggleOpt(this, ${ti}, this.dataset.a)" data-a="${esc(o.action)}" title="Click to see this option on the board"><td>${esc(o.action)}${o.played ? " &nbsp;<span class='kv'>(your move)</span>" : ""}</td>
+      <td class="n">${pct(o.win)}</td>
+      <td class="n">${w ? `<button class="whybtn" onclick="event.stopPropagation(); toggleWhy(this)" aria-expanded="false" aria-label="Why?" title="Why?"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="4.2" r="1.2" fill="currentColor"/><rect x="6.9" y="6.6" width="2.2" height="6.6" rx="1.1" fill="currentColor"/></svg></button>` : ""}</td></tr>`;
+    if (w) h += `<tr class="why-row" hidden><td colspan="3"><ul>${w.lines.map(l => `<li>${marked(l)}</li>`).join("")}</ul></td></tr>`;
+  }
+  h += `</table>`;
+  if (t.opponent && t.opponent.length) h += `<div class="kv" style="margin-top:8px">Their likely moves</div><ul>` +
+    t.opponent.map(o => `<li>${esc(o.action)} <span class="kv">(${pct(o.freq)})</span></li>`).join("") + "</ul>";
+  if (t.outcome_text && t.outcome_text.length) h += `<div class="kv" style="margin-top:8px">What happened</div><div class="log">${esc(t.outcome_text.join("\n"))}</div>`;
+  return h + `</details></div>`;
+}
+
+let R = null, NOW = 0, SEL = null, THEME_APPLIED = false;
+try { const t0 = localStorage.getItem("reviewTheme"); if (t0) document.documentElement.dataset.theme = t0; } catch (e) {}
+
+function frameBattle() {
+  try { const w = document.getElementById("replay").contentWindow; return w && w.Replays && w.Replays.battle; } catch (e) { return null; }
+}
+
+function seek(n) {
+  const b = frameBattle();
+  if (b) b.seekTurn(n);
+  NOW = n;
+  SEL = null;
+  update();
+}
+
+// a dot on the chart: show its turn, then bring that exact decision's card (move or switch-in) into view
+function pick(i) {
+  seek(R.turns[i].turn);
+  SEL = i;
+  document.getElementById("graph").innerHTML = graph(R);
+  const el = document.getElementById("tnow" + i);
+  if (el) {
+    el.scrollIntoView({behavior: "smooth", block: "nearest"});
+    el.classList.add("flash");
+    setTimeout(() => el.classList.remove("flash"), 1200);
+  }
+}
+
+function decisionsAt(n) {
+  return R.turns.map((t, i) => ({t, i})).filter(o => o.t.turn === n);
+}
+
+function nowPanel() {
+  const last = Math.max(0, ...R.turns.map(t => t.turn || 0));
+  let h = `<div class="now-head"><h2 style="margin:0">${NOW === 0 ? "Team preview" : `Turn ${NOW}`}</h2><div>
+    <button class="navbtn" onclick="seek(${NOW - 1})" ${NOW <= 0 ? "disabled" : ""}>&larr; Prev</button>
+    <button class="navbtn" onclick="seek(${NOW + 1})" ${NOW >= last ? "disabled" : ""}>Next &rarr;</button></div></div>`;
+  if (NOW === 0) {
+    h += R.preview ? preview(R.preview).replace('<div class="card"><h2>Team preview</h2>', "<div>") : `<div class="sub">No team preview review.</div>`;
+    return h;
+  }
+  const ds = decisionsAt(NOW);
+  if (!ds.length) return h + `<div class="sub">No decision of yours was rated this turn.</div>`;
+  return h + ds.map(o => turn(o.t, "now" + o.i, true)).join("");
+}
+
+function update() {
+  if (!R) return;
+  document.getElementById("now").innerHTML = nowPanel();
+  document.getElementById("graph").innerHTML = graph(R);
+  spritify(document.getElementById("now"));
+  document.querySelectorAll(".list .turn").forEach(el => {
+    const t = R.turns[+el.id.slice(1)];
+    el.classList.toggle("current", !!t && t.turn === NOW);
+  });
+}
+
+// follow the replay: Showdown's controls (play, next / last turn, go to turn) change Replays.battle.turn
+setInterval(() => {
+  const b = frameBattle();
+  if (!b || !R) return;
+  try {   // the replay's height follows its width (Showdown scales the battle to fit)
+    const f = document.getElementById("replay"), wr = f.contentWindow.document.querySelector(".wrapper");
+    const hh = wr ? Math.ceil(wr.getBoundingClientRect().bottom) + 4 : 0;
+    if (hh && Math.abs(f.offsetHeight - hh) > 2) f.style.height = hh + "px";
+  } catch (e) {}
+  try {
+    const w = document.getElementById("replay").contentWindow, saved = localStorage.getItem("reviewTheme");
+    if (!THEME_APPLIED && w.Replays && w.Replays.changeSetting) {
+      THEME_APPLIED = true;
+      if (saved) w.Replays.changeSetting("color", saved);
+    }
+    const theme = w.document.body.classList.contains("dark") ? "dark" : "light";
+    if (document.documentElement.dataset.theme !== theme) {
+      document.documentElement.dataset.theme = theme;
+      if (THEME_APPLIED) try { localStorage.setItem("reviewTheme", theme); } catch (e) {}
+    }
+  } catch (e) {}
+  const n = b.turn || 0;
+  if (n !== NOW) { NOW = n; update(); }
+}, 250);
+
+// ---- small sprites next to Pokemon names (2026-10-21): the names come from the review itself (the two teams at preview);
+// Mega forms are matched too. Text nodes only; re-run after every render / update.
+const SPRITES = "https://play.pokemonshowdown.com/sprites/gen5/";
+let SPECIES_RE = null;
+function speciesNames(r) {
+  const names = new Set(r.species || []);     // the log's own names (server: game_species), plus the lists below
+  const add = x => { if (typeof x === "string" && /^[A-Z]/.test(x)) names.add(x); };
+  const p = r.preview || {};
+  for (const k of ["bring", "lead", "pick"]) ((p.best || {})[k] || []).forEach(add), (p[k] || []).forEach(add);
+  (p.their_likely || []).forEach(t => { (t.bring || []).forEach(add); (t.lead || []).forEach(add); });
+  (p.ours || []).forEach(add); (p.theirs || []).forEach(add); (p.their_six || []).forEach(add); (p.our_six || []).forEach(add);
+  // anything else the text mentions as [[Name]] that looks like a species we know (the two teams above)
+  const text = JSON.stringify(r);
+  for (const m of text.matchAll(/\[\[([A-Z][A-Za-z.' -]+?)\]\]/g)) {
+    const n = m[1].replace(/-Mega(?:-[XYZ])?$/, "");
+    if (names.has(n)) names.add(m[1]);
+  }
+  return [...names];
+}
+function spriteId(n) { return n.toLowerCase().replace(/[^a-z0-9-]/g, ""); }
+function spritify(root) {
+  if (!SPECIES_RE || !root) return;
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {acceptNode: n => {
+    const t = n.parentElement && n.parentElement.tagName;
+    return (!t || /^(SCRIPT|STYLE|IFRAME|IMG|TEXTAREA)$/.test(t) || n.parentElement.closest(".spr-wrap, svg")) ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT;
+  }});
+  const nodes = [];
+  for (let n = walker.nextNode(); n; n = walker.nextNode()) {
+    SPECIES_RE.lastIndex = 0;                        // a global regex remembers where its last test stopped
+    if (SPECIES_RE.test(n.nodeValue)) nodes.push(n);
+  }
+  for (const n of nodes) {
+    const frag = document.createDocumentFragment();
+    let last = 0;
+    const s = n.nodeValue;
+    for (const m of s.matchAll(SPECIES_RE)) {
+      frag.appendChild(document.createTextNode(s.slice(last, m.index)));
+      const w = document.createElement("span");
+      w.className = "spr-wrap";
+      const img = document.createElement("img");
+      img.className = "spr"; img.alt = ""; img.loading = "lazy";
+      img.src = SPRITES + spriteId(m[0]) + ".png";
+      img.onerror = () => {                          // a form without a sprite: try the base species once
+        const base = SPRITES + spriteId(m[0].split("-")[0]) + ".png";
+        if (img.src !== base) img.src = base; else img.remove();
+      };
+      w.appendChild(img); w.appendChild(document.createTextNode(m[0]));
+      frag.appendChild(w);
+      last = m.index + m[0].length;
+    }
+    frag.appendChild(document.createTextNode(s.slice(last)));
+    n.parentNode.replaceChild(frag, n);
+  }
+}
+
+// ---- turn boards (2026-10-21): the four Pokemon on the field as sprites, arrows for who did what to whom (numbered in
+// move order, damage / KO / blocked / missed on the arrow), the move name under each sprite; parsed from the battle log.
+let GAME = null, BOARDS = null;
+const SPR_BACK = "https://play.pokemonshowdown.com/sprites/gen5-back/";
+const SHIELDS = /^move: (Protect|Detect|Spiky Shield|Baneful Bunker|Silk Trap|Burning Bulwark|King's Shield|Obstruct|Wide Guard|Quick Guard|Crafty Shield|Mat Block|Max Guard)$/;
+const CANT = {flinch: "flinched", par: "fully paralysed", slp: "asleep", frz: "frozen", recharge: "recharging", truant: "loafing",
+              nopp: "no PP", taunt: "Taunted", disable: "Disabled", imprison: "Imprisoned", healblock: "Heal Block", gravity: "Gravity",
+              throatchop: "Throat Chop", "Damp": "Damp", attract: "in love", confusion: "confused", focuspunch: "lost focus", encore: "Encored"};
+function hpPct(s) {
+  s = (s || "").trim();
+  if (!s) return null;
+  if (/^0\b/.test(s)) return 0;
+  const m = /^(\d+)(?:\/(\d+))?/.exec(s);
+  return m ? (m[2] ? 100 * (+m[1]) / (+m[2]) : +m[1]) : null;
+}
+function parseBoards(log) {
+  const occ = {}, hp = {}, fnt = {}, T = {};
+  let cur = null, act = null, upkeep = false;
+  const slot = s => (s || "").slice(0, 3);
+  const snap = () => { const o = {}; for (const k of Object.keys(occ)) o[k] = {species: occ[k], hp: hp[k], fainted: !!fnt[k]}; return o; };
+  const newAct = a => { if (!cur) return null; a.n = cur.acts.length + 1; cur.acts.push(a); act = a; return a; };
+  const hitOf = s => (act.hits[s] = act.hits[s] || {});
+  for (const line of log.split("\n")) {
+    const q = line.split("|"), c = q[1];
+    if (c === "turn") { if (cur) cur.end = snap(); cur = T[+q[2]] = {turn: +q[2], start: snap(), acts: [], mega: {}, end: null}; act = null; upkeep = false; continue; }
+    if (c === "switch" || c === "drag" || c === "replace") {
+      const s = slot(q[2]), sp = (q[3] || "").split(",")[0].trim(), from = occ[s], wasOut = !!fnt[s];
+      occ[s] = sp; hp[s] = hpPct(q[4]); fnt[s] = false;
+      if (cur && c !== "replace") {
+        const late = upkeep || wasOut;
+        newAct({kind: "switch", slot: s, actor: from, species: sp, late, drag: c === "drag", mid: cur.acts.some(x => x.slot === s && x.kind !== "switch")});
+        if (!late) cur.start[s] = {species: sp, hp: hp[s], fainted: false, from};     // the one on the field this turn
+      }
+      else if (cur && c === "replace" && cur.start[s]) cur.start[s].species = sp;     // Illusion: it was this one all along
+      act = null; continue;
+    }
+    if (c === "detailschange" || c === "-formechange") { const s = slot(q[2]); occ[s] = (q[3] || "").split(",")[0].trim(); continue; }
+    if (c === "-mega") { const s = slot(q[2]); if (cur) { cur.mega[s] = true; if (cur.start[s]) cur.start[s].species = occ[s]; } continue; }
+    if (c === "move") {
+      const s = slot(q[2]);
+      const flags = q.slice(5).join("|");
+      const sp = /\[spread\] ([^|]+)/.exec(flags);
+      const targets = sp ? sp[1].split(",").map(x => x.trim()).filter(Boolean) : (q[4] ? [slot(q[4])] : []);
+      newAct({kind: "move", slot: s, actor: occ[s], move: q[3], targets, hits: {}, fail: false, miss: /\[miss\]/.test(flags),
+              still: /\[still\]/.test(flags) && !sp});
+      continue;
+    }
+    if (c === "-prepare") { if (act && act.kind === "move" && act.slot === slot(q[2])) act.charge = true; continue; }
+    if (c === "-anim") { if (act && act.kind === "move" && act.slot === slot(q[2]) && q[4]) { act.charge = false; if (!act.targets.length) act.targets = [slot(q[4])]; } continue; }
+    if (c === "-damage" || c === "-heal" || c === "-sethp") {
+      const s = slot(q[2]), old = hp[s], nw = hpPct(q[3]);
+      hp[s] = nw;
+      const from = q.slice(4).some(x => /^\[from\]/.test(x));
+      if (!from && act && act.kind === "move" && s !== act.slot && old != null && nw != null) {
+        if (!act.targets.includes(s)) act.targets.push(s);
+        const h = hitOf(s);
+        if (c === "-damage") h.dmg = (h.dmg || 0) + (old - nw); else h.heal = (h.heal || 0) + (nw - old);
+      }
+      continue;
+    }
+    if (c === "-miss") { if (act && act.kind === "move") { const t = slot(q[3] || q[2]); if (!act.targets.includes(t)) act.targets.push(t); hitOf(t).miss = true; } continue; }
+    if (c === "-immune") { if (act && act.kind === "move") { const t = slot(q[2]); if (!act.targets.includes(t)) act.targets.push(t); hitOf(t).immune = true; } continue; }
+    if (c === "-crit") { if (act && act.kind === "move") hitOf(slot(q[2])).crit = true; continue; }
+    if (c === "-activate") {
+      const t = slot(q[2]), what = q[3] || "";
+      if (act && act.kind === "move" && t !== act.slot) {
+        if (SHIELDS.test(what)) { if (!act.targets.includes(t)) act.targets.push(t); hitOf(t).blocked = true; }
+        else if (what === "move: Substitute" && q.includes("[damage]")) { if (!act.targets.includes(t)) act.targets.push(t); hitOf(t).sub = true; }
+      }
+      continue;
+    }
+    if (c === "-fail") { if (act && act.kind === "move" && slot(q[2]) === act.slot) act.fail = true; continue; }
+    if (c === "cant") { const s = slot(q[2]); newAct({kind: "cant", slot: s, actor: occ[s], reason: q[3] || "", move: q[4] || ""}); continue; }
+    if (c === "faint") { const s = slot(q[2]); fnt[s] = true; hp[s] = 0; if (act && act.kind === "move" && act.hits[s]) act.hits[s].fnt = true; continue; }
+    if (c === "upkeep") { upkeep = true; act = null; continue; }
+    if (c === "" && q.length === 2) { act = null; continue; }           // a blank line ends an action's lines
+  }
+  if (cur) cur.end = snap();
+  return T;
+}
+function sprFb(img) {                                   // a form without a sprite: try the base species once, then hide
+  const src = img.getAttribute("href") || "";
+  const base = src.replace(/\/([a-z0-9]+)-[a-z0-9-]+\.png$/, "/$1.png");
+  if (base !== src) img.setAttribute("href", base); else img.setAttribute("opacity", "0");
+}
+// A board = sprites (per slot: species, hp0 -> hp1, ko, mega, lines under the sprite) + arrows ({from, to: [slots] or [] =
+// self / field ring, color, n = order badge, dashed, label, ghost = a guessed action}). Used for what happened (boardHtml)
+// and for any option of the table (optionBoard).
+function boardPos(me) {
+  const X = {a: 125, b: 335};        // ours at the bottom (a left, b right); theirs on top, mirrored like the game
+  return s => { const mine = s.slice(0, 2) === me, sl = s[2]; return {x: mine ? X[sl] : X[sl === "a" ? "b" : "a"], y: mine ? 232 : 92, mine}; };
+}
+function drawBoard(me, sprites, arrows, label) {
+  const W = 460, H = 342, R = 42, pos = boardPos(me);
+  let g = `<svg class="boardsvg" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(label || "Turn board")}">`;
+  g += `<circle cx="206" cy="11" r="5" fill="var(--accent)"/><text x="215" y="15" class="bhp">you</text><circle cx="246" cy="11" r="5" fill="var(--bad)"/><text x="255" y="15" class="bhp">them</text>`;
+  for (const s of Object.keys(sprites).sort()) {
+    const sp = sprites[s], p = pos(s), top = !p.mine;
+    const url = (p.mine ? SPR_BACK : SPRITES) + spriteId(sp.species) + ".png";
+    g += `<image href="${url}" x="${p.x - 48}" y="${p.y - 48}" width="96" height="96" onerror="sprFb(this)"${sp.ko ? ' style="filter:grayscale(1);opacity:.45"' : ""}/>`;
+    const yName = top ? 14 : 298, yBar = top ? 22 : 306, yLab = top ? 36 : 320;
+    const h0 = sp.hp0 == null ? 100 : sp.hp0, h1 = sp.hp1 == null ? h0 : sp.hp1;
+    const hc = h1 > 50 ? "var(--good)" : h1 > 20 ? "#e0b23a" : "var(--bad)";
+    g += `<text x="${p.x}" y="${yName}" text-anchor="middle" class="bname">${esc(sp.species)}${sp.mega && !/-Mega/.test(sp.species) ? " (Mega)" : ""}${sp.ko ? " - fainted" : ""}</text>`;
+    g += `<rect x="${p.x - 45}" y="${yBar - 4}" width="90" height="6" rx="3" fill="var(--line)"/>`;
+    if (h0 > h1) g += `<rect x="${p.x - 45}" y="${yBar - 4}" width="${0.9 * h0}" height="6" rx="3" fill="${hc}" opacity=".3"/>`;
+    g += `<rect x="${p.x - 45}" y="${yBar - 4}" width="${0.9 * Math.max(0, h1)}" height="6" rx="3" fill="${hc}"/>`;
+    g += `<text x="${p.x + 50}" y="${yBar + 1}" class="bhp">${Math.round(h1)}%${sp.hpTilde ? "" : ""}</text>`;
+    (sp.lines || []).slice(0, 2).forEach((l, k) => { g += `<text x="${p.x}" y="${yLab + 13 * k}" text-anchor="middle" class="bmove${k ? " b2" : ""}">${esc(l)}</text>`; });
+  }
+  // arrows after the sprites so they stay visible; each one bows to its right, so A -> B and B -> A separate
+  const seen = {};
+  for (const a of arrows) {
+    if (!sprites[a.from]) continue;
+    const from = pos(a.from), c = a.color, op = a.ghost ? ' opacity=".55"' : "";
+    const tos = (a.to || []).filter(t => sprites[t] && t !== a.from);
+    if (!tos.length) {
+      g += `<circle cx="${from.x}" cy="${from.y}" r="${R + 6}" fill="none" stroke="${c}" stroke-width="2" stroke-dasharray="5 4"${a.ghost ? ' opacity=".45"' : ' opacity=".8"'}/>`;
+      if (a.n) g += badge(from.x + 36, from.y - 36, a.n, c, op);
+      continue;
+    }
+    for (const t of tos) {
+      const to = pos(t);
+      const key = a.from + ">" + t, k = (seen[key] = (seen[key] || 0) + 1) - 1;
+      let dx = to.x - from.x, dy = to.y - from.y;
+      const L = Math.hypot(dx, dy); dx /= L; dy /= L;
+      const px = -dy, py = dx;                                      // perpendicular (the arrow's right-hand side)
+      const bow = 22 + 10 * k;
+      const x1 = from.x + dx * (R - 2) + px * 4, y1 = from.y + dy * (R - 2) + py * 4;
+      const x2 = to.x - dx * (R + 4) + px * 4, y2 = to.y - dy * (R + 4) + py * 4;
+      const cx = (x1 + x2) / 2 + px * bow, cy = (y1 + y2) / 2 + py * bow;
+      const dead = a.dashed;
+      g += `<path d="M${x1},${y1} Q${cx},${cy} ${x2},${y2}" fill="none" stroke="${c}" stroke-width="2.5"${dead ? ' stroke-dasharray="6 5"' : ""}${a.ghost ? ' opacity=".5"' : dead ? ' opacity=".75"' : ""}/>`;
+      let tx = x2 - cx, ty = y2 - cy; const tl = Math.hypot(tx, ty); tx /= tl; ty /= tl;   // tangent at the head
+      const hx = -ty, hy = tx;
+      g += `<polygon points="${x2 + tx * 3},${y2 + ty * 3} ${x2 - tx * 9 + hx * 5},${y2 - ty * 9 + hy * 5} ${x2 - tx * 9 - hx * 5},${y2 - ty * 9 - hy * 5}" fill="${c}"${a.ghost ? ' opacity=".5"' : ""}/>`;
+      // a point on the curve: B(t) = (1-t)^2 P1 + 2(1-t)t C + t^2 P2
+      const at = u => [(1 - u) * (1 - u) * x1 + 2 * (1 - u) * u * cx + u * u * x2, (1 - u) * (1 - u) * y1 + 2 * (1 - u) * u * cy + u * u * y2];
+      if (a.n) { const [bx, by] = at(0.12); g += badge(bx, by, a.n, c, op); }
+      const lab = a.labels ? a.labels[t] : a.label;
+      if (lab) {
+        const [lx, ly] = at(0.62);
+        g += `<text x="${lx + px * 13}" y="${ly + py * 13 + 4}" text-anchor="middle" class="bdmg" fill="${c}" stroke="var(--card)" stroke-width="3" paint-order="stroke"${op}>${esc(lab)}</text>`;
+      }
+    }
+  }
+  return g + `</svg>`;
+  function badge(x, y, n, c, op) {
+    return `<circle cx="${x}" cy="${y}" r="8" fill="${c}"${op || ""}/><text x="${x}" y="${y + 3.5}" text-anchor="middle" class="bn">${n}</text>`;
+  }
+}
+function sideColor(me, slot) { return slot.slice(0, 2) === me ? "var(--accent)" : "var(--bad)"; }
+
+// what happened this turn (from the log)
+function boardHtml(n) {
+  const T = BOARDS && BOARDS[n];
+  if (!T || !GAME) return "";
+  const me = GAME.player || "p1";
+  const sprites = {}, arrows = [];
+  for (const s of Object.keys(T.start).filter(s => /^p[12][ab]$/.test(s))) {
+    const st = T.start[s], en = (T.end || {})[s] || st;
+    const ko = en.fainted || en.hp === 0;
+    const lines = [];
+    for (const a of T.acts.filter(a => a.slot === s)) {
+      if (a.kind === "move") lines.push(`${a.n}. ${a.move}${a.charge ? " (charging)" : ""}${a.fail ? " - failed" : a.miss && !Object.keys(a.hits).length ? " - missed" : ""}`);
+      else if (a.kind === "cant") lines.push(`${a.n}. ${a.move ? a.move + ": " : ""}${CANT[a.reason] || a.reason || "couldn't move"}`);
+      else if (a.drag) lines.push(`${a.species} dragged in`);
+      else if (a.late) lines.push(`${a.species} in`);
+      else if (a.mid) lines.push(`${a.n}. then ${a.species} in`);
+      else lines.push(`${a.n}. in for ${a.actor || "?"}`);
+    }
+    if (!lines.length && !ko) lines.push("-");
+    sprites[s] = {species: st.species, hp0: st.hp, hp1: en.hp, ko, mega: !!T.mega[s], lines};
+  }
+  for (const a of T.acts) {
+    if (a.kind !== "move" || !T.start[a.slot]) continue;
+    const tos = a.targets.filter(t => t !== a.slot);
+    const labels = {};
+    let anyDead = false;
+    for (const t of tos) {
+      const h = a.hits[t] || {};
+      let lab = "";
+      if (h.blocked) lab = "blocked"; else if (h.miss) lab = "missed"; else if (h.immune) lab = "no effect"; else if (a.fail) lab = "failed";
+      else if (h.sub && !h.dmg) lab = "hit the Substitute";
+      else { if (h.dmg) lab = `-${Math.round(h.dmg)}%`; if (h.heal) lab += (lab ? " " : "") + `+${Math.round(h.heal)}%`; if (h.crit) lab += " crit"; if (h.fnt) lab += " KO"; }
+      labels[t] = lab;
+      if (h.miss || h.blocked || h.immune || a.fail) anyDead = true;
+    }
+    arrows.push({from: a.slot, to: tos, color: sideColor(me, a.slot), n: a.n, dashed: anyDead, labels});
+  }
+  return `<div class="board">${drawBoard(me, sprites, arrows, `Turn ${n}: who did what to whom`)}</div>`;
+}
+
+// an option from the table: our actions (solid) against their most likely reply (faded), with the engine's expected outcome
+const STATUS_TXT = {brn: "burned", par: "paralysed", slp: "asleep", frz: "frozen", psn: "poisoned", tox: "badly poisoned"};
+function baseName(n) { return String(n || "").replace(/-Mega(?:-[XYZ])?$/, "").replace(/-Busted$/, ""); }
+function optionBoard(ti, action) {
+  const t = R.turns[ti], T = BOARDS && BOARDS[t.turn];
+  if (!T || !GAME) return `<div class="note">No board for this turn.</div>`;
+  const me = GAME.player || "p1", them = me === "p1" ? "p2" : "p1";
+  const sim = (t.sims || {})[action];
+  const sprites = {};
+  for (const s of Object.keys(T.start).filter(s => /^p[12][ab]$/.test(s))) {
+    const st = T.start[s];
+    sprites[s] = {species: st.species, hp0: st.hp, hp1: st.hp, ko: !!st.fainted, mega: !!T.mega[s], lines: st.fainted ? [] : ["-"]};
+  }
+  const slotOf = (side, code) => side + code;                       // engine slot a / b = the game's slot a / b
+  const bySpecies = (side, name) => Object.keys(sprites).find(s => s.startsWith(side) && baseName(sprites[s].species) === baseName(name));
+  const arrows = [];
+  function addActs(side, acts, ghost) {
+    const other = side === me ? them : me;
+    for (const a of acts) {
+      const s = slotOf(side, a.slot);
+      if (!sprites[s] || a.kind === "pass") continue;
+      const L = sprites[s].lines;
+      if (L.length === 1 && L[0] === "-") L.length = 0;
+      if (a.kind === "switch") { L.push(`switch to ${a.to}`); continue; }
+      L.push((a.mega ? "Mega + " : "") + a.move);
+      let to = [];
+      if (a.target === "foe-a" || a.target === "foe-b") to = [slotOf(other, a.target.slice(-1))];
+      else if (a.target === "ally") to = [slotOf(side, a.slot === "a" ? "b" : "a")];
+      else if (a.target === "spread-foes") to = [other + "a", other + "b"];
+      else if (a.target === "spread-all") to = [other + "a", other + "b", slotOf(side, a.slot === "a" ? "b" : "a")];
+      to = to.filter(x => sprites[x] && !sprites[x].ko);
+      arrows.push({from: s, to, color: sideColor(me, s), ghost});
+    }
+  }
+  // old reviews (no sims): read the option / reply text
+  function parseActs(side, text) {
+    const other = side === me ? them : me, out = [];
+    for (const part of String(text || "").split("; ")) {
+      const m = /^(.+?): (.+)$/.exec(part);
+      if (!m) continue;
+      const s = bySpecies(side, m[1]);
+      if (!s) continue;
+      const slot = s[2];
+      let rest = m[2];
+      if (rest.startsWith("switch to ")) { out.push({slot, kind: "switch", to: rest.slice(10)}); continue; }
+      const mega = rest.startsWith("Mega Evolve + "); if (mega) rest = rest.slice(14);
+      const tm = /^(.+?) -> (ally )?(.+)$/.exec(rest);
+      let target = "self";
+      if (tm) { const ts = tm[2] ? bySpecies(side, tm[3]) : bySpecies(other, tm[3]); target = tm[2] ? "ally" : ts ? "foe-" + ts[2] : "self"; }
+      out.push({slot, kind: "move", move: tm ? tm[1] : rest, mega, target});
+    }
+    return out;
+  }
+  let caption;
+  if (sim && sim.acts) {
+    addActs(me, sim.acts, false);
+    const rep = (sim.replies || [])[0];
+    if (rep) {
+      addActs(them, rep.acts || [], true);
+      for (const m of rep.mons || []) {
+        const s = bySpecies(m.side === 0 ? me : them, m.species);
+        if (!s || sprites[s].ko) continue;
+        const sp = sprites[s];
+        const fx = [];
+        if (m.faint >= 0.2) fx.push(m.faint > 0.95 ? "faints" : `faints ${Math.round(100 * m.faint)}%`);
+        else if (m.lost >= 0.05) fx.push(`loses ~${Math.round(100 * m.lost)}%`);
+        if (m.blocked >= 0.4) fx.push("protects");
+        if (m.flinch >= 0.25) fx.push("flinches");
+        if (m.miss >= 0.25) fx.push(`misses ${Math.round(100 * m.miss)}%`);
+        for (const [k, p] of Object.entries(m.status || {})) if (p >= 0.25 && STATUS_TXT[k]) fx.push(`${STATUS_TXT[k]} ${Math.round(100 * p)}%`);
+        if (fx.length) sp.lines.push(fx.join(", "));
+        if (m.lost > 0 && sp.hp0 != null) sp.hp1 = Math.max(0, sp.hp0 - 100 * m.lost);
+      }
+      const f = rep.field || {};
+      const extra = [];
+      if (f.tw0 >= 0.5) extra.push("you get Tailwind"); if (f.tw1 >= 0.5) extra.push("they get Tailwind"); if (f.tr >= 0.5) extra.push("Trick Room goes up");
+      caption = `If they play <b>${esc(rep.reply)}</b> (${pct(rep.freq)} likely, faded arrows): expected HP after the turn as shown` +
+                (extra.length ? `; ${extra.join("; ")}` : "") + (rep.win != null ? `. Chance to win after: <b>${pct(rep.win)}</b>.` : ".");
+    } else caption = "No likely reply was simulated for this option.";
+  } else {
+    addActs(me, parseActs(me, action), false);
+    const rep = (t.opponent || [])[0];
+    if (rep) { addActs(them, parseActs(them, rep.action), true); caption = `Their most likely reply (faded arrows): <b>${esc(rep.action)}</b> (${pct(rep.freq)}). This review predates the outcome simulation, so no HP changes are shown.`; }
+    else caption = "This review predates the outcome simulation: the arrows show the option only.";
+  }
+  return `<div class="board">${drawBoard(me, sprites, arrows, "Option: " + action)}</div><div class="note">${caption}</div>`;
+}
+function toggleOpt(tr, ti, action) {
+  let row = tr.nextElementSibling;
+  if (row && row.classList.contains("opt-row")) { row.hidden = !row.hidden; tr.classList.toggle("open", !row.hidden); return; }
+  row = document.createElement("tr");
+  row.className = "opt-row";
+  row.innerHTML = `<td colspan="3">${optionBoard(ti, action)}</td>`;
+  tr.parentNode.insertBefore(row, tr.nextElementSibling);
+  tr.classList.add("open");
+}
+
+function render(r) {
+  R = r;
+  const res = r.result === "win" ? "Win" : r.result === "loss" ? "Loss" : "Tie";
+  const title = r.title || r.name;
+  document.title = `Review: ${title} (${res})`;
+  document.getElementById("bar-title").textContent = `${title} · ${res}`;
+  const counts = Object.entries(r.counts || {}).filter(([, n]) => n).map(([k, n]) => `<span class="pill ${k}">${n} ${LABEL[k]}</span>`).join("");
+  let h = `<div class="card top"><div class="acc">${r.accuracy == null ? "-" : r.accuracy.toFixed(0)}<small>accuracy</small></div>
+    <div><h1>${esc(title)}</h1><div class="sub">${esc(r.name)}${r.opponent_name ? ` vs ${esc(r.opponent_name)}` : ""} &middot; <span class="result-${r.result}">${res}</span>
+    ${r.created ? " &middot; " + esc(r.created) : ""}</div><div class="chips" style="margin-top:8px">${counts}</div></div></div>`;
+  if (r.source === "replay") {
+    const unread = r.turns.filter(t => (t.note || "").startsWith("couldn't tell")).length;
+    h += `<div class="card note" style="margin-top:0">Rebuilt from a replay: HP to the nearest 1%; your choices read from what
+      happened (a move redirected or retargeted shows the target it actually hit); the order of your two back Pokemon is a guess
+      (it only shifts the evaluation slightly).${unread ? ` ${unread} decision(s) couldn't be read and aren't rated.` : ""}
+      ${r.assumed_brought && r.assumed_brought.length ? ` Never sent out, so assumed brought: ${r.assumed_brought.map(esc).join(", ")}.` : ""}</div>`;
+  }
+  h += `<div class="split"><div>
+      <div class="card replay-card"><iframe id="replay" src="/replay/${id}" title="Showdown replay"></iframe></div>
+      <div class="card"><h2>Chance to win, turn by turn</h2><div id="graph"></div>
+        <div class="note">Assuming best play from both sides from each position. Click a dot to show that turn (turn 0 = team preview).</div></div>
+    </div><div class="card now" id="now"></div></div>`;
+  h += preview(r.preview);
+  h += `<div class="card list"><h2>All your decisions<label class="boardtoggle"><input type="checkbox" id="boardsck" onchange="document.body.classList.toggle('noboards', !this.checked); try { localStorage.setItem('reviewBoards', this.checked ? '1' : '0'); } catch (e) {}"> show the turn boards</label></h2>${r.turns.map((t, i) => turn(t, i, false)).join("")}
+    <div class="note">Click a turn number to show it in the replay.</div></div>`;
+  document.getElementById("app").innerHTML = h;
+  let showB = "1"; try { showB = localStorage.getItem("reviewBoards") || "1"; } catch (e) {}
+  document.getElementById("boardsck").checked = showB === "1";
+  document.body.classList.toggle("noboards", showB !== "1");
+  const names = speciesNames(r).sort((a, b) => b.length - a.length);
+  SPECIES_RE = names.length ? new RegExp("(?<![A-Za-z])(?:" + names.map(x => x.replace(/[.*+?^${}()|[\]\\-]/g, "\\$&")).join("|") + ")(?:-Mega(?:-[XYZ])?)?(?![A-Za-z])", "g") : null;
+  spritify(document.getElementById("app"));
+  if (!window._sprObs) {        // every later re-render (turn panel, preview card, toggles) gets its sprites too
+    window._sprObs = new MutationObserver(ms => { for (const m of ms) for (const n of m.addedNodes) if (n.nodeType === 1) spritify(n); });
+    window._sprObs.observe(document.getElementById("app"), {childList: true, subtree: true});
+  }
+  document.getElementById("app").hidden = false;
+  document.getElementById("status").hidden = true;
+  update();
+}
+poll();
+</script>
+</body>
+</html>

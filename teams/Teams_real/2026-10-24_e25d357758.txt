@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Protect
+- Draco Meteor
+- Hyper Voice
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Protect
+- Low Kick
+- Rock Slide
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- High Horsepower
+- Protect
+- Rock Slide
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- High Horsepower
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat Chop
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Protect
+- Moonblast
+- Calm Mind

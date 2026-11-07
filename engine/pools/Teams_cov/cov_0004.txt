@@ -1,0 +1,60 @@
+Gourgeist-Large @ King's Rock  
+Ability: Pickup  
+Level: 50  
+EVs: 12 HP / 2 Atk / 27 Def / 15 SpD / 10 Spe  
+Brave Nature  
+- Sludge Bomb  
+- Ally Switch  
+- Skill Swap  
+- Foul Play  
+
+Vanilluxe @ Smooth Rock  
+Ability: Weak Armor  
+Level: 50  
+EVs: 31 HP / 19 Def / 16 SpD  
+Docile Nature  
+- Giga Impact  
+- Imprison  
+- Aurora Veil  
+- Beat Up  
+
+Toxapex @ Wise Glasses  
+Ability: Limber  
+Level: 50  
+EVs: 10 HP / 18 Atk / 13 SpD / 25 Spe  
+Impish Nature  
+- Hex  
+- Infestation  
+- Acid Spray  
+- Poison Jab  
+
+Dedenne @ Focus Sash  
+Ability: Pickup  
+Level: 50  
+EVs: 31 HP / 3 Def / 32 SpA  
+Lonely Nature  
+- Discharge  
+- Volt Switch  
+- Sleep Talk  
+- U-turn  
+
+Basculegion @ Roseli Berry  
+Ability: Adaptability  
+Level: 50  
+EVs: 32 HP / 22 Atk / 12 SpA  
+Naive Nature  
+- Night Shade  
+- Psychic Fangs  
+- Rest  
+- Ice Beam  
+
+Mamoswine @ Colbur Berry  
+Ability: Oblivious  
+Level: 50  
+EVs: 21 HP / 11 SpA / 2 SpD / 32 Spe  
+Calm Nature  
+- Amnesia  
+- Fissure  
+- Facade  
+- Bite  
+

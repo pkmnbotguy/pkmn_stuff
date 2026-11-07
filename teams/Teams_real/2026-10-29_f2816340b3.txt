@@ -1,0 +1,59 @@
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 27 HP / 6 Atk / 2 Def / 31 SpD
+Careful Nature
+- Knock Off
+- Protect
+- Drain Punch
+- Rock Slide
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Volt Tackle
+- Protect
+- Fake Out
+- Charm
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Ice Beam
+- Scald
+- Protect
+- Life Dew
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Brave Nature
+- Flamethrower
+- Thunderbolt
+- Fire Punch
+- Protect
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Hurricane
+- Protect
+- Muddy Water
+- Ice Beam
+
+Skarmory @ Choice Scarf
+Ability: Sturdy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Calm Nature
+- Tailwind
+- Iron Head
+- Dual Wingbeat
+- Protect

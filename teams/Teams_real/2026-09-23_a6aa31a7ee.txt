@@ -1,0 +1,59 @@
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 26 Def / 5 SpA / 3 Spe
+Modest Nature
+- Heat Wave
+- Struggle Bug
+- Rage Powder
+- Tailwind
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+- Protect
+
+Primarina @ Mystic Water
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Protect
+- Ice Beam
+
+Farigiraf @ Mental Herb
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Twin Beam
+- Helping Hand
+- Trick Room
+- Imprison
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Icicle Crash
+- Glaive Rush
+- Protect
+- Dragon Dance

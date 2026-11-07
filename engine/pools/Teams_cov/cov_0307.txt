@@ -1,0 +1,60 @@
+Pelipper @ Iron Ball  
+Ability: Keen Eye  
+Level: 50  
+EVs: 12 HP / 26 Atk / 28 Spe  
+Careful Nature  
+- Gunk Shot  
+- Knock Off  
+- Snowscape  
+- Quick Attack  
+
+Scrafty @ Soft Sand  
+Ability: Intimidate  
+Level: 50  
+EVs: 1 HP / 25 Atk / 9 SpA / 21 SpD / 10 Spe  
+Brave Nature  
+- Substitute  
+- Dynamic Punch  
+- Protect  
+- Rock Slide  
+
+Vivillon-Icy Snow @ Choice Scarf  
+Ability: Shield Dust  
+Level: 50  
+EVs: 32 HP / 1 Atk / 10 Def / 14 SpA / 9 Spe  
+Gentle Nature  
+- Draining Kiss  
+- Substitute  
+- Bug Buzz  
+- Air Slash  
+
+Trevenant @ Babiri Berry  
+Ability: Harvest  
+Level: 50  
+EVs: 3 Def / 31 SpD / 32 Spe  
+Naive Nature  
+- Burning Jealousy  
+- Forest's Curse  
+- Giga Drain  
+- Rock Slide  
+
+Politoed @ Focus Band  
+Ability: Water Absorb  
+Level: 50  
+EVs: 19 HP / 32 Atk / 8 SpD / 7 Spe  
+Hasty Nature  
+- Chilling Water  
+- Helping Hand  
+- Round  
+- Uproar  
+
+Drampa @ Drampanite  
+Ability: Berserk  
+Level: 50  
+EVs: 29 Def / 8 SpD / 29 Spe  
+Docile Nature  
+- Glare  
+- Surf  
+- Tickle  
+- Bulldoze  
+

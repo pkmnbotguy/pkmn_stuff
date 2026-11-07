@@ -1,0 +1,60 @@
+Vivillon-River @ Shuca Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 16 HP / 19 Def / 8 SpA / 23 Spe  
+Adamant Nature  
+- Solar Beam  
+- Whirlwind  
+- Acrobatics  
+- Stun Spore  
+
+Beartic @ Damp Rock  
+Ability: Slush Rush  
+Level: 50  
+EVs: 32 HP / 22 Def / 12 Spe  
+Gentle Nature  
+- Aerial Ace  
+- Grass Knot  
+- Swords Dance  
+- Close Combat  
+
+Tauros-Paldea-Combat @ Cheri Berry  
+Ability: Cud Chew  
+Level: 50  
+EVs: 21 Atk / 27 SpD / 18 Spe  
+Quirky Nature  
+- Sunny Day  
+- Swagger  
+- Thief  
+- Double-Edge  
+
+Pincurchin @ Terrain Extender  
+Ability: Electric Surge  
+Level: 50  
+EVs: 25 HP / 9 Def / 32 SpA  
+Impish Nature  
+- Surf  
+- Electro Ball  
+- Rising Voltage  
+- Charge  
+
+Espathra @ Zoom Lens  
+Ability: Opportunist  
+Level: 50  
+EVs: 12 Atk / 21 SpA / 1 SpD / 32 Spe  
+Hasty Nature  
+- Psyshock  
+- Seed Bomb  
+- Energy Ball  
+- Foul Play  
+
+Falinks @ Muscle Band  
+Ability: Battle Armor  
+Level: 50  
+EVs: 28 HP / 12 SpA / 26 Spe  
+Gentle Nature  
+- Body Press  
+- Snore  
+- Coaching  
+- No Retreat  
+

@@ -1,0 +1,59 @@
+Persian-Alola @ Life Orb
+Ability: Technician
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Mild Nature
+- Fake Out
+- Icy Wind
+- Power Gem
+- Snarl
+
+Starmie @ Starminite
+Ability: Natural Cure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Impish Nature
+- Trick Room
+- Protect
+- Liquidation
+- Aqua Jet
+
+Mamoswine @ Expert Belt
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Ice Shard
+- High Horsepower
+- Protect
+- Stealth Rock
+
+Runerigus @ Grassy Seed
+Ability: Wandering Spirit
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Body Press
+- Iron Defense
+- Poltergeist
+- Trick Room
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Talonflame @ Wise Glasses
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Hurricane
+- Flamethrower
+- Tailwind
+- Rain Dance

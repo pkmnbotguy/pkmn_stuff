@@ -1,0 +1,59 @@
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Flamethrower
+- Power Gem
+- Dragon Pulse
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Sucker Punch
+- Swords Dance
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Darkest Lariat
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 31 HP / 11 Def / 1 SpA / 23 SpD
+Calm Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Muddy Water
+- Ice Beam
+- Coil
+- Protect

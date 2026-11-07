@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+Scizor @ Life Orb
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Bug Bite
+- Bullet Punch
+- Dual Wingbeat
+- Protect
+
+Swampert @ Sitrus Berry
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flip Turn
+- Wide Guard
+- Wave Crash
+- High Horsepower
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Quiet Nature
+- Matcha Gotcha
+- Strength Sap
+- Trick Room
+- Rage Powder
+
+Annihilape @ Leftovers
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fire Punch
+- Shadow Ball
+- Close Combat
+- Protect

@@ -1,0 +1,60 @@
+Vivillon-Ocean @ Rocky Helmet  
+Ability: Shield Dust  
+Level: 50  
+EVs: 7 Atk / 21 Def / 32 SpD / 6 Spe  
+Sassy Nature  
+- Sleep Powder  
+- Giga Impact  
+- Air Slash  
+- Solar Beam  
+
+Gogoat @ Hard Stone  
+Ability: Grass Pelt  
+Level: 50  
+EVs: 20 HP / 20 SpA / 26 Spe  
+Gentle Nature  
+- Facade  
+- Leech Seed  
+- High Horsepower  
+- Solar Beam  
+
+Alakazam @ Lum Berry  
+Ability: Inner Focus  
+Level: 50  
+EVs: 26 Atk / 11 Def / 29 SpD  
+Quiet Nature  
+- Round  
+- Fire Punch  
+- Rain Dance  
+- Thief  
+
+Raichu @ Raichunite X  
+Ability: Static  
+Level: 50  
+EVs: 32 Atk / 23 SpA / 11 Spe  
+Lax Nature  
+- Volt Tackle  
+- Encore  
+- Grass Knot  
+- Body Slam  
+
+Alcremie-Mint-Cream @ Electric Seed  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 14 Atk / 10 SpA / 26 SpD / 16 Spe  
+Docile Nature  
+- Psychic  
+- Energy Ball  
+- Giga Impact  
+- Drain Punch  
+
+Toxapex @ Choice Scarf  
+Ability: Regenerator  
+Level: 50  
+EVs: 27 HP / 16 Def / 23 SpA  
+Modest Nature  
+- Ice Beam  
+- Snore  
+- Smack Down  
+- Scary Face  
+

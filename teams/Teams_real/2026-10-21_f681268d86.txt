@@ -1,0 +1,59 @@
+Pelipper @ Focus Sash
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Tailwind
+- Weather Ball
+- Wide Guard
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Dance
+- Waterfall
+- Protect
+- Crunch
+
+Empoleon @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 19 SpA / 15 Spe
+Modest Nature
+- Ice Beam
+- Surf
+- Flash Cannon
+- Protect
+
+Basculegion @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Protect
+
+Palafin @ Choice Scarf
+Ability: Zero to Hero
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Ice Punch
+- Jet Punch
+- Close Combat
+- Flip Turn
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 1 Def / 8 SpA / 24 SpD / 1 Spe
+Calm Nature
+- Will-O-Wisp
+- Thunder
+- Hydro Pump
+- Protect

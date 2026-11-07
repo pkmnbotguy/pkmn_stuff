@@ -1,0 +1,59 @@
+Persian-Alola @ Roseli Berry
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Snarl
+- Foul Play
+- Parting Shot
+- Fake Out
+
+Golurk @ Golurkite
+Ability: No Guard
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Headlong Rush
+- Poltergeist
+- Curse
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Dragon Dance
+- Protect
+
+Snorlax @ Leftovers
+Ability: Thick Fat
+Level: 50
+EVs: 22 HP / 32 Def / 12 SpD
+Bold Nature
+- Fissure
+- Body Press
+- Stockpile
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect
+
+Gourgeist @ Mental Herb
+Ability: Pickup
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Sassy Nature
+- Destiny Bond
+- Skill Swap
+- Trick Room
+- Protect

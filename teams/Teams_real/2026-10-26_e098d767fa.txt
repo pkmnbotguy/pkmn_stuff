@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Krookodile @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Jolly Nature
+- High Horsepower
+- Knock Off
+- Rock Slide
+- Close Combat
+
+Scrafty @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 27 HP / 6 Atk / 2 Def / 31 SpD
+Careful Nature
+- Fake Out
+- Knock Off
+- Drain Punch
+- Protect
+
+Rotom-Heat @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overheat
+- Thunderbolt
+- Will-O-Wisp
+- Protect
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 31 HP / 11 Atk / 1 Def / 15 SpD / 8 Spe
+Careful Nature
+- Brave Bird
+- Body Press
+- Tailwind
+- Protect

@@ -1,0 +1,59 @@
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Dazzling Gleam
+- Solar Beam
+- Weather Ball
+- Protect
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- After You
+- Trick
+
+Gallade @ Scope Lens
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Sacred Sword
+- Psycho Cut
+- Trick Room
+- Wide Guard
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Zap Cannon
+- Focus Blast
+- Protect
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Empoleon @ Zoom Lens
+Ability: Competitive
+Level: 50
+EVs: 30 HP / 31 SpA / 5 Spe
+Quiet Nature
+- Yawn
+- Roost
+- Hydro Pump
+- Flash Cannon

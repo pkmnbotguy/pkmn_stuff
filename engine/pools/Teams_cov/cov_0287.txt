@@ -1,0 +1,60 @@
+Noivern @ Focus Sash  
+Ability: Frisk  
+Level: 50  
+EVs: 32 Def / 10 SpA / 24 SpD  
+Bashful Nature  
+- Leech Life  
+- Dragon Rush  
+- Boomburst  
+- Substitute  
+
+Simipour @ Binding Band  
+Ability: Torrent  
+Level: 50  
+EVs: 24 HP / 30 Atk / 12 Def  
+Bold Nature  
+- Flip Turn  
+- Aqua Ring  
+- Surf  
+- Attract  
+
+Basculegion @ Lum Berry  
+Ability: Swift Swim  
+Level: 50  
+EVs: 32 Atk / 16 Def / 18 SpD  
+Adamant Nature  
+- Last Respects  
+- Phantom Force  
+- Rain Dance  
+- Endure  
+
+Ninetales-Alola @ Persim Berry  
+Ability: Snow Warning  
+Level: 50  
+EVs: 31 Atk / 23 Def / 12 Spe  
+Jolly Nature  
+- Chilling Water  
+- Agility  
+- Body Slam  
+- Payback  
+
+Pincurchin @ Misty Seed  
+Ability: Electric Surge  
+Level: 50  
+EVs: 12 HP / 22 Atk / 32 Def  
+Impish Nature  
+- Sleep Talk  
+- Chilling Water  
+- Giga Impact  
+- Discharge  
+
+Manectric @ Air Balloon  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 30 HP / 23 Atk / 13 SpA  
+Impish Nature  
+- Thunder Fang  
+- Supercell Slam  
+- Thunder Wave  
+- Overheat  
+

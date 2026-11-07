@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Shadow Ball
+- Disable
+- Perish Song
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Low Kick
+- Kowtow Cleave
+- Sucker Punch
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 30 Def / 4 SpD
+Relaxed Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Protect
+
+Sneasler @ Mental Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Throat Chop
+- Close Combat
+- Fake Out
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Flip Turn
+- Wave Crash
+- Phantom Force
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 26 Def / 5 SpA / 3 Spe
+Modest Nature
+- Protect
+- Rage Powder
+- Heat Wave
+- Quiver Dance

@@ -1,0 +1,59 @@
+Drampa @ Drampanite
+Ability: Cloud Nine
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Hyper Voice
+- Draco Meteor
+- Earth Power
+- Protect
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- High Horsepower
+- Ice Punch
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Bold Nature
+- Psychic
+- Imprison
+- Trick Room
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Protect
+
+Sneasler @ Life Orb
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Gunk Shot
+- Close Combat
+- Dire Claw
+- Protect
+
+Archaludon @ Magnet
+Ability: Sturdy
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Electro Shot
+- Draco Meteor
+- Flash Cannon
+- Protect

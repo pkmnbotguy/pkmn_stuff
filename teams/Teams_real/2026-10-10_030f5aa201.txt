@@ -1,0 +1,59 @@
+Chesnaught @ Chesnaughtite
+Ability: Bulletproof
+Level: 50
+EVs: 32 HP / 8 Def / 26 SpD
+Jolly Nature
+- Spiky Shield
+- Swords Dance
+- Wood Hammer
+- Drain Punch
+
+Armarouge @ Expert Belt
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Will-O-Wisp
+- Protect
+- Psychic
+- Armor Cannon
+
+Aerodactyl @ Leftovers
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Tailwind
+- Dual Wingbeat
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 16 Def / 16 SpD / 32 Spe
+Jolly Nature
+- Spirit Break
+- Light Screen
+- Reflect
+- Parting Shot
+
+Basculegion @ Mystic Water
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Waterfall
+- Protect
+- Aqua Jet
+- Last Respects
+
+Toxtricity-Low-Key @ Life Orb
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Overdrive
+- Protect
+- Toxic
+- Sludge Bomb

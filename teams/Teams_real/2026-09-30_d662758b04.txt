@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Psychic
+- Heat Wave
+- Overheat
+- Protect
+
+Garchomp @ Bright Powder
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stomping Tantrum
+- Dragon Claw
+- Earthquake
+- Protect
+
+Primarina @ Sitrus Berry
+Ability: Liquid Voice
+Level: 50
+EVs: 16 HP / 21 Def / 24 SpA / 5 Spe
+Timid Nature
+- Haze
+- Hyper Voice
+- Moonblast
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Rock Slide
+- Superpower
+- Protect
+
+Tsareena @ Coba Berry
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Triple Axel
+- Trop Kick
+- Low Kick
+- Protect
+
+Gholdengo @ Focus Sash
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Nasty Plot
+- Shadow Ball
+- Make It Rain
+- Protect

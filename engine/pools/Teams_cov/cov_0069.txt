@@ -1,0 +1,60 @@
+Sharpedo @ Haban Berry  
+Ability: Speed Boost  
+Level: 50  
+EVs: 27 Def / 7 SpD / 32 Spe  
+Rash Nature  
+- Flip Turn  
+- Protect  
+- Round  
+- Rain Dance  
+
+Snorlax @ Expert Belt  
+Ability: Thick Fat  
+Level: 50  
+EVs: 9 HP / 28 Atk / 29 Def  
+Naive Nature  
+- Rain Dance  
+- Focus Punch  
+- Swallow  
+- Body Press  
+
+Avalugg-Hisui @ Icy Rock  
+Ability: Sturdy  
+Level: 50  
+EVs: 5 HP / 2 SpA / 28 SpD / 31 Spe  
+Gentle Nature  
+- Mirror Coat  
+- Rapid Spin  
+- Bulldoze  
+- Body Slam  
+
+Gallade @ Scope Lens  
+Ability: Sharpness  
+Level: 50  
+EVs: 32 Atk / 32 SpD / 2 Spe  
+Mild Nature  
+- Imprison  
+- Mega Kick  
+- Hex  
+- Air Slash  
+
+Steelix @ Persim Berry  
+Ability: Sturdy  
+Level: 50  
+EVs: 14 HP / 28 Atk / 22 Def / 2 Spe  
+Sassy Nature  
+- Dig  
+- Stone Edge  
+- Brutal Swing  
+- Flail  
+
+Cofagrigus @ Magnet  
+Ability: Mummy  
+Level: 50  
+EVs: 8 Atk / 30 SpD / 28 Spe  
+Careful Nature  
+- Thief  
+- Dark Pulse  
+- Energy Ball  
+- Grass Knot  
+

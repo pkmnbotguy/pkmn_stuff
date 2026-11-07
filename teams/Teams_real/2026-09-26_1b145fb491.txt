@@ -1,0 +1,59 @@
+Mimikyu @ Life Orb
+Ability: Disguise
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Play Rough
+- Shadow Claw
+- Shadow Sneak
+- Protect
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Thunderbolt
+- Hydro Pump
+- Will-O-Wisp
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Body Press
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 4 Atk / 1 Def / 15 SpD / 14 Spe
+Careful Nature
+- Brave Bird
+- Iron Head
+- Tailwind
+- Roost
+
+Goodra-Hisui @ Expert Belt
+Ability: Sap Sipper
+Level: 50
+EVs: 32 HP / 6 Def / 18 SpA / 10 SpD
+Brave Nature
+- Flamethrower
+- Dragon Pulse
+- Sludge Wave
+- Protect

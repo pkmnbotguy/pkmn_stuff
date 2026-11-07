@@ -1,0 +1,59 @@
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Superpower
+- Psycho Cut
+- Knock Off
+- Protect
+
+Gliscor @ Life Orb
+Ability: Hyper Cutter
+Level: 50
+EVs: 14 HP / 25 Atk / 1 Def / 5 SpD / 21 Spe
+Adamant Nature
+- High Horsepower
+- Dual Wingbeat
+- Rock Slide
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Wave Crash
+- Flip Turn
+- Aqua Jet
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Bold Nature
+- Rage Powder
+- Trick Room
+- Life Dew
+- Matcha Gotcha
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hardy Nature
+- Tailwind
+- Fake Tears
+- Protect
+- Charm
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Aurora Veil
+- Protect

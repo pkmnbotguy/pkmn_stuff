@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Dual Wingbeat
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Moonblast
+- Charm
+- Encore
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Icy Wind
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Protect
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Calm Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect

@@ -1,0 +1,60 @@
+Indeedee @ Wide Lens  
+Ability: Synchronize  
+Level: 50  
+EVs: 32 HP / 20 Def / 9 SpA / 5 Spe  
+Jolly Nature  
+- Dazzling Gleam  
+- Helping Hand  
+- Protect  
+- Drain Punch  
+
+Banette @ Mental Herb  
+Ability: Frisk  
+Level: 50  
+EVs: 19 HP / 22 SpA / 25 SpD  
+Naive Nature  
+- Gunk Shot  
+- Trailblaze  
+- Imprison  
+- Trick  
+
+Aerodactyl @ Rawst Berry  
+Ability: Unnerve  
+Level: 50  
+EVs: 32 Def / 27 SpA / 7 SpD  
+Lonely Nature  
+- Roar  
+- Stone Edge  
+- Stealth Rock  
+- Meteor Beam  
+
+Polteageist-Antique @ Air Balloon  
+Ability: Cursed Body  
+Level: 50  
+EVs: 23 SpA / 18 SpD / 25 Spe  
+Brave Nature  
+- Baton Pass  
+- Shell Smash  
+- Hex  
+- Self-Destruct  
+
+Feraligatr @ Passho Berry  
+Ability: Torrent  
+Level: 50  
+EVs: 16 Atk / 10 SpA / 12 SpD / 28 Spe  
+Adamant Nature  
+- Brick Break  
+- Blizzard  
+- Body Slam  
+- Dragon Claw  
+
+Rhyperior @ Shell Bell  
+Ability: Reckless  
+Level: 50  
+EVs: 32 Atk / 23 Def / 11 SpD  
+Bold Nature  
+- Facade  
+- Focus Blast  
+- Endure  
+- Dragon Tail  
+

@@ -1,0 +1,60 @@
+Meowscarada @ Persim Berry  
+Ability: Overgrow  
+Level: 50  
+EVs: 12 HP / 32 Def / 22 Spe  
+Modest Nature  
+- Dark Pulse  
+- Helping Hand  
+- Chilling Water  
+- Lash Out  
+
+Rhyperior @ Metal Coat  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 32 HP / 1 SpA / 8 SpD / 25 Spe  
+Lonely Nature  
+- Rock Wrecker  
+- Heat Crash  
+- Metal Burst  
+- Reversal  
+
+Blastoise @ Miracle Seed  
+Ability: Rain Dish  
+Level: 50  
+EVs: 31 HP / 25 Def / 10 SpD  
+Hardy Nature  
+- Fling  
+- Body Slam  
+- Ice Beam  
+- Rapid Spin  
+
+Stunfisk-Galar @ Smooth Rock  
+Ability: Mimicry  
+Level: 50  
+EVs: 31 Atk / 4 Def / 24 SpA / 7 SpD  
+Lax Nature  
+- Snap Trap  
+- Surf  
+- Screech  
+- Earthquake  
+
+Houndstone @ Normal Gem  
+Ability: Fluffy  
+Level: 50  
+EVs: 23 HP / 5 Atk / 8 SpA / 30 Spe  
+Modest Nature  
+- Sleep Talk  
+- Howl  
+- Mud Shot  
+- Shadow Sneak  
+
+Ceruledge @ Leppa Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 31 Atk / 15 SpD / 20 Spe  
+Bashful Nature  
+- Bitter Blade  
+- Shadow Ball  
+- Reflect  
+- Night Shade  
+

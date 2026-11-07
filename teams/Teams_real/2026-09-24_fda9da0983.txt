@@ -1,0 +1,59 @@
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 22 HP / 12 Def / 32 Spe
+Impish Nature
+- Iron Head
+- Psychic Fangs
+- Ice Punch
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Endeavor
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Dragon Pulse
+- Flash Cannon
+- Aura Sphere
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Serious Nature
+- Hyper Voice
+- Draco Meteor
+- Earthquake
+- Protect
+
+Gallade @ Sitrus Berry
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sacred Sword
+- Psycho Cut
+- Coaching
+- Wide Guard
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Draco Meteor
+- Flash Cannon
+- Protect

@@ -1,0 +1,59 @@
+Lucario @ Lucarionite Z
+Ability: Steadfast
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Flash Cannon
+- Dark Pulse
+- Nasty Plot
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Dragon Pulse
+- Earth Power
+- Flamethrower
+
+Basculegion @ Mystic Water
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Last Respects
+- Aqua Jet
+- Flip Turn
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sunny Day
+- Moonblast
+- Trick Room
+- Tailwind
+
+Milotic @ Grassy Seed
+Ability: Competitive
+Level: 50
+EVs: 22 HP / 31 Def / 1 SpA / 12 SpD
+Calm Nature
+- Scald
+- Helping Hand
+- Dragon Tail
+- Alluring Voice
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+- High Horsepower

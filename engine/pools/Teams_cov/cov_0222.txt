@@ -1,0 +1,60 @@
+Toucannon @ Leftovers  
+Ability: Skill Link  
+Level: 50  
+EVs: 28 HP / 3 Def / 26 SpA / 9 SpD  
+Adamant Nature  
+- Beak Blast  
+- Roost  
+- Encore  
+- Feather Dance  
+
+Mawile @ Hard Stone  
+Ability: Intimidate  
+Level: 50  
+EVs: 2 HP / 18 Atk / 32 SpA / 14 Spe  
+Quirky Nature  
+- Steel Beam  
+- Ice Beam  
+- Psychic Fangs  
+- Crunch  
+
+Gourgeist-Super @ Aspear Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 21 Def / 27 SpA / 14 SpD / 4 Spe  
+Sassy Nature  
+- Scary Face  
+- Solar Beam  
+- Gyro Ball  
+- Shadow Sneak  
+
+Metagross @ Wacan Berry  
+Ability: Light Metal  
+Level: 50  
+EVs: 25 HP / 18 Atk / 23 Def  
+Bold Nature  
+- Psychic Fangs  
+- Brick Break  
+- Grass Knot  
+- Stealth Rock  
+
+Espeon @ Big Root  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 11 HP / 14 Def / 16 SpA / 25 Spe  
+Rash Nature  
+- Psyshock  
+- Yawn  
+- Light Screen  
+- Trailblaze  
+
+Corviknight @ Poison Barb  
+Ability: Pressure  
+Level: 50  
+EVs: 30 Atk / 30 SpA / 6 Spe  
+Mild Nature  
+- Scary Face  
+- Sleep Talk  
+- Protect  
+- Roost  
+

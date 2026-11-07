@@ -1,0 +1,59 @@
+Tinkaton @ Leftovers
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Brave Nature
+- Protect
+- Wood Hammer
+- Gigaton Hammer
+- Play Rough
+
+Dragonite @ Dragoninite
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Blizzard
+- Draco Meteor
+- Heat Wave
+- Extreme Speed
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Light of Ruin
+- Dazzling Gleam
+- Moonblast
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+- Protect
+
+Garchomp @ Sitrus Berry
+Ability: Rough Skin
+Level: 50
+EVs: 32 HP / 15 Atk / 19 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Protect
+- Rock Slide
+
+Mimikyu @ White Herb
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Phantom Force
+- Trick Room
+- Play Rough
+- Wood Hammer

@@ -1,0 +1,59 @@
+Garchomp @ Garchompite Z
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Draco Meteor
+- Flamethrower
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Lycanroc-Dusk @ Choice Scarf
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Drill Run
+- Rock Slide
+- Iron Head
+
+Mimikyu @ Leftovers
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Sassy Nature
+- Shadow Sneak
+- Will-O-Wisp
+- Trick Room
+- Protect
+
+Ninetales @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Weather Ball
+- Encore
+- Protect

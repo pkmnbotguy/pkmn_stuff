@@ -1,0 +1,59 @@
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Trick  Room
+- Psychic
+- Helping Hand
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Protect
+- Low Kick
+- Knock Off
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Expanding Force
+- Hyper Voice
+- Moonblast
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+- Fake Out
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Protect
+- Rock Slide
+- Iron Head
+
+Meowscarada @ Life Orb
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flower Trick
+- Protect
+- Knock Off
+- Triple Axel

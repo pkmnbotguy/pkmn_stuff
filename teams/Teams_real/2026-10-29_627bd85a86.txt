@@ -1,0 +1,59 @@
+Ceruledge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Bitter Blade
+- Poltergeist
+- Solar Blade
+- Close Combat
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Taunt
+- Moonblast
+- Tailwind
+- Sunny Day
+
+Basculegion @ Mystic Water
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Impish Nature
+- Iron Defense
+- Iron Head
+- Body Press
+- Roost
+
+Kommo-O @ Dragon Fang
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Clangorous Soul
+- Aura Sphere
+- Protect
+
+Toxtricity @ Sitrus Berry
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overdrive
+- Sludge Bomb
+- Boomburst
+- Protect

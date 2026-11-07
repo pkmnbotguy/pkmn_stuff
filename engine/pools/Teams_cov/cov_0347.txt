@@ -1,0 +1,60 @@
+Vivillon-Elegant @ Payapa Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 29 HP / 20 SpD / 17 Spe  
+Hardy Nature  
+- Tailwind  
+- Air Cutter  
+- Facade  
+- String Shot  
+
+Swalot @ Bright Powder  
+Ability: Gluttony  
+Level: 50  
+EVs: 21 HP / 14 Atk / 31 Spe  
+Mild Nature  
+- Rain Dance  
+- Hyper Beam  
+- Sleep Talk  
+- Earthquake  
+
+Aggron @ Aggronite  
+Ability: Sturdy  
+Level: 50  
+EVs: 1 HP / 32 Atk / 32 Def / 1 SpA  
+Adamant Nature  
+- Dark Pulse  
+- Metal Sound  
+- Heavy Slam  
+- Screech  
+
+Gallade @ Never-Melt Ice  
+Ability: Sharpness  
+Level: 50  
+EVs: 32 HP / 18 Atk / 4 Def / 12 SpD  
+Careful Nature  
+- Reversal  
+- Wonder Room  
+- Snore  
+- Upper Hand  
+
+Hydrapple @ Kebia Berry  
+Ability: Supersweet Syrup  
+Level: 50  
+EVs: 32 Atk / 24 SpA / 10 Spe  
+Naive Nature  
+- Fickle Beam  
+- Syrup Bomb  
+- Heavy Slam  
+- Earth Power  
+
+Gogoat @ Miracle Seed  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 15 HP / 13 Atk / 6 SpA / 32 SpD  
+Impish Nature  
+- Bulk Up  
+- Play Rough  
+- Grassy Terrain  
+- Rest  
+

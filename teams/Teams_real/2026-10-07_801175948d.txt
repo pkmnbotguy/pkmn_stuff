@@ -1,0 +1,59 @@
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draining Kiss
+- Moonblast
+- Calm Mind
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 26 HP / 32 Def / 3 SpA / 5 SpD
+Calm Nature
+- Hypnosis
+- Muddy Water
+- Coil
+- Life Dew
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Rage Powder
+- Struggle Bug
+- Overheat
+- Tailwind
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Will-O-Wisp
+- Parting Shot
+- Fake Out
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Spirit Break
+- Parting Shot
+- Light Screen
+- Reflect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Rock Slide

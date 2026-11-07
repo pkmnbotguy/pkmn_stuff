@@ -1,0 +1,59 @@
+Eelektross @ Eelektrossite
+Ability: Levitate
+Level: 50
+EVs: 7 HP / 4 Def / 32 SpA / 23 Spe
+Modest Nature
+- Protect
+- Thunderbolt
+- Muddy Water
+- Discharge
+
+Krookodile @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Protect
+- High Horsepower
+- Crunch
+- Earthquake
+
+Mimikyu @ Expert Belt
+Ability: Disguise
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Protect
+- Shadow Claw
+- Play Rough
+- Shadow Sneak
+
+Armarouge @ Air Balloon
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Protect
+- Armor Cannon
+- Heat Wave
+- Trick Room
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Rock Slide
+- Tailwind
+- Wide Guard
+
+Hydrapple @ Dragon Fang
+Ability: Supersweet Syrup
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Protect
+- Fickle Beam
+- Giga Drain
+- Nasty Plot

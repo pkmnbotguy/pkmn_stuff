@@ -1,0 +1,59 @@
+Araquanid @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD
+Brave Nature
+- Liquidation
+- Leech Life
+- Wide Guard
+- Protect
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Shadow Claw
+- Focus Energy
+- Detect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 7 Def / 27 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Trick Room
+- Rage Powder
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Sucker Punch
+- Protect
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Dark Pulse
+- Flamethrower
+- Earth Power
+
+Toxicroak @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 3 HP / 32 Atk / 1 Def / 1 SpD / 29 Spe
+Jolly Nature
+- Fake Out
+- Close Combat
+- Poison Jab
+- Protect

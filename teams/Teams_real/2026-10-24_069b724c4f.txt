@@ -1,0 +1,59 @@
+Azumarill @ Leftovers
+Ability: Sap Sipper
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Aqua Ring
+- Protect
+
+Milotic @ Mystic Water
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Ice Beam
+- Light Screen
+- Recover
+- Muddy Water
+
+Scizor @ Expert Belt
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Bullet Punch
+- Protect
+- Assurance
+- Bug Bite
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Swords Dance
+- Rain Dance
+- Rock Slide
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Ice Beam
+- Weather Ball
+- Wide Guard
+
+Rotom-Wash @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Hydro Pump
+- Will-O-Wisp
+- Thunder Wave
+- Volt Switch

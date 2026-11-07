@@ -1,0 +1,59 @@
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sucker Punch
+- Protect
+- Kowtow Cleave
+- Low Kick
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Dark Pulse
+- Flamethrower
+- Protect
+
+Sableye @ Black Glasses
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Adamant Nature
+- Recover
+- Sucker Punch
+- Shadow Sneak
+- Rain Dance
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Shadow Claw
+- Protect
+- Knock Off
+
+Basculegion @ Mystic Water
+Ability: Swift Swim
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Last Respects
+- Phantom Force
+- Wave Crash
+- Crunch
+
+Mimikyu @ Red Card
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Play Rough
+- Shadow Claw
+- Trick Room
+- Shadow Sneak

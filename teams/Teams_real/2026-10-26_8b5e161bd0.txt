@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Ancient Power
+- Weather Ball
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Moonblast
+- Tailwind
+- Encore
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Wave Crash
+- Last Respects
+- Aqua Jet
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Protect
+- Psychic
+- Helping Hand
+- Trick Room
+
+Incineroar @ Charcoal
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Play Rough
+- Sucker Punch
+- Swords Dance

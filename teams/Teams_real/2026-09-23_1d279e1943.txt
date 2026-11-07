@@ -1,0 +1,59 @@
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Nasty Plot
+- Flash Cannon
+- Aura Sphere
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Will-O-Wisp
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Flip Turn
+- Wave Crash
+- Psychic Fangs
+- Last Respects
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Protect
+- Psychic
+- Helping Hand
+
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpA
+Modest Nature
+- Expanding Force
+- Hyper Voice
+- Trick Room
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Rock Slide
+- Close Combat
+- Poison Jab

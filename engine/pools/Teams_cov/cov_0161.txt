@@ -1,0 +1,60 @@
+Absol @ Shell Bell  
+Ability: Justified  
+Level: 50  
+EVs: 24 Atk / 16 SpA / 26 SpD  
+Lonely Nature  
+- Shadow Claw  
+- Protect  
+- Bite  
+- Thunder  
+
+Alcremie-Ruby-Swirl @ Poison Barb  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 25 Atk / 8 SpA / 1 SpD / 32 Spe  
+Rash Nature  
+- Hyper Beam  
+- Psyshock  
+- Drain Punch  
+- Round  
+
+Floette-Eternal @ Big Root  
+Ability: Symbiosis  
+Level: 50  
+EVs: 27 HP / 6 Atk / 23 SpD / 10 Spe  
+Serious Nature  
+- Giga Drain  
+- Alluring Voice  
+- Light of Ruin  
+- Wish  
+
+Infernape @ Heat Rock  
+Ability: Iron Fist  
+Level: 50  
+EVs: 17 Def / 23 SpD / 26 Spe  
+Docile Nature  
+- Fling  
+- Vacuum Wave  
+- Dig  
+- Roar  
+
+Gengar @ Gengarite  
+Ability: Cursed Body  
+Level: 50  
+EVs: 15 HP / 17 Atk / 32 SpA / 2 Spe  
+Naive Nature  
+- Scary Face  
+- Energy Ball  
+- Will-O-Wisp  
+- Hypnosis  
+
+Oranguru @ Oran Berry  
+Ability: Telepathy  
+Level: 50  
+EVs: 17 Atk / 28 Def / 12 SpD / 9 Spe  
+Mild Nature  
+- Fling  
+- Pain Split  
+- Safeguard  
+- Giga Impact  
+

@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Super Luck
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sucker Punch
+- Night Slash
+- Play Rough
+- Close Combat
+
+Serperior @ Sitrus Berry
+Ability: Contrary
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Serious Nature
+- Leaf Storm
+- Protect
+- Dragon Pulse
+- Glare
+
+Rotom-Heat @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 1 Def / 25 SpA / 1 SpD / 7 Spe
+Serious Nature
+- Overheat
+- Volt Switch
+- Protect
+- Thunder
+
+Politoed @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Perish Song
+- Protect
+- Ice Beam
+- Muddy Water
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Knock Off
+- Triple Axel
+- Brick Break
+
+Gourgeist @ Quick Claw
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Sassy Nature
+- Trick Room
+- Phantom Force
+- Shadow Sneak
+- Power Whip

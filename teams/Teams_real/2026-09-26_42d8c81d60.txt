@@ -1,0 +1,59 @@
+Pangoro @ Chople Berry
+Ability: Scrappy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Relaxed Nature
+- Sleep Talk
+- Drain Punch
+- Comeuppance
+- Rest
+
+Decidueye @ Focus Sash
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sucker Punch
+- Protect
+- Leaf Blade
+- Phantom Force
+
+Pawmot @ Leppa Berry
+Ability: Volt Absorb
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Encore
+- Revival Blessing
+- Supercell Slam
+
+Politoed @ Air Balloon
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Jolly Nature
+- Hypnosis
+- Belly Drum
+- Protect
+- Haze
+
+Umbreon @ Mental Herb
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Bold Nature
+- Psych Up
+- Detect
+- Baton Pass
+- Wish
+
+Starmie @ Starminite
+Ability: Natural Cure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Bold Nature
+- Minimize
+- Protect
+- Bulk Up
+- Skill Swap

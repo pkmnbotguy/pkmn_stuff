@@ -1,0 +1,59 @@
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- High Horsepower
+- Ice Punch
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Wide Guard
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Kleavor @ White Herb
+Ability: Swarm
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stone Axe
+- X-Scissor
+- Aerial Ace
+- Protect
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Terrain Pulse
+- Energy Ball
+- Mystical Fire
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Expanding Force
+- Aura Sphere
+- Protect

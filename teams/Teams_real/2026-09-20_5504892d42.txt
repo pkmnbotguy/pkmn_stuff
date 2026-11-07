@@ -1,0 +1,59 @@
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Iron Head
+- Ice Punch
+- Psychic Fangs
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Rock Slide
+- Protect
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Snarl
+- Draco Meteor
+- Dark Pulse
+- Earth Power
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 30 SpD / 4 Spe
+Careful Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- U-turn
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Weather Ball
+- Solar Beam
+- Protect

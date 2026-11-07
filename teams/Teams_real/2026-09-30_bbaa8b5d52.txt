@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Protect
+- Tailwind
+
+Armarouge @ Focus Sash
+Ability: Weak Armor
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Armor Cannon
+- Focus Blast
+- Expanding Force
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Reflect
+- Psychic
+- Helping Hand
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sucker Punch
+- Kowtow Cleave
+- Iron Head
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Weather Ball
+- Heat Wave
+- Solar Beam
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Flip Turn
+- Aqua Jet
+- Wave Crash
+- Last Respects

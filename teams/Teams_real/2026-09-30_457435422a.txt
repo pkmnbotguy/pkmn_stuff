@@ -1,0 +1,59 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Protect
+- Tailwind
+- Encore
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Protect
+- Draco Meteor
+- Flamethrower
+
+Zoroark-Hisui @ Life Orb
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Bitter Malice
+- Hyper Beam
+- Flamethrower
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Focus Blast
+- Protect
+- Zap Cannon
+- Fake Out
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- Kowtow Cleave
+- Sucker Punch
+- Low Kick
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Expanding Force
+- Imprison
+- Trick Room
+- Protect

@@ -1,0 +1,60 @@
+Florges @ Shuca Berry  
+Ability: Flower Veil  
+Level: 50  
+EVs: 32 HP / 6 Atk / 18 SpD / 10 Spe  
+Rash Nature  
+- Synthesis  
+- Pollen Puff  
+- Charm  
+- Stored Power  
+
+Wigglytuff @ Leftovers  
+Ability: Frisk  
+Level: 50  
+EVs: 32 HP / 18 Atk / 11 SpD / 5 Spe  
+Rash Nature  
+- Charm  
+- Expanding Force  
+- Hyper Beam  
+- Hyper Voice  
+
+Espeon @ Normal Gem  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 23 HP / 10 Atk / 32 Def / 1 SpD  
+Relaxed Nature  
+- Imprison  
+- Hyper Beam  
+- Round  
+- Stored Power  
+
+Torkoal @ Passho Berry  
+Ability: White Smoke  
+Level: 50  
+EVs: 24 Atk / 21 Def / 21 Spe  
+Sassy Nature  
+- Body Press  
+- Helping Hand  
+- Burning Jealousy  
+- Bulldoze  
+
+Farfetch’d @ Haban Berry  
+Ability: Keen Eye  
+Level: 50  
+EVs: 3 HP / 2 Def / 17 SpA / 14 SpD / 30 Spe  
+Impish Nature  
+- Simple Beam  
+- Helping Hand  
+- Solar Blade  
+- Curse  
+
+Toxicroak @ Black Glasses  
+Ability: Anticipation  
+Level: 50  
+EVs: 30 HP / 13 SpD / 23 Spe  
+Sassy Nature  
+- Toxic  
+- Low Kick  
+- Lash Out  
+- Fake Out  
+

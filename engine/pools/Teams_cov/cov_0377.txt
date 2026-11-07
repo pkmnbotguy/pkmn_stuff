@@ -1,0 +1,60 @@
+Vivillon-River @ Focus Sash  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 20 HP / 4 Atk / 15 SpD / 27 Spe  
+Serious Nature  
+- Stun Spore  
+- Draining Kiss  
+- Air Slash  
+- Bug Buzz  
+
+Alakazam @ Sharp Beak  
+Ability: Synchronize  
+Level: 50  
+EVs: 2 Atk / 32 SpA / 32 SpD  
+Sassy Nature  
+- Skill Swap  
+- Trick  
+- Foul Play  
+- Disable  
+
+Blaziken @ Icy Rock  
+Ability: Speed Boost  
+Level: 50  
+EVs: 16 HP / 14 Def / 12 SpA / 24 Spe  
+Naive Nature  
+- Assurance  
+- Curse  
+- Facade  
+- Detect  
+
+Mr. Rime @ Light Clay  
+Ability: Ice Body  
+Level: 50  
+EVs: 14 HP / 32 Atk / 10 SpD / 10 Spe  
+Mild Nature  
+- Drain Punch  
+- Magic Room  
+- Snowscape  
+- Shadow Ball  
+
+Gourgeist-Super @ Haban Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 10 Atk / 24 Def / 32 SpD  
+Quiet Nature  
+- Foul Play  
+- Energy Ball  
+- Round  
+- Gyro Ball  
+
+Goodra @ Black Glasses  
+Ability: Gooey  
+Level: 50  
+EVs: 32 HP / 2 Def / 4 SpA / 22 SpD / 6 Spe  
+Sassy Nature  
+- Power Whip  
+- Counter  
+- Breaking Swipe  
+- Fire Punch  
+

@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Psycho Cut
+- Icy Wind
+- Detect
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Double Shock
+- Close Combat
+- Fake Out
+- Revival Blessing
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Trick
+- Mystical Fire
+- After You
+
+Talonflame @ Charcoal
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flare Blitz
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Kommo-O @ Life Orb
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Clangorous Soul
+- Aura Sphere
+- Protect
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Power Gem
+- Sludge Bomb
+- Earth Power
+- Spiky Shield

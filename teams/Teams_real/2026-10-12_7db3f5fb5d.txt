@@ -1,0 +1,59 @@
+Toxicroak @ Life Orb
+Ability: Dry Skin
+Level: 50
+EVs: 3 HP / 32 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Poison Jab
+- Sucker Punch
+
+Dragalge @ Dragalgite
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Sludge Bomb
+- Dragon Pulse
+- Flip Turn
+- Protect
+
+Slowking-Galar @ Red Card
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Trick Room
+- Sludge Bomb
+- Ice Beam
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Power Gem
+- Earth Power
+- Sludge Bomb
+- Spiky Shield
+
+Overqwil @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 5 Def / 15 SpD / 13 Spe
+Careful Nature
+- Barb Barrage
+- Liquidation
+- Throat Chop
+- Protect
+
+Beedrill @ Beedrillite
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Drill Run
+- Knock Off
+- Poison Jab
+- Protect

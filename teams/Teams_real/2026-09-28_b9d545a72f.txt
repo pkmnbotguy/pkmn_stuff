@@ -1,0 +1,59 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 27 Def / 7 SpD
+Careful Nature
+- Spirit Break
+- Light Screen
+- Parting Shot
+- Fake Out
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 32 HP / 2 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Protect
+- Perish Song
+- Imprison
+
+Overqwil @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Careful Nature
+- Barb Barrage
+- Stockpile
+- Minimize
+- Protect
+
+Audino @ Mental Herb
+Ability: Healer
+Level: 50
+EVs: 32 HP / 22 Def / 12 SpD
+Sassy Nature
+- Simple Beam
+- Trick Room
+- Yawn
+- Life Dew
+
+Sableye @ Sablenite
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 7 Def / 27 SpD
+Bold Nature
+- Psych Up
+- Recover
+- Night Shade
+- Will-O-Wisp
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 5 Atk / 3 Def / 25 SpD
+Impish Nature
+- Flare Blitz
+- Protect
+- Fake Out
+- Parting Shot

@@ -1,0 +1,60 @@
+Meowstic @ Kasib Berry  
+Ability: Keen Eye  
+Level: 50  
+EVs: 10 Atk / 20 Def / 32 SpA / 4 SpD  
+Quirky Nature  
+- Calm Mind  
+- Psychic  
+- Iron Tail  
+- Trick Room  
+
+Kingambit @ Wise Glasses  
+Ability: Pressure  
+Level: 50  
+EVs: 32 Atk / 9 Def / 25 SpA  
+Hardy Nature  
+- Dark Pulse  
+- Kowtow Cleave  
+- Fling  
+- Night Slash  
+
+Bastiodon @ Colbur Berry  
+Ability: Soundproof  
+Level: 50  
+EVs: 13 Atk / 12 Def / 20 SpA / 21 SpD  
+Quirky Nature  
+- Snore  
+- Facade  
+- Rest  
+- Bulldoze  
+
+Glalie @ Charti Berry  
+Ability: Ice Body  
+Level: 50  
+EVs: 11 HP / 24 Atk / 17 SpD / 14 Spe  
+Sassy Nature  
+- Ice Fang  
+- Double Team  
+- Fake Tears  
+- Disable  
+
+Alcremie-Rainbow-Swirl @ Silk Scarf  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 15 Atk / 23 SpA / 28 SpD  
+Serious Nature  
+- Safeguard  
+- Draining Kiss  
+- Protect  
+- Rest  
+
+Tauros @ Spell Tag  
+Ability: Anger Point  
+Level: 50  
+EVs: 32 HP / 28 SpA / 6 SpD  
+Modest Nature  
+- Icy Wind  
+- Bulldoze  
+- Shadow Ball  
+- Fire Blast  
+

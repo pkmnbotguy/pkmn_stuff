@@ -1,0 +1,59 @@
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Solar Beam
+- Protect
+- Dazzling Gleam
+- Weather Ball
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Aurora Veil
+- Blizzard
+- Freeze-Dry
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 11 Def / 5 SpA / 1 SpD / 17 Spe
+Modest Nature
+- Bug Buzz
+- Heat Wave
+- Protect
+- Quiver Dance
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Rock Tomb
+- Close Combat
+- Fake Out
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Knock Off
+- Fake Out
+- U-turn
+- Grassy Glide
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Glaive Rush
+- Protect
+- High Horsepower
+- Icicle Spear

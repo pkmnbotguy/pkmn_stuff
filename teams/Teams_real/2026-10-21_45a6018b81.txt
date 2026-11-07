@@ -1,0 +1,59 @@
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Sludge Bomb
+- Earth Power
+- Leech Seed
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Coil
+- Muddy Water
+- Life Dew
+- Hypnosis
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Snarl
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Leech Life
+- Iron Head
+- Drill Run
+
+Dragapult @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Light Screen
+- Reflect
+- Draco Meteor
+- Shadow Ball
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 9 HP / 22 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Calm Mind
+- Protect
+- Moonblast

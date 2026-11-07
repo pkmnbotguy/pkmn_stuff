@@ -1,0 +1,59 @@
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Dance
+- Ice Punch
+- Knock Off
+- Protect
+
+Dragapult @ Choice Scarf
+Ability: Clear Body
+Level: 50
+EVs: 32 Atk / 5 SpD / 29 Spe
+Adamant Nature
+- Dragon Darts
+- Phantom Force
+- U-turn
+- Breaking Swipe
+
+Pawmot @ Life Orb
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Double Shock
+- Fake Out
+- Close Combat
+- Revival Blessing
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Protect
+
+Garchomp @ Garchompite Z
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Earth Power
+- Protect
+- Flamethrower

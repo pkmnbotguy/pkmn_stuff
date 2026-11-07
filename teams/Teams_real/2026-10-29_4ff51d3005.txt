@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Knock Off
+- Rock Slide
+- Ice Punch
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Giga Drain
+- Earth Power
+- Sludge Bomb
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 1 Def / 8 SpA / 24 SpD / 1 Spe
+Calm Nature
+- Protect
+- Thunderbolt
+- Hydro Pump
+- Will-O-Wisp
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Protect
+- High Horsepower
+- Iron Head
+- Rock Slide
+
+Skeledirge @ Leftovers
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 2 SpA / 32 SpD
+Bold Nature
+- Protect
+- Slack Off
+- Torch Song
+- Shadow Ball
+
+Kommo-O @ Haban Berry
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Protect
+- Clanging Scales
+- Coaching
+- Aura Sphere

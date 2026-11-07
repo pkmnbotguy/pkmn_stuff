@@ -1,0 +1,59 @@
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Close Combat
+- Dire Claw
+- Fake Out
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- Protect
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Flash Cannon
+- Shadow Ball
+- Make It Rain
+- Power Gem
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Weather Ball
+- Ancient Power
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Protect
+- Tailwind
+- Draco Meteor
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Ice Shard
+- Knock Off
+- Ice Spinner

@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Impish Nature
+- Protect
+- Rock Slide
+- Knock Off
+- Dragon Dance
+
+Houndstone @ Spell Tag
+Ability: Sand Rush
+Level: 50
+EVs: 28 HP / 9 Atk / 9 Def / 20 Spe
+Adamant Nature
+- Last Respects
+- Stomping Tantrum
+- Protect
+- Snarl
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- High Horsepower
+- Grassy Glide
+- Wood Hammer
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Hyper Voice
+- Dragon Pulse
+- Flamethrower
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Moonblast
+- Perish Song
+- Hyper Voice
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 14 Def / 23 SpD
+Calm Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Protect

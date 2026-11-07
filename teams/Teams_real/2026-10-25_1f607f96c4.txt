@@ -1,0 +1,59 @@
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Play Rough
+- Rock Slide
+- Iron Head
+
+Trevenant @ Sitrus Berry
+Ability: Harvest
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Careful Nature
+- Seed Bomb
+- Trick Room
+- Will-O-Wisp
+- Knock Off
+
+Toxapex @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Bold Nature
+- Infestation
+- Recover
+- Toxic
+- Baneful Bunker
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- Rock Slide
+- Dual Wingbeat
+- Wide Guard
+
+Houndoom @ Houndoominite
+Ability: Flash Fire
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Dark Pulse
+- Sunny Day
+- Protect
+
+Annihilape @ Leftovers
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 5 Atk / 7 Def / 10 SpD / 12 Spe
+Adamant Nature
+- Protect
+- Drain Punch
+- Rage Fist
+- Poison Jab

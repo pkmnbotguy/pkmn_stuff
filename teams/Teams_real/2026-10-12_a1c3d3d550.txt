@@ -1,0 +1,59 @@
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Calm Mind
+- Protect
+- Moonblast
+- Dazzling Gleam
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Psyshock
+- Protect
+- Nasty Plot
+
+Sinistcha @ Occa Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Trick Room
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Helping Hand
+- Throat Chop
+- Fake Out
+- Parting Shot
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Swords Dance
+- Sucker Punch
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Poison Jab
+- Quick Guard
+- Close Combat

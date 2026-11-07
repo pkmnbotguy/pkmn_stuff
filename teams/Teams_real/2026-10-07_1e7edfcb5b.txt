@@ -1,0 +1,59 @@
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 21 HP / 14 Atk / 1 SpD / 30 Spe
+Adamant Nature
+- Gunk Shot
+- Close Combat
+- U-turn
+- Protect
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Earthquake
+- High Horsepower
+- Protect
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 10 Def / 17 SpA / 7 SpD
+Bold Nature
+- Weather Ball
+- Hurricane
+- Helping Hand
+- Wide Guard
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 19 SpD / 15 Spe
+Bold Nature
+- Dragon Pulse
+- Electro Shot
+- Aura Sphere
+- Protect
+
+Basculegion-F @ Focus Sash
+Ability: Swift Swim
+Level: 50
+EVs: 1 Def / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Muddy Water
+- Shadow Ball
+- Ice Beam
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Sucker Punch
+- Protect

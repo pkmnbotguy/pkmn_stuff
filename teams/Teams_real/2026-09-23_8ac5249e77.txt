@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Swords Dance
+- Leech Life
+- Iron Head
+- Protect
+
+Politoed @ Life Orb
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Weather Ball
+- Protect
+- Perish Song
+- Ice Beam
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 14 Def / 7 SpA / 13 SpD
+Calm Nature
+- Expanding Force
+- Trick Room
+- Ally Switch
+- Helping Hand
+
+Indeedee-F @ Eject Button
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Psychic
+- Follow Me
+- Heal Pulse
+- Helping Hand
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Sassy Nature
+- Spirit Break
+- Parting Shot
+- Light Screen
+- Reflect

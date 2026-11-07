@@ -1,0 +1,60 @@
+Emolga @ Occa Berry  
+Ability: Motor Drive  
+Level: 50  
+EVs: 17 HP / 20 Atk / 29 Def  
+Impish Nature  
+- Double Team  
+- Volt Switch  
+- Speed Swap  
+- Protect  
+
+Lycanroc @ Miracle Seed  
+Ability: Sand Rush  
+Level: 50  
+EVs: 15 HP / 32 Atk / 5 SpD / 14 Spe  
+Hasty Nature  
+- Assurance  
+- Iron Tail  
+- Sleep Talk  
+- Sunny Day  
+
+Charizard @ Charizardite Y  
+Ability: Solar Power  
+Level: 50  
+EVs: 19 Def / 11 SpA / 28 SpD / 8 Spe  
+Sassy Nature  
+- Helping Hand  
+- Weather Ball  
+- Substitute  
+- Focus Punch  
+
+Samurott-Hisui @ Eject Button  
+Ability: Torrent  
+Level: 50  
+EVs: 11 HP / 10 Def / 22 SpA / 23 SpD  
+Brave Nature  
+- Ceaseless Edge  
+- Screech  
+- Sacred Sword  
+- Encore  
+
+Baxcalibur @ Smooth Rock  
+Ability: Thermal Exchange  
+Level: 50  
+EVs: 25 Atk / 11 Def / 20 SpD / 10 Spe  
+Modest Nature  
+- Rain Dance  
+- Protect  
+- Giga Impact  
+- Helping Hand  
+
+Grapploct @ Twisted Spoon  
+Ability: Limber  
+Level: 50  
+EVs: 13 HP / 1 Atk / 32 SpD / 20 Spe  
+Jolly Nature  
+- Octolock  
+- Close Combat  
+- Bind  
+- Taunt  
+

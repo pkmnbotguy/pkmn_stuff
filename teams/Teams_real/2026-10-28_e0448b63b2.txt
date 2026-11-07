@@ -1,0 +1,59 @@
+Blaziken @ Blazikenite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Detect
+- Close Combat
+- Flare Blitz
+- Rock Slide
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sucker Punch
+- Kowtow Cleave
+- Protect
+- Swords Dance
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Protect
+- U-turn
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Protect
+- Perish Song
+- Disable
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Protect
+- Parting Shot
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Shadow Ball
+- Heat Wave
+- Extrasensory

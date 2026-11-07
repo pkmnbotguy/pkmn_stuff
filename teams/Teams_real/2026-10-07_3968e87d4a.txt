@@ -1,0 +1,59 @@
+Lucario @ Lucarionite
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Meteor Mash
+- Blaze Kick
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Beat Up
+- Encore
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 11 Def / 23 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Encore
+- Protect
+
+Araquanid @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Liquidation
+- Leech Life
+- Wide Guard
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Fake Out
+- Darkest Lariat
+- Parting Shot
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Blizzard
+- Aurora Veil
+- Encore
+- Protect

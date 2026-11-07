@@ -1,0 +1,60 @@
+Altaria @ Icy Rock  
+Ability: Natural Cure  
+Level: 50  
+EVs: 22 HP / 30 Atk / 9 Def / 5 SpD  
+Calm Nature  
+- Sky Attack  
+- Haze  
+- Pluck  
+- Hyper Beam  
+
+Leafeon @ Roseli Berry  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 32 HP / 2 Def / 32 Spe  
+Jolly Nature  
+- Shadow Ball  
+- Rest  
+- Synthesis  
+- Rain Dance  
+
+Musharna @ Life Orb  
+Ability: Synchronize  
+Level: 50  
+EVs: 32 HP / 32 Atk / 2 Def  
+Mild Nature  
+- Amnesia  
+- Future Sight  
+- Hypnosis  
+- Round  
+
+Sneasler @ Babiri Berry  
+Ability: Unburden  
+Level: 50  
+EVs: 7 HP / 27 Def / 32 SpD  
+Timid Nature  
+- Quick Attack  
+- Screech  
+- Switcheroo  
+- Sunny Day  
+
+Roserade @ Tanga Berry  
+Ability: Poison Point  
+Level: 50  
+EVs: 16 Atk / 28 Def / 21 SpA / 1 SpD  
+Naughty Nature  
+- Worry Seed  
+- Shadow Ball  
+- Seed Bomb  
+- Solar Beam  
+
+Garbodor @ Wacan Berry  
+Ability: Weak Armor  
+Level: 50  
+EVs: 14 Def / 32 SpA / 20 SpD  
+Sassy Nature  
+- Payback  
+- Stockpile  
+- Substitute  
+- Pain Split  
+

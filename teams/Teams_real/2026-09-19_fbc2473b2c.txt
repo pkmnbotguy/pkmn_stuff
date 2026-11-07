@@ -1,0 +1,59 @@
+Klefki @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Bold Nature
+- Rain Dance
+- Reflect
+- Light Screen
+- Dazzling Gleam
+
+Perrserker @ Iron Ball
+Ability: Steely Spirit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fake Out
+- Helping Hand
+- Gyro Ball
+- Close Combat
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Detect
+- Extreme Speed
+- Drain Punch
+- Crunch
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Protect
+- Electro Shot
+- Snarl
+- Dragon Pulse
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Protect
+- Make It Rain
+- Shadow Ball
+- Power Gem
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Trailblaze
+- Iron Head
+- Stomping Tantrum

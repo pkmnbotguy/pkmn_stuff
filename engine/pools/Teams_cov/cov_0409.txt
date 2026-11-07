@@ -1,0 +1,60 @@
+Krookodile @ Expert Belt  
+Ability: Intimidate  
+Level: 50  
+EVs: 26 Atk / 8 Def / 10 SpA / 21 SpD / 1 Spe  
+Relaxed Nature  
+- Throat Chop  
+- Snarl  
+- Power Trip  
+- Dig  
+
+Glimmora @ Chople Berry  
+Ability: Corrosion  
+Level: 50  
+EVs: 31 Atk / 32 Def / 3 SpA  
+Bold Nature  
+- Rock Polish  
+- Earth Power  
+- Light Screen  
+- Flash Cannon  
+
+Sinistcha @ Icy Rock  
+Ability: Hospitality  
+Level: 50  
+EVs: 24 HP / 32 Atk / 3 SpD / 7 Spe  
+Jolly Nature  
+- Memento  
+- Psych Up  
+- Grassy Terrain  
+- Stun Spore  
+
+Vivillon-Fancy @ Shuca Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 12 HP / 12 Atk / 11 Def / 31 SpA  
+Bold Nature  
+- Quiver Dance  
+- Struggle Bug  
+- Giga Impact  
+- Sunny Day  
+
+Reuniclus @ Never-Melt Ice  
+Ability: Overcoat  
+Level: 50  
+EVs: 19 HP / 9 Def / 18 SpD / 20 Spe  
+Quirky Nature  
+- Rain Dance  
+- Trick Room  
+- Ice Punch  
+- Psychic  
+
+Alcremie-Caramel-Swirl @ Terrain Extender  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 25 HP / 13 Def / 28 Spe  
+Modest Nature  
+- Entrainment  
+- Encore  
+- Imprison  
+- Psychic  
+

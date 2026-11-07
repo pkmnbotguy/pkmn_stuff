@@ -1,0 +1,59 @@
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Vacuum Wave
+- Protect
+- Flash Cannon
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 12 SpD / 2 Spe
+Bold Nature
+- Muddy Water
+- Hypnosis
+- Protect
+- Ice Beam
+
+Mimikyu @ Mental Herb
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Trick Room
+- Shadow Claw
+- Play Rough
+- Swords Dance
+
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Protect
+- Expanding Force
+- Moonblast
+
+Indeedee-F @ Terrain Extender
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Trick Room
+- Psychic
+- Helping Hand
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Trick Room
+- Expanding Force
+- Protect
+- Heat Wave

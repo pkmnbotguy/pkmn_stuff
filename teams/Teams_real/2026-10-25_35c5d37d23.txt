@@ -1,0 +1,59 @@
+Scizor @ Scizorite
+Ability: Swarm
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Jolly Nature
+- Iron Head
+- Lunge
+- Close Combat
+- Tailwind
+
+Eelektross @ Eelektrossite
+Ability: Levitate
+Level: 50
+EVs: 7 HP / 4 Def / 32 SpA / 23 Spe
+Timid Nature
+- Giga Drain
+- Thunderbolt
+- Dragon Pulse
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+Lycanroc-Dusk @ Bright Powder
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Accelerock
+- Sucker Punch
+- Play Rough
+
+Sableye @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Quash
+- Disable
+- Encore
+- Fake Out
+
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Earthquake
+- Knock Off
+- Protect

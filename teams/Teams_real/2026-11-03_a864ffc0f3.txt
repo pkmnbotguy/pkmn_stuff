@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Expanding Force
+- Grass Knot
+- Protect
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Psychic
+- Helping Hand
+- Follow Me
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Rock Tomb
+- Protect
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Coaching
+- Phantom Force
+- Shadow Claw
+
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Armor Cannon
+- Expanding Force
+- Wide Guard
+- Protect
+
+Garchomp @ Garchompite
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Scale Shot
+- Rock Slide
+- Stomping Tantrum
+- Protect

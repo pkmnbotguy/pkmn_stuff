@@ -1,0 +1,60 @@
+Qwilfish @ Rindo Berry  
+Ability: Swift Swim  
+Level: 50  
+EVs: 32 Def / 19 SpA / 15 Spe  
+Sassy Nature  
+- Barb Barrage  
+- Giga Impact  
+- Fell Stinger  
+- Spit Up  
+
+Vileplume @ Metronome  
+Ability: Effect Spore  
+Level: 50  
+EVs: 18 HP / 17 Def / 31 SpD  
+Relaxed Nature  
+- Sweet Scent  
+- Solar Beam  
+- Giga Impact  
+- Corrosive Gas  
+
+Perrserker @ Normal Gem  
+Ability: Tough Claws  
+Level: 50  
+EVs: 31 HP / 32 SpA / 3 SpD  
+Brave Nature  
+- Thunderbolt  
+- Protect  
+- Taunt  
+- Endeavor  
+
+Lycanroc @ Charti Berry  
+Ability: Steadfast  
+Level: 50  
+EVs: 3 HP / 23 Atk / 27 Def / 13 SpD  
+Quirky Nature  
+- Fire Fang  
+- Scary Face  
+- Dig  
+- Hyper Voice  
+
+Appletun @ Icy Rock  
+Ability: Thick Fat  
+Level: 50  
+EVs: 11 HP / 15 Atk / 22 SpD / 18 Spe  
+Brave Nature  
+- Dragon Tail  
+- Sucker Punch  
+- Superpower  
+- Body Press  
+
+Slurpuff @ Roseli Berry  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 32 HP / 32 SpA / 2 SpD  
+Naughty Nature  
+- Thunderbolt  
+- Draining Kiss  
+- Endeavor  
+- Misty Explosion  
+

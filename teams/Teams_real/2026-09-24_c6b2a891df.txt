@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Flamethrower
+- Draco Meteor
+- Hyper Voice
+- Protect
+
+Rillaboom @ Rocky Helmet
+Ability: Grassy Surge
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Fake Out
+- High Horsepower
+- U-turn
+- Grassy Glide
+
+Empoleon @ Grassy Seed
+Ability: Competitive
+Level: 50
+EVs: 30 HP / 31 SpA / 5 Spe
+Modest Nature
+- Protect
+- Flash Cannon
+- Hydro Pump
+- Ice Beam
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Head Smash
+- Extreme Speed
+- Protect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Psychic Fangs
+- Protect
+- Body Press
+- Steel Roller
+
+Grimmsnarl @ Leftovers
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Taunt
+- Spirit Break
+- Fake Out
+- Parting Shot

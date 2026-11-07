@@ -1,0 +1,59 @@
+Torkoal @ Life Orb
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Relaxed Nature
+- Body Press
+- Flare Blitz
+- Curse
+- Protect
+
+Pelipper @ Expert Belt
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Protect
+- Wide Guard
+
+Oranguru @ Twisted Spoon
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Expanding Force
+- Instruct
+- Trick Room
+- Protect
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Ancient Power
+- Earth Power
+- Heat Wave
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Imprison
+- Follow Me
+- Trick Room
+- Protect
+
+Meganium @ Meganiumite
+Ability: Overgrow
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Solar Beam
+- Dazzling Gleam
+- Weather Ball
+- Protect

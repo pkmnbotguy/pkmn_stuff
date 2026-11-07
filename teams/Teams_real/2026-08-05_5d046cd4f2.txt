@@ -1,0 +1,59 @@
+Garchomp @ Garchompite
+Ability: Rough Skin
+Level: 50
+EVs: 30 HP / 32 Atk / 2 Def / 1 SpD / 1 Spe
+Adamant Nature
+- Dragon Claw
+- Brick Break
+- Rock Tomb
+- Earthquake
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Moonblast
+- Taunt
+- Tailwind
+- Trick Room
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 15 HP / 22 Def / 28 SpA / 1 Spe
+Modest Nature
+- Imprison
+- Heat Wave
+- Psychic
+- Trick Room
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 18 HP / 32 Atk / 1 Def / 15 SpD
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Protect
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Energy Ball
+- Moonblast
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Upper Hand
+- Protect

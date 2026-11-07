@@ -1,0 +1,60 @@
+Beedrill @ Focus Sash  
+Ability: Swarm  
+Level: 50  
+EVs: 10 HP / 24 SpA / 32 Spe  
+Hasty Nature  
+- Agility  
+- Pollen Puff  
+- Venoshock  
+- U-turn  
+
+Reuniclus @ Magnet  
+Ability: Regenerator  
+Level: 50  
+EVs: 32 Def / 27 SpA / 7 SpD  
+Docile Nature  
+- Energy Ball  
+- Calm Mind  
+- Attract  
+- Thunder  
+
+Gallade @ Muscle Band  
+Ability: Steadfast  
+Level: 50  
+EVs: 21 Atk / 9 Def / 20 SpA / 16 SpD  
+Timid Nature  
+- Bulldoze  
+- Psych Up  
+- Charm  
+- Shadow Sneak  
+
+Klefki @ Heat Rock  
+Ability: Prankster  
+Level: 50  
+EVs: 1 HP / 1 Def / 32 SpA / 32 SpD  
+Gentle Nature  
+- Fairy Lock  
+- Play Rough  
+- Magnet Rise  
+- Hyper Beam  
+
+Mr. Mime @ Wacan Berry  
+Ability: Technician  
+Level: 50  
+EVs: 17 HP / 3 Atk / 6 Def / 32 SpA / 8 SpD  
+Hardy Nature  
+- Uproar  
+- Attract  
+- Fake Out  
+- Power Swap  
+
+Vivillon-Sun @ Silver Powder  
+Ability: Shield Dust  
+Level: 50  
+EVs: 15 HP / 29 SpD / 22 Spe  
+Bold Nature  
+- Rain Dance  
+- Facade  
+- Iron Defense  
+- U-turn  
+

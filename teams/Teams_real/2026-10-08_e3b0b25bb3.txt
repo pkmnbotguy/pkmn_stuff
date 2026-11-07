@@ -1,0 +1,59 @@
+Indeedee-F @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Psychic
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Trick Room
+- Expanding Force
+- Dazzling Gleam
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Coil
+- Hypnosis
+- Muddy Water
+- Protect
+
+Golurk @ Golurkite
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Headlong Rush
+- Poltergeist
+- Rock Slide
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Earth Power
+- Weather Ball
+- Protect
+
+Gallade @ Expert Belt
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Wide Guard
+- Sacred Sword
+- Night Slash
+- Trick Room

@@ -1,0 +1,59 @@
+Forretress @ Iron Ball
+Ability: Overcoat
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Gyro Ball
+- Body Press
+- Power Trick
+- Curse
+
+Mr-Mime @ Kasib Berry
+Ability: Filter
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Dazzling Gleam
+- Fake Out
+- Wide Guard
+- Mystical Fire
+
+Scovillain @ Scovillainite
+Ability: Insomnia
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Calm Nature
+- Flamethrower
+- Energy Ball
+- Rage Powder
+- Protect
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Relaxed Nature
+- Psychic Terrain
+- Expanding Force
+- Trick Room
+- Thunderbolt
+
+Cofagrigus @ Sitrus Berry
+Ability: Mummy
+Level: 50
+EVs: 32 HP / 3 Def / 31 SpD
+Modest Nature
+- Shadow Ball
+- Destiny Bond
+- Dark Pulse
+- Fake Tears
+
+Runerigus @ Passho Berry
+Ability: Wandering Spirit
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Careful Nature
+- Earthquake
+- Phantom Force
+- Dragon Pulse
+- Amnesia

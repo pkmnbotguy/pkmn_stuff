@@ -1,0 +1,59 @@
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Protect
+- Heat Wave
+- Earth Power
+- Ancient Power
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 21 HP / 21 Def / 24 SpA
+Quiet Nature
+- Moonblast
+- Hyper Voice
+- Protect
+- Calm Mind
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 14 Def / 7 SpA / 13 SpD
+Calm Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Parting Shot
+- Throat Chop
+- Fake Out
+- Flare Blitz
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- First Impression
+- Leech Life
+- Protect
+- Iron Head
+
+Meowscarada @ Focus Sash
+Ability: Protean
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Triple Axel
+- U-turn
+- Knock Off
+- Flower Trick

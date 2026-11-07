@@ -1,0 +1,60 @@
+Espeon @ Coba Berry  
+Ability: Synchronize  
+Level: 50  
+EVs: 27 SpA / 9 SpD / 30 Spe  
+Jolly Nature  
+- Confuse Ray  
+- Hyper Voice  
+- Quick Attack  
+- Facade  
+
+Aggron @ Lum Berry  
+Ability: Heavy Metal  
+Level: 50  
+EVs: 23 HP / 31 SpA / 12 SpD  
+Hasty Nature  
+- Outrage  
+- Icy Wind  
+- Dragon Claw  
+- Body Slam  
+
+Rillaboom @ King's Rock  
+Ability: Grassy Surge  
+Level: 50  
+EVs: 19 SpA / 26 SpD / 21 Spe  
+Hasty Nature  
+- Earthquake  
+- Screech  
+- Worry Seed  
+- Sleep Talk  
+
+Garchomp @ Binding Band  
+Ability: Sand Veil  
+Level: 50  
+EVs: 22 Atk / 32 SpA / 12 SpD  
+Impish Nature  
+- Poison Jab  
+- Crunch  
+- Hyper Beam  
+- Scale Shot  
+
+Vivillon @ Fairy Feather  
+Ability: Friend Guard  
+Level: 50  
+EVs: 24 Def / 32 SpD / 10 Spe  
+Bold Nature  
+- Snore  
+- Tailwind  
+- Thief  
+- Sleep Powder  
+
+Rampardos @ Mystic Water  
+Ability: Sheer Force  
+Level: 50  
+EVs: 31 HP / 28 Atk / 7 SpA  
+Timid Nature  
+- Rock Blast  
+- Dragon Pulse  
+- Meteor Beam  
+- Ice Beam  
+

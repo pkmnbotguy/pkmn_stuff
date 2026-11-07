@@ -1,0 +1,60 @@
+Vivillon-Tundra @ Zoom Lens  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 2 HP / 32 Def / 32 Spe  
+Lonely Nature  
+- Facade  
+- Bug Buzz  
+- Quiver Dance  
+- Weather Ball  
+
+Grapploct @ Chople Berry  
+Ability: Technician  
+Level: 50  
+EVs: 2 HP / 25 Atk / 7 SpA / 32 Spe  
+Quiet Nature  
+- Body Slam  
+- Rest  
+- Sucker Punch  
+- Sleep Talk  
+
+Watchog @ Tanga Berry  
+Ability: Illuminate  
+Level: 50  
+EVs: 17 HP / 32 Atk / 17 SpD  
+Rash Nature  
+- Psych Up  
+- Crunch  
+- Fire Punch  
+- Rain Dance  
+
+Luxray @ King's Rock  
+Ability: Guts  
+Level: 50  
+EVs: 2 SpA / 32 SpD / 32 Spe  
+Gentle Nature  
+- Giga Impact  
+- Charge Beam  
+- Confuse Ray  
+- Snore  
+
+Rhyperior @ Eject Button  
+Ability: Solid Rock  
+Level: 50  
+EVs: 20 HP / 11 Atk / 5 Def / 30 SpA  
+Gentle Nature  
+- Fire Punch  
+- Uproar  
+- Sleep Talk  
+- Body Slam  
+
+Empoleon @ Electric Seed  
+Ability: Torrent  
+Level: 50  
+EVs: 12 HP / 24 Atk / 25 SpA / 5 Spe  
+Brave Nature  
+- Wave Crash  
+- Earthquake  
+- Power Trip  
+- Air Slash  
+

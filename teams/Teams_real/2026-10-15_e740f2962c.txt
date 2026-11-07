@@ -1,0 +1,59 @@
+Glaceon @ Never-Melt Ice
+Ability: Snow Cloak
+Level: 50
+EVs: 25 HP / 1 Def / 30 SpA / 10 Spe
+Modest Nature
+- Blizzard
+- Detect
+- Shadow Ball
+- Freeze-Dry
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Blizzard
+- Moonblast
+- Chilling Water
+
+Zoroark-Hisui @ Colbur Berry
+Ability: Illusion
+Level: 50
+EVs: 1 HP / 22 SpA / 11 SpD / 32 Spe
+Mild Nature
+- Bitter Malice
+- Hyper Voice
+- Psychic
+- Taunt
+
+Lycanroc-Dusk @ Focus Sash
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Accelerock
+- Protect
+- Close Combat
+- Sucker Punch
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Aura Sphere
+- Water Pulse
+- Protect
+- Fake Out
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Chilling Water
+- Shadow Ball

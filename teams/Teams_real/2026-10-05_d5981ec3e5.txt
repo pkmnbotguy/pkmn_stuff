@@ -1,0 +1,59 @@
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rising Voltage
+- Fake Out
+- Light Screen
+- Reflect
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Muddy Water
+- Perish Song
+- Psych Up
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Sludge Bomb
+- Perish Song
+- Protect
+
+Incineroar @ Eject Button
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Protect
+
+Espathra @ Electric Seed
+Ability: Speed Boost
+Level: 50
+EVs: 32 HP / 7 Def / 14 SpD / 13 Spe
+Timid Nature
+- Lumina Crash
+- Calm Mind
+- Baton Pass
+- Protect

@@ -1,0 +1,59 @@
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Weather Ball
+- Hurricane
+- Tailwind
+- Soak
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- U-turn
+- Fake Out
+- High Horsepower
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Flare Blitz
+- Darkest Lariat
+- Fake Out
+- Parting Shot
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse
+- Protect
+
+Tinkaton @ Life Orb
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Jolly Nature
+- Gigaton Hammer
+- Play Rough
+- Fake Out
+- Protect

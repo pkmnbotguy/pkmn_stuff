@@ -1,0 +1,59 @@
+Sirfetchd @ Leek
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- Leaf Blade
+- Night Slash
+- Meteor Assault
+- Detect
+
+Whimsicott @ Occa Berry
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Tailwind
+- Moonblast
+- Encore
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Thunderbolt
+- Tailwind
+- Dragon Pulse
+- Fire Blast
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- Protect
+- Sucker Punch
+- Kowtow Cleave
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Flip Turn
+- Wave Crash
+- Aqua Jet
+
+Mamoswine @ Focus Sash
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Icicle Crash
+- High Horsepower
+- Protect
+- Rock Slide

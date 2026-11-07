@@ -1,0 +1,59 @@
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Meteor Mash
+- Psychic Fangs
+- Stomping Tantrum
+- Protect
+
+Basculegion-F @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Jolly Nature
+- Wave Crash
+- Flip Turn
+- Aqua Jet
+- Last Respects
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Double Shock
+- Close Combat
+- Fake Out
+- Protect
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Brave Bird
+- Tailwind
+- Protect
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Calm Nature
+- Overheat
+- Giga Drain
+- Rage Powder
+- Protect
+
+Ninetales-Alola @ Sitrus Berry
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Icy Wind
+- Moonblast
+- Howl
+- Protect

@@ -1,0 +1,60 @@
+Garbodor @ Charti Berry  
+Ability: Aftermath  
+Level: 50  
+EVs: 14 HP / 13 Def / 24 SpD / 15 Spe  
+Impish Nature  
+- Self-Destruct  
+- Gunk Shot  
+- Rain Dance  
+- Pain Split  
+
+Vivillon-Marine @ Kasib Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 11 Def / 23 SpA / 32 SpD  
+Sassy Nature  
+- Quiver Dance  
+- Struggle Bug  
+- Rain Dance  
+- Bug Buzz  
+
+Sylveon @ Spell Tag  
+Ability: Cute Charm  
+Level: 50  
+EVs: 19 HP / 11 Atk / 27 SpD / 9 Spe  
+Lax Nature  
+- Misty Explosion  
+- Stored Power  
+- Roar  
+- Fake Tears  
+
+Flapple @ Yache Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 27 Def / 11 SpA / 28 SpD  
+Lax Nature  
+- Round  
+- Snore  
+- Hyper Beam  
+- Dragon Pulse  
+
+Pyroar @ Wacan Berry  
+Ability: Unnerve  
+Level: 50  
+EVs: 17 Def / 28 SpA / 14 SpD / 7 Spe  
+Calm Nature  
+- Entrainment  
+- Crunch  
+- Sunny Day  
+- Solar Beam  
+
+Simisage @ Light Clay  
+Ability: Overgrow  
+Level: 50  
+EVs: 17 HP / 31 Atk / 18 SpD  
+Hardy Nature  
+- Hyper Beam  
+- Grassy Glide  
+- Throat Chop  
+- Uproar  
+

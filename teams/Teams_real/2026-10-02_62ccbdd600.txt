@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Super Luck
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Claw
+- Night Slash
+- Close Combat
+- Detect
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Flamethrower
+- Earth Power
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Helping Hand
+- Tailwind
+- Protect
+
+Toxtricity @ Life Orb
+Ability: Punk Rock
+Level: 50
+EVs: 19 HP / 26 SpA / 21 Spe
+Modest Nature
+- Overdrive
+- Sludge Wave
+- Shift Gear
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Knock Off
+- Grassy Glide
+- Fake Out
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Psychic Noise
+- Helping Hand
+- Thunderbolt
+- Trick Room

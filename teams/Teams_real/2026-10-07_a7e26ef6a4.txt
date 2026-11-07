@@ -1,0 +1,59 @@
+Pincurchin @ Sitrus Berry
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpA
+Quiet Nature
+- Rising Voltage
+- Discharge
+- Sucker Punch
+- Protect
+
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Earth Power
+- Dragon Pulse
+- Detect
+
+Slurpuff @ Electric Seed
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Timid Nature
+- Misty Explosion
+- Fake Tears
+- After You
+- Protect
+
+Metagross @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Psychic Fangs
+- Steel Roller
+- Ice Punch
+- Protect
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- Knock Off
+- Drain Punch
+- Dragon Dance
+- Fake Out
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 16 Def / 6 SpD / 12 Spe
+Calm Nature
+- Hydro Pump
+- Rising Voltage
+- Will-O-Wisp
+- Protect

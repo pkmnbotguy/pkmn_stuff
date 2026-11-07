@@ -1,0 +1,59 @@
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Glaive Rush
+- Ice Shard
+- Swords Dance
+- Protect
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Icy Wind
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Coaching
+- Close Combat
+- Poison Jab
+- Protect
+
+Chesnaught @ Chesnaughtite
+Ability: Bulletproof
+Level: 50
+EVs: 32 HP / 8 Def / 26 SpD
+Brave Nature
+- Wide Guard
+- Spiky Shield
+- High Horsepower
+- Drain Punch
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Overheat
+- Struggle Bug
+- Rage Powder
+- Tailwind
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Thunderbolt
+- Will-O-Wisp
+- Hydro Pump
+- Electroweb

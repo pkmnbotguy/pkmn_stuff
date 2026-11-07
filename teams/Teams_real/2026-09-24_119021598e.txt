@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Psychic
+- Hyper Voice
+- Hyper Beam
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good As Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 22 HP / 19 Def / 12 SpA / 3 SpD / 10 Spe
+Bold Nature
+- Bug Buzz
+- Fiery Dance
+- Quiver Dance
+- Protect
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Zap Cannon
+- Focus Blast
+- Protect
+
+Baxcalibur @ Choice Scarf
+Ability: Thermal Exchange
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Glaive Rush
+- Icicle Crash
+- Ice Shard
+- High Horsepower

@@ -1,0 +1,59 @@
+Beedrill @ Beedrillite
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- U-turn
+- Poison Jab
+- Drill Run
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Psychic
+- Dazzling Gleam
+- Trick Room
+
+Heliolisk @ Life Orb
+Ability: Solar Power
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Hyper Voice
+- Volt Switch
+- Dark Pulse
+
+Torkoal @ Eject Button
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Protect
+- Flamethrower
+- Earth Power
+- Helping Hand
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Moonblast
+- Encore
+- Tailwind
+
+Golurk @ Expert Belt
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Protect
+- Headlong Rush
+- Poltergeist
+- Rock Slide

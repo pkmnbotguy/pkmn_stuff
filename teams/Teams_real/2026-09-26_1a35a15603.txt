@@ -1,0 +1,59 @@
+Sceptile @ sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+timid Nature
+- dragon pulse
+- earth power
+- protect
+- giga drain
+
+Rotom-Heat @ choice scarf
+Ability: levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+timid Nature
+- overheat
+- volt switch
+- discharge
+- trick
+
+Klefki @ light clay
+Ability: prankster
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+calm Nature
+- light screen
+- reflect
+- rain dance
+- trick room
+
+Scizor @ scizorite
+Ability: technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+adamant Nature
+- bullet punch
+- swords dance
+- protect
+- bug bite
+
+Primarina @ mystic water
+Ability: Liquid voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+adamant Nature
+- hyper voice
+- protect
+- moonblast
+- ice beam
+
+Cofagrigus @ mental herb
+Ability: mummy
+Level: 50
+EVs: 32 HP / 5 Def / 29 SpD
+relaxed Nature
+- trick room
+- Will-O-Wisp
+- body press
+- hex

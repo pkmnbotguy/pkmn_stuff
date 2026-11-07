@@ -1,0 +1,59 @@
+Basculegion @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Aqua Jet
+- Protect
+- Last Respects
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Weather Ball
+- Hurricane
+- Rain Dance
+- Icy Wind
+
+Archaludon @ Sitrus Berry
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Dragon Pulse
+- Flash Cannon
+- Electro Shot
+- Protect
+
+Pikachu @ Focus Sash
+Ability: Static
+Level: 50
+EVs: 32 HP / 2 SpD / 32 Spe
+Jolly Nature
+- Fake Out
+- Volt Switch
+- Endeavor
+- Upper Hand
+
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Dazzling Gleam
+- Weather Ball
+- Solar Beam
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Tailwind
+- Dragon Pulse
+- Protect

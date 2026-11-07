@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Close Combat
+- First Impression
+- Iron Head
+- Leech Life
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+- Fake Out
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 14 Def / 23 SpD
+Calm Nature
+- Trick Room
+- Helping Hand
+- Psychic
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Scald
+- Hypnosis
+- Icy Wind
+- Coil
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Timid Nature
+- Matcha Gotcha
+- Shadow Ball
+- Rage Powder
+- Life Dew
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Tailwind
+- Protect
+- Draco Meteor

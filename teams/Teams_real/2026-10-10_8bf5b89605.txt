@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Dragon Dance
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 27 HP / 23 Atk / 16 Spe
+Adamant Nature
+- Brave Bird
+- Tailwind
+- Roost
+- Bulk Up
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Coaching
+- Fake Out
+
+Houndstone @ Wide Lens
+Ability: Sand Rush
+Level: 50
+EVs: 28 HP / 9 Atk / 9 Def / 20 Spe
+Careful Nature
+- Poltergeist
+- Roar
+- Howl
+- Will-O-Wisp
+
+Dragapult @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Flamethrower
+- Shadow Ball
+- Protect

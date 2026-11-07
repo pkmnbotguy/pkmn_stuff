@@ -1,0 +1,59 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Tailwind
+- Moonblast
+- Encore
+- Endeavor
+
+Chandelure @ Chandelurite
+Ability: Infiltrator
+Level: 50
+EVs: 32 HP / 10 Def / 1 SpD / 23 Spe
+Timid Nature
+- Shadow Ball
+- Heat Wave
+- Energy Ball
+- Protect
+
+Slowking-Galar @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Trick Room
+- Ice Beam
+- Psychic
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Sucker Punch
+- Leech Life
+- Drill Run
+- Protect
+
+Palafin @ Mystic Water
+Ability: Zero to Hero
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Flip Turn
+- Jet Punch
+- Wave Crash
+- Drain Punch
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Naive Nature
+- Dragon Tail
+- Earth Power
+- Rock Slide
+- Protect

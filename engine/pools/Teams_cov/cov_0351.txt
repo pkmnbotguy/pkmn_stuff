@@ -1,0 +1,60 @@
+Sandaconda @ Leftovers  
+Ability: Sand Veil  
+Level: 50  
+EVs: 31 HP / 7 Atk / 28 SpA  
+Relaxed Nature  
+- Round  
+- Rock Tomb  
+- Bulldoze  
+- Hurricane  
+
+Houndoom @ Houndoominite  
+Ability: Early Bird  
+Level: 50  
+EVs: 19 Def / 32 SpD / 15 Spe  
+Hardy Nature  
+- Giga Impact  
+- Rain Dance  
+- Scorching Sands  
+- Flare Blitz  
+
+Vivillon-High Plains @ Chesto Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 5 HP / 28 Atk / 8 SpA / 7 SpD / 18 Spe  
+Lax Nature  
+- Facade  
+- U-turn  
+- Bug Bite  
+- Calm Mind  
+
+Maushold-Four @ Kasib Berry  
+Ability: Cheek Pouch  
+Level: 50  
+EVs: 20 Atk / 16 SpA / 30 SpD  
+Rash Nature  
+- Baby-Doll Eyes  
+- Hyper Voice  
+- Facade  
+- Thunder Wave  
+
+Bellibolt @ Muscle Band  
+Ability: Static  
+Level: 50  
+EVs: 30 Atk / 22 Def / 8 SpA / 6 SpD  
+Relaxed Nature  
+- Flail  
+- Supercell Slam  
+- Thunderbolt  
+- Eerie Impulse  
+
+Gallade @ Yache Berry  
+Ability: Sharpness  
+Level: 50  
+EVs: 26 Def / 8 SpA / 32 SpD  
+Relaxed Nature  
+- Snore  
+- Reflect  
+- Facade  
+- Magic Room  
+

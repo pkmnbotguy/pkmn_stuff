@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Sneasler @ Electric Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Rock Slide
+- Swords Dance
+- Protect
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Volt Tackle
+- Feint
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Protect
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+EVs: 17 HP / 13 Def / 5 SpA / 1 SpD / 30 Spe
+Modest Nature
+- Struggle Bug
+- Heat Wave
+- Quiver Dance
+- Protect

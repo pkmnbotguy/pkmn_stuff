@@ -1,0 +1,59 @@
+Typhlosion-Hisui @ Choice Scarf
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Heat Wave
+- Shadow Ball
+- Overheat
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Hyper Voice
+- Helping Hand
+- Psychic
+- Trick Room
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 24 HP / 15 Atk / 14 SpD / 13 Spe
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Throat Chop
+- Dire Claw
+- Close Combat
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Helping Hand
+- Eruption
+- Earth Power
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Draco Meteor
+- Flamethrower
+- Hyper Voice
+- Protect

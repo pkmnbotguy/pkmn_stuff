@@ -1,0 +1,59 @@
+Clawitzer @ Expert Belt
+Ability: Mega Launcher
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Pulse
+- Aura Sphere
+- Dark Pulse
+- Dragon Pulse
+
+Zoroark @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 7 SpD / 25 Spe
+Modest Nature
+- Night Daze
+- Sludge Bomb
+- Encore
+- Taunt
+
+Rotom-Fan @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Air Slash
+- Will-O-Wisp
+- Thunderbolt
+- Protect
+
+Noivern @ Yache Berry
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Draco Meteor
+- Flamethrower
+- Protect
+
+Toxicroak @ Life Orb
+Ability: Poison Touch
+Level: 50
+EVs: 3 HP / 32 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Poison Jab
+- Sucker Punch
+
+Heracross @ Heracronite
+Ability: Moxie
+Level: 50
+EVs: 21 HP / 25 Atk / 3 Def / 17 Spe
+Adamant Nature
+- Close Combat
+- Rock Blast
+- Pin Missile
+- Bullet Seed

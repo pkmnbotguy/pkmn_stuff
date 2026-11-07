@@ -1,0 +1,59 @@
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dark Pulse
+- Protect
+- Shell Smash
+- Water Spout
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+- Fake Out
+
+Delphox @ Delphoxite
+Ability: Magician
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Nasty Plot
+- Expanding Force
+- Protect
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Protect
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Dazzling Gleam
+- Trick Room
+- Imprison
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Double Shock
+- Fake Out
+- Revival Blessing
+- Close Combat

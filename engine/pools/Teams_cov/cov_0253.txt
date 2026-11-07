@@ -1,0 +1,60 @@
+Meowstic @ Wacan Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 22 HP / 4 Atk / 32 Def / 5 SpD / 3 Spe  
+Relaxed Nature  
+- Imprison  
+- Charge Beam  
+- Dark Pulse  
+- Misty Terrain  
+
+Araquanid @ Rindo Berry  
+Ability: Water Absorb  
+Level: 50  
+EVs: 7 Atk / 32 SpA / 27 SpD  
+Quirky Nature  
+- Sticky Web  
+- Giga Impact  
+- Stockpile  
+- Icy Wind  
+
+Dedenne @ Kasib Berry  
+Ability: Pickup  
+Level: 50  
+EVs: 11 HP / 18 Def / 5 SpA / 32 Spe  
+Sassy Nature  
+- Sunny Day  
+- Thunderbolt  
+- Eerie Impulse  
+- Rising Voltage  
+
+Alcremie-Rainbow-Swirl @ Babiri Berry  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 25 HP / 32 SpD / 9 Spe  
+Rash Nature  
+- Protect  
+- Baby-Doll Eyes  
+- Recover  
+- Psyshock  
+
+Tauros-Paldea-Aqua @ Heat Rock  
+Ability: Anger Point  
+Level: 50  
+EVs: 3 Atk / 32 Def / 31 SpA  
+Modest Nature  
+- Surf  
+- Sleep Talk  
+- Facade  
+- Reversal  
+
+Vivillon-Jungle @ Leftovers  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 Atk / 25 Def / 9 SpA  
+Gentle Nature  
+- Rage Powder  
+- Energy Ball  
+- Snore  
+- Tailwind  
+

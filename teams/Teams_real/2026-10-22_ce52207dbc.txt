@@ -1,0 +1,59 @@
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- U-turn
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Trick Room
+- Protect
+- Psychic
+- Imprison
+
+Incineroar @ White Herb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Flare Blitz
+- Parting Shot
+- Fake Out
+- Darkest Lariat
+
+Ampharos @ Ampharosite
+Ability: Static
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Thunderbolt
+- Dragon Pulse
+- Protect
+- Power Gem
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Protect
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Earth Power
+- Protect
+- Heat Wave
+- Ancient Power

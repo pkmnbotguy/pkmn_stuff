@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Weather Ball
+- Ancient Power
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Dragon Claw
+- Stomping Tantrum
+- Rock Slide
+
+Aegislash @ Focus Sash
+Ability: Stance Change
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wide Guard
+- Poltergeist
+- Close Combat
+- Shadow Sneak
+
+Venusaur @ Life Orb
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Leaf Storm
+- Sludge Bomb
+- Earth Power
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Parting Shot
+- Flare Blitz
+- Throat Chop
+- Fake Out
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Dazzling Gleam
+- Moonblast
+- Calm Mind

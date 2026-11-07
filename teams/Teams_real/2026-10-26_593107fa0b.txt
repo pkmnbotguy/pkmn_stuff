@@ -1,0 +1,59 @@
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Krookodile @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Earthquake
+- Knock Off
+- High Horsepower
+- Protect
+
+Hydreigon @ Black Glasses
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Snarl
+- Draco Meteor
+- Protect
+
+Zoroark-Hisui @ Choice Scarf
+Ability: Illusion
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Shadow Ball
+- Hyper Voice
+- Icy Wind
+- Snarl
+
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 27 HP / 32 SpA / 7 Spe
+Modest Nature
+- Heat Wave
+- Shadow Ball
+- Overheat
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Sucker Punch
+- Protect

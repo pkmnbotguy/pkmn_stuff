@@ -1,0 +1,59 @@
+Swampert @ Expert Belt
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- High Horsepower
+- Yawn
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Sludge Bomb
+- Perish Song
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Fake Out
+- Helping Hand
+- Flare Blitz
+- Parting Shot
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- U-turn
+- Wood Hammer
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Clangorous Soul
+- Aura Sphere
+- Protect
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rage Powder
+- Hurricane
+- Sleep Powder
+- Protect

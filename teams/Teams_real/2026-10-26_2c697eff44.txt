@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Rock Slide
+- Low Kick
+- Knock Off
+
+Cofagrigus @ Leftovers
+Ability: Mummy
+Level: 50
+EVs: 32 HP / 5 Def / 29 SpD
+Relaxed Nature
+- Shadow Ball
+- Trick Room
+- Ally Switch
+- Will-O-Wisp
+
+Mimikyu @ Fairy Feather
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Play Rough
+- Phantom Force
+- Trick Room
+- Wood Hammer
+
+Gengar @ Choice Scarf
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Hasty Nature
+- Shadow Ball
+- Sludge Bomb
+- Clear Smog
+- Destiny Bond
+
+Golurk @ Life Orb
+Ability: No Guard
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Headlong Rush
+- Protect
+- Dynamic Punch
+- Rock Slide
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Parting Shot
+- Fake Out
+- Light Screen
+- Spirit Break

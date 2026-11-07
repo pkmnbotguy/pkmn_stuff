@@ -1,0 +1,59 @@
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draining Kiss
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Nasty Plot
+- Heat Wave
+- Psychic
+
+Basculegion-F @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Muddy Water
+- Ice Beam
+- Protect
+
+Sinistcha @ Coba Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Rage Powder
+- Trick Room
+- Protect
+- Matcha Gotcha
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Dire Claw
+- Quick Guard
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Swords Dance
+- Sucker Punch
+- Protect

@@ -1,0 +1,59 @@
+Aggron @ Aggronite
+Ability: Heavy Metal
+Level: 50
+EVs: 31 HP / 1 Atk / 2 Def / 32 SpD
+Relaxed Nature
+- Body Press
+- Heavy Slam
+- Protect
+- Iron Defense
+
+Mr-Mime @ Sitrus Berry
+Ability: Filter
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Relaxed Nature
+- Trick Room
+- Wide Guard
+- Dazzling Gleam
+- Thunder
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Earthquake
+- Ice Punch
+- Wave Crash
+
+Pelipper @ Wacan Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Hurricane
+- Wide Guard
+- Weather Ball
+- Ice Beam
+
+Rillaboom @ Grassy Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Relaxed Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Chandelure @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Shadow Ball
+- Heat Wave
+- Trick Room
+- Protect

@@ -1,0 +1,59 @@
+Mimikyu @ Leftovers
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Impish Nature
+- Substitute
+- Will-O-Wisp
+- Play Rough
+- Trick Room
+
+Scrafty @ Life Orb
+Ability: Moxie
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Protect
+- Drain Punch
+- Fake Out
+- Knock Off
+
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 27 HP / 32 SpA / 7 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Shadow Ball
+- Solar Beam
+
+Meowstic @ Silver Powder
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 20 Def / 12 SpD
+Bold Nature
+- Fake Out
+- Psychic Terrain
+- Fake Tears
+- Sunny Day
+
+Empoleon @ Mystic Water
+Ability: Competitive
+Level: 50
+EVs: 30 HP / 31 SpA / 5 Spe
+Modest Nature
+- Protect
+- Flash Cannon
+- Surf
+- Ice Beam
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 10 HP / 23 Atk / 7 Def / 26 Spe
+Adamant Nature
+- Protect
+- Power Whip
+- Triple Axel
+- Zen Headbutt

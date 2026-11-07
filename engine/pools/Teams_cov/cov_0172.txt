@@ -1,0 +1,60 @@
+Whimsicott @ Focus Band  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 14 HP / 11 Def / 32 SpA / 9 Spe  
+Bold Nature  
+- Endure  
+- Energy Ball  
+- Giga Impact  
+- Grassy Terrain  
+
+Infernape @ Heat Rock  
+Ability: Blaze  
+Level: 50  
+EVs: 11 HP / 8 Atk / 32 SpA / 15 SpD  
+Careful Nature  
+- Solar Beam  
+- Focus Energy  
+- Burning Jealousy  
+- Snore  
+
+Kommo-o @ Metronome  
+Ability: Overcoat  
+Level: 50  
+EVs: 1 HP / 11 Atk / 8 Def / 32 SpA / 14 SpD  
+Impish Nature  
+- Aura Sphere  
+- Stealth Rock  
+- Giga Impact  
+- Close Combat  
+
+Vaporeon @ Sitrus Berry  
+Ability: Water Absorb  
+Level: 50  
+EVs: 32 HP / 32 Atk / 2 SpD  
+Adamant Nature  
+- Alluring Voice  
+- Flip Turn  
+- Rest  
+- Facade  
+
+Basculegion @ Babiri Berry  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 23 HP / 12 Def / 23 SpD / 8 Spe  
+Modest Nature  
+- Scale Shot  
+- Thrash  
+- Whirlpool  
+- Substitute  
+
+Polteageist @ King's Rock  
+Ability: Cursed Body  
+Level: 50  
+EVs: 26 HP / 19 Atk / 5 SpA / 16 Spe  
+Sassy Nature  
+- Facade  
+- Strength Sap  
+- Foul Play  
+- Curse  
+

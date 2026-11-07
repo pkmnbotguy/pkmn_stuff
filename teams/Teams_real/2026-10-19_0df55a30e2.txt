@@ -1,0 +1,59 @@
+Venusaur @ Quick Claw
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Giga Drain
+- Sleep Powder
+- Earth Power
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Solar Beam
+- Protect
+- Flamethrower
+- Scorching Sands
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Trick Room
+- Expanding Force
+- Helping Hand
+- Rain Dance
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Tomb
+- Sucker Punch
+- Kowtow Cleave
+- Shadow Claw
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dire Claw
+- Acrobatics
+- Close Combat
+- Protect

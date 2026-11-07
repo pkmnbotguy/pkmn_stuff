@@ -1,0 +1,59 @@
+Toxtricity-Low-Key @ Choice Scarf
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Overdrive
+- Snarl
+- Boomburst
+- Volt Switch
+
+Overqwil @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 5 Def / 15 SpD / 13 Spe
+Careful Nature
+- Aqua Jet
+- Barb Barrage
+- Throat Chop
+- Protect
+
+Salazzle @ Focus Sash
+Ability: Corrosion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Taunt
+- Toxic
+- Fake Out
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Icy Wind
+- Shadow Ball
+- Protect
+- Sludge Bomb
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Energy Ball
+- Protect
+- Leech Seed
+
+Sneasler @ Eject Button
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Coaching
+- Rock Slide
+- Protect

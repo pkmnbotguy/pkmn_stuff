@@ -1,0 +1,59 @@
+Pincurchin @ Magnet
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpA
+Quiet Nature
+- Rising Voltage
+- Sucker Punch
+- Muddy Water
+- Protect
+
+Slowbro @ Slowbronite
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Sassy Nature
+- Expanding Force
+- Scald
+- Focus Blast
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Helping Hand
+- Protect
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Leaf Storm
+- Earth Power
+- Sleep Powder
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Helping Hand
+- Follow Me
+- Trick Room
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Psychic Fangs
+- Steel Roller
+- Iron Head
+- Protect

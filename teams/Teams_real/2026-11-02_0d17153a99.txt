@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Rock Slide
+- Close Combat
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Dazzling Gleam
+- Expanding Force
+- Trick
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Trick Room
+- Follow Me
+- Helping Hand
+
+Armarouge @ Twisted Spoon
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Quiet Nature
+- Heat Wave
+- Expanding Force
+- Trick Room
+- Wide Guard
+
+Incineroar @ White Herb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Flare Blitz
+- Darkest Lariat
+- Close Combat
+- Fake Out
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Earth Power
+- Protect

@@ -1,0 +1,57 @@
+Rampardos @ Life Orb
+Ability: Sheer Force
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Rock Slide
+- Hammer Arm
+- Ice Beam
+- Protect
+
+Camerupt @ Cameruptite
+Ability: Magma Armor
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Heat Wave
+- Earth Power
+- Ancient Power
+- Substitute
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Rage Powder
+- Sleep Powder
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Bold Nature
+- Expanding Force
+- Trick Room
+- Imprison
+- Protect
+
+Kangaskhan @ Silk Scarf
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Fake Out
+- Last Resort

@@ -1,0 +1,60 @@
+Swampert @ Heat Rock  
+Ability: Torrent  
+Level: 50  
+EVs: 28 Def / 23 SpD / 15 Spe  
+Docile Nature  
+- Mud Shot  
+- Snore  
+- Knock Off  
+- Screech  
+
+Inteleon @ Oran Berry  
+Ability: Torrent  
+Level: 50  
+EVs: 22 Atk / 8 Def / 27 SpA / 9 SpD  
+Gentle Nature  
+- Hyper Beam  
+- Sleep Talk  
+- Agility  
+- Fling  
+
+Politoed @ Sharp Beak  
+Ability: Damp  
+Level: 50  
+EVs: 17 Atk / 26 Def / 1 SpA / 22 Spe  
+Bold Nature  
+- Hyper Voice  
+- Body Slam  
+- Endeavor  
+- Ice Punch  
+
+Espathra @ Muscle Band  
+Ability: Opportunist  
+Level: 50  
+EVs: 31 Atk / 17 SpA / 18 SpD  
+Adamant Nature  
+- Ally Switch  
+- Thief  
+- Last Resort  
+- Giga Impact  
+
+Crabominable @ Black Belt  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 25 Def / 16 SpA / 14 SpD / 11 Spe  
+Quirky Nature  
+- Sleep Talk  
+- Giga Impact  
+- Dig  
+- Thunder Punch  
+
+Flapple @ White Herb  
+Ability: Ripen  
+Level: 50  
+EVs: 11 Atk / 25 SpA / 23 SpD / 7 Spe  
+Bold Nature  
+- Iron Defense  
+- Endeavor  
+- Sucker Punch  
+- Giga Impact  
+

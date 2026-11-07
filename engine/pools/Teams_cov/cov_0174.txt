@@ -1,0 +1,60 @@
+Vivillon-Modern @ Shuca Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 4 HP / 6 Atk / 24 SpA / 32 Spe  
+Quirky Nature  
+- Sleep Talk  
+- Bug Buzz  
+- Air Slash  
+- Endure  
+
+Heracross @ Normal Gem  
+Ability: Moxie  
+Level: 50  
+EVs: 23 HP / 30 Def / 13 SpA  
+Bold Nature  
+- Struggle Bug  
+- Counter  
+- Sleep Talk  
+- Aerial Ace  
+
+Musharna @ Passho Berry  
+Ability: Forewarn  
+Level: 50  
+EVs: 11 HP / 7 Def / 16 SpA / 32 Spe  
+Docile Nature  
+- Imprison  
+- Curse  
+- Dazzling Gleam  
+- Psychic  
+
+Wyrdeer @ Chesto Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 23 HP / 17 Atk / 26 Spe  
+Bold Nature  
+- Trailblaze  
+- Scary Face  
+- Light Screen  
+- Sleep Talk  
+
+Typhlosion-Hisui @ Dragon Fang  
+Ability: Blaze  
+Level: 50  
+EVs: 32 HP / 10 Def / 20 SpA / 4 SpD  
+Hasty Nature  
+- Fire Blast  
+- Endure  
+- Overheat  
+- Gyro Ball  
+
+Stunfisk-Galar @ Leftovers  
+Ability: Mimicry  
+Level: 50  
+EVs: 32 HP / 32 Atk / 2 Spe  
+Lonely Nature  
+- Dig  
+- Flail  
+- Muddy Water  
+- Sleep Talk  
+

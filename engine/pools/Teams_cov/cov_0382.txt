@@ -1,0 +1,60 @@
+Squawkabilly-Blue @ Expert Belt  
+Ability: Hustle  
+Level: 50  
+EVs: 19 Atk / 14 SpA / 1 SpD / 32 Spe  
+Quirky Nature  
+- Flatter  
+- Fly  
+- Rest  
+- Parting Shot  
+
+Crabominable @ Twisted Spoon  
+Ability: Anger Point  
+Level: 50  
+EVs: 21 HP / 13 SpD / 32 Spe  
+Lonely Nature  
+- Iron Head  
+- Body Slam  
+- Iron Defense  
+- Close Combat  
+
+Alcremie-Ruby-Cream @ Light Clay  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 31 Def / 8 SpA / 9 SpD / 18 Spe  
+Relaxed Nature  
+- Decorate  
+- Hyper Beam  
+- Helping Hand  
+- Fling  
+
+Pidgeot @ Pidgeotite  
+Ability: Keen Eye  
+Level: 50  
+EVs: 32 HP / 29 Atk / 5 SpA  
+Adamant Nature  
+- Attract  
+- Substitute  
+- Facade  
+- Roost  
+
+Overqwil @ Icy Rock  
+Ability: Swift Swim  
+Level: 50  
+EVs: 16 HP / 19 Atk / 25 Def / 6 SpD  
+Hardy Nature  
+- Lash Out  
+- Waterfall  
+- Venoshock  
+- Hydro Pump  
+
+Flareon @ Mystic Water  
+Ability: Guts  
+Level: 50  
+EVs: 32 HP / 8 Def / 24 SpA / 2 SpD  
+Lax Nature  
+- Dig  
+- Shadow Ball  
+- Wish  
+- Temper Flare  
+

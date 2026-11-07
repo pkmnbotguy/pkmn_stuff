@@ -1,0 +1,59 @@
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Fake Out
+- Ice Spinner
+- Low Kick
+
+Kleavor @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- X-Scissor
+- Stone Axe
+- Dual Wingbeat
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Protect
+- Wide Guard
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Expanding Force
+- Trick Room
+- Imprison
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Leech Life
+- Drill Run
+- Protect
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hydro Pump
+- Thunderbolt
+- Will-O-Wisp
+- Protect

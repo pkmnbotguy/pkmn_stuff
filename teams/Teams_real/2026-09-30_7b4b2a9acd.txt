@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- First Impression
+- Leech Life
+- Liquidation
+- Iron Head
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Bold Nature
+- Trick Room
+- Hyper Voice
+- Psychic
+- Protect
+
+Incineroar @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Brave Nature
+- Close Combat
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+
+Pelipper @ Mystic Water
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Hurricane
+- Protect
+- Wide Guard
+- Weather Ball
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Protect
+- Thunderbolt
+- Flamethrower
+- Dragon Pulse
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head

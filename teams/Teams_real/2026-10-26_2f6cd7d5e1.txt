@@ -1,0 +1,59 @@
+Toxtricity-Low-Key @ Choice Scarf
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Boomburst
+- Sludge Wave
+- Overdrive
+- Volt Switch
+
+Noivern @ Focus Sash
+Ability: Telepathy
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Draco Meteor
+- Tailwind
+- Taunt
+- Air Slash
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Play Rough
+- Iron Head
+- Knock Off
+- Protect
+
+Tauros-Paldea-Aqua @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 13 HP / 32 Atk / 21 Spe
+Adamant Nature
+- Raging Bull
+- Aqua Jet
+- Protect
+- Close Combat
+
+Kleavor @ Sitrus Berry
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stone Axe
+- X-Scissor
+- Protect
+- Light Screen
+
+Typhlosion-Hisui @ Charcoal
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Eruption
+- Shadow Ball
+- Protect
+- Calm Mind

@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Protect
+- Dragon Dance
+- Knock Off
+
+Houndstone @ Life Orb
+Ability: Sand Rush
+Level: 50
+EVs: 28 HP / 9 Atk / 9 Def / 20 Spe
+Adamant Nature
+- Last Respects
+- Protect
+- Will-O-Wisp
+- Psychic Fangs
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Power Gem
+- Sludge Bomb
+- Spiky Shield
+- Earth Power
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Mystical Fire
+- Expanding Force
+- Trick
+- Helping Hand
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Knock Off
+- Close Combat
+- Detect
+- Fake Out
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Struggle Bug
+- Tailwind
+- Rage Powder
+- Heat Wave

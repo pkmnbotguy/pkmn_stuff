@@ -1,0 +1,60 @@
+Alcremie-Ruby-Swirl @ Binding Band  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 8 Atk / 26 Def / 32 SpA  
+Naughty Nature  
+- Sleep Talk  
+- Endeavor  
+- Pain Split  
+- Charm  
+
+Toxtricity-Low-Key @ Muscle Band  
+Ability: Technician  
+Level: 50  
+EVs: 18 HP / 23 Atk / 25 Def  
+Impish Nature  
+- Parabolic Charge  
+- Electroweb  
+- Protect  
+- Psychic Noise  
+
+Maushold @ Hard Stone  
+Ability: Technician  
+Level: 50  
+EVs: 20 Atk / 30 SpA / 4 SpD / 12 Spe  
+Adamant Nature  
+- Water Pulse  
+- Substitute  
+- Super Fang  
+- Low Kick  
+
+Volcarona @ Iron Ball  
+Ability: Swarm  
+Level: 50  
+EVs: 7 HP / 27 SpA / 32 Spe  
+Timid Nature  
+- Bug Buzz  
+- Fiery Dance  
+- Whirlwind  
+- Pounce  
+
+Slowbro-Galar @ Rocky Helmet  
+Ability: Quick Draw  
+Level: 50  
+EVs: 1 HP / 8 Atk / 32 Def / 25 Spe  
+Rash Nature  
+- Psychic Terrain  
+- Earthquake  
+- Substitute  
+- Psychic  
+
+Skeledirge @ Damp Rock  
+Ability: Blaze  
+Level: 50  
+EVs: 22 HP / 3 Atk / 9 Def / 32 Spe  
+Serious Nature  
+- Imprison  
+- Shadow Ball  
+- Encore  
+- Helping Hand  
+

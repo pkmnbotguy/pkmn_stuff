@@ -1,0 +1,56 @@
+Skeledirge @ Leftovers
+Ability: Blaze
+Level: 50
+EVs: 32 HP / 2 SpA / 32 SpD
+Bold Nature
+- Torch Song
+- Earthquake
+- Shadow Ball
+- Overheat
+
+Scizor @ Scizorite
+Ability: Swarm
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Close Combat
+- Iron Head
+- Swords Dance
+- Bug Bite
+
+Morpeko @ Sitrus Berry
+Ability: Hunger Switch
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Bold Nature
+- Aura Wheel
+- Foul Play
+- Thunderbolt
+- Outrage
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Fire Blast
+- Ice Beam
+- Extreme Speed
+
+Decidueye @ Choice Scarf
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Lonely Nature
+- Psycho Cut
+- Spirit Shackle
+- Leaf Storm
+- Giga Impact
+
+Ditto @ Lum Berry
+Ability: Imposter
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpD / 32 Spe
+Naive Nature
+- Transform

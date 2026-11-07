@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Sucker Punch
+- Iron Head
+- Leech Life
+- Protect
+
+Rillaboom @ Coba Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Aqua Jet
+- Last Respects
+- Wave Crash
+- Flip Turn
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Darkest Lariat
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Rock Slide
+- Close Combat
+- Throat Chop
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 3 Def / 2 SpA / 32 SpD
+Modest Nature
+- Trick Room
+- Protect
+- Twin Beam
+- Dazzling Gleam

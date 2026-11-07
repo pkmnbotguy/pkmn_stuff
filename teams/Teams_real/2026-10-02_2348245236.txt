@@ -1,0 +1,59 @@
+Whimsicott @ Fairy Feather
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Protect
+- Encore
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Draco Meteor
+- Earth Power
+- Protect
+
+Glalie @ Glalitite
+Ability: Inner Focus
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Ice Shard
+- Body Slam
+- Earthquake
+- Protect
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Flamethrower
+- Shadow Ball
+- Protect
+
+Toxtricity @ Magnet
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overdrive
+- Psychic Noise
+- Sludge Bomb
+- Protect
+
+Skarmory @ Skarmorite
+Ability: Weak Armor
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Iron Head
+- Rock Slide
+- Protect

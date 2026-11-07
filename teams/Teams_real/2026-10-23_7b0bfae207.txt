@@ -1,0 +1,59 @@
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Nasty Plot
+- Shadow Ball
+- Taunt
+- Hyper Voice
+
+Stunfisk @ Wise Glasses
+Ability: Sand Veil
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Earth Power
+- Thunderbolt
+- Protect
+- Yawn
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Brick Break
+- Protect
+- Knock Off
+
+Garchomp @ Garchompite Z
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Protect
+- Flamethrower
+- Earth Power
+
+Rillaboom @ Muscle Band
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Parting Shot
+- Flare Blitz
+- Fake Out
+- Darkest Lariat

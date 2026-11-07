@@ -1,0 +1,59 @@
+Venusaur @ Wide Lens
+Ability: Chlorophyll
+Level: 50
+EVs: 4 HP / 12 Def / 32 SpA / 18 Spe
+Timid Nature
+- Leaf Storm
+- Earth Power
+- Sleep Powder
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Hurricane
+- Weather Ball
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Ice Beam
+- Weather Ball
+- Tailwind
+- Wide Guard
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Rock Tomb
+- Protect
+
+Indeedee @ Life Orb
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Imprison
+- Protect

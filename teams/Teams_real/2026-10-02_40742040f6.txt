@@ -1,0 +1,59 @@
+Perrserker @ Sitrus Berry
+Ability: Steely Spirit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Impish Nature
+- Fake Out
+- Close Combat
+- Knock Off
+- Protect
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- High Horsepower
+- Flip Turn
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Make It Rain
+- Protect
+- Substitute
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Drill Run
+- Iron head
+- Leech Life
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Wide Guard
+- Weather Ball
+- Hurricane
+- Tailwind
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat Chop

@@ -1,0 +1,60 @@
+Scizor @ Soft Sand  
+Ability: Technician  
+Level: 50  
+EVs: 3 HP / 24 Def / 3 SpA / 25 SpD / 11 Spe  
+Naughty Nature  
+- Air Slash  
+- Snore  
+- Iron Defense  
+- Lunge  
+
+Qwilfish @ Psychic Seed  
+Ability: Swift Swim  
+Level: 50  
+EVs: 5 HP / 27 Atk / 26 SpD / 8 Spe  
+Adamant Nature  
+- Hydro Pump  
+- Acid Spray  
+- Thunder Wave  
+- Endure  
+
+Scovillain @ Tanga Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 25 Atk / 20 Def / 21 Spe  
+Modest Nature  
+- Bullet Seed  
+- Grass Knot  
+- Facade  
+- Growth  
+
+Salamence @ Grassy Seed  
+Ability: Intimidate  
+Level: 50  
+EVs: 7 HP / 16 Atk / 32 Def / 2 SpD / 9 Spe  
+Brave Nature  
+- Dragon Dance  
+- Iron Head  
+- Dragon Pulse  
+- Slash  
+
+Typhlosion-Hisui @ Metal Coat  
+Ability: Blaze  
+Level: 50  
+EVs: 32 HP / 25 SpA / 9 Spe  
+Sassy Nature  
+- Burn Up  
+- Poltergeist  
+- Thunder Punch  
+- Will-O-Wisp  
+
+Hawlucha @ Rindo Berry  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 32 HP / 2 Def / 32 SpD  
+Quirky Nature  
+- Dual Wingbeat  
+- Body Press  
+- Bounce  
+- Cross Chop  
+

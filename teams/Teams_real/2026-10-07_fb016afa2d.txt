@@ -1,0 +1,59 @@
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 14 HP / 1 Def / 26 SpA / 25 Spe
+Modest Nature
+- Leaf Storm
+- Dragon Pulse
+- Earth Power
+- Detect
+
+Jolteon @ Focus Sash
+Ability: Quick Feet
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Discharge
+- Volt Switch
+- Shadow Ball
+- Detect
+
+Steelix @ Steelixite
+Ability: Sturdy
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpD
+Impish Nature
+- Heavy Slam
+- High Horsepower
+- Wide Guard
+- Protect
+
+Reuniclus @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Bold Nature
+- Psychic
+- Encore
+- Trick Room
+- Light Screen
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+Level: 50
+EVs: 32 HP / 1 Atk / 2 Def / 31 SpD
+Impish Nature
+- Heavy Slam
+- High Horsepower
+- Yawn
+- Protect
+
+Inteleon @ Life Orb
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Snipe Shot
+- Ice Beam
+- Air Cutter
+- Protect

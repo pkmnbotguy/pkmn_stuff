@@ -1,0 +1,59 @@
+Audino @ Audinite
+Ability: regenerator
+Level: 50
+EVs: 32 HP / 7 Def / 20 SpA / 7 SpD
+Naive Nature
+- Dazzling Gleam
+- Heal Pulse
+- Mega Kick
+- Yawn
+
+Kleavor @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Stone Axe
+- X-Scissor
+- Air Slash
+
+Gliscor @ Quick Claw
+Ability: Hyper Cutter
+Level: 50
+EVs: 14 HP / 25 Atk / 1 Def / 5 SpD / 21 Spe
+Naive Nature
+- Power Whip
+- Fire Fang
+- Gunk Shot
+- Earth Power
+
+Kommo-O @ Focus Sash
+Ability: Overcoat
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Naive Nature
+- Protect
+- Clanging Scales
+- Sandstorm
+- Aura Sphere
+
+Houndstone @ Spell Tag
+Ability: Sand Rush
+Level: 50
+EVs: 20 HP / 13 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Phantom Force
+- Body Press
+- Last Respects
+- Play Rough
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Ancient Power
+- Fire Blast
+- Earth Power

@@ -1,0 +1,59 @@
+Froslass @ Focus Sash
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Psychic
+- Icy Wind
+- Frost Breath
+- Taunt
+
+Whimsicott @ Coba Berry
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sunny Day
+- Tailwind
+- Moonblast
+- Encore
+
+Meowscarada @ Choice Scarf
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flower Trick
+- Triple Axel
+- U-turn
+- Sucker Punch
+
+Ninetales-Alola @ Sitrus Berry
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dazzling Gleam
+- Protect
+- Freeze-Dry
+- Icy Wind
+
+Tauros-Paldea-Blaze @ White Herb
+Ability: Anger Point
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Rock Slide
+- Raging Bull
+
+Starmie @ Starminite
+Ability: Natural Cure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Aqua Jet
+- Liquidation
+- Ice Spinner
+- Skill Swap

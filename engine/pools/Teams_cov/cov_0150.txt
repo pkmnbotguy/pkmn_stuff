@@ -1,0 +1,60 @@
+Slowking @ Light Clay  
+Ability: Own Tempo  
+Level: 50  
+EVs: 4 HP / 22 Atk / 20 Def / 20 SpA  
+Careful Nature  
+- Light Screen  
+- Wonder Room  
+- Power Gem  
+- Rock Slide  
+
+Farfetch’d @ Misty Seed  
+Ability: Defiant  
+Level: 50  
+EVs: 31 Def / 11 SpA / 24 SpD  
+Mild Nature  
+- Roost  
+- Feather Dance  
+- Solar Blade  
+- Protect  
+
+Archaludon @ Black Belt  
+Ability: Stamina  
+Level: 50  
+EVs: 32 HP / 22 Atk / 12 Def  
+Quiet Nature  
+- Dragon Pulse  
+- Outrage  
+- Night Slash  
+- Electro Shot  
+
+Aerodactyl @ Smooth Rock  
+Ability: Unnerve  
+Level: 50  
+EVs: 2 HP / 32 Def / 32 SpD  
+Hardy Nature  
+- Dragon Claw  
+- Roost  
+- Attract  
+- Thunder Fang  
+
+Tyrantrum @ Chople Berry  
+Ability: Rock Head  
+Level: 50  
+EVs: 21 HP / 32 Def / 13 SpA  
+Calm Nature  
+- Bulldoze  
+- Outrage  
+- Breaking Swipe  
+- Rock Tomb  
+
+Slowbro-Galar @ Rocky Helmet  
+Ability: Quick Draw  
+Level: 50  
+EVs: 32 HP / 21 Atk / 11 Def / 2 SpA  
+Careful Nature  
+- Brick Break  
+- Flamethrower  
+- Acid Spray  
+- Hyper Beam  
+

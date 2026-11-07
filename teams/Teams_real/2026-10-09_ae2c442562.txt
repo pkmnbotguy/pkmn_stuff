@@ -1,0 +1,59 @@
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Double Shock
+- Fake Out
+- Coaching
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 17 HP / 13 Def / 5 SpA / 1 SpD / 30 Spe
+Modest Nature
+- Heat Wave
+- Bug Buzz
+- Giga Drain
+- Quiver Dance
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 14 HP / 23 Atk / 7 Def / 20 SpD / 2 Spe
+Careful Nature
+- Fake Out
+- Grassy Glide
+- High Horsepower
+- Wood Hammer
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 12 HP / 3 Atk / 2 Def / 18 SpD / 31 Spe
+Jolly Nature
+- Glaive Rush
+- Ice Shard
+- High Horsepower
+- Protect
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 22 HP / 27 Def / 10 SpA / 7 Spe
+Bold Nature
+- Icy Wind
+- Hyper Voice
+- Moonblast
+- Protect
+
+Zoroark-Hisui @ Choice Scarf
+Ability: Illusion
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Psychic
+- Snarl
+- Hyper Beam

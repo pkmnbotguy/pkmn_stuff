@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Perish Song
+- Protect
+- Substitute
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Fake Out
+- Snarl
+- Light Screen
+- Reflect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Zoroark-Hisui @ Choice Scarf
+Ability: Illusion
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Fake Tears
+- Icy Wind
+- Rain Dance
+- Bitter Malice
+
+Basculegion @ Kasib Berry
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sinistcha @ Eject Button
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect

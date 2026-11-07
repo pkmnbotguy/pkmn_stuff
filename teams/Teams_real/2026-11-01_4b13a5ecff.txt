@@ -1,0 +1,59 @@
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Protect
+- Calm Mind
+- Moonblast
+- Draining Kiss
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Will-O-Wisp
+
+Rillaboom @ Expert Belt
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Impish Nature
+- Fake Out
+- U-turn
+- High Horsepower
+- Grassy Glide
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Poison Jab
+- Close Combat
+- Upper Hand
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Swords Dance
+- Sucker Punch
+- Kowtow Cleave
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Nasty Plot
+- Heat Wave
+- Psychic

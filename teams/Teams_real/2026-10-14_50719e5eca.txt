@@ -1,0 +1,59 @@
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Earth Power
+- Power Gem
+- Spiky Shield
+- Sludge Bomb
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Snarl
+- Draco Meteor
+- Dark Pulse
+- Heat Wave
+
+Gardevoir @ Gardevoirite
+Ability: Telepathy
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Expanding Force
+- Calm Mind
+- Hyper Voice
+- Protect
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Calm Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Follow Me
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Double Shock
+- Close Combat
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Stomping Tantrum
+- Dragon Claw
+- Protect

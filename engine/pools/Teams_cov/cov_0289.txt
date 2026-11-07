@@ -1,0 +1,60 @@
+Vivillon-Elegant @ Black Glasses  
+Ability: Friend Guard  
+Level: 50  
+EVs: 4 HP / 32 Atk / 10 Def / 20 SpD  
+Modest Nature  
+- Draining Kiss  
+- Giga Impact  
+- Giga Drain  
+- Confuse Ray  
+
+Kangaskhan @ Wide Lens  
+Ability: Scrappy  
+Level: 50  
+EVs: 18 HP / 4 Atk / 22 Def / 22 Spe  
+Quiet Nature  
+- Brick Break  
+- Facade  
+- Avalanche  
+- Rock Slide  
+
+Avalugg-Hisui @ Kasib Berry  
+Ability: Ice Body  
+Level: 50  
+EVs: 15 Atk / 28 SpA / 23 Spe  
+Hasty Nature  
+- Ice Beam  
+- Rock Tomb  
+- Bulldoze  
+- Endure  
+
+Crabominable @ Babiri Berry  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 7 HP / 6 Def / 27 SpA / 26 SpD  
+Mild Nature  
+- Liquidation  
+- Mud-Slap  
+- Giga Impact  
+- Swagger  
+
+Maushold-Four @ Silver Powder  
+Ability: Friend Guard  
+Level: 50  
+EVs: 28 Atk / 1 Def / 11 SpD / 26 Spe  
+Lonely Nature  
+- Fake Tears  
+- After You  
+- Sunny Day  
+- Hyper Voice  
+
+Arbok @ White Herb  
+Ability: Intimidate  
+Level: 50  
+EVs: 32 HP / 5 Atk / 29 Def  
+Naughty Nature  
+- Haze  
+- Stockpile  
+- Breaking Swipe  
+- Trailblaze  
+

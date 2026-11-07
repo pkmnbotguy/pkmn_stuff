@@ -1,0 +1,60 @@
+Samurott-Hisui @ Mental Herb  
+Ability: Torrent  
+Level: 50  
+EVs: 16 HP / 32 Atk / 10 Def / 1 SpA / 7 SpD  
+Naive Nature  
+- Endure  
+- Assurance  
+- Aqua Jet  
+- Grass Knot  
+
+Arbok @ Passho Berry  
+Ability: Unnerve  
+Level: 50  
+EVs: 21 HP / 13 Def / 32 Spe  
+Modest Nature  
+- Protect  
+- Substitute  
+- Swallow  
+- Thunder Fang  
+
+Arcanine-Hisui @ Yache Berry  
+Ability: Rock Head  
+Level: 50  
+EVs: 32 Def / 30 SpA / 2 SpD / 2 Spe  
+Timid Nature  
+- Close Combat  
+- Hyper Beam  
+- Dig  
+- Extreme Speed  
+
+Houndoom @ Poison Barb  
+Ability: Flash Fire  
+Level: 50  
+EVs: 24 HP / 30 Def / 12 SpA  
+Hardy Nature  
+- Super Fang  
+- Burning Jealousy  
+- Bite  
+- Scary Face  
+
+Squawkabilly-White @ Metal Coat  
+Ability: Intimidate  
+Level: 50  
+EVs: 31 HP / 26 Atk / 9 SpA  
+Rash Nature  
+- Swagger  
+- Giga Impact  
+- Hyper Voice  
+- Hurricane  
+
+Persian @ Silver Powder  
+Ability: Limber  
+Level: 50  
+EVs: 31 Atk / 32 Def / 3 SpA  
+Hardy Nature  
+- Round  
+- Foul Play  
+- Hypnosis  
+- Shadow Ball  
+

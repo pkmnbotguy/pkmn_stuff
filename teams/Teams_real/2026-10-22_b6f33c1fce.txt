@@ -1,0 +1,59 @@
+Sandaconda @ Leftovers
+Ability: Shed Skin
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Careful Nature
+- Drill Run
+- Body Press
+- Iron Head
+- Protect
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Hurricane
+- Muddy Water
+- Ice Beam
+- Protect
+
+Chimecho @ Chimechite
+Ability: Levitate
+Level: 50
+EVs: 31 HP / 15 Def / 15 SpA / 3 SpD / 2 Spe
+Modest Nature
+- Calm Mind
+- Expanding Force
+- Cosmic Power
+- Protect
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Modest Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Follow Me
+
+Gholdengo @ Wide Lens
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Thunder
+- Protect
+- Nasty Plot
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Close Combat
+- Aerial Ace
+- Protect
+- Tailwind

@@ -1,0 +1,59 @@
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Rage Powder
+- Protect
+- Overheat
+- Struggle Bug
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Protect
+- Dragon Pulse
+- Heat Wave
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Rock Tomb
+- Dire Claw
+- Protect
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Hyper Voice
+- Protect
+- Icy Wind
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Protect
+- Helping Hand
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Protect
+- Rock Slide

@@ -1,0 +1,59 @@
+Liepard @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sunny Day
+- Fake Out
+- Encore
+- Knock Off
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Drill Run
+- Protect
+
+Mimikyu @ Life Orb
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Shadow Claw
+- Shadow Sneak
+- Trick Room
+- Play Rough
+
+Cofagrigus @ Leftovers
+Ability: Mummy
+Level: 50
+EVs: 32 HP / 3 Def / 31 SpD
+Bold Nature
+- Body Press
+- Shadow Ball
+- Iron Defense
+- Trick Room
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Low Kick
+- Knock Off
+- Rock Blast
+- Protect
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Heat Wave
+- Shadow Ball
+- Burn Up

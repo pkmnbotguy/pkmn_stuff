@@ -1,0 +1,59 @@
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sleep Powder
+- Leaf Storm
+- Sludge Bomb
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Eruption
+- Weather Ball
+- Helping Hand
+- Protect
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Close Combat
+- Ice Punch
+- Knock Off
+- Fake Out
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Thunderbolt
+- Expanding Force
+- Imprison
+- Trick Room
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Eruption
+- Heat Wave
+- Shadow Ball
+- Overheat
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Dragon Pulse
+- Extreme Speed
+- Protect

@@ -1,0 +1,59 @@
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Glaive Rush
+- Ice Shard
+- High Horsepower
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Nasty Plot
+- Shadow Ball
+- Make It Rain
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Helping Hand
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Muddy Water
+- Recover
+- Protect
+- Icy Wind
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Blizzard
+- Moonblast
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Coaching

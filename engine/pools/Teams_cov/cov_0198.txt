@@ -1,0 +1,60 @@
+Ninetales @ Normal Gem  
+Ability: Flash Fire  
+Level: 50  
+EVs: 17 HP / 8 Atk / 2 Def / 28 SpA / 11 SpD  
+Sassy Nature  
+- Psyshock  
+- Giga Impact  
+- Burning Jealousy  
+- Fire Spin  
+
+Gourgeist-Super @ Wise Glasses  
+Ability: Pickup  
+Level: 50  
+EVs: 23 HP / 11 SpD / 32 Spe  
+Quirky Nature  
+- Trick  
+- Skill Swap  
+- Nasty Plot  
+- Seed Bomb  
+
+Squawkabilly @ Focus Band  
+Ability: Guts  
+Level: 50  
+EVs: 1 Atk / 16 Def / 28 SpD / 21 Spe  
+Quiet Nature  
+- Helping Hand  
+- Taunt  
+- Brave Bird  
+- Giga Impact  
+
+Clefable @ Clefablite  
+Ability: Cute Charm  
+Level: 50  
+EVs: 15 HP / 21 SpA / 10 SpD / 20 Spe  
+Lonely Nature  
+- Healing Wish  
+- Sing  
+- Cosmic Power  
+- Meteor Mash  
+
+Alcremie-Mint-Cream @ Air Balloon  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 21 HP / 17 Atk / 28 SpA  
+Modest Nature  
+- Solar Beam  
+- Fling  
+- Safeguard  
+- Giga Impact  
+
+Tsareena @ Black Glasses  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 23 HP / 1 Atk / 22 SpA / 20 SpD  
+Serious Nature  
+- Facade  
+- Reflect  
+- Swagger  
+- Taunt  
+

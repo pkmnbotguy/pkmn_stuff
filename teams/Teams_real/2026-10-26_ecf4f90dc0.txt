@@ -1,0 +1,59 @@
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 31 SpA / 3 Spe
+Modest Nature
+- Heat Wave
+- Shadow Ball
+- Trick Room
+- Protect
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Wide Guard
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Play Rough
+- Sucker Punch
+- Protect
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Thunderbolt
+- Hydro Pump
+- Will-O-Wisp
+- Protect
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Dark Pulse
+- Snarl
+- Earth Power
+
+Scrafty @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Close Combat
+- Knock Off
+- Fake Out
+- Detect

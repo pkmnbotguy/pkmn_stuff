@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Blizzard
+- Aurora Veil
+- Shadow Ball
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat chop
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Last Respects
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 17 HP / 13 Def / 5 SpA / 1 SpD / 30 Spe
+Modest Nature
+- Heat Wave
+- Giga Drain
+- Quiver Dance
+- Protect
+
+Garchomp @ Garchompite Z
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Power Gem
+- Dragon Pulse
+- Earth Power

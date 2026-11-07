@@ -1,0 +1,59 @@
+Clawitzer @ Expert Belt
+Ability: Mega Launcher
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Water Pulse
+- Aura Sphere
+- Dark Pulse
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Liquidation
+- Protect
+- Iron Head
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Sassy Nature
+- Dragon Pulse
+- Electro Shot
+- Flash Cannon
+- Protect
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Trick Room
+- Helping Hand
+- Follow Me
+- Terrain Pulse
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Expanding Force
+- Dazzling Gleam
+- Trick Room
+- Mystical Fire
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Knock Off
+- Rain Dance
+- Light Screen
+- Reflect

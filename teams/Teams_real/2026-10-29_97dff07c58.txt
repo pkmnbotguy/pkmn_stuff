@@ -1,0 +1,59 @@
+Crabominable @ Crabominite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Drain Punch
+- Ice Hammer
+- Mach Punch
+- Protect
+
+Cofagrigus @ Colbur Berry
+Ability: Mummy
+Level: 50
+EVs: 32 HP / 3 Def / 31 SpD
+Sassy Nature
+- Trick Room
+- Will-O-Wisp
+- Shadow Ball
+- Body Press
+
+Ninetales-Alola @ Choice Scarf
+Ability: Snow Warning
+Level: 50
+EVs: 11 HP / 1 Def / 25 SpA / 1 SpD / 28 Spe
+Modest Nature
+- Blizzard
+- Moonblast
+- Freeze-Dry
+- Icy Wind
+
+Volcarona @ Life Orb
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Heat Wave
+- Struggle Bug
+- Quiver Dance
+- Protect
+
+Pincurchin @ Leftovers
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Thunderbolt
+- Scald
+- Memento
+- Protect
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Play Rough
+- Sucker Punch
+- Protect

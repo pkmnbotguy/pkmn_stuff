@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Nasty Plot
+- Heat Wave
+- Psychic
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Impish Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- High Horsepower
+
+Incineroar @ Passho Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Darkest Lariat
+- Flare Blitz
+- Parting Shot
+- Fake Out
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 20 HP / 20 Atk / 26 Spe
+Adamant Nature
+- Close Combat
+- Tailwind
+- Brave Bird
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Protect
+- Nasty Plot
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Protect
+- Hyper Voice
+- Calm Mind
+- Moonblast

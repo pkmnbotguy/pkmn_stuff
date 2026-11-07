@@ -1,0 +1,59 @@
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- Low Kick
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Drill Run
+- Swords Dance
+- Leech Life
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Flare Blitz
+- Parting Shot
+- Fake Out
+- Protect
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Clangorous Soul
+- Protect
+- Aura Sphere
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Sludge Bomb
+- Protect
+- Perish Song
+
+Politoed @ Eject Button
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 15 Def / 19 SpD
+Relaxed Nature
+- Weather Ball
+- Protect
+- Hypnosis
+- Perish Song

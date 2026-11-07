@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Shadow Claw
+- Night Slash
+- Focus Energy
+- Detect
+
+Beedrill @ Beedrillite
+Ability: Swarm
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Lunge
+- U-turn
+- Poison Jab
+- Fell Stinger
+
+Indeedee @ Choice Scarf
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Trick
+- Magic Room
+
+Dragapult @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dragon Darts
+- Phantom Force
+- Outrage
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Acrobatics
+- Dire Claw
+- Close Combat
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Memento
+- Tailwind
+- Protect

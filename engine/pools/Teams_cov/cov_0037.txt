@@ -1,0 +1,60 @@
+Victreebel @ Tanga Berry  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 2 Atk / 5 Def / 32 SpA / 27 Spe  
+Docile Nature  
+- Growth  
+- Stockpile  
+- Swallow  
+- Clear Smog  
+
+Indeedee @ Haban Berry  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 2 HP / 32 Def / 32 SpD  
+Timid Nature  
+- Play Rough  
+- Power Swap  
+- Drain Punch  
+- Expanding Force  
+
+Vivillon-Garden @ Wide Lens  
+Ability: Friend Guard  
+Level: 50  
+EVs: 1 Def / 32 SpA / 32 SpD / 1 Spe  
+Sassy Nature  
+- Protect  
+- Bug Bite  
+- Skitter Smack  
+- Giga Drain  
+
+Alcremie-Mint-Cream @ Wise Glasses  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 20 Atk / 4 SpA / 19 SpD / 23 Spe  
+Naive Nature  
+- Psychic  
+- Mystical Fire  
+- Psyshock  
+- Fake Tears  
+
+Flapple @ Black Belt  
+Ability: Ripen  
+Level: 50  
+EVs: 32 HP / 8 Atk / 26 SpA  
+Careful Nature  
+- Grav Apple  
+- Acrobatics  
+- Leech Seed  
+- Outrage  
+
+Pikachu @ Rawst Berry  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 12 HP / 19 Atk / 32 Def / 3 SpA  
+Calm Nature  
+- Surf  
+- Snore  
+- Electroweb  
+- Focus Punch  
+

@@ -1,0 +1,59 @@
+Kleavor @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Naughty Nature
+- Air Slash
+- Slash
+- X-Scissor
+- Stone Axe
+
+Orthworm @ Sitrus Berry
+Ability: Earth Eater
+Level: 50
+EVs: 27 HP / 1 Atk / 5 Def / 32 SpD / 1 Spe
+Modest Nature
+- Shed Tail
+- High Horsepower
+- Rock Slide
+- Body Press
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Hydro Pump
+- Charge Beam
+- Electroweb
+- Charge
+
+Garchomp @ Garchompite
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Lonely Nature
+- Earthquake
+- Draco Meteor
+- Power Gem
+- Liquidation
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Stockpile
+- Soak
+- Icy Wind
+- Hurricane
+
+Stunfisk-Galar @ Choice Scarf
+Ability: Mimicry
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Snap Trap
+- Rain Dance
+- Substitute
+- Dig

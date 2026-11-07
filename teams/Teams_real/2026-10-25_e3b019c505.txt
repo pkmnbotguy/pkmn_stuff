@@ -1,0 +1,59 @@
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Play Rough
+- Iron Head
+- Sucker Punch
+- Protect
+
+Rampardos @ Life Orb
+Ability: Sheer Force
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Rock Slide
+- Fire Punch
+- Crunch
+- Protect
+
+Emolga @ Focus Sash
+Ability: Motor Drive
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Volt Switch
+- Helping Hand
+- Encore
+- Speed Swap
+
+Tsareena @ Sitrus Berry
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Trop Kick
+- Knock Off
+- Play Rough
+- Protect
+
+Cofagrigus @ Leftovers
+Ability: Mummy
+Level: 50
+EVs: 32 HP / 5 Def / 29 SpD
+Relaxed Nature
+- Shadow Ball
+- Disable
+- Will-O-Wisp
+- Ally Switch
+
+Oranguru @ Colbur Berry
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Quiet Nature
+- Psychic
+- Instruct
+- Trick Room
+- Protect

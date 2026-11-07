@@ -1,0 +1,60 @@
+Barbaracle @ Occa Berry  
+Ability: Pickpocket  
+Level: 50  
+EVs: 10 HP / 6 Atk / 25 Def / 25 SpA  
+Quirky Nature  
+- Sandstorm  
+- Low Kick  
+- Bulldoze  
+- Ice Beam  
+
+Hydrapple @ Wacan Berry  
+Ability: Supersweet Syrup  
+Level: 50  
+EVs: 26 HP / 16 Def / 5 SpA / 19 Spe  
+Impish Nature  
+- Breaking Swipe  
+- Grassy Glide  
+- Sleep Talk  
+- Leaf Storm  
+
+Farigiraf @ King's Rock  
+Ability: Cud Chew  
+Level: 50  
+EVs: 6 HP / 24 Atk / 2 SpA / 15 SpD / 19 Spe  
+Docile Nature  
+- Twin Beam  
+- Psychic Fangs  
+- Trick  
+- Sunny Day  
+
+Tauros-Paldea-Aqua @ Expert Belt  
+Ability: Cud Chew  
+Level: 50  
+EVs: 22 Atk / 32 SpA / 12 Spe  
+Impish Nature  
+- Substitute  
+- Sandstorm  
+- Thrash  
+- Hydro Pump  
+
+Meowstic @ Meowsticite  
+Ability: Prankster  
+Level: 50  
+EVs: 32 HP / 6 Atk / 24 SpA / 4 SpD  
+Adamant Nature  
+- Tickle  
+- Substitute  
+- Fake Out  
+- Quick Guard  
+
+Mabosstiff @ Sharp Beak  
+Ability: Stakeout  
+Level: 50  
+EVs: 12 Def / 25 SpA / 29 SpD  
+Adamant Nature  
+- Crunch  
+- Bite  
+- Jaw Lock  
+- Sleep Talk  
+

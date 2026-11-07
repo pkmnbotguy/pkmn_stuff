@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 23 HP / 2 Atk / 14 SpD / 27 Spe
+Adamant Nature
+- Close Combat
+- Dual Wingbeat
+- Roost
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Sassy Nature
+- Light Screen
+- Reflect
+- Parting Shot
+- Scary Face
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Drill Run
+- Protect
+
+Politoed @ Mystic Water
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Muddy Water
+- Weather Ball
+- Ice Beam
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Snarl
+- Dragon Pulse
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 14 Def / 23 SpD
+Calm Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Protect

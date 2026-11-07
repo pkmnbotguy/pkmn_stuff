@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect
+
+Heracross @ Heracronite
+Ability: Moxie
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Jolly Nature
+- Close Combat
+- Pin Missile
+- Rock Blast
+- Protect
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Energy Ball
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Stomping Tantrum
+- Poison Jab
+- Dragon Claw
+- Rock Slide
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dire Claw
+- Close Combat
+- Fire Punch
+- Fake Out

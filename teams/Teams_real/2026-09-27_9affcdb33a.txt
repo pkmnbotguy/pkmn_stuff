@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Leech Life
+- Iron Head
+- Drill Run
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 11 Def / 23 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 31 Atk / 2 SpD / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Low Kick
+- Iron Head
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Twin Beam
+- Helping Hand
+- Protect
+- Trick Room
+
+Pelipper @ Life Orb
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Snarl
+- Protect

@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Game Review</title>
+<style>
+:root { --bg: #f6f7f9; --card: #fff; --fg: #1d232b; --mute: #5d6773; --line: #dde1e6; --accent: #2f6fd6; --bad: #c0392b; }
+@media (prefers-color-scheme: dark) { :root { --bg: #14181d; --card: #1c2127; --fg: #e6e9ed; --mute: #9aa4af; --line: #2c333b; --accent: #6ea0f0; --bad: #ef6b5e; color-scheme: dark; } }
+body { background: var(--bg); color: var(--fg); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; margin: 0; padding: 24px 16px; }
+main { max-width: 760px; margin: 0 auto; display: grid; gap: 20px; }
+h1 { font-size: 22px; margin: 0; } h2 { font-size: 16px; margin: 0 0 10px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 16px; }
+p.note { color: var(--mute); margin: 4px 0 0; font-size: 13px; }
+label { display: block; font-size: 13px; color: var(--mute); margin: 10px 0 4px; }
+input, textarea, select { width: 100%; box-sizing: border-box; font: inherit; padding: 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); }
+textarea { min-height: 140px; font-family: ui-monospace, Consolas, monospace; font-size: 13px; }
+button { margin-top: 12px; font: inherit; padding: 8px 16px; border: 0; border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+#err { color: var(--bad); margin-top: 8px; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+td, th { text-align: left; padding: 6px 4px; border-bottom: 1px solid var(--line); }
+th { color: var(--mute); font-weight: 500; }
+td.num { font-variant-numeric: tabular-nums; }
+a { color: var(--accent); }
+</style></head><body><main>
+<div><h1>Game review</h1><p class="note">Reviews Pokemon Champions VGC games from a Showdown replay or battle log.</p></div>
+<form class="card" id="f">
+  <h2>Review a game</h2>
+  <label for="url">Replay link (replay.pokemonshowdown.com/...)</label>
+  <input id="url" placeholder="https://replay.pokemonshowdown.com/...">
+  <label for="log">or paste the battle log of a finished game</label>
+  <textarea id="log" placeholder="|player|p1|...&#10;..."></textarea>
+  <label for="player">You were (p1, p2 or your Showdown name)</label>
+  <input id="player" placeholder="p1">
+  <label for="paste">Your team (Showdown export)</label>
+  <textarea id="paste"></textarea>
+  <button type="submit">Review</button>
+  <div id="err"></div>
+</form>
+<section class="card"><h2>Recent reviews</h2><table><thead><tr><th>Game</th><th>Result</th><th>Accuracy</th><th>Status</th><th>Created</th></tr></thead><tbody id="list"></tbody></table></section>
+</main>
+<script>
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+document.getElementById("f").addEventListener("submit", async ev => {
+  ev.preventDefault();
+  const err = document.getElementById("err"); err.textContent = "";
+  const body = {url: url.value.trim(), log: log.value.trim(), player: player.value.trim() || "p1", paste: paste.value};
+  try {
+    const r = await fetch("/api/review_replay", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(body)});
+    const j = await r.json();
+    if (!r.ok) throw new Error(j.error || r.status);
+    location.href = j.url;
+  } catch (e) { err.textContent = e.message; }
+});
+async function load() {
+  try {
+    const items = await (await fetch("/api/reviews")).json();
+    document.getElementById("list").innerHTML = items.map(x =>
+      `<tr><td><a href="/review/${x.id}">${esc(x.title || x.name || x.id)}</a></td><td>${esc(x.result)}</td>` +
+      `<td class="num">${x.accuracy != null ? Number(x.accuracy).toFixed(1) : ""}</td><td>${esc(x.status)}</td><td>${esc(x.created)}</td></tr>`).join("");
+  } catch (e) {}
+}
+load(); setInterval(load, 5000);
+</script>
+</body></html>

@@ -1,0 +1,60 @@
+Espathra @ Focus Sash  
+Ability: Speed Boost  
+Level: 50  
+EVs: 10 Atk / 10 Def / 32 SpA / 14 SpD  
+Bashful Nature  
+- Hex  
+- Stored Power  
+- Quick Attack  
+- Skill Swap  
+
+Milotic @ Damp Rock  
+Ability: Competitive  
+Level: 50  
+EVs: 32 HP / 7 Def / 1 SpA / 26 SpD  
+Relaxed Nature  
+- Waterfall  
+- Dragon Pulse  
+- Alluring Voice  
+- Breaking Swipe  
+
+Tinkaton @ Never-Melt Ice  
+Ability: Pickpocket  
+Level: 50  
+EVs: 32 HP / 4 Atk / 30 Spe  
+Bold Nature  
+- Stone Edge  
+- Protect  
+- Pounce  
+- Gigaton Hammer  
+
+Polteageist-Antique @ Silk Scarf  
+Ability: Weak Armor  
+Level: 50  
+EVs: 18 HP / 8 Atk / 8 SpD / 32 Spe  
+Naive Nature  
+- Endure  
+- Trick Room  
+- Hyper Beam  
+- Confuse Ray  
+
+Archaludon @ Charti Berry  
+Ability: Sturdy  
+Level: 50  
+EVs: 16 HP / 1 Atk / 21 Def / 28 SpD  
+Rash Nature  
+- Dragon Cheer  
+- Rest  
+- Rock Tomb  
+- Heavy Slam  
+
+Vivillon-Marine @ Sitrus Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 11 HP / 29 Def / 26 Spe  
+Sassy Nature  
+- Sunny Day  
+- Air Slash  
+- Weather Ball  
+- Giga Drain  
+

@@ -1,0 +1,60 @@
+Gallade @ Wide Lens  
+Ability: Steadfast  
+Level: 50  
+EVs: 16 Def / 20 SpA / 30 Spe  
+Docile Nature  
+- Future Sight  
+- Fire Punch  
+- Imprison  
+- Night Shade  
+
+Alcremie @ Dragon Fang  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 5 HP / 5 Atk / 17 Def / 21 SpA / 18 Spe  
+Adamant Nature  
+- Fling  
+- Fake Tears  
+- Wonder Room  
+- Acid Armor  
+
+Samurott @ Charcoal  
+Ability: Shell Armor  
+Level: 50  
+EVs: 30 HP / 29 Atk / 7 SpA  
+Lax Nature  
+- Vacuum Wave  
+- Aqua Cutter  
+- Screech  
+- Aerial Ace  
+
+Starmie @ Heat Rock  
+Ability: Analytic  
+Level: 50  
+EVs: 15 HP / 5 Def / 27 SpA / 19 SpD  
+Gentle Nature  
+- Ancient Power  
+- Avalanche  
+- Gravity  
+- Surf  
+
+Vivillon-Archipelago @ Payapa Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 13 HP / 23 Atk / 4 SpA / 26 Spe  
+Brave Nature  
+- U-turn  
+- Whirlwind  
+- Psychic  
+- Air Slash  
+
+Pelipper @ Choice Scarf  
+Ability: Rain Dish  
+Level: 50  
+EVs: 24 HP / 17 Def / 25 SpD  
+Careful Nature  
+- Water Pulse  
+- Agility  
+- Hydro Pump  
+- Waterfall  
+

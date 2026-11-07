@@ -1,0 +1,60 @@
+Vivillon-High Plains @ Twisted Spoon  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 9 HP / 21 Atk / 4 SpA / 32 Spe  
+Hardy Nature  
+- String Shot  
+- Giga Impact  
+- Acrobatics  
+- Facade  
+
+Garchomp @ Muscle Band  
+Ability: Rough Skin  
+Level: 50  
+EVs: 15 HP / 4 Def / 32 SpD / 15 Spe  
+Timid Nature  
+- Flamethrower  
+- Endure  
+- Round  
+- Dragon Pulse  
+
+Tauros @ Silver Powder  
+Ability: Sheer Force  
+Level: 50  
+EVs: 24 HP / 29 Def / 13 Spe  
+Lonely Nature  
+- Iron Head  
+- Solar Beam  
+- Rock Slide  
+- Trailblaze  
+
+Sharpedo @ Quick Claw  
+Ability: Speed Boost  
+Level: 50  
+EVs: 32 Atk / 32 Def / 2 Spe  
+Serious Nature  
+- Poison Fang  
+- Destiny Bond  
+- Screech  
+- Facade  
+
+Beartic @ Sharp Beak  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 32 HP / 20 Atk / 6 Def / 3 SpA / 5 SpD  
+Jolly Nature  
+- Superpower  
+- Play Rough  
+- Surf  
+- Low Kick  
+
+Orthworm @ Heat Rock  
+Ability: Earth Eater  
+Level: 50  
+EVs: 14 SpA / 22 SpD / 30 Spe  
+Hardy Nature  
+- Endure  
+- Stomping Tantrum  
+- Wrap  
+- Helping Hand  
+

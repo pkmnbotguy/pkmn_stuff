@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 14 HP / 7 Def / 25 SpA / 20 Spe
+Modest Nature
+- Hyper Voice
+- Psyshock
+- Calm Mind
+- Protect
+
+Maushold-Four @ Wide Lens
+Ability: Technician
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Feint
+- Population Bomb
+- Follow Me
+- Protect
+
+Grimmsnarl @ Life Orb
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Spirit Break
+- Sucker Punch
+- Parting Shot
+- Scary Face
+
+Basculegion @ Mystic Water
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 32 Atk / 15 Def / 15 Spe
+Adamant Nature
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Protect
+
+Talonflame @ Charcoal
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Air Slash
+- Overheat
+- Tailwind
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 32 Atk / 5 Def / 29 Spe
+Adamant Nature
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Stomping Tantrum

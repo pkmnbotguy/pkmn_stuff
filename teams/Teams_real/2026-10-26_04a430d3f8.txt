@@ -1,0 +1,59 @@
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Play Rough
+- Swords Dance
+- Sucker Punch
+
+Sinistcha @ Colbur Berry
+Ability: Heatproof
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Shadow Ball
+- Trick Room
+- Rage Powder
+
+Mr-Mime @ Kasib Berry
+Ability: Filter
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Psychic
+- Dazzling Gleam
+- Fake Out
+- Wide Guard
+
+Beedrill @ Beedrillite
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fell Stinger
+- Cross Poison
+- Drill Run
+- Knock Off
+
+Typhlosion-Hisui @ Focus Sash
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Eruption
+- Heat Wave
+- Infernal Parade
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Phantom Force
+- Sludge Bomb
+- Protect
+- Perish Song

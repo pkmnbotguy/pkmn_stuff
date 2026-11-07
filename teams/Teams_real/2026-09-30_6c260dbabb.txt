@@ -1,0 +1,59 @@
+Dragonite @ Roseli Berry
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Fire Blast
+- Ice Beam
+- Extreme Speed
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Lonely Nature
+- Dragon Rush
+- Double-Edge
+- Hyper Voice
+- Temper Flare
+
+Hydreigon @ White Herb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Dark Pulse
+- Draco Meteor
+- Tailwind
+- Protect
+
+Dragapult @ Dragon Fang
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Darts
+- Dragon Cheer
+- Phantom Force
+- Steel Wing
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Glaive Rush
+- Icicle Crash
+- Body Press
+- Protect
+
+Archaludon @ Life Orb
+Ability: Stalwart
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dragon Pulse
+- Flash Cannon
+- Thunderbolt
+- Aura Sphere

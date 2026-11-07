@@ -1,0 +1,60 @@
+Armarouge @ Coba Berry  
+Ability: Weak Armor  
+Level: 50  
+EVs: 32 Atk / 2 Def / 32 SpA  
+Jolly Nature  
+- Stored Power  
+- Psychic  
+- Mystical Fire  
+- Psyshock  
+
+Forretress @ Zoom Lens  
+Ability: Sturdy  
+Level: 50  
+EVs: 11 SpA / 25 SpD / 30 Spe  
+Brave Nature  
+- Power Trick  
+- Steel Roller  
+- Spikes  
+- Rest  
+
+Beedrill @ Beedrillite  
+Ability: Sniper  
+Level: 50  
+EVs: 32 HP / 3 Atk / 7 SpD / 24 Spe  
+Rash Nature  
+- Giga Impact  
+- Agility  
+- Dual Wingbeat  
+- Cross Poison  
+
+Medicham @ Shed Shell  
+Ability: Telepathy  
+Level: 50  
+EVs: 3 Atk / 29 Def / 32 SpA / 2 SpD  
+Quirky Nature  
+- Grass Knot  
+- Dynamic Punch  
+- Ice Punch  
+- Hyper Beam  
+
+Vileplume @ Big Root  
+Ability: Effect Spore  
+Level: 50  
+EVs: 18 Atk / 17 Def / 22 SpA / 9 SpD  
+Sassy Nature  
+- Sludge Wave  
+- Pollen Puff  
+- Sweet Scent  
+- Protect  
+
+Toxicroak @ Aspear Berry  
+Ability: Dry Skin  
+Level: 50  
+EVs: 10 HP / 24 Def / 32 SpA  
+Adamant Nature  
+- Mud-Slap  
+- Scary Face  
+- Lash Out  
+- Snore  
+

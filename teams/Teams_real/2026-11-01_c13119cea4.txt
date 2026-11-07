@@ -1,0 +1,59 @@
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Play Rough
+- Sucker Punch
+- Iron Head
+- Protect
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Protect
+- Follow Me
+- Super Fang
+- Feint
+
+Mamoswine @ Choice Scarf
+Ability: Oblivious
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Rock Slide
+- Icicle Crash
+- Ice Shard
+- Stomping Tantrum
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Body Press
+- Psychic Fangs
+- Steel Roller
+- Protect
+
+Meowstic @ Colbur Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Expanding Force
+- Psychic Terrain
+- Reflect
+- Light Screen
+
+Milotic @ Sitrus Berry
+Ability: Marvel Scale
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Protect
+- Coil
+- Muddy Water
+- Hypnosis

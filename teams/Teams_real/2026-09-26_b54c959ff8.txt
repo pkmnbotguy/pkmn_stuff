@@ -1,0 +1,59 @@
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Hawlucha @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Acrobatics
+- Detect
+- Upper Hand
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Weather Ball
+- Hurricane
+- Protect
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Wave Crash
+- Protect
+- Ice Punch
+
+Scizor @ Life Orb
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Protect
+- Swords Dance
+
+Altaria @ Altarianite
+Ability: Natural Cure
+Level: 50
+EVs: 32 HP / 32 SpA
+Modest Nature
+- Tailwind
+- Hyper Voice
+- Draco Meteor
+- Protect

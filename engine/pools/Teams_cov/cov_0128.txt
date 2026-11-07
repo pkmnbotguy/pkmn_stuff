@@ -1,0 +1,60 @@
+Vivillon-Ocean @ Cheri Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 32 HP / 15 SpA / 19 Spe  
+Hardy Nature  
+- Bug Bite  
+- Energy Ball  
+- Endure  
+- Psychic  
+
+Camerupt @ White Herb  
+Ability: Solid Rock  
+Level: 50  
+EVs: 32 Atk / 1 SpA / 1 SpD / 32 Spe  
+Naughty Nature  
+- Fissure  
+- Lash Out  
+- Rock Slide  
+- Rain Dance  
+
+Mamoswine @ Shed Shell  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 19 HP / 25 Def / 8 SpD / 14 Spe  
+Quiet Nature  
+- Bite  
+- High Horsepower  
+- Iron Head  
+- Smack Down  
+
+Mimikyu @ Payapa Berry  
+Ability: Disguise  
+Level: 50  
+EVs: 23 HP / 5 Atk / 29 Def / 9 SpD  
+Modest Nature  
+- Light Screen  
+- Sunny Day  
+- Slash  
+- Destiny Bond  
+
+Espathra @ Sharp Beak  
+Ability: Frisk  
+Level: 50  
+EVs: 3 Atk / 22 Def / 32 SpD / 9 Spe  
+Careful Nature  
+- Drill Peck  
+- Rest  
+- Confuse Ray  
+- Trick Room  
+
+Altaria @ Silver Powder  
+Ability: Natural Cure  
+Level: 50  
+EVs: 20 Atk / 10 Def / 20 SpD / 16 Spe  
+Brave Nature  
+- Perish Song  
+- Dragon Rush  
+- Fire Blast  
+- Roar  
+

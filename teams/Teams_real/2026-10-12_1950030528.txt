@@ -1,0 +1,59 @@
+Morpeko @ Focus Sash
+Ability: Hunger Switch
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Jolly Nature
+- Protect
+- Aura Wheel
+- Psychic Fangs
+- Endeavor
+
+Zoroark-Hisui @ Life Orb
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Bitter Malice
+- Protect
+- Burning Jealousy
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Iron Head
+- Leech Life
+- Sucker Punch
+
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 27 HP / 32 SpA / 7 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Shadow Ball
+- Psychic
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Coaching
+- Close Combat
+- Shadow Claw
+
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Dance
+- Low Kick
+- Rock Slide
+- Knock Off

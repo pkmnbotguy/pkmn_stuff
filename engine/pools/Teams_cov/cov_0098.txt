@@ -1,0 +1,60 @@
+Gliscor @ Life Orb  
+Ability: Sand Veil  
+Level: 50  
+EVs: 11 SpA / 28 SpD / 27 Spe  
+Quirky Nature  
+- Fling  
+- Sludge Bomb  
+- Pin Missile  
+- Rock Tomb  
+
+Maushold-Four @ Mystic Water  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 Atk / 1 Def / 20 SpA / 13 SpD  
+Naive Nature  
+- Thief  
+- Water Pulse  
+- Trailblaze  
+- Charm  
+
+Diggersby @ Choice Scarf  
+Ability: Pickup  
+Level: 50  
+EVs: 26 HP / 2 Atk / 32 SpA / 6 Spe  
+Careful Nature  
+- U-turn  
+- Stomping Tantrum  
+- Grass Knot  
+- Payback  
+
+Chandelure @ Sharp Beak  
+Ability: Infiltrator  
+Level: 50  
+EVs: 11 HP / 32 Def / 23 SpD  
+Hasty Nature  
+- Lash Out  
+- Trailblaze  
+- Flame Charge  
+- Flamethrower  
+
+Vivillon-Pokeball @ Payapa Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 2 Def / 32 SpD / 32 Spe  
+Calm Nature  
+- Pounce  
+- Stun Spore  
+- Substitute  
+- Weather Ball  
+
+Squawkabilly @ Binding Band  
+Ability: Hustle  
+Level: 50  
+EVs: 21 HP / 24 Atk / 4 Def / 17 SpD  
+Brave Nature  
+- Aerial Ace  
+- Hyper Voice  
+- U-turn  
+- Fake Tears  
+

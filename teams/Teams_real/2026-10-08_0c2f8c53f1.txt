@@ -1,0 +1,59 @@
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Follow Me
+- Trick Room
+- Helping Hand
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Expanding Force
+- Protect
+- Mystical Fire
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Sleep Powder
+- Hurricane
+- Protect
+
+Gallade @ Life Orb
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Psycho Cut
+- Sacred Sword
+- Trick Room
+- Protect
+
+Klefki @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Bold Nature
+- Light Screen
+- Reflect
+- Sunny Day
+- Foul Play
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Eruption
+- Heat Wave
+- Earth Power
+- Protect

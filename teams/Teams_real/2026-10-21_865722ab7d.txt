@@ -1,0 +1,59 @@
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Expanding Force
+- Helping Hand
+- Trick Room
+- Sunny Day
+
+Pyroar @ Pyroarite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Overheat
+- Hyper Voice
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Tailwind
+- Protect
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Protect
+- Imprison
+- Trick Room
+
+Zoroark-Hisui @ Choice Scarf
+Ability: Illusion
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Bitter Malice
+- Hyper Voice
+- Icy Wind
+- Flamethrower
+
+Kangaskhan @ Silk Scarf
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Fake Out
+- Double-Edge
+- Hammer Arm
+- Sucker Punch

@@ -1,0 +1,59 @@
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Power Gem
+- Spiky Shield
+- Earth Power
+- Sludge Bomb
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Play Rough
+- Protect
+- Sucker Punch
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Trick Room
+- Roar
+- Protect
+- Twin Beam
+
+Clawitzer @ Expert Belt
+Ability: Mega Launcher
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Aura Sphere
+- Dragon Pulse
+- Water Pulse
+- Protect
+
+Rotom-Mow @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Leaf Storm
+- Volt Switch
+- Protect
+- Will-O-Wisp
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 5 Def / 32 SpA
+Quiet Nature
+- Armor Cannon
+- Psychic
+- Protect
+- Wide Guard

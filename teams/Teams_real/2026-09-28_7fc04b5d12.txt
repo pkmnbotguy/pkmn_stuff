@@ -1,0 +1,59 @@
+Rillaboom @ Grassy Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 18 HP / 25 Atk / 5 Def / 10 SpD / 8 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Fake Out
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Darkest Lariat
+- Parting Shot
+- Fake Out
+- Flare Blitz
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 13 HP / 30 Def / 23 Spe
+Timid Nature
+- Tailwind
+- Overheat
+- Quiver Dance
+- Rage Powder
+
+Garchomp @ Garchompite Z
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Power Gem
+- Earth Power
+- Dragon Pulse
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Protect
+- Focus Blast
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Protect
+- Nasty Plot

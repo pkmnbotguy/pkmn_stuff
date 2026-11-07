@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Snow Cloak
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Protect
+- Destiny Bond
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Glaive Rush
+- Ice Shard
+- Protect
+- High Horsepower
+
+Ninetales-Alola @ Never-Melt Ice
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Freeze-Dry
+- Protect
+- Moonblast
+
+Mamoswine @ Bright Powder
+Ability: Snow Cloak
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Icicle Crash
+- Ice Shard
+- Protect
+
+Rotom-Frost @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Thunderbolt
+- Volt Switch
+- Electroweb
+
+Weavile @ Focus Sash
+Ability: Pressure
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Knock Off
+- Fake Out
+- Ice Spinner
+- Low Kick

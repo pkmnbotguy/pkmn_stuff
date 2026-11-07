@@ -1,0 +1,60 @@
+Lucario @ Chesto Berry  
+Ability: Justified  
+Level: 50  
+EVs: 1 Atk / 32 Def / 1 SpD / 32 Spe  
+Gentle Nature  
+- Drain Punch  
+- Psychic  
+- Screech  
+- Detect  
+
+Gardevoir @ Never-Melt Ice  
+Ability: Trace  
+Level: 50  
+EVs: 25 HP / 3 Atk / 19 SpA / 19 SpD  
+Rash Nature  
+- Light Screen  
+- Heal Pulse  
+- Snore  
+- Aura Sphere  
+
+Meowstic @ Misty Seed  
+Ability: Keen Eye  
+Level: 50  
+EVs: 30 Def / 6 SpD / 30 Spe  
+Impish Nature  
+- Dig  
+- Shadow Ball  
+- Iron Tail  
+- Energy Ball  
+
+Clefable @ Scope Lens  
+Ability: Magic Guard  
+Level: 50  
+EVs: 14 HP / 20 SpA / 32 SpD  
+Modest Nature  
+- Trick  
+- After You  
+- Fire Blast  
+- Misty Terrain  
+
+Watchog @ Roseli Berry  
+Ability: Analytic  
+Level: 50  
+EVs: 26 Atk / 6 SpA / 32 SpD / 2 Spe  
+Naive Nature  
+- Thunder Punch  
+- Trailblaze  
+- Mud Shot  
+- Assurance  
+
+Farfetch’d @ Wacan Berry  
+Ability: Inner Focus  
+Level: 50  
+EVs: 15 Def / 19 SpA / 32 SpD  
+Timid Nature  
+- Close Combat  
+- First Impression  
+- Protect  
+- Agility  
+

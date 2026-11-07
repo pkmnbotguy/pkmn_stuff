@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Protect
+- Dragon Pulse
+- Tailwind
+
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Solar Beam
+- Protect
+- Weather Ball
+- Earth Power
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- U-turn
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Blizzard
+- Aurora Veil
+- Protect
+- Dazzling Gleam
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 16 HP / 15 Def / 5 SpA / 30 Spe
+Modest Nature
+- Protect
+- Quiver Dance
+- Flamethrower
+- Bug Buzz
+
+Blastoise @ Wacan Berry
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Fake Out
+- Protect
+- Water Spout
+- Aura Sphere

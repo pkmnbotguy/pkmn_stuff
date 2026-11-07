@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Perish Song
+- Protect
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Fake Out
+- U-turn
+- Grassy Glide
+- Protect
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Protect
+- Fake Out
+- Flare Blitz
+- Parting Shot
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Clangorous Soul
+- Protect
+- Aura Sphere
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 21 HP / 15 Def / 5 SpA / 1 SpD / 24 Spe
+Modest Nature
+- Quiver Dance
+- Protect
+- Giga Drain
+- Flamethrower
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+- Protect

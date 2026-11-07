@@ -1,0 +1,59 @@
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Psychic
+- Trick Room
+- Helping Hand
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Trick Room
+- Expanding Force
+- Heat Wave
+- Protect
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Vacuum Wave
+- Flash Cannon
+- Protect
+
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Mystical Fire
+- Protect
+- Expanding Force
+- Hyper Voice
+
+Mimikyu @ Mental Herb
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Play Rough
+- Swords Dance
+- Shadow Claw
+- Trick Room
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 12 SpD / 2 Spe
+Bold Nature
+- Ice Beam
+- Muddy Water
+- Hypnosis
+- Protect

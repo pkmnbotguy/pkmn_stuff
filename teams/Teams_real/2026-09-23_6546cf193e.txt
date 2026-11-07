@@ -1,0 +1,59 @@
+Rillaboom @ Grassy Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 18 HP / 25 Atk / 5 Def / 10 SpD / 8 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Maushold @ Rocky Helmet
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Taunt
+- Follow Me
+- Super Fang
+- Protect
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Blizzard
+- Shadow Ball
+- Aurora Veil
+
+Incineroar @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Parting Shot
+- Fake Out
+- Darkest Lariat
+- Flare Blitz
+
+Azumarill @ Sitrus Berry
+Ability: Huge Power
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Protect
+- Aqua Jet
+- Play Rough
+- Belly Drum
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Volt Tackle
+- Volt Switch
+- Fake Out
+- Protect

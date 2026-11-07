@@ -1,0 +1,59 @@
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Terrain Pulse
+- Follow Me
+- Helping Hand
+- Trick Room
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Expanding Force
+- Mystical Fire
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Heat Wave
+- Earth Power
+- Protect
+
+Hawlucha @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Acrobatics
+- Rock Tomb
+- Protect
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Power Gem
+- Earth Power
+- Spiky Shield
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot

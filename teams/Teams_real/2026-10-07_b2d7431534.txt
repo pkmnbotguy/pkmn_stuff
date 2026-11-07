@@ -1,0 +1,59 @@
+Beedrill @ Beedrillite
+Ability: Swarm
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Poison Jab
+- U-turn
+- Drill Run
+- Protect
+
+Empoleon @ Wide Lens
+Ability: Competitive
+Level: 50
+EVs: 12 HP / 22 Def / 24 SpA / 8 SpD
+Modest Nature
+- Hydro Pump
+- Flash Cannon
+- Protect
+- Icy Wind
+
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Giga Drain
+- Dragon Pulse
+- Earth Power
+- Protect
+
+Infernape @ Focus Sash
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Heat Wave
+- Grass Knot
+- Vacuum Wave
+- Nasty Plot
+
+Rotom-Heat @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Discharge
+- Volt Switch
+- Trick
+- Overheat
+
+Gliscor @ Life Orb
+Ability: Hyper Cutter
+Level: 50
+EVs: 14 HP / 25 Atk / 1 Def / 5 SpD / 21 Spe
+Adamant Nature
+- High Horsepower
+- Dual Wingbeat
+- Tailwind
+- Protect

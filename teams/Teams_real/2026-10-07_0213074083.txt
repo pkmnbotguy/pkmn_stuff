@@ -1,0 +1,59 @@
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fake Out
+- Bulk Up
+- Knock Off
+- Drain Punch
+
+Reuniclus @ Life Orb
+Ability: Regenerator
+Level: 50
+EVs: 31 HP / 32 SpA / 3 SpD
+Quiet Nature
+- Protect
+- Trick Room
+- Psychic
+- Shadow Ball
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Heat Wave
+- Overheat
+- Shadow Ball
+
+Klefki @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Bold Nature
+- Light Screen
+- Reflect
+- Thunder Wave
+- Sunny Day
+
+Arboliva @ Sitrus Berry
+Ability: Harvest
+Level: 50
+EVs: 32 HP / 32 SpA
+Modest Nature
+- Protect
+- Energy Ball
+- Hyper Voice
+- Growth
+
+Ninetales @ Focus Sash
+Ability: Drought
+Level: 50
+EVs: 12 HP / 10 Def / 20 SpA / 24 Spe
+Timid Nature
+- Protect
+- Helping Hand
+- Heat Wave
+- Overheat

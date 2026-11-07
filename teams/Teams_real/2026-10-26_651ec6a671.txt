@@ -1,0 +1,59 @@
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Rage Powder
+- Poltergeist
+- Protect
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Heat Wave
+- Psychic
+- Protect
+- Nasty Plot
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Impish Nature
+- Iron Head
+- Body Press
+- Tailwind
+- Roost
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Protect
+- Knock Off
+- Low Kick
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 3 HP / 32 SpA / 31 Spe
+Modest Nature
+- Hydro Pump
+- Light Screen
+- Will-O-Wisp
+- Volt Switch
+
+Dragapult @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Naughty Nature
+- Dragon Darts
+- Phantom Force
+- Sucker Punch
+- Disable

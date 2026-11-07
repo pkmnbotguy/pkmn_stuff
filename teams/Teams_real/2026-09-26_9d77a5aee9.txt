@@ -1,0 +1,59 @@
+Sneasler @ Normal Gem
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Dire Claw
+- Feint
+
+Skarmory @ Skarmorite
+Ability: Weak Armor
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Roost
+- Iron Head
+- Swords Dance
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Muddy Water
+- Coil
+- Hypnosis
+- Recover
+
+Meowscarada @ Choice Scarf
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Knock Off
+- Flower Trick
+- Thunder Punch
+- Triple Axel
+
+Salazzle @ Focus Sash
+Ability: Corrosion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Heat Wave
+- Sludge Bomb
+- Encore
+
+Garchomp @ Garchompite Z
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Power Gem
+- Draco Meteor
+- Protect

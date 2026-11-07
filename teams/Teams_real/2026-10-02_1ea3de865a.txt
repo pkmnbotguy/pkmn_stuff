@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Nasty Plot
+- Heat Wave
+- Psychic
+
+Feraligatr @ Feraligite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Dragon Dance
+- Liquidation
+- Body Slam
+
+Sneasler @ Life Orb
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Dire Claw
+- Close Combat
+- Throat Chop
+
+Raichu @ Focus Sash
+Ability: Lightning Rod
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Thunderbolt
+- Charm
+- Eerie Impulse
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- High Horsepower
+- Wood Hammer
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Throat Chop
+- Fake Out
+- Parting Shot
+- Flare Blitz

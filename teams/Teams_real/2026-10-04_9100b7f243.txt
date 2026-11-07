@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Hurricane
+- Ancient Power
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sleep Powder
+- Leaf Storm
+- Earth Power
+- Weather Ball
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Hurricane
+- Muddy Water
+- Tailwind
+- Wide Guard
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Liquidation
+- Sucker Punch
+- Swords Dance
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Protect
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Spirit Break
+- Reflect
+- Scary Face
+- Parting Shot

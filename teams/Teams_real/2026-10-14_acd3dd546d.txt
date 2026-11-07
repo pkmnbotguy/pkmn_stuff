@@ -1,0 +1,59 @@
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Protect
+
+Audino @ Sitrus Berry
+Ability: Healer
+Level: 50
+EVs: 32 HP / 7 Def / 20 SpA / 7 SpD
+Bold Nature
+- Simple Beam
+- Psychic
+- Helping Hand
+- Trick Room
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Spout
+- Dark Pulse
+- Shell Smash
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Taunt
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Stomping Tantrum
+- Rock Slide
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Wide Guard

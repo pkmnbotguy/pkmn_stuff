@@ -1,0 +1,56 @@
+Ditto @ Quick Claw
+Ability: Imposter
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpD / 32 Spe
+Hasty Nature
+- Transform
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- High Horsepower
+- U-turn
+- Fake Out
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Gholdengo @ White Herb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Focus Blast
+- Protect
+
+Garchomp @ Leftovers
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Stomping Tantrum
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+- Fake Out

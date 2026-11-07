@@ -1,0 +1,59 @@
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Trick Room
+- Thunderbolt
+- Psychic
+- Rain Dance
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Spout
+- Fake Out
+- Dark Pulse
+- Aura Sphere
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Ice Punch
+- Drain Punch
+
+Vivillon @ Choice Scarf
+Ability: Compound Eyes
+Level: 50
+EVs: 24 Def / 10 SpD / 32 Spe
+Timid Nature
+- Sleep Powder
+- Hurricane
+- Rage Powder
+- Pollen Puff
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Solar beam
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Protect
+- Aqua Jet
+- Liquidation
+- Last Respects

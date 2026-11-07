@@ -1,0 +1,60 @@
+Torkoal @ Sitrus Berry  
+Ability: Shell Armor  
+Level: 50  
+EVs: 23 HP / 11 Atk / 32 SpD  
+Careful Nature  
+- Heat Wave  
+- Rock Slide  
+- Overheat  
+- Clear Smog  
+
+Avalugg-Hisui @ Icy Rock  
+Ability: Ice Body  
+Level: 50  
+EVs: 7 HP / 6 Atk / 32 Def / 21 SpA  
+Serious Nature  
+- Rain Dance  
+- Body Slam  
+- Crunch  
+- Bulldoze  
+
+Cinderace @ Expert Belt  
+Ability: Blaze  
+Level: 50  
+EVs: 28 HP / 13 Atk / 25 SpD  
+Gentle Nature  
+- Substitute  
+- Taunt  
+- Blaze Kick  
+- Iron Head  
+
+Toxtricity-Low-Key @ Misty Seed  
+Ability: Punk Rock  
+Level: 50  
+EVs: 14 HP / 20 SpD / 32 Spe  
+Serious Nature  
+- Poison Jab  
+- Sleep Talk  
+- Brick Break  
+- Sludge Wave  
+
+Garbodor @ Oran Berry  
+Ability: Aftermath  
+Level: 50  
+EVs: 6 HP / 25 Atk / 32 Def / 3 Spe  
+Timid Nature  
+- Endure  
+- Solar Beam  
+- Gunk Shot  
+- Poison Jab  
+
+Heliolisk @ King's Rock  
+Ability: Solar Power  
+Level: 50  
+EVs: 32 HP / 12 Atk / 16 SpA / 6 SpD  
+Sassy Nature  
+- Attract  
+- Electric Terrain  
+- Discharge  
+- Electro Ball  
+

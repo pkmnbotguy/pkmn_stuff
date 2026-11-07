@@ -1,0 +1,59 @@
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Impish Nature
+- Roost
+- Bulk Up
+- Power Trip
+- Brave Bird
+
+Mimikyu @ White Herb
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Will-O-Wisp
+- Play Rough
+- Wood Hammer
+- Trick Room
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dragon Dance
+- Knock Off
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- High Horsepower
+- Rock Slide
+- Iron Head
+- Protect
+
+Kommo-O @ Sitrus Berry
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clangorous Soul
+- Clanging Scales
+- Aura Sphere
+- Flamethrower
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Heat Wave
+- Earth Power
+- Protect

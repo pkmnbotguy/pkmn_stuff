@@ -1,0 +1,59 @@
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Play Rough
+- Protect
+- Knock Off
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Eruption
+- Protect
+- Earth Power
+- Ancient Power
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Relaxed Nature
+- Twin Beam
+- Helping Hand
+- Trick Room
+- Foul Play
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Protect
+- Trick Room
+- Follow Me
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 5 Def / 32 SpA
+Quiet Nature
+- Armor Cannon
+- Wide Guard
+- Expanding Force
+- Protect
+
+Primarina @ Mystic Water
+Ability: Liquid Voice
+Level: 50
+EVs: 30 HP / 8 Def / 28 SpA
+Quiet Nature
+- Hyper Voice
+- Moonblast
+- Protect
+- Life Dew

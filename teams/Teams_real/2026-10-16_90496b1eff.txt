@@ -1,0 +1,59 @@
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rising Voltage
+- Grass Knot
+- Fake Out
+- Protect
+
+Inteleon @ Scope Lens
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Snipe Shot
+- Ice Beam
+- Rain Dance
+- Protect
+
+Jolteon @ Life Orb
+Ability: Volt Absorb
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Rising Voltage
+- Alluring Voice
+- Quick Attack
+- Protect
+
+Sneasler @ Electric Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Rock Slide
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Ice Shard
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Expanding Force
+- Imprison
+- Trick Room
+- Hyper Voice

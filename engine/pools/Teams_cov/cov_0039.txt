@@ -1,0 +1,60 @@
+Vivillon-Polar @ King's Rock  
+Ability: Shield Dust  
+Level: 50  
+EVs: 31 Def / 29 SpA / 6 Spe  
+Docile Nature  
+- Facade  
+- Rest  
+- Sleep Powder  
+- Snore  
+
+Victreebel @ Babiri Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 2 HP / 20 Atk / 25 Def / 19 Spe  
+Sassy Nature  
+- Reflect  
+- Sweet Scent  
+- Grassy Glide  
+- Worry Seed  
+
+Avalugg-Hisui @ Quick Claw  
+Ability: Strong Jaw  
+Level: 50  
+EVs: 6 HP / 2 Atk / 7 SpA / 23 SpD / 28 Spe  
+Brave Nature  
+- Mountain Gale  
+- Curse  
+- Chilling Water  
+- Ancient Power  
+
+Whimsicott @ Focus Band  
+Ability: Prankster  
+Level: 50  
+EVs: 32 HP / 21 Atk / 1 Def / 9 SpA / 3 Spe  
+Serious Nature  
+- Substitute  
+- Energy Ball  
+- Giga Drain  
+- Shadow Ball  
+
+Heliolisk @ Silver Powder  
+Ability: Sand Veil  
+Level: 50  
+EVs: 23 HP / 12 Atk / 4 SpA / 27 Spe  
+Impish Nature  
+- Thunder Wave  
+- Charge Beam  
+- Low Sweep  
+- Sleep Talk  
+
+Bellibolt @ Rocky Helmet  
+Ability: Damp  
+Level: 50  
+EVs: 30 HP / 31 Atk / 5 SpA  
+Lax Nature  
+- Charge  
+- Mud-Slap  
+- Electro Ball  
+- Supercell Slam  
+

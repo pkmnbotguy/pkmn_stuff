@@ -1,0 +1,59 @@
+Venusaur @ Life Orb
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Worry Seed
+- Sludge Bomb
+- Energy Ball
+
+Noivern @ Leftovers
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Air Slash
+- Dragon Pulse
+- Tailwind
+- Protect
+
+Sableye @ Heat Rock
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Jolly Nature
+- Shadow Claw
+- Sunny Day
+- Reflect
+- Thunder Wave
+
+Skeledirge @ Charcoal
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 2 SpA / 32 SpD
+Bold Nature
+- Torch Song
+- Protect
+- Flamethrower
+- Shadow Ball
+
+Alcremie @ Sitrus Berry
+Ability: Aroma Veil
+Level: 50
+EVs: 32 HP / 32 Def / 1 SpA
+Timid Nature
+- Psychic
+- Dazzling Gleam
+- Protect
+- Decorate
+
+Emboar @ Emboarite
+Ability: Blaze
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Scorching Sands
+- Heat Wave
+- Protect
+- Drain Punch

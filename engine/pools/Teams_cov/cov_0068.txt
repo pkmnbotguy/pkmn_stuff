@@ -1,0 +1,60 @@
+Kommo-o @ Metal Coat  
+Ability: Soundproof  
+Level: 50  
+EVs: 26 Def / 13 SpA / 27 SpD  
+Mild Nature  
+- Counter  
+- Noble Roar  
+- Clanging Scales  
+- Breaking Swipe  
+
+Scovillain @ Haban Berry  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 29 HP / 20 SpA / 17 Spe  
+Gentle Nature  
+- Leaf Storm  
+- Fire Blast  
+- Seed Bomb  
+- Burning Jealousy  
+
+Greninja @ Electric Seed  
+Ability: Torrent  
+Level: 50  
+EVs: 1 HP / 1 Atk / 32 Def / 32 SpA  
+Careful Nature  
+- Trailblaze  
+- Bounce  
+- Dive  
+- Low Sweep  
+
+Camerupt @ Twisted Spoon  
+Ability: Magma Armor  
+Level: 50  
+EVs: 11 Def / 12 SpA / 13 SpD / 30 Spe  
+Quirky Nature  
+- Stockpile  
+- Focus Energy  
+- Heavy Slam  
+- Iron Head  
+
+Sylveon @ Coba Berry  
+Ability: Pixilate  
+Level: 50  
+EVs: 10 HP / 32 Atk / 3 Def / 21 Spe  
+Brave Nature  
+- Detect  
+- Yawn  
+- Dig  
+- Draining Kiss  
+
+Froslass @ Shuca Berry  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 18 HP / 6 Atk / 25 Def / 2 SpA / 15 Spe  
+Docile Nature  
+- Spikes  
+- Poltergeist  
+- Ice Fang  
+- Trick  
+

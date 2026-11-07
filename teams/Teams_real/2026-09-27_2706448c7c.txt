@@ -1,0 +1,59 @@
+Persian-Alola @ Focus Sash
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Jolly Nature
+- Fake Out
+- Parting Shot
+- Hypnosis
+- Sunny Day
+
+Hawlucha @ Hawluchanite
+Ability: Limber
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Protect
+- High Jump Kick
+- Brave Bird
+- Entrainment
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Calm Mind
+- Protect
+- Dazzling Gleam
+- Light of Ruin
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Psychic
+- Follow Me
+- Helping Hand
+- Trick Room
+
+Volcarona @ Life Orb
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 Spe
+Bold Nature
+- Quiver Dance
+- Protect
+- Heat Wave
+- Bug Buzz
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Ice Punch
+- Rock Slide
+- Close Combat
+- Shadow Claw

@@ -1,0 +1,59 @@
+Blaziken @ Life Orb
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- U-turn
+- Flare Blitz
+- Close Combat
+- Detect
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Protect
+- Weather Ball
+- Perish Song
+- Earth Power
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Careful Nature
+- Iron Head
+- Swords Dance
+- Leech Life
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Shadow Ball
+- Protect
+- Thunder
+- Perish Song
+
+Sinistcha @ Focus Sash
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Make It Rain
+- Protect
+- Nasty Plot

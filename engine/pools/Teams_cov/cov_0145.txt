@@ -1,0 +1,60 @@
+Vivillon-Icy Snow @ Sitrus Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 27 Atk / 22 SpA / 17 SpD  
+Gentle Nature  
+- U-turn  
+- Sleep Powder  
+- Substitute  
+- Light Screen  
+
+Zoroark @ Rindo Berry  
+Ability: Illusion  
+Level: 50  
+EVs: 32 HP / 13 Atk / 21 SpA  
+Sassy Nature  
+- Confuse Ray  
+- Shadow Claw  
+- Hex  
+- Sucker Punch  
+
+Grapploct @ Wacan Berry  
+Ability: Technician  
+Level: 50  
+EVs: 6 Atk / 15 SpA / 15 SpD / 30 Spe  
+Bold Nature  
+- Storm Throw  
+- Taunt  
+- Bulk Up  
+- Body Slam  
+
+Toxtricity-Low-Key @ Expert Belt  
+Ability: Punk Rock  
+Level: 50  
+EVs: 1 HP / 32 Atk / 32 SpA / 1 Spe  
+Impish Nature  
+- Giga Impact  
+- Tearful Look  
+- Substitute  
+- Hex  
+
+Sableye @ Rocky Helmet  
+Ability: Stall  
+Level: 50  
+EVs: 19 Def / 16 SpA / 5 SpD / 26 Spe  
+Brave Nature  
+- Sleep Talk  
+- Hex  
+- Shadow Punch  
+- Snarl  
+
+Sceptile @ Leftovers  
+Ability: Overgrow  
+Level: 50  
+EVs: 29 HP / 21 Atk / 16 Def  
+Modest Nature  
+- Grassy Glide  
+- Leaf Storm  
+- Assurance  
+- Snore  
+

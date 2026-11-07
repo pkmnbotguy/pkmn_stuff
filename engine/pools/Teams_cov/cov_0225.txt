@@ -1,0 +1,57 @@
+Vivillon-Savanna @ Shuca Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 HP / 27 SpA / 7 Spe  
+Careful Nature  
+- Sleep Powder  
+- Thief  
+- Bug Buzz  
+- Weather Ball  
+
+Corviknight @ Iron Ball  
+Ability: Unnerve  
+Level: 50  
+EVs: 32 HP / 2 Atk / 32 Def  
+Lax Nature  
+- Power Trip  
+- Heavy Slam  
+- Agility  
+- Light Screen  
+
+Arcanine @ Wide Lens  
+Ability: Intimidate  
+Level: 50  
+EVs: 32 HP / 32 Atk / 2 Def  
+Gentle Nature  
+- Flamethrower  
+- Howl  
+- Sunny Day  
+- Covet  
+
+Feraligatr @ Chople Berry  
+Ability: Sheer Force  
+Level: 50  
+EVs: 10 HP / 8 Atk / 5 Def / 11 SpD / 32 Spe  
+Hardy Nature  
+- Helping Hand  
+- Brutal Swing  
+- Mega Kick  
+- Hydro Pump  
+
+Furfrou @ Charti Berry  
+Ability: Fur Coat  
+Level: 50  
+EVs: 12 Atk / 18 Def / 9 SpA / 27 SpD  
+Adamant Nature  
+- Dig  
+- Dark Pulse  
+- Cotton Guard  
+- Uproar  
+
+Ditto @ Black Glasses  
+Ability: Imposter  
+Level: 50  
+EVs: 2 Def / 32 SpA / 32 SpD  
+Brave Nature  
+- Transform  
+

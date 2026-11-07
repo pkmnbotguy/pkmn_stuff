@@ -1,0 +1,59 @@
+Liepard @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Foul Play
+- Fake Out
+- Thunder Wave
+- Encore
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Psychic
+- Heat Wave
+- Nasty Plot
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Protect
+- Matcha Gotcha
+- Trick Room
+- Rage Powder
+
+Krookodile @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- High Horsepower
+- Knock Off
+- Close Combat
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 31 HP / 11 Atk / 1 Def / 15 SpD / 8 Spe
+Careful Nature
+- Iron Head
+- Tailwind
+- Brave Bird
+- Bulk Up
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Leech Life
+- Sucker Punch
+- Protect

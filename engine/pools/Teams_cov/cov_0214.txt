@@ -1,0 +1,60 @@
+Stunfisk @ Charcoal  
+Ability: Static  
+Level: 50  
+EVs: 6 Atk / 32 Def / 28 SpD  
+Bold Nature  
+- Charge  
+- Discharge  
+- Sleep Talk  
+- Spite  
+
+Steelix @ Pecha Berry  
+Ability: Sheer Force  
+Level: 50  
+EVs: 23 HP / 8 Def / 28 SpA / 7 SpD  
+Rash Nature  
+- Scary Face  
+- Flash Cannon  
+- Drill Run  
+- Sandstorm  
+
+Gliscor @ Chesto Berry  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 15 Atk / 32 SpD / 19 Spe  
+Lonely Nature  
+- Slash  
+- Round  
+- Night Slash  
+- Breaking Swipe  
+
+Rhyperior @ Passho Berry  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 23 Atk / 26 SpA / 7 SpD / 10 Spe  
+Impish Nature  
+- Horn Drill  
+- Scorching Sands  
+- Flash Cannon  
+- Fire Punch  
+
+Passimian @ Muscle Band  
+Ability: Defiant  
+Level: 50  
+EVs: 31 Atk / 5 SpA / 30 Spe  
+Quiet Nature  
+- Body Slam  
+- Beat Up  
+- Drain Punch  
+- Brick Break  
+
+Vivillon @ Babiri Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 30 HP / 16 Atk / 20 Spe  
+Serious Nature  
+- Iron Defense  
+- Bug Buzz  
+- Facade  
+- Sleep Powder  
+

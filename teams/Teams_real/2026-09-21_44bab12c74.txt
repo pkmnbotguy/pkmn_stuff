@@ -1,0 +1,59 @@
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Population Bomb
+- Taunt
+- Follow Me
+- Rain Dance
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Expanding Force
+- Nasty Plot
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Moonblast
+- Encore
+- Endeavor
+
+Tsareena @ White Herb
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Taunt
+- Zen Headbutt
+- Trop Kick
+- Triple Axel
+
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Water Spout
+- Dark Pulse
+- Protect
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Low Kick
+- Iron Head

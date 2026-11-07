@@ -1,0 +1,60 @@
+Hydrapple @ Pecha Berry  
+Ability: Supersweet Syrup  
+Level: 50  
+EVs: 31 Atk / 25 Def / 10 SpA  
+Impish Nature  
+- Facade  
+- Infestation  
+- Recycle  
+- Hyper Beam  
+
+Umbreon @ Electric Seed  
+Ability: Synchronize  
+Level: 50  
+EVs: 8 HP / 26 Def / 32 Spe  
+Careful Nature  
+- Mud-Slap  
+- Psych Up  
+- Wish  
+- Tickle  
+
+Avalugg @ Magnet  
+Ability: Sturdy  
+Level: 50  
+EVs: 29 Def / 28 SpA / 9 SpD  
+Timid Nature  
+- Aurora Veil  
+- Earthquake  
+- Hydro Pump  
+- Superpower  
+
+Audino @ Sitrus Berry  
+Ability: Healer  
+Level: 50  
+EVs: 11 Atk / 22 Def / 9 SpA / 24 SpD  
+Gentle Nature  
+- Endure  
+- Snore  
+- Wild Charge  
+- Fire Blast  
+
+Absol @ Charcoal  
+Ability: Super Luck  
+Level: 50  
+EVs: 24 HP / 24 Atk / 18 SpA  
+Docile Nature  
+- Play Rough  
+- Body Slam  
+- Protect  
+- Future Sight  
+
+Simisage @ Black Belt  
+Ability: Overgrow  
+Level: 50  
+EVs: 6 HP / 32 Atk / 19 Def / 9 SpD  
+Docile Nature  
+- Substitute  
+- Superpower  
+- Low Sweep  
+- Bite  
+

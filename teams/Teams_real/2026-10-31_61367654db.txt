@@ -1,0 +1,59 @@
+Mimikyu @ Mental Herb
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Sassy Nature
+- Trick Room
+- Will-O-Wisp
+- Play Rough
+- Shadow Sneak
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fake Out
+- Drain Punch
+- Knock Off
+- Bulk Up
+
+Tsareena @ Sitrus Berry
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Careful Nature
+- Triple Axel
+- Trop Kick
+- U-turn
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Earth Power
+- Overheat
+- Protect
+
+Pyroar @ Pyroarite
+Ability: Rivalry
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Overheat
+- Solar Beam
+- Protect
+
+Pawmot @ Focus Sash
+Ability: Volt Absorb
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Close Combat
+- Revival Blessing
+- Double Shock

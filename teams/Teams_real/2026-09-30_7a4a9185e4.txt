@@ -1,0 +1,59 @@
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Protect
+- Swords Dance
+- Sucker Punch
+- Kowtow Cleave
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 11 Def / 23 Spe
+Timid Nature
+- Protect
+- Encore
+- Zap Cannon
+- Focus Blast
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Extreme Speed
+- Head Smash
+- Flare Blitz
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- High Horsepower
+- Wood Hammer
+
+Ceruledge @ Grassy Seed
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Protect
+- Swords Dance
+- Shadow Sneak
+- Bitter Blade
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Aurora Veil
+- Shadow Ball
+- Blizzard

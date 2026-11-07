@@ -1,0 +1,59 @@
+Kleavor @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stone Axe
+- X-Scissor
+- Tailwind
+- U-turn
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Aqua Jet
+- Sucker Punch
+- Leech Life
+- Swords Dance
+
+Araquanid @ Big Root
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Liquidation
+- Leech Life
+- Aqua Ring
+- Wide Guard
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 Spe
+Bold Nature
+- Quiver Dance
+- Air Cutter
+- Heat Wave
+- Giga Drain
+
+Sneasler @ Normal Gem
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Acrobatics
+- Close Combat
+- Dire Claw
+- Fake Out
+
+Politoed @ Mystic Water
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Weather Ball
+- Ice Beam
+- Surf
+- Protect

@@ -1,0 +1,59 @@
+Azumarill @ Sitrus Berry
+Ability: Huge Power
+Level: 50
+EVs: 31 HP / 32 Atk / 3 SpD
+Jolly Nature
+- Liquidation
+- Belly Drum
+- Aqua Jet
+- Play Rough
+
+Heliolisk @ Leftovers
+Ability: Dry Skin
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Volt Switch
+- Shed Tail
+- Hyper Voice
+- Surf
+
+Meowstic @ Meowsticite
+Ability: Keen Eye
+Level: 50
+EVs: 10 Def / 27 SpA / 29 Spe
+Mild Nature
+- Expanding Force
+- Quick Guard
+- Fake Out
+- Shadow Ball
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Mild Nature
+- Expanding Force
+- Fake Out
+- Energy Ball
+- Drain Punch
+
+Whimsicott @ Miracle Seed
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Lax Nature
+- Moonblast
+- Stun Spore
+- Tailwind
+- Hurricane
+
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 19 HP / 15 SpA / 32 Spe
+Modest Nature
+- Overheat
+- Flamethrower
+- Shadow Ball
+- Energy Ball

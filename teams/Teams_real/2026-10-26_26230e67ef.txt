@@ -1,0 +1,59 @@
+Sableye @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Rain Dance
+- Sunny Day
+- Disable
+- Encore
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- Protect
+- Leech Life
+- Iron Head
+- Sucker Punch
+
+Sharpedo @ Life Orb
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Liquidation
+- Crunch
+- Ice Fang
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Heat Wave
+- Fire Blast
+- Shadow Ball
+
+Houndoom @ Houndoominite
+Ability: Unnerve
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Dark Pulse
+- Snarl
+
+Aerodactyl @ Wide Lens
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Tailwind
+- Rock Slide
+- Dual Wingbeat

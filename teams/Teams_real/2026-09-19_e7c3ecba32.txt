@@ -1,0 +1,59 @@
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Grassy Glide
+- High Horsepower
+- Knock Off
+- Fake Out
+
+Incineroar @ Expert Belt
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Darkest Lariat
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Poison Jab
+- Stomping Tantrum
+- Rock Slide
+- Dragon Claw
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Dark Pulse
+- Flash Cannon
+- Dragon Pulse
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Mystical Fire
+- Expanding Force
+- Dazzling Gleam
+- Encore
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Dark Pulse
+- Freeze-Dry

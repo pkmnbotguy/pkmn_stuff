@@ -1,0 +1,60 @@
+Vivillon-Monsoon @ Electric Seed  
+Ability: Shield Dust  
+Level: 50  
+EVs: 32 Def / 22 SpA / 12 SpD  
+Quirky Nature  
+- Facade  
+- Draining Kiss  
+- Snore  
+- Round  
+
+Squawkabilly-Blue @ Leppa Berry  
+Ability: Guts  
+Level: 50  
+EVs: 19 HP / 26 Def / 21 SpA  
+Jolly Nature  
+- Roost  
+- Endure  
+- Scary Face  
+- U-turn  
+
+Salamence @ Light Clay  
+Ability: Moxie  
+Level: 50  
+EVs: 7 HP / 28 Def / 25 SpA / 6 SpD  
+Bashful Nature  
+- Dragon Dance  
+- Crunch  
+- Hurricane  
+- Air Slash  
+
+Hawlucha @ Quick Claw  
+Ability: Limber  
+Level: 50  
+EVs: 25 Atk / 15 Def / 26 SpD  
+Hardy Nature  
+- Reversal  
+- Helping Hand  
+- Defog  
+- Stone Edge  
+
+Excadrill @ Soft Sand  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 17 HP / 18 Def / 31 SpA  
+Mild Nature  
+- Round  
+- Rapid Spin  
+- Sandstorm  
+- Rock Slide  
+
+Rillaboom @ Haban Berry  
+Ability: Grassy Surge  
+Level: 50  
+EVs: 20 HP / 14 Atk / 32 SpA  
+Jolly Nature  
+- Focus Punch  
+- Thief  
+- Low Kick  
+- Fake Out  
+

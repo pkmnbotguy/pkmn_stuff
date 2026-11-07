@@ -1,0 +1,60 @@
+Qwilfish @ Roseli Berry  
+Ability: Swift Swim  
+Level: 50  
+EVs: 32 HP / 3 Def / 10 SpD / 21 Spe  
+Lonely Nature  
+- Snore  
+- Icy Wind  
+- Destiny Bond  
+- Whirlpool  
+
+Malamar @ Spell Tag  
+Ability: Infiltrator  
+Level: 50  
+EVs: 23 HP / 7 Def / 7 SpA / 29 Spe  
+Docile Nature  
+- Destiny Bond  
+- Poison Jab  
+- Aerial Ace  
+- Rock Slide  
+
+Vivillon-Icy Snow @ Pecha Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 3 HP / 26 Atk / 5 SpD / 32 Spe  
+Sassy Nature  
+- Facade  
+- Acrobatics  
+- Iron Defense  
+- Draining Kiss  
+
+Noivern @ Binding Band  
+Ability: Telepathy  
+Level: 50  
+EVs: 16 HP / 8 Def / 32 SpA / 10 Spe  
+Hardy Nature  
+- Body Slam  
+- Breaking Swipe  
+- Shadow Claw  
+- Dragon Cheer  
+
+Emboar @ White Herb  
+Ability: Reckless  
+Level: 50  
+EVs: 29 HP / 24 Atk / 12 SpA / 1 SpD  
+Rash Nature  
+- Round  
+- Assurance  
+- Fling  
+- Endeavor  
+
+Slowking-Galar @ Rawst Berry  
+Ability: Curious Medicine  
+Level: 50  
+EVs: 29 HP / 29 Def / 8 SpD  
+Impish Nature  
+- Facade  
+- Safeguard  
+- Zen Headbutt  
+- Rain Dance  
+

@@ -1,0 +1,59 @@
+Lopunny @ Lopunnite
+Ability: Limber
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Close Combat
+- Triple Axel
+- Thunder Punch
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Protect
+- Expanding Force
+- Calm Mind
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Mystical Fire
+- Helping Hand
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Throat Chop
+
+Ceruledge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Bitter Blade
+- Shadow Sneak
+- Close Combat
+- Swords Dance
+
+Dragonite @ Life Orb
+Ability: Inner Focus
+Level: 50
+EVs: 31 HP / 32 Atk / 3 Spe
+Adamant Nature
+- Scale Shot
+- Rock Slide
+- Stomping Tantrum
+- Dragon Dance

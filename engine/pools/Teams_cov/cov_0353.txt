@@ -1,0 +1,60 @@
+Pawmot @ White Herb  
+Ability: Iron Fist  
+Level: 50  
+EVs: 14 HP / 32 Def / 5 SpA / 15 SpD  
+Sassy Nature  
+- Charge  
+- Thunder Wave  
+- Quick Attack  
+- Focus Blast  
+
+Annihilape @ Charcoal  
+Ability: Defiant  
+Level: 50  
+EVs: 27 Atk / 7 Def / 32 SpA  
+Calm Nature  
+- Dig  
+- Focus Energy  
+- Gunk Shot  
+- Stealth Rock  
+
+Aerodactyl @ Aerodactylite  
+Ability: Rock Head  
+Level: 50  
+EVs: 15 Atk / 19 SpA / 32 Spe  
+Bashful Nature  
+- Round  
+- Psychic Fangs  
+- Sleep Talk  
+- Dragon Dance  
+
+Lycanroc-Midnight @ Chesto Berry  
+Ability: No Guard  
+Level: 50  
+EVs: 16 Atk / 32 SpA / 12 SpD / 6 Spe  
+Serious Nature  
+- Stone Edge  
+- Upper Hand  
+- Endeavor  
+- Sandstorm  
+
+Beartic @ Babiri Berry  
+Ability: Swift Swim  
+Level: 50  
+EVs: 9 HP / 25 Atk / 32 SpD  
+Lonely Nature  
+- Yawn  
+- Taunt  
+- Roar  
+- Ice Punch  
+
+Meganium @ Persim Berry  
+Ability: Leaf Guard  
+Level: 50  
+EVs: 32 HP / 8 Atk / 23 SpA / 3 Spe  
+Mild Nature  
+- Ingrain  
+- Body Slam  
+- Facade  
+- Poison Powder  
+

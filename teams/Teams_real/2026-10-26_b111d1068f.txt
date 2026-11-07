@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Dragon Dance
+- Protect
+
+Houndstone @ Leftovers
+Ability: Fluffy
+Level: 50
+EVs: 20 HP / 13 Atk / 1 SpD / 32 Spe
+Sassy Nature
+- Snarl
+- Howl
+- Will-O-Wisp
+- Last Respects
+
+Grimmsnarl @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Spirit Break
+- Fake Tears
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Night Slash
+- Psycho Cut
+- Protect
+- Superpower
+
+Grapploct @ Life Orb
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Storm Throw
+- Payback
+- Octolock
+- Protect
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hydro Pump
+- Volt Switch
+- Electroweb
+- Trick

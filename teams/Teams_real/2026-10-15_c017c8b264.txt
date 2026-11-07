@@ -1,0 +1,59 @@
+Sirfetchd @ Leek
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Meteor Assault
+- Leaf Blade
+- Poison Jab
+- Night Slash
+
+Tinkaton @ Focus Sash
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Brave Nature
+- Play Rough
+- Gigaton Hammer
+- Endeavor
+- Fake Out
+
+Gliscor @ Yache Berry
+Ability: Hyper Cutter
+Level: 50
+EVs: 14 HP / 25 Atk / 1 Def / 5 SpD / 21 Spe
+Brave Nature
+- High Horsepower
+- X-Scissor
+- Thunder Fang
+- Knock Off
+
+Machamp @ Expert Belt
+Ability: No Guard
+Level: 50
+EVs: 31 HP / 20 Atk / 1 Def / 1 SpD / 13 Spe
+Sassy Nature
+- Seismic Toss
+- Cross Chop
+- Thunder Punch
+- Throat Chop
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Relaxed Nature
+- Uproar
+- Helping Hand
+- Twin Beam
+- Trick Room
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Liquidation
+- Rock Slide
+- Iron Head

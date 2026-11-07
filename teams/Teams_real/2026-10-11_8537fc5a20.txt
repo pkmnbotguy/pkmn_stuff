@@ -1,0 +1,59 @@
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dragon Pulse
+- Earth Power
+- Energy Ball
+- Detect
+
+Jolteon @ Choice Scarf
+Ability: Volt Absorb
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Modest Nature
+- Discharge
+- Alluring Voice
+- Weather Ball
+- Electroweb
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Wide Guard
+- Tailwind
+- Muddy Water
+- Hurricane
+
+Aegislash @ Focus Sash
+Ability: Stance Change
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- King's Shield
+- Iron Head
+- Poltergeist
+- Sacred Sword
+
+Incineroar @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Fake Out
+- Flare Blitz
+- Will-O-Wisp
+- Snarl
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Ice Punch
+- Wave Crash
+- High Horsepower

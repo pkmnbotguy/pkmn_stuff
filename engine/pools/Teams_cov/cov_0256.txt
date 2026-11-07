@@ -1,0 +1,60 @@
+Volcarona @ Muscle Band  
+Ability: Flame Body  
+Level: 50  
+EVs: 32 SpA / 2 SpD / 32 Spe  
+Gentle Nature  
+- Fiery Dance  
+- Air Cutter  
+- Calm Mind  
+- Amnesia  
+
+Manectric @ Metronome  
+Ability: Static  
+Level: 50  
+EVs: 32 HP / 7 Atk / 7 SpD / 20 Spe  
+Impish Nature  
+- Giga Impact  
+- Thief  
+- Flamethrower  
+- Agility  
+
+Mr. Rime @ Babiri Berry  
+Ability: Tangled Feet  
+Level: 50  
+EVs: 10 Atk / 19 Def / 8 SpD / 29 Spe  
+Careful Nature  
+- Safeguard  
+- Calm Mind  
+- Mirror Coat  
+- Swagger  
+
+Florges @ Life Orb  
+Ability: Symbiosis  
+Level: 50  
+EVs: 16 HP / 26 SpA / 24 SpD  
+Hardy Nature  
+- Rain Dance  
+- Draining Kiss  
+- Petal Dance  
+- Copycat  
+
+Vivillon-Polar @ Grassy Seed  
+Ability: Friend Guard  
+Level: 50  
+EVs: 24 HP / 18 Atk / 24 Spe  
+Hardy Nature  
+- Iron Defense  
+- Light Screen  
+- U-turn  
+- Sleep Talk  
+
+Gourgeist @ Silk Scarf  
+Ability: Frisk  
+Level: 50  
+EVs: 20 HP / 20 Atk / 18 SpD / 8 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Leech Seed  
+- Gyro Ball  
+- Hyper Beam  
+

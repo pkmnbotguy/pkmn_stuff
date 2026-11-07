@@ -1,0 +1,59 @@
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Rash Nature
+- Bullet Punch
+- Psychic Fangs
+- Grass Knot
+- Protect
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+EVs: 7 HP / 27 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Trick
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Dragon Pulse
+- Snarl
+- Protect
+
+Klefki @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Light Screen
+- Reflect
+- Rain Dance
+- Sandstorm
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 1 Atk / 1 Def / 32 SpD
+Adamant Nature
+- Brave Bird
+- Swagger
+- Tailwind
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect

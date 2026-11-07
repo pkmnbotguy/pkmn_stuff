@@ -1,0 +1,57 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Drill Run
+- Iron Head
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 31 HP / 5 Def / 10 SpA / 18 SpD / 2 Spe
+Modest Nature
+- Hyper Voice
+- Helping Hand
+- Trick Room
+- Psychic
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Claw
+- Coaching
+- Close Combat
+- Rock Slide
+
+Kangaskhan @ Life Orb
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Fake Out
+- Last Resort
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Weather Ball
+- Hurricane
+- Wide Guard
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Protect
+- Aura Sphere
+- Dragon Pulse

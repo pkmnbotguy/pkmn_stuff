@@ -1,0 +1,59 @@
+Chandelure @ Chandelurite
+Ability: Flash fire
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Energy Ball
+- Heat Wave
+- Shadow Ball
+- Trick Room
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Close Combat
+- Shadow Claw
+- Protect
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Drain Punch
+- Rage Fist
+- Rock Slide
+- Thunder Punch
+
+Mimikyu @ Rocky Helmet
+Ability: Disguise
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Shadow Sneak
+- Play Rough
+- Bulk Up
+- Substitute
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Sunny Day
+- Light Screen
+- Encore
+- Disable
+
+Dragapult @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Phantom Force
+- Dragon Darts
+- Will-O-Wisp
+- Protect

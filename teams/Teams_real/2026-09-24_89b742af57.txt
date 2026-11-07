@@ -1,0 +1,59 @@
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Snarl
+- Draco Meteor
+- Flamethrower
+- Earth Power
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Mystical Fire
+- Follow Me
+- Protect
+- Trick Room
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Bitter Malice
+- Icy Wind
+- Psychic
+- Protect
+
+Lopunny @ Lopunnite
+Ability: Cute Charm
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Triple Axel
+- Thunder Punch
+- Fake Out
+
+Meowstic-F @ Meowsticite
+Ability: Competitive
+Level: 50
+EVs: 16 HP / 4 Def / 17 SpA / 29 Spe
+Timid Nature
+- Expanding Force
+- Thunderbolt
+- Shadow Ball
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Throat Chop
+- Fake Out

@@ -1,0 +1,60 @@
+Vivillon-Elegant @ Scope Lens  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 4 Atk / 15 Def / 25 SpA / 18 SpD / 4 Spe  
+Mild Nature  
+- Energy Ball  
+- Substitute  
+- Rain Dance  
+- Pounce  
+
+Pelipper @ Mystic Water  
+Ability: Drizzle  
+Level: 50  
+EVs: 19 Atk / 9 Def / 32 SpA / 6 Spe  
+Sassy Nature  
+- Body Slam  
+- Facade  
+- Roost  
+- Stockpile  
+
+Slowking @ Yache Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 24 Atk / 20 SpA / 1 SpD / 21 Spe  
+Bold Nature  
+- Snore  
+- Iron Defense  
+- Muddy Water  
+- Heal Pulse  
+
+Sandaconda @ Oran Berry  
+Ability: Shed Skin  
+Level: 50  
+EVs: 11 Atk / 32 Def / 23 Spe  
+Relaxed Nature  
+- Scary Face  
+- Sleep Talk  
+- Hurricane  
+- Skitter Smack  
+
+Sinistcha @ Haban Berry  
+Ability: Heatproof  
+Level: 50  
+EVs: 32 Atk / 12 SpA / 19 SpD / 3 Spe  
+Naive Nature  
+- Night Shade  
+- Rest  
+- Poltergeist  
+- Leaf Storm  
+
+Crabominable @ Miracle Seed  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 32 HP / 1 SpA / 25 SpD / 8 Spe  
+Impish Nature  
+- Helping Hand  
+- Focus Blast  
+- Rock Tomb  
+- Swagger  
+

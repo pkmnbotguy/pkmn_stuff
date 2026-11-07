@@ -1,0 +1,60 @@
+Absol @ Aspear Berry  
+Ability: Pressure  
+Level: 50  
+EVs: 16 HP / 22 SpA / 28 SpD  
+Bashful Nature  
+- Dark Pulse  
+- Thunder  
+- Quick Attack  
+- Bite  
+
+Aggron @ Shed Shell  
+Ability: Heavy Metal  
+Level: 50  
+EVs: 28 Atk / 4 Def / 22 SpD / 12 Spe  
+Adamant Nature  
+- Attract  
+- Screech  
+- Rock Tomb  
+- Scary Face  
+
+Serperior @ Focus Sash  
+Ability: Contrary  
+Level: 50  
+EVs: 16 HP / 32 Atk / 10 SpD / 8 Spe  
+Mild Nature  
+- Leaf Storm  
+- Scary Face  
+- Gastro Acid  
+- Dragon Tail  
+
+Tsareena @ Dragon Fang  
+Ability: Leaf Guard  
+Level: 50  
+EVs: 26 Atk / 24 SpA / 16 Spe  
+Calm Nature  
+- Power Whip  
+- Reflect  
+- Flail  
+- Hyper Beam  
+
+Ninetales-Alola @ Iron Ball  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 17 HP / 29 Atk / 9 Def / 11 Spe  
+Naughty Nature  
+- Foul Play  
+- Round  
+- Triple Axel  
+- Hyper Beam  
+
+Goodra-Hisui @ Chesto Berry  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 28 HP / 10 Def / 28 Spe  
+Hasty Nature  
+- Draco Meteor  
+- Dragon Tail  
+- Facade  
+- Dragon Claw  
+

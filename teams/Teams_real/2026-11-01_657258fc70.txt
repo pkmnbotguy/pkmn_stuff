@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Leech Life
+- Iron Head
+- Swords Dance
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Spirit Break
+- Reflect
+- Light Screen
+- Parting Shot
+
+Ceruledge @ Sitrus Berry
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Protect
+- Shadow Sneak
+- Bitter Blade
+- Bulk Up
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Psychic
+- Nasty Plot
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Bold Nature
+- Rage Powder
+- Matcha Gotcha
+- Shadow Ball
+- Trick Room
+
+Scrafty @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Impish Nature
+- Fake Out
+- Knock Off
+- Drain Punch
+- Coaching

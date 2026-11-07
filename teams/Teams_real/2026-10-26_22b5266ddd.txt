@@ -1,0 +1,59 @@
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Rock Slide
+- Close Combat
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 31 HP / 5 Def / 10 SpA / 18 SpD / 2 Spe
+Modest Nature
+- Protect
+- Helping Hand
+- Trick Room
+- Psychic
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Ice Beam
+- Protect
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Flamethrower
+- Flash Cannon
+- Earth Power
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Focus Blast
+- Zap Cannon
+- Fake Out
+- Protect
+
+Kingambit @ Expert Belt
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Brick Break
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head

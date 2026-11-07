@@ -1,0 +1,59 @@
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Dragon Pulse
+- Earth Power
+- Detect
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Protect
+- Flare Blitz
+- Tailwind
+
+Mamoswine @ Focus Sash
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Protect
+- Ice Shard
+- Icicle Crash
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Thunderbolt
+- Hydro Pump
+- Trick
+- Discharge
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 31 HP / 5 Def / 10 SpA / 18 SpD / 2 Spe
+Modest Nature
+- Expanding Force
+- Hyper Beam
+- Imprison
+- Trick Room
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Rock Slide
+- Body Press
+- Psychic Fangs

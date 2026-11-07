@@ -1,0 +1,60 @@
+Decidueye-Hisui @ Smooth Rock  
+Ability: Overgrow  
+Level: 50  
+EVs: 3 HP / 12 Atk / 24 SpD / 27 Spe  
+Naughty Nature  
+- Air Cutter  
+- Coaching  
+- U-turn  
+- Shadow Sneak  
+
+Pawmot @ White Herb  
+Ability: Iron Fist  
+Level: 50  
+EVs: 21 Def / 30 SpA / 15 Spe  
+Lax Nature  
+- Electric Terrain  
+- Sweet Kiss  
+- Rain Dance  
+- Quick Attack  
+
+Politoed @ Electric Seed  
+Ability: Drizzle  
+Level: 50  
+EVs: 22 HP / 8 SpA / 28 SpD / 8 Spe  
+Serious Nature  
+- Rain Dance  
+- Amnesia  
+- Uproar  
+- Mud Shot  
+
+Inteleon @ Focus Sash  
+Ability: Sniper  
+Level: 50  
+EVs: 32 Atk / 8 Def / 10 SpA / 16 Spe  
+Calm Nature  
+- Smack Down  
+- Liquidation  
+- Ice Shard  
+- Protect  
+
+Vivillon-Jungle @ Chilan Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 1 HP / 17 Atk / 16 Def / 32 SpD  
+Careful Nature  
+- Energy Ball  
+- Bug Bite  
+- Poison Powder  
+- Facade  
+
+Avalugg @ Sharp Beak  
+Ability: Ice Body  
+Level: 50  
+EVs: 2 HP / 15 Def / 32 SpA / 17 SpD  
+Rash Nature  
+- Bite  
+- Scary Face  
+- Icy Wind  
+- Snore  
+

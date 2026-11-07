@@ -1,0 +1,60 @@
+Toxapex @ Oran Berry  
+Ability: Limber  
+Level: 50  
+EVs: 31 HP / 17 Def / 18 Spe  
+Timid Nature  
+- Cross Poison  
+- Pin Missile  
+- Iron Defense  
+- Ice Spinner  
+
+Luxray @ Twisted Spoon  
+Ability: Guts  
+Level: 50  
+EVs: 21 HP / 32 Def / 13 SpD  
+Docile Nature  
+- Facade  
+- Thunder Fang  
+- Iron Tail  
+- Light Screen  
+
+Victreebel @ Iron Ball  
+Ability: Gluttony  
+Level: 50  
+EVs: 32 HP / 6 Def / 15 SpA / 13 SpD  
+Sassy Nature  
+- Lunge  
+- Stockpile  
+- Sludge Bomb  
+- Scary Face  
+
+Tyrantrum @ Damp Rock  
+Ability: Strong Jaw  
+Level: 50  
+EVs: 5 HP / 29 Def / 32 SpD  
+Timid Nature  
+- Rock Polish  
+- Poison Fang  
+- Horn Drill  
+- Crunch  
+
+Lucario @ Zoom Lens  
+Ability: Justified  
+Level: 50  
+EVs: 2 Def / 32 SpD / 32 Spe  
+Relaxed Nature  
+- Life Dew  
+- Low Sweep  
+- Shadow Ball  
+- Brick Break  
+
+Drampa @ Lum Berry  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 11 Atk / 13 Def / 32 SpA / 1 SpD / 9 Spe  
+Quirky Nature  
+- Glare  
+- Helping Hand  
+- Bulldoze  
+- Play Rough  
+

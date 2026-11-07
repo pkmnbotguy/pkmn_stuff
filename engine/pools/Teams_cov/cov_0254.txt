@@ -1,0 +1,60 @@
+Tauros-Paldea-Aqua @ Charti Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 10 Atk / 24 Def / 32 Spe  
+Naughty Nature  
+- Substitute  
+- Iron Tail  
+- Endeavor  
+- Rest  
+
+Krookodile @ Smooth Rock  
+Ability: Moxie  
+Level: 50  
+EVs: 4 HP / 1 Atk / 31 SpA / 30 SpD  
+Docile Nature  
+- Sludge Bomb  
+- Aqua Tail  
+- Power Trip  
+- Dragon Tail  
+
+Cinderace @ Black Glasses  
+Ability: Blaze  
+Level: 50  
+EVs: 12 Def / 12 SpA / 13 SpD / 29 Spe  
+Jolly Nature  
+- Low Kick  
+- U-turn  
+- Will-O-Wisp  
+- Sucker Punch  
+
+Chandelure @ Colbur Berry  
+Ability: Infiltrator  
+Level: 50  
+EVs: 13 HP / 7 Def / 32 SpA / 14 Spe  
+Quirky Nature  
+- Giga Impact  
+- Heat Wave  
+- Haze  
+- Solar Beam  
+
+Lycanroc-Midnight @ Iron Ball  
+Ability: Vital Spirit  
+Level: 50  
+EVs: 32 Atk / 27 Def / 7 SpA  
+Bashful Nature  
+- Shadow Claw  
+- Throat Chop  
+- Double Team  
+- Counter  
+
+Medicham @ Rindo Berry  
+Ability: Telepathy  
+Level: 50  
+EVs: 4 Atk / 8 Def / 22 SpA / 32 SpD  
+Careful Nature  
+- Rain Dance  
+- Acupressure  
+- Drain Punch  
+- Rock Tomb  
+

@@ -1,0 +1,60 @@
+Alcremie @ Roseli Berry  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 4 HP / 25 Atk / 6 Def / 30 SpA / 1 SpD  
+Careful Nature  
+- Substitute  
+- Dazzling Gleam  
+- Magic Room  
+- Last Resort  
+
+Vivillon-Fancy @ Chilan Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 22 Atk / 10 SpA / 28 SpD / 6 Spe  
+Careful Nature  
+- Bug Buzz  
+- Pounce  
+- Round  
+- Quiver Dance  
+
+Mudsdale @ Big Root  
+Ability: Stamina  
+Level: 50  
+EVs: 20 HP / 19 SpA / 27 SpD  
+Hardy Nature  
+- Iron Defense  
+- Sand Tomb  
+- Stealth Rock  
+- Facade  
+
+Goodra @ Persim Berry  
+Ability: Gooey  
+Level: 50  
+EVs: 5 HP / 32 Def / 6 SpD / 23 Spe  
+Serious Nature  
+- Facade  
+- Thunder  
+- Giga Drain  
+- Rain Dance  
+
+Lycanroc @ Shuca Berry  
+Ability: Keen Eye  
+Level: 50  
+EVs: 29 HP / 6 Def / 31 SpA  
+Bold Nature  
+- Howl  
+- Rock Slide  
+- Crunch  
+- Facade  
+
+Squawkabilly-White @ Rocky Helmet  
+Ability: Hustle  
+Level: 50  
+EVs: 32 Atk / 11 SpD / 23 Spe  
+Sassy Nature  
+- Feather Dance  
+- Sunny Day  
+- Dual Wingbeat  
+- Flatter  
+

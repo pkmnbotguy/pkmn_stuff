@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Shadow Ball
+- Protect
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- U-turn
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Double Shock
+- Close Combat
+- Fake Out
+- Protect
+
+Talonflame @ Grassy Seed
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Acrobatics
+- Flare Blitz
+- Tailwind
+- Protect
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Ice Beam
+- Hyper Voice
+- Moonblast
+- Protect
+
+Aegislash @ Kasib Berry
+Ability: Stance Change
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flash Cannon
+- Shadow Ball
+- King's Shield
+- Wide Guard

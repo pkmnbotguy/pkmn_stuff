@@ -1,0 +1,60 @@
+Tauros-Paldea-Combat @ Poison Barb  
+Ability: Anger Point  
+Level: 50  
+EVs: 23 HP / 11 Def / 32 SpD  
+Timid Nature  
+- Rock Tomb  
+- Earthquake  
+- Uproar  
+- Round  
+
+Musharna @ Silver Powder  
+Ability: Forewarn  
+Level: 50  
+EVs: 21 HP / 7 Atk / 27 SpD / 11 Spe  
+Serious Nature  
+- Sleep Talk  
+- Snore  
+- Trick  
+- Stored Power  
+
+Greninja @ Hard Stone  
+Ability: Protean  
+Level: 50  
+EVs: 28 Def / 19 SpA / 18 SpD / 1 Spe  
+Calm Nature  
+- Chilling Water  
+- Trailblaze  
+- Sleep Talk  
+- Mud-Slap  
+
+Flareon @ Electric Seed  
+Ability: Guts  
+Level: 50  
+EVs: 32 HP / 7 Atk / 27 SpD  
+Docile Nature  
+- Fake Tears  
+- Flame Charge  
+- Quick Attack  
+- Dig  
+
+Salazzle @ Charti Berry  
+Ability: Corrosion  
+Level: 50  
+EVs: 30 HP / 30 Atk / 6 Spe  
+Adamant Nature  
+- Fire Lash  
+- Shadow Claw  
+- Body Slam  
+- Fake Out  
+
+Dragapult @ Big Root  
+Ability: Clear Body  
+Level: 50  
+EVs: 28 HP / 26 Atk / 12 Spe  
+Calm Nature  
+- Draco Meteor  
+- Last Resort  
+- Snore  
+- Fire Blast  
+

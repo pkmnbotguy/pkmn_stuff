@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Shadow Claw
+- Detect
+- Close Combat
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Protect
+- Sucker Punch
+
+Umbreon @ Leftovers
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Bold Nature
+- Focus Energy
+- Baton Pass
+- Dark Pulse
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Calm Nature
+- Light Screen
+- Reflect
+- Spirit Break
+- Protect
+
+Maushold @ Chople Berry
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Follow Me
+- Protect
+- Super Fang
+- Beat Up
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Dark Pulse
+- Dragon Pulse
+- Protect

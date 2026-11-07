@@ -1,0 +1,60 @@
+Dedenne @ Eject Button  
+Ability: Plus  
+Level: 50  
+EVs: 32 HP / 26 Def / 8 Spe  
+Sassy Nature  
+- Super Fang  
+- Dazzling Gleam  
+- Agility  
+- Iron Tail  
+
+Scizor @ Haban Berry  
+Ability: Light Metal  
+Level: 50  
+EVs: 10 HP / 8 Atk / 32 Def / 16 SpA  
+Calm Nature  
+- Snore  
+- Baton Pass  
+- Double-Edge  
+- Pounce  
+
+Passimian @ Rindo Berry  
+Ability: Receiver  
+Level: 50  
+EVs: 15 Atk / 8 Def / 25 SpA / 18 Spe  
+Lonely Nature  
+- Energy Ball  
+- Low Kick  
+- Drain Punch  
+- Bulk Up  
+
+Dragalge @ Red Card  
+Ability: Poison Touch  
+Level: 50  
+EVs: 28 HP / 12 SpD / 26 Spe  
+Brave Nature  
+- Sludge Bomb  
+- Double Team  
+- Aqua Tail  
+- Chilling Water  
+
+Lycanroc-Midnight @ Choice Scarf  
+Ability: Keen Eye  
+Level: 50  
+EVs: 10 Atk / 32 Def / 24 Spe  
+Jolly Nature  
+- Bite  
+- Reversal  
+- Stealth Rock  
+- Iron Tail  
+
+Slurpuff @ Leftovers  
+Ability: Unburden  
+Level: 50  
+EVs: 32 Atk / 2 Def / 32 SpD  
+Modest Nature  
+- Cotton Guard  
+- Play Rough  
+- Draining Kiss  
+- Wish  
+

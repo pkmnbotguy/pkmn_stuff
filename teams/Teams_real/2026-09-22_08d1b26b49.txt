@@ -1,0 +1,59 @@
+Sirfetchd @ Leek
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Detect
+- Close Combat
+- Brave Bird
+- Meteor Assault
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 13 HP / 21 Def / 12 SpA / 17 SpD / 3 Spe
+Modest Nature
+- Psychic
+- Thunderbolt
+- Trick Room
+- Sunny Day
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Protect
+- Tailwind
+- Encore
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Power Gem
+- Sludge Bomb
+- Earth Power
+- Spiky Shield
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fire Punch
+- High Jump Kick
+- Knock Off
+- Fake Out
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Grassy Glide
+- High Horsepower
+- Fake Out
+- Knock Off

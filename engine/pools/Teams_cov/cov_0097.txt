@@ -1,0 +1,60 @@
+Vivillon-Sandstorm @ Quick Claw  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 1 HP / 10 Atk / 24 Def / 1 SpD / 30 Spe  
+Quiet Nature  
+- Confuse Ray  
+- Thief  
+- Safeguard  
+- Draining Kiss  
+
+Gourgeist-Super @ Black Glasses  
+Ability: Frisk  
+Level: 50  
+EVs: 31 HP / 12 Def / 23 Spe  
+Hasty Nature  
+- Moonblast  
+- Round  
+- Pain Split  
+- Shadow Sneak  
+
+Garganacl @ Magnet  
+Ability: Purifying Salt  
+Level: 50  
+EVs: 1 HP / 4 Atk / 21 SpA / 32 SpD / 8 Spe  
+Impish Nature  
+- Salt Cure  
+- Stone Edge  
+- Rest  
+- Smack Down  
+
+Toxapex @ Haban Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 27 HP / 22 SpA / 17 SpD  
+Modest Nature  
+- Blizzard  
+- Liquidation  
+- Lunge  
+- Ice Spinner  
+
+Polteageist @ Light Clay  
+Ability: Cursed Body  
+Level: 50  
+EVs: 3 HP / 8 Atk / 25 Def / 30 SpA  
+Quirky Nature  
+- Payback  
+- Spite  
+- Dark Pulse  
+- Self-Destruct  
+
+Diggersby @ Occa Berry  
+Ability: Pickup  
+Level: 50  
+EVs: 28 HP / 10 Atk / 9 Def / 19 SpD  
+Jolly Nature  
+- Bounce  
+- Ice Punch  
+- Rest  
+- Sleep Talk  
+

@@ -1,0 +1,59 @@
+Eelektross @ Eelektrossite
+Ability: Levitate
+Level: 50
+EVs: 7 HP / 4 Def / 32 SpA / 23 Spe
+Modest Nature
+- Discharge
+- Flamethrower
+- Dragon Pulse
+- Protect
+
+Talonflame @ Focus Sash
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Modest Nature
+- Heat Wave
+- Taunt
+- Protect
+- Tailwind
+
+Staraptor @ Staraptite
+Ability: Reckless
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Protect
+- Roost
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Protect
+- Iron Head
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Careful Nature
+- Sunny Day
+- Encore
+- Light Screen
+- Reflect
+
+Arcanine @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 27 HP / 1 Atk / 8 Def / 12 SpD / 18 Spe
+Jolly Nature
+- Helping Hand
+- Flare Blitz
+- Snarl
+- Extreme Speed

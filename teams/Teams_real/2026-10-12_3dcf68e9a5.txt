@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Nasty Plot
+- Psychic
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Shell Smash
+- Water Spout
+- Dark Pulse
+
+Sinistcha @ Occa Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Protect
+- Rage Powder
+- Matcha Gotcha
+- Life Dew
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Quick Guard
+- Fake Out
+- Poison Jab
+- Close Combat
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Protect
+- Swords Dance
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Parting Shot
+- Fake Out
+- Flare Blitz
+- Darkest Lariat

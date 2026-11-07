@@ -1,0 +1,60 @@
+Pelipper @ Silk Scarf  
+Ability: Keen Eye  
+Level: 50  
+EVs: 18 Def / 19 SpA / 29 Spe  
+Relaxed Nature  
+- Rest  
+- Ice Beam  
+- Wide Guard  
+- Endure  
+
+Runerigus @ Psychic Seed  
+Ability: Wandering Spirit  
+Level: 50  
+EVs: 4 Atk / 32 SpA / 30 SpD  
+Quiet Nature  
+- Zen Headbutt  
+- Energy Ball  
+- Grass Knot  
+- Stealth Rock  
+
+Vivillon-Sandstorm @ Chilan Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 28 HP / 2 Def / 32 SpD / 4 Spe  
+Adamant Nature  
+- Giga Drain  
+- Iron Defense  
+- Whirlwind  
+- Poison Powder  
+
+Watchog @ Light Clay  
+Ability: Analytic  
+Level: 50  
+EVs: 27 HP / 30 SpA / 9 SpD  
+Jolly Nature  
+- Trailblaze  
+- Thunder  
+- Rest  
+- Nasty Plot  
+
+Tsareena @ White Herb  
+Ability: Queenly Majesty  
+Level: 50  
+EVs: 24 HP / 32 Atk / 9 SpA / 1 SpD  
+Relaxed Nature  
+- Substitute  
+- Giga Impact  
+- Payback  
+- Synthesis  
+
+Dragonite @ Dragon Fang  
+Ability: Multiscale  
+Level: 50  
+EVs: 17 HP / 26 SpA / 23 Spe  
+Relaxed Nature  
+- Dragon Claw  
+- Thunder  
+- Iron Tail  
+- Endure  
+

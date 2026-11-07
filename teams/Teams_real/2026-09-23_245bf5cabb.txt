@@ -1,0 +1,59 @@
+Sableye @ Roseli Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Light Screen
+- Reflect
+- Rain Dance
+- Disable
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Flash Cannon
+- Electro Shot
+- Dragon Pulse
+- Protect
+
+Swampert @ Swampertite
+Ability: damp
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Jolly Nature
+- Wave Crash
+- High Horsepower
+- Ice Punch
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Weather Ball
+- Hurricane
+- Wide Guard
+
+Golisopod @ Golisopite
+Ability: emergency exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Swords Dance
+- Leech Life
+- Iron Head
+- Protect
+
+Kommo-O @ Life Orb
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Clanging Scales
+- Protect
+- Vacuum Wave

@@ -1,0 +1,59 @@
+Pincurchin @ Terrain Extender
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpA
+Quiet Nature
+- Rising Voltage
+- Muddy Water
+- Protect
+- Scald
+
+Hawlucha @ Electric Seed
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Acrobatics
+- Protect
+- Rock Slide
+
+Beartic @ Focus Sash
+Ability: Swift Swim
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Jolly Nature
+- Icicle Crash
+- Protect
+- Taunt
+- Earthquake
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Play Rough
+- Protect
+- Iron Head
+- Sucker Punch
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Wide Guard
+- Tailwind
+- Hurricane
+- Helping Hand
+
+Toxtricity @ Life Orb
+Ability: Punk Rock
+Level: 50
+EVs: 19 HP / 26 SpA / 21 Spe
+Modest Nature
+- Overdrive
+- Snarl
+- Sludge Bomb
+- Protect

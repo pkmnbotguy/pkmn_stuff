@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Protect
+- Dragon Pulse
+- Tailwind
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Alluring Voice
+- Scald
+- Ice Beam
+- Protect
+
+Chandelure @ Wide Lens
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Protect
+- Shadow Ball
+- Imprison
+
+Metagross @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Steel Roller
+- Psychic Fangs
+- Bullet Punch
+- Protect
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Mortal Spin
+- Power Gem
+- Venoshock
+- Spiky Shield
+
+Sirfetchd @ Leek
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- Meteor Assault
+- Leaf Blade
+- Night Slash
+- Detect

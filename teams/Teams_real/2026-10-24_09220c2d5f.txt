@@ -1,0 +1,59 @@
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Coaching
+- Fake Out
+- Dire Claw
+- Close Combat
+
+Snorlax @ Leftovers
+Ability: Thick Fat
+Level: 50
+EVs: 22 HP / 32 Def / 12 SpD
+Relaxed Nature
+- Protect
+- Stockpile
+- Fissure
+- Smack Down
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Brave Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Snarl
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Stomping Tantrum
+- U-turn
+
+Hawlucha @ Hawluchanite
+Ability: Limber
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Entrainment
+- Brave Bird
+- Close Combat
+
+Slowbro @ Slowbronite
+Ability: Own Tempo
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Sassy Nature
+- Calm Mind
+- Slack Off
+- Stored Power
+- Body Press

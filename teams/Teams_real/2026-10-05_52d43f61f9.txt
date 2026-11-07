@@ -1,0 +1,59 @@
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Earth Power
+- Power Gem
+- Spiky Shield
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Fake Out
+- Grassy Glide
+- U-turn
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 12 HP / 1 Def / 20 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Blizzard
+- Shadow Ball
+- Protect
+- Icy Wind
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Protect
+- Fake Out
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Fiery Dance
+- Will-O-Wisp
+- Rage Powder
+- Tailwind
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Protect
+- Iron Head
+- Sucker Punch

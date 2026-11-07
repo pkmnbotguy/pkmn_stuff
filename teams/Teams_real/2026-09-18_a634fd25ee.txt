@@ -1,0 +1,59 @@
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Thunder
+- Flamethrower
+- Protect
+- Draco Meteor
+
+Tinkaton @ Focus Sash
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Jolly Nature
+- Fake Out
+- Gigaton Hammer
+- Knock Off
+- Encore
+
+Milotic @ Rocky Helmet
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 29 Def / 5 SpD
+Calm Nature
+- Scald
+- Protect
+- Rain Dance
+- Ice Beam
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Impish Nature
+- Brave Bird
+- Tailwind
+- Roost
+- Body Press
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 31 HP / 5 Def / 10 SpA / 18 SpD / 2 Spe
+Modest Nature
+- Psychic
+- Hyper Voice
+- Trick Room
+- Thunderbolt
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 12 Def / 20 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Grassy Glide
+- Protect
+- High Horsepower

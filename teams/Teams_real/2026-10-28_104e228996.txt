@@ -1,0 +1,59 @@
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- High Horsepower
+- Protect
+- Rock Slide
+
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- High Horsepower
+- Rock Slide
+- Protect
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Protect
+- Make It Rain
+- Nasty Plot
+
+Kommo-O @ Choice Scarf
+Ability: Overcoat
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Aura Sphere
+- Draco Meteor
+- Flamethrower
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Hyper Voice
+- Draco Meteor
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Overheat
+- Rage Powder
+- Tailwind
+- Struggle Bug

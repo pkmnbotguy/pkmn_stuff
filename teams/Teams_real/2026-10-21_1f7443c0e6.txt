@@ -1,0 +1,58 @@
+Tinkaton @ Sitrus Berry
+Ability: Own Tempo
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Sassy Nature
+- Gigaton Hammer
+- Play Rough
+- Wood Hammer
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Brick Break
+- Kowtow Cleave
+- X-Scissor
+- Swords Dance
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Flash Cannon
+- Dragon Pulse
+- Electro Shot
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Meteor Mash
+- Zen Headbutt
+- Stomping Tantrum
+- Protect
+
+Aegislash @ Quick Claw
+Ability: Stance Change
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- King's Shield
+- Sacred Sword
+- Shadow Claw
+
+Corviknight @ Terrain Extender
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Impish Nature
+- Iron Head
+- Roost
+- U-turn
+- Drill Peck

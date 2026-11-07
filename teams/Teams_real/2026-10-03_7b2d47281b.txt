@@ -1,0 +1,59 @@
+Houndoom @ Houndoominite
+Ability: Flash Fire
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Dark Pulse
+- Overheat
+- Protect
+
+Venusaur @ Life Orb
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Solar Beam
+- Sludge Bomb
+- Earth Power
+- Protect
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Ice Punch
+- Rock Slide
+- Shadow Claw
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Helping Hand
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Double-Edge
+- Ice Punch
+- Hammer Arm
+- Fake Out
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Psychic
+- Thunderbolt
+- Helping Hand
+- Trick Room

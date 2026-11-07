@@ -1,0 +1,59 @@
+Slowbro @ Slowbronite
+Ability: Oblivious
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Sassy Nature
+- Scald
+- Iron Defense
+- Calm Mind
+- Slack Off
+
+Sableye @ Sablenite
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Throat Chop
+- Bulk Up
+- Psych Up
+- Disable
+
+Audino @ Chople Berry
+Ability: Healer
+Level: 50
+EVs: 32 HP / 7 Def / 20 SpA / 7 SpD
+Bold Nature
+- Simple Beam
+- Trick Room
+- Heal Pulse
+- Protect
+
+Swalot @ Sitrus Berry
+Ability: Gluttony
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Bold Nature
+- Body Press
+- Stockpile
+- Toxic
+- Protect
+
+Aromatisse @ Light Clay
+Ability: Aroma Veil
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Bold Nature
+- Dazzling Gleam
+- Reflect
+- Light Screen
+- Trick Room
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Stored Power
+- Psych Up
+- Protect

@@ -1,0 +1,59 @@
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 24 HP / 10 Def / 32 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Protect
+- Fake Out
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Protect
+- Tailwind
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 1 Def / 20 SpD / 13 Spe
+Careful Nature
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Fake Out
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Head Smash
+- Flare Blitz
+- Protect
+- Extreme Speed
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Protect
+- Nasty Plot
+
+Maushold-Four @ Wide Lens
+Ability: Technician
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Population Bomb
+- Encore
+- Protect
+- Follow Me

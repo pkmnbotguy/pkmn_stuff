@@ -1,0 +1,59 @@
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+- Fake Out
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Flare Blitz
+- Fake Out
+- Throat Chop
+- Helping Hand
+
+Garchomp @ Grassy Seed
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Stomping Tantrum
+- Protect
+- Dragon Claw
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Sucker Punch
+- Iron Head
+- Leech Life
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 11 Def / 23 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Protect
+- Encore
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 22 HP / 27 Def / 10 SpA / 7 Spe
+Bold Nature
+- Moonblast
+- Hyper Voice
+- Icy Wind
+- Protect

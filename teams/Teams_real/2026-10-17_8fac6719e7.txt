@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Cursed body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Protect
+- Aurora Veil
+
+Basculegion @ Colbur Berry
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Wave Crash
+- Protect
+- Aqua Jet
+- Last Respects
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Protect
+- Close Combat
+- Dire Claw
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Tailwind
+- Dragon Pulse
+- Protect
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Head Smash
+- Flare Blitz
+- Protect
+- Extreme Speed
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- High Horsepower
+- Wood Hammer

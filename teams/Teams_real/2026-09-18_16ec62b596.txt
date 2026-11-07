@@ -1,0 +1,59 @@
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 25 Atk / 3 Def / 6 SpD
+Brave Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat Chop
+
+Primarina @ Mystic Water
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Protect
+- Energy Ball
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 17 HP / 5 Atk / 3 Def / 9 SpD / 32 Spe
+Jolly Nature
+- Glaive Rush
+- Protect
+- Icicle Crash
+- Dragon Dance
+
+Sinistcha @ Coba Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Protect
+- Shadow Ball
+- Rage Powder
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Zap Cannon
+- Focus Blast
+- Dazzling Gleam
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Will-O-Wisp
+- Tailwind
+- Brave Bird
+- Quick Guard

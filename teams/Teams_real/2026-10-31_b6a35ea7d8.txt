@@ -1,0 +1,57 @@
+Sharpedo @ Sharpedonite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Ice Fang
+- Psychic Fangs
+- Crunch
+
+Gholdengo @ Focus Sash
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Protect
+- Surf
+
+Houndoom @ Houndoominite
+Ability: Flash Fire
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Protect
+- Solar Beam
+- Dark Pulse
+
+Kangaskhan @ Silk Scarf
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Fake Out
+- Last Resort
+
+Sableye @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Careful Nature
+- Light Screen
+- Helping Hand
+- Sunny Day
+- Encore
+
+Gallade @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Psycho Cut
+- X-Scissor
+- Sacred Sword
+- Leaf Blade

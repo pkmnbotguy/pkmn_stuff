@@ -1,0 +1,59 @@
+Raichu @ Raichunite X
+Ability: Static
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Light Screen
+- Volt Switch
+- Volt Tackle
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Sludge Bomb
+- Perish Song
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 22 HP / 32 Atk / 12 Def
+Brave Nature
+- Protect
+- Fake Out
+- Wood Hammer
+- U-turn
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Protect
+- Perish Song
+- Muddy Water
+- Encore
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Sassy Nature
+- Protect
+- Snarl
+- Dragon Pulse
+- Electro Shot
+
+Corviknight @ Occa Berry
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 32 SpD / 2 Spe
+Careful Nature
+- Bulk Up
+- Body Press
+- Roost
+- Brave Bird

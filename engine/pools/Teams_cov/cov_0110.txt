@@ -1,0 +1,60 @@
+Vivillon-Jungle @ Terrain Extender  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 11 HP / 17 Def / 6 SpA / 32 SpD  
+Naughty Nature  
+- Stun Spore  
+- Rain Dance  
+- Facade  
+- Thief  
+
+Simisear @ Misty Seed  
+Ability: Gluttony  
+Level: 50  
+EVs: 27 Def / 30 SpA / 9 Spe  
+Gentle Nature  
+- Endure  
+- Recycle  
+- Snore  
+- Focus Blast  
+
+Noivern @ Hard Stone  
+Ability: Telepathy  
+Level: 50  
+EVs: 14 Def / 21 SpA / 2 SpD / 29 Spe  
+Lax Nature  
+- Wild Charge  
+- Water Pulse  
+- Air Slash  
+- Aerial Ace  
+
+Pinsir @ King's Rock  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 22 HP / 12 SpD / 32 Spe  
+Serious Nature  
+- Rest  
+- Stealth Rock  
+- Guillotine  
+- Helping Hand  
+
+Sceptile @ Sceptilite  
+Ability: Overgrow  
+Level: 50  
+EVs: 18 HP / 29 Def / 6 SpD / 13 Spe  
+Rash Nature  
+- Quick Guard  
+- Body Slam  
+- Quick Attack  
+- Dragon Claw  
+
+Alcremie-Ruby-Cream @ Eject Button  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 23 Atk / 13 Def / 30 SpD  
+Quirky Nature  
+- Endure  
+- Misty Terrain  
+- Play Rough  
+- Fling  
+

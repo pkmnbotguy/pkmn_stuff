@@ -1,0 +1,59 @@
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 18 Atk / 16 SpA / 32 Spe
+Hasty Nature
+- Double-Edge
+- Hyper Voice
+- Protect
+- Tailwind
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Light of Ruin
+- Dazzling Gleam
+- Moonblast
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Throat Chop
+- Fake Out
+- Flare Blitz
+- Parting Shot
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Rock Slide

@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Sucker Punch
+- Leech Life
+- Swords Dance
+- Protect
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 17 HP / 13 Def / 5 SpA / 1 SpD / 30 Spe
+Modest Nature
+- Rage Powder
+- Overheat
+- Struggle Bug
+- Protect
+
+Mimikyu @ Life Orb
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Swords Dance
+- Play Rough
+- Shadow Claw
+- Trick Room
+
+Zoroark-Hisui @ Choice Scarf
+Ability: Illusion
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Snarl
+- Flamethrower
+- Hyper Voice
+- Trick
+
+Dragalge @ Dragalgite
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Scald
+- Sludge Bomb
+- Dragon Pulse
+- Protect
+
+Spiritomb @ Mental Herb
+Ability: Pressure
+Level: 50
+EVs: 32 HP / 12 Atk / 12 Def / 10 SpD
+Sassy Nature
+- Foul Play
+- Ally Switch
+- Trick Room
+- Curse

@@ -1,0 +1,60 @@
+Watchog @ White Herb  
+Ability: Analytic  
+Level: 50  
+EVs: 32 HP / 7 Def / 10 SpD / 17 Spe  
+Hasty Nature  
+- Detect  
+- Hypnosis  
+- Zen Headbutt  
+- Thunder  
+
+Kingambit @ Wacan Berry  
+Ability: Defiant  
+Level: 50  
+EVs: 32 Def / 27 SpD / 7 Spe  
+Quiet Nature  
+- Rest  
+- Flash Cannon  
+- Rain Dance  
+- Hyper Beam  
+
+Toxtricity @ Charti Berry  
+Ability: Plus  
+Level: 50  
+EVs: 32 Atk / 14 SpA / 20 Spe  
+Serious Nature  
+- Belch  
+- Electro Ball  
+- Discharge  
+- Protect  
+
+Excadrill @ Wide Lens  
+Ability: Sand Force  
+Level: 50  
+EVs: 18 Atk / 19 SpA / 29 SpD  
+Adamant Nature  
+- Horn Drill  
+- Rock Blast  
+- Rock Slide  
+- Shadow Claw  
+
+Vivillon-Archipelago @ Black Belt  
+Ability: Friend Guard  
+Level: 50  
+EVs: 26 Atk / 20 SpA / 20 Spe  
+Serious Nature  
+- Quiver Dance  
+- Sunny Day  
+- Calm Mind  
+- Whirlwind  
+
+Espathra @ Sitrus Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 8 HP / 7 Def / 19 SpD / 32 Spe  
+Docile Nature  
+- Hyper Voice  
+- Mud-Slap  
+- Body Slam  
+- Flash Cannon  
+

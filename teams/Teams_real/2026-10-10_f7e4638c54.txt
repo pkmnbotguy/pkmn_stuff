@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Protect
+- Iron Head
+- Sucker Punch
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Protect
+- Mirror Coat
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- High Horsepower
+- Fake Out
+- U-turn
+
+Sneasler @ Grassy Seed
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Dire Claw
+- Protect
+- Close Combat
+
+Raichu @ Raichunite Y
+Ability: Static
+Level: 50
+EVs: 32 HP / 11 Def / 23 Spe
+Timid Nature
+- Protect
+- Encore
+- Zap Cannon
+- Focus Blast
+
+Blaziken @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Detect
+- Aura Sphere
+- Heat Wave
+- Coaching

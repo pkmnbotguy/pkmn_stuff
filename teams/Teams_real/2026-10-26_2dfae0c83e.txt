@@ -1,0 +1,59 @@
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Protect
+- Shadow Ball
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Tailwind
+- Taunt
+- Dual Wingbeat
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 12 HP / 6 Def / 15 SpA / 10 SpD / 23 Spe
+Timid Nature
+- Hydro Pump
+- Discharge
+- Will-O-Wisp
+- Hex
+
+Krookodile @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Earthquake
+- Protect
+- Rock Slide
+- Knock Off
+
+Absol @ Absolite Z
+Ability: Pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Sneak
+- Night Slash
+- Psycho Cut
+- Close Combat

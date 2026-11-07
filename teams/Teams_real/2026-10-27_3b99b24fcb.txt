@@ -1,0 +1,59 @@
+Aggron @ Aggronite
+Ability: Sturdy
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Careful Nature
+- Protect
+- Body Press
+- Heavy Slam
+- Iron Defense
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Bold Nature
+- Protect
+- Thunderbolt
+- Psychic
+- Trick Room
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Protect
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Rock Slide
+- Ice Punch
+- Knock Off
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Light Screen
+- Reflect
+- Parting Shot
+- Spirit Break
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Spiky Shield
+- Sludge Bomb
+- Earth Power
+- Power Gem

@@ -1,0 +1,59 @@
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Pulse
+- Dragon Pulse
+- Dark Pulse
+- Aura Sphere
+
+Toxtricity-Low-Key @ Payapa Berry
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Overdrive
+- Sludge Bomb
+- Boomburst
+- Protect
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Uproar
+- Protect
+- Helping Hand
+- Trick Room
+
+Machamp @ Muscle Band
+Ability: No Guard
+Level: 50
+EVs: 31 HP / 20 Atk / 1 Def / 1 SpD / 13 Spe
+Sassy Nature
+- Cross Chop
+- Thunder Punch
+- Fire Punch
+- Throat Chop
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Wood Hammer
+- Drain Punch
+- Fake Out
+- High Horsepower
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Liquidation
+- Iron Head
+- Swords Dance

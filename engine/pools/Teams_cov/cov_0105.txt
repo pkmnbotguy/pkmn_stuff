@@ -1,0 +1,60 @@
+Vivillon-Savanna @ Babiri Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 HP / 2 Def / 32 SpD  
+Docile Nature  
+- Air Slash  
+- Calm Mind  
+- Hurricane  
+- Sleep Talk  
+
+Luxray @ Misty Seed  
+Ability: Intimidate  
+Level: 50  
+EVs: 32 Atk / 7 SpA / 18 SpD / 9 Spe  
+Quirky Nature  
+- Scary Face  
+- Superpower  
+- Charge Beam  
+- Supercell Slam  
+
+Golisopod @ Golisopite  
+Ability: Emergency Exit  
+Level: 50  
+EVs: 18 HP / 1 Atk / 32 SpA / 15 Spe  
+Hardy Nature  
+- Round  
+- Fling  
+- Pin Missile  
+- Assurance  
+
+Snorlax @ Mental Herb  
+Ability: Gluttony  
+Level: 50  
+EVs: 15 Atk / 19 SpA / 32 Spe  
+Bold Nature  
+- Gastro Acid  
+- Encore  
+- Rock Tomb  
+- Endure  
+
+Basculegion-F @ Dragon Fang  
+Ability: Adaptability  
+Level: 50  
+EVs: 28 HP / 5 Atk / 16 Def / 16 SpA / 1 Spe  
+Mild Nature  
+- Ice Beam  
+- Icy Wind  
+- Facade  
+- Scary Face  
+
+Lycanroc-Midnight @ Grassy Seed  
+Ability: No Guard  
+Level: 50  
+EVs: 19 Atk / 21 Def / 12 SpD / 14 Spe  
+Naughty Nature  
+- Foul Play  
+- Thrash  
+- Sandstorm  
+- Fling  
+

@@ -1,0 +1,59 @@
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Volt Switch
+- Rising Voltage
+- Fake Out
+- Protect
+
+Talonflame @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Tailwind
+- Taunt
+- Sunny Day
+
+Dragonite @ Life Orb
+Ability: Inner Focus
+Level: 50
+EVs: 31 HP / 32 Atk / 3 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Fire Punch
+- Protect
+
+Hawlucha @ Electric Seed
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Adamant Nature
+- Acrobatics
+- Rock Slide
+- Close Combat
+- Protect
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Icy Wind
+- Calm Mind
+- Protect
+
+Aegislash @ Spell Tag
+Ability: Stance Change
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Modest Nature
+- Shadow Ball
+- Flash Cannon
+- Sunny Day
+- King's Shield

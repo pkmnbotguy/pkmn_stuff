@@ -1,0 +1,59 @@
+Overqwil @ Bright Powder
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 5 Def / 15 SpD / 13 Spe
+Careful Nature
+- Gunk Shot
+- Minimize
+- Stockpile
+- Destiny Bond
+
+Umbreon @ Scope Lens
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Bold Nature
+- Foul Play
+- Moonlight
+- Psych Up
+- Focus Energy
+
+Gourgeist @ Focus Sash
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Trick-or-Treat
+- Poltergeist
+- Trick Room
+- Power Whip
+
+Banette @ Banettite
+Ability: Frisk
+Level: 50
+EVs: 32 HP / 5 Atk / 11 Def / 18 SpD
+Brave Nature
+- Poltergeist
+- Skill Swap
+- Encore
+- Shadow Sneak
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Overheat
+- Heat Wave
+- Solar Beam
+
+Sirfetchd @ Choice Scarf
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- Solar Blade
+- Close Combat
+- Brave Bird
+- Simple Beam

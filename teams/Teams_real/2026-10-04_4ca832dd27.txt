@@ -1,0 +1,59 @@
+Drampa @ Drampanite
+Ability: Berserk
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Calm Mind
+- Hyper Voice
+- Ice Beam
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Quiet Nature
+- Make It Rain
+- Nasty Plot
+- Protect
+- Shadow Ball
+
+Farigiraf @ Focus Sash
+Ability: Armor Tail
+Level: 50
+EVs: 18 HP / 20 Def / 23 SpD / 5 Spe
+Calm Nature
+- Trick Room
+- Thunder Wave
+- Reflect
+- Hyper Voice
+
+Talonflame @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Lonely Nature
+- Swords Dance
+- Feint
+- Blaze Kick
+- Brave Bird
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Hasty Nature
+- Wood Hammer
+- Fake Out
+- U-turn
+- Grassy Glide
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Fake Out
+- Sucker Punch
+- Light Screen
+- Reflect

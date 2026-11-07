@@ -1,0 +1,59 @@
+Lycanroc-Dusk @ Focus Sash
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Stealth Rock
+- Accelerock
+- Close Combat
+- Protect
+
+Chandelure @ Chandelurite
+Ability: Flame Body
+Level: 50
+EVs: 27 HP / 32 SpA / 7 Spe
+Modest Nature
+- Energy Ball
+- Heat Wave
+- Shadow Ball
+- Psychic
+
+Whimsicott @ Occa Berry
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Encore
+- Sunny Day
+- Moonblast
+
+Falinks @ Falinksite
+Ability: Defiant
+Level: 50
+EVs: 29 HP / 5 Atk / 32 Spe
+Adamant Nature
+- No Retreat
+- Close Combat
+- Iron Head
+- Protect
+
+Squawkabilly @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Parting Shot
+- Brave Bird
+- Final Gambit
+- Taunt
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Aqua Jet
+- Wave Crash
+- Last Respects
+- Protect

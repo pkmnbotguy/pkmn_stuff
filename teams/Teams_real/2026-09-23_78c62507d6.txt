@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Psyshock
+- Protect
+- Nasty Plot
+
+Sinistcha @ Coba Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Rage Powder
+- Life Dew
+- Protect
+- Matcha Gotcha
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Quick Guard
+- Close Combat
+- Poison Jab
+- Fake Out
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Psychic
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Water Spout
+- Dark Pulse
+- Protect
+- Shell Smash
+
+Maushold @ Chople Berry
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 10 Def / 24 SpD
+Impish Nature
+- Follow Me
+- Protect
+- Feint
+- Super Fang

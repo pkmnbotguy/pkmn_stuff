@@ -1,0 +1,60 @@
+Malamar @ Silver Powder  
+Ability: Contrary  
+Level: 50  
+EVs: 4 HP / 15 Def / 29 SpA / 18 SpD  
+Hardy Nature  
+- Dark Pulse  
+- Guard Swap  
+- Trick Room  
+- Wrap  
+
+Alakazam @ Big Root  
+Ability: Inner Focus  
+Level: 50  
+EVs: 26 HP / 7 Def / 22 SpA / 1 SpD / 10 Spe  
+Serious Nature  
+- Fling  
+- Disable  
+- Protect  
+- Calm Mind  
+
+Gourgeist @ Rawst Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 8 HP / 7 Def / 14 SpA / 32 SpD / 5 Spe  
+Jolly Nature  
+- Focus Blast  
+- Bullet Seed  
+- Leech Seed  
+- Fire Blast  
+
+Tauros-Paldea-Aqua @ Roseli Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 5 HP / 4 Atk / 32 SpA / 25 Spe  
+Modest Nature  
+- Whirlpool  
+- Hyper Beam  
+- Thief  
+- Swagger  
+
+Starmie @ Spell Tag  
+Ability: Illuminate  
+Level: 50  
+EVs: 6 Atk / 22 Def / 17 SpD / 21 Spe  
+Modest Nature  
+- Giga Impact  
+- Flash Cannon  
+- Flip Turn  
+- Psycho Cut  
+
+Rotom-Heat @ Payapa Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 27 HP / 13 Def / 26 SpD  
+Modest Nature  
+- Shadow Ball  
+- Charge Beam  
+- Rain Dance  
+- Substitute  
+

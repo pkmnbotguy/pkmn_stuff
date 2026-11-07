@@ -1,0 +1,59 @@
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Protect
+- Ice Spinner
+- Fake Out
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Spiky Shield
+- Power Gem
+- Earth Power
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 11 Def / 5 SpA / 1 SpD / 17 Spe
+Modest Nature
+- Tailwind
+- Overheat
+- Struggle Bug
+- Rage Powder
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Fake Out
+- High Horsepower
+- Wood Hammer
+- Grassy Glide
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Psychic Fangs
+- Flip Turn
+- Last Respects
+- Wave Crash
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Steel Beam
+- Aura Sphere
+- Flash Cannon
+- Protect

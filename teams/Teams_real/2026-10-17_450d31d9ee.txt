@@ -1,0 +1,59 @@
+Incineroar @ White Herb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Throat Chop
+- Close Combat
+- Flare Blitz
+- Fake Out
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Protect
+- Helping Hand
+- Imprison
+- Trick Room
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Mystical Fire
+- Dazzling Gleam
+- Expanding Force
+- Trick Room
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Earth Power
+- Weather Ball
+- Heat Wave
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Sucker Punch
+- Play Rough
+- Protect
+
+Drampa @ Drampanite
+Ability: Cloud Nine
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Hyper Voice
+- Dragon Pulse
+- Protect
+- Earth Power

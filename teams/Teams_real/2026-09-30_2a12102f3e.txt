@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpA
+Modest Nature
+- Expanding Force
+- Hyper Voice
+- Trick Room
+- Protect
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Superpower
+- Knock Off
+- Rock Slide
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Trick Room
+- Terrain Pulse
+- Helping Hand
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Expanding Force
+- Armor Cannon
+- Trick Room
+- Protect
+
+Slowbro @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Sassy Nature
+- Yawn
+- Foul Play
+- Trick Room
+- Chilling Water
+
+Meowstic @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Fake Out
+- Reflect
+- Light Screen
+- Sunny Day

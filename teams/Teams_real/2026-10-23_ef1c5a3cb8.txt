@@ -1,0 +1,59 @@
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Water Pulse
+- Protect
+- Dragon Pulse
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Tailwind
+- Protect
+- Moonblast
+- Helping Hand
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Solar Beam
+- Protect
+- Weather Ball
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Dragapult @ Dragon Fang
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Hasty Nature
+- Dragon Darts
+- Sucker Punch
+- Phantom Force
+- Protect

@@ -1,0 +1,4 @@
+numpy
+torch
+poke-env==0.16.*
+maturin

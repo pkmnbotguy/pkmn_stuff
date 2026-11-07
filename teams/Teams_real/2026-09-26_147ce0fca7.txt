@@ -1,0 +1,59 @@
+Aerodactyl @ Wide Lens
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hydro Pump
+- Thunderbolt
+- Protect
+- Volt Switch
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Knock Off
+- Fake Out
+- Protect
+- Close Combat
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Naive Nature
+- Bitter Malice
+- Nasty Plot
+- Hyper Voice
+- Icy Wind
+
+Trevenant @ Sitrus Berry
+Ability: Harvest
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Careful Nature
+- Leech Seed
+- Trick Room
+- Protect
+- Will-O-Wisp
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Protect
+- Sucker Punch
+- Play Rough

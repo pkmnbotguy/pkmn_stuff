@@ -1,0 +1,60 @@
+Reuniclus @ Twisted Spoon  
+Ability: Regenerator  
+Level: 50  
+EVs: 8 Atk / 32 Def / 26 Spe  
+Gentle Nature  
+- Body Slam  
+- Psychic Terrain  
+- Shadow Ball  
+- Expanding Force  
+
+Zoroark @ Terrain Extender  
+Ability: Illusion  
+Level: 50  
+EVs: 16 HP / 14 Atk / 20 Def / 9 SpA / 7 Spe  
+Serious Nature  
+- Night Daze  
+- Hex  
+- Dig  
+- Fake Tears  
+
+Drampa @ Mental Herb  
+Ability: Cloud Nine  
+Level: 50  
+EVs: 11 HP / 26 SpD / 29 Spe  
+Rash Nature  
+- Light Screen  
+- Earth Power  
+- Sunny Day  
+- Dragon Claw  
+
+Basculegion-F @ Eject Button  
+Ability: Adaptability  
+Level: 50  
+EVs: 32 HP / 19 Atk / 15 Def  
+Calm Nature  
+- Soak  
+- Giga Impact  
+- Rest  
+- Flail  
+
+Vivillon-River @ Miracle Seed  
+Ability: Shield Dust  
+Level: 50  
+EVs: 30 Atk / 10 Def / 7 SpA / 18 SpD / 1 Spe  
+Quirky Nature  
+- Air Cutter  
+- Bug Buzz  
+- String Shot  
+- Substitute  
+
+Luxray @ Icy Rock  
+Ability: Intimidate  
+Level: 50  
+EVs: 10 Atk / 21 Def / 24 SpA / 11 Spe  
+Lax Nature  
+- Thunder Fang  
+- Volt Switch  
+- Snore  
+- Sunny Day  
+

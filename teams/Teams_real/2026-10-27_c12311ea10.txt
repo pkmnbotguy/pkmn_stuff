@@ -1,0 +1,59 @@
+Indeedee @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Expanding Force
+- Trick Room
+- Imprison
+
+Umbreon @ Black Glasses
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Bold Nature
+- Foul Play
+- Moonlight
+- Psych Up
+- Roar
+
+Starmie @ Starminite
+Ability: Analytic
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Hasty Nature
+- Expanding Force
+- Hydro Pump
+- Minimize
+- Skill Swap
+
+Scovillain @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Timid Nature
+- Overheat
+- Leaf Storm
+- Burning Jealousy
+- Spicy Extract
+
+Sableye @ Roseli Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 15 Def / 19 SpD
+Relaxed Nature
+- Sunny Day
+- Encore
+- Rain Dance
+- Foul Play
+
+Sirfetchd @ Choice Scarf
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- Close Combat
+- Meteor Assault
+- Brave Bird
+- Simple Beam

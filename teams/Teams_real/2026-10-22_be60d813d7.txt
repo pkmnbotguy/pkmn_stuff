@@ -1,0 +1,59 @@
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Nasty Plot
+- Protect
+
+Conkeldurr @ Life Orb
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 20 Atk / 11 Def / 3 SpD
+Adamant Nature
+- Mach Punch
+- Drain Punch
+- Thunder Punch
+- Wide Guard
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Snarl
+- Dark Pulse
+- Earth Power
+- Draco Meteor
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+EVs: 10 HP / 30 Atk / 26 Spe
+Adamant Nature
+- Population Bomb
+- Follow Me
+- Protect
+- Feint
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sleep Powder
+- Hurricane
+- Pollen Puff
+- Rage Powder
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Psychic
+- Calm Mind
+- Protect

@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Protect
+- Dragon Dance
+- Rock Slide
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Rock Slide
+- Protect
+- Iron Head
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Close Combat
+- Brave Bird
+- Protect
+- Roost
+
+Whimsicott @ Fairy Feather
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Charm
+- Protect
+- Moonblast
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Protect
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 30 SpD / 4 Spe
+Careful Nature
+- Grassy Glide
+- High Horsepower
+- Fake Out
+- Wood Hammer

@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  rust:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+      - name: Build
+        run: cargo build --release
+      - name: Damage formula vs Showdown's numbers
+        run: |
+          ./target/release/damage_check data/dex.json data/damage_cases_sample.json | tee damage.txt
+          grep -q " 0 wrong" damage.txt
+      - name: Benchmark smoke test
+        run: ./target/release/fast_bench data/dex.json data/pairs.json 2000
+
+  python:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build and install the module
+        shell: bash
+        run: |
+          pip install maturin
+          cd py && maturin build --release --out ../dist
+          pip install --find-links ../dist vgcsim
+      - name: Example game
+        run: python examples/random_game.py

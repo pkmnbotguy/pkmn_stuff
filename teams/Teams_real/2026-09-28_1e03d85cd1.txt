@@ -1,0 +1,59 @@
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Energy Ball
+- Dragon Pulse
+- Earth Power
+- Detect
+
+Salazzle @ Focus Sash
+Ability: Corrosion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Toxic
+- Venoshock
+- Protect
+
+Perrserker @ Life Orb
+Ability: Steely Spirit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Iron Head
+- Knock Off
+- Protect
+
+Espathra @ Twisted Spoon
+Ability: Speed Boost
+Level: 50
+EVs: 24 HP / 26 Def / 10 SpD / 6 Spe
+Modest Nature
+- Lumina Crash
+- Calm Mind
+- Baton Pass
+- Protect
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 14 Def / 7 SpA / 13 SpD
+Calm Nature
+- Expanding Force
+- Foul Play
+- Roar
+- Protect
+
+Greninja @ Greninjite
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Water Shuriken
+- Dark Pulse
+- Ice Beam
+- Protect

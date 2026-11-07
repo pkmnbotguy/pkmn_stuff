@@ -1,0 +1,60 @@
+Hawlucha @ Expert Belt  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 32 HP / 4 Atk / 30 Spe  
+Adamant Nature  
+- Thief  
+- Swords Dance  
+- Poison Jab  
+- Mean Look  
+
+Salazzle @ Yache Berry  
+Ability: Oblivious  
+Level: 50  
+EVs: 29 Atk / 9 Def / 15 SpA / 13 SpD  
+Timid Nature  
+- Toxic  
+- Dragon Claw  
+- Shadow Claw  
+- Disable  
+
+Musharna @ Wacan Berry  
+Ability: Synchronize  
+Level: 50  
+EVs: 32 HP / 15 Atk / 18 Def / 1 Spe  
+Lonely Nature  
+- Guard Swap  
+- Zen Headbutt  
+- Thunder Wave  
+- Moonblast  
+
+Perrserker @ Poison Barb  
+Ability: Battle Armor  
+Level: 50  
+EVs: 10 HP / 18 Atk / 20 SpD / 18 Spe  
+Sassy Nature  
+- Dark Pulse  
+- Nasty Plot  
+- Rain Dance  
+- Spikes  
+
+Falinks @ Icy Rock  
+Ability: Defiant  
+Level: 50  
+EVs: 25 Atk / 7 Def / 27 SpA / 7 Spe  
+Docile Nature  
+- Coaching  
+- Rain Dance  
+- Endure  
+- Rock Slide  
+
+Vivillon-High Plains @ Rocky Helmet  
+Ability: Shield Dust  
+Level: 50  
+EVs: 22 HP / 19 Def / 20 SpD / 5 Spe  
+Docile Nature  
+- String Shot  
+- Rage Powder  
+- Pounce  
+- Skitter Smack  
+

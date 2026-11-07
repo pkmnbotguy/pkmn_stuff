@@ -1,0 +1,60 @@
+Gourgeist-Small @ White Herb  
+Ability: Frisk  
+Level: 50  
+EVs: 32 Atk / 32 Def / 2 SpD  
+Sassy Nature  
+- Round  
+- Imprison  
+- Seed Bomb  
+- Worry Seed  
+
+Toxtricity @ Lum Berry  
+Ability: Technician  
+Level: 50  
+EVs: 28 HP / 13 Atk / 10 Def / 15 SpD  
+Jolly Nature  
+- Poison Jab  
+- Toxic  
+- Nuzzle  
+- Electric Terrain  
+
+Dedenne @ Expert Belt  
+Ability: Cheek Pouch  
+Level: 50  
+EVs: 17 Atk / 15 Def / 2 SpA / 32 SpD  
+Adamant Nature  
+- Discharge  
+- Thunder Wave  
+- Parabolic Charge  
+- U-turn  
+
+Torterra @ Bright Powder  
+Ability: Overgrow  
+Level: 50  
+EVs: 1 Atk / 29 Def / 1 SpA / 3 SpD / 32 Spe  
+Quiet Nature  
+- Mud-Slap  
+- Giga Impact  
+- Wood Hammer  
+- Superpower  
+
+Aromatisse @ Leppa Berry  
+Ability: Healer  
+Level: 50  
+EVs: 25 HP / 17 Atk / 24 SpA  
+Hasty Nature  
+- Heal Pulse  
+- Disable  
+- Round  
+- Sunny Day  
+
+Arboliva @ King's Rock  
+Ability: Seed Sower  
+Level: 50  
+EVs: 8 Atk / 27 Def / 4 SpA / 27 Spe  
+Naughty Nature  
+- Sweet Scent  
+- Sunny Day  
+- Weather Ball  
+- Substitute  
+

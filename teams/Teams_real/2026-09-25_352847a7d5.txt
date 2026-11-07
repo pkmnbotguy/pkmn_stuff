@@ -1,0 +1,56 @@
+Zoroark-Hisui @ Iron Ball
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Jolly Nature
+- Trick
+- Bitter Malice
+- Round
+- Nasty Plot
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Protect
+- Topsy-Turvy
+- Superpower
+- Psycho Cut
+
+Slowbro @ Slowbronite
+Ability: Oblivious
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Modest Nature
+- Round
+- Slack Off
+- Yawn
+- Scald
+
+Ditto @ Choice Scarf
+Ability: Imposter
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Transform
+
+Espathra @ Chople Berry
+Ability: Speed Boost
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Modest Nature
+- Roost
+- Protect
+- Dazzling Gleam
+- Lumina Crash
+
+Raichu-Alola @ King's Rock
+Ability: Surge Surfer
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Round
+- Psychic
+- Thunderbolt
+- Protect

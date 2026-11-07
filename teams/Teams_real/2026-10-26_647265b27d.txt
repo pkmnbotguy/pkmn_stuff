@@ -1,0 +1,59 @@
+Charizard @ Charizardite X
+Ability: Blaze
+Level: 50
+EVs: 14 HP / 21 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Flare Blitz
+- Protect
+- Dragon Claw
+- Dragon Dance
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Scald
+- Protect
+- Ice Beam
+- Mirror Coat
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Trick Room
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Fake Out
+- Close Combat
+- Coaching
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Terrain Pulse
+- Protect
+- Trick Room
+- Follow Me
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Meteor Mash
+- Protect
+- Psychic Fangs
+- Bullet Punch

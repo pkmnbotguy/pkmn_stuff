@@ -1,0 +1,59 @@
+Meganium @ Meganiumite
+Ability: Overgrow
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Serious Nature
+- Solar Beam
+- Dazzling Gleam
+- Weather Ball
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Naive Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 22 HP / 27 Def / 10 SpA / 7 Spe
+Bold Nature
+- Hyper Voice
+- Moonblast
+- Calm Mind
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Timid Nature
+- Head Smash
+- Flare Blitz
+- Extreme Speed
+- Protect

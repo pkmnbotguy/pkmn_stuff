@@ -1,0 +1,60 @@
+Arcanine @ Magnet  
+Ability: Justified  
+Level: 50  
+EVs: 16 Atk / 25 Def / 10 SpA / 15 SpD  
+Relaxed Nature  
+- Play Rough  
+- Sleep Talk  
+- Giga Impact  
+- Crunch  
+
+Vivillon-Pokeball @ Kebia Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 3 HP / 22 SpA / 25 SpD / 16 Spe  
+Hardy Nature  
+- Sleep Powder  
+- Giga Impact  
+- Quiver Dance  
+- Calm Mind  
+
+Crabominable @ Shed Shell  
+Ability: Iron Fist  
+Level: 50  
+EVs: 20 HP / 27 Def / 19 SpA  
+Gentle Nature  
+- Knock Off  
+- Ice Beam  
+- Superpower  
+- Avalanche  
+
+Tinkaton @ Binding Band  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 26 Def / 29 SpD / 11 Spe  
+Brave Nature  
+- Gigaton Hammer  
+- Thunder Wave  
+- Foul Play  
+- Bulldoze  
+
+Quaquaval @ Muscle Band  
+Ability: Torrent  
+Level: 50  
+EVs: 21 HP / 12 SpA / 10 SpD / 23 Spe  
+Lax Nature  
+- Triple Axel  
+- Chilling Water  
+- Last Resort  
+- Endeavor  
+
+Aegislash @ Rawst Berry  
+Ability: Stance Change  
+Level: 50  
+EVs: 30 HP / 29 Def / 7 Spe  
+Bold Nature  
+- King's Shield  
+- Shadow Ball  
+- Poltergeist  
+- Reversal  
+

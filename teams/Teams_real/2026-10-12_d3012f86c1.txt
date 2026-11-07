@@ -1,0 +1,59 @@
+Typhlosion-Hisui @ Choice Scarf
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Blast Burn
+- Eruption
+- Shadow Ball
+- Heat Wave
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Blizzard
+- Moonblast
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Zap Cannon
+- Focus Blast
+- Protect
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Fake Out
+- High Horsepower
+- Grassy Glide
+- Drum Beating
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 12 SpD / 2 Spe
+Bold Nature
+- Muddy Water
+- Coil
+- Protect
+- Hypnosis
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Close Combat
+- Roost
+- Protect

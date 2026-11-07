@@ -1,0 +1,60 @@
+Kangaskhan @ Cheri Berry  
+Ability: Scrappy  
+Level: 50  
+EVs: 3 HP / 32 Atk / 17 Def / 14 SpD  
+Lax Nature  
+- Endeavor  
+- Thunder Punch  
+- Body Slam  
+- Attract  
+
+Venusaur @ Icy Rock  
+Ability: Overgrow  
+Level: 50  
+EVs: 9 Atk / 2 Def / 26 SpD / 29 Spe  
+Quirky Nature  
+- Energy Ball  
+- Sweet Scent  
+- Poison Jab  
+- Petal Dance  
+
+Squawkabilly-White @ Eject Button  
+Ability: Hustle  
+Level: 50  
+EVs: 32 HP / 2 Def / 32 SpA  
+Mild Nature  
+- Air Cutter  
+- Aerial Ace  
+- Sunny Day  
+- Rest  
+
+Heliolisk @ Chilan Berry  
+Ability: Solar Power  
+Level: 50  
+EVs: 13 HP / 32 Atk / 15 Def / 6 SpA  
+Lax Nature  
+- Wild Charge  
+- Charge  
+- Eerie Impulse  
+- Endure  
+
+Pangoro @ Poison Barb  
+Ability: Scrappy  
+Level: 50  
+EVs: 10 HP / 2 Atk / 9 Def / 22 SpA / 23 SpD  
+Serious Nature  
+- Coaching  
+- Foul Play  
+- Bullet Punch  
+- Stomping Tantrum  
+
+Kleavor @ Damp Rock  
+Ability: Sharpness  
+Level: 50  
+EVs: 18 Atk / 2 Def / 32 SpA / 14 Spe  
+Bashful Nature  
+- Brutal Swing  
+- Helping Hand  
+- Lunge  
+- Air Cutter  
+

@@ -1,0 +1,59 @@
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Muddy Water
+- Hurricane
+- Protect
+- Tailwind
+
+Pincurchin @ Terrain Extender
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Sassy Nature
+- Rising Voltage
+- Protect
+- Scald
+- Sucker Punch
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Light Screen
+- Reflect
+- Parting Shot
+- Spirit Break
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Ice Punch
+- Protect
+- Wave Crash
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Terrain Pulse
+- Aura Sphere
+- Flash Cannon
+- Detect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Protect
+- Rage Powder
+- Shadow Ball

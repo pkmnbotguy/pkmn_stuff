@@ -1,0 +1,59 @@
+Sharpedo @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Night Slash
+- Dive
+- Protect
+- Focus Energy
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Swords Dance
+- Iron Head
+- Sucker Punch
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Terrain Pulse
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Hyper Voice
+- Calm Mind
+- Quick Attack
+- Protect
+
+Kommo-O @ Leftovers
+Ability: Bulletproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Clanging Scales
+- Clangorous Soul
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Coaching
+- Protect

@@ -1,0 +1,59 @@
+Ninetales-Alola @ Occa Berry
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Moonblast
+- Protect
+- Aurora Veil
+
+Greninja @ Greninjite
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Extrasensory
+- Protect
+- Dark Pulse
+
+Araquanid @ Leftovers
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Liquidation
+- Leech Life
+- Entrainment
+- Wide Guard
+
+Scizor @ Metal Coat
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Aerial Ace
+- Bullet Punch
+- Bug Bite
+- Tailwind
+
+Dragonite @ Yache Berry
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Ice Spinner
+- Dragon Claw
+- Rock Tomb
+- Thunder Punch
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Taunt
+- Flare Blitz
+- Fake Out
+- Darkest Lariat

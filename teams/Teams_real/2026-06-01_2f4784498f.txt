@@ -1,0 +1,59 @@
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Coaching
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 12 HP / 1 Def / 20 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Blizzard
+- Shadow Ball
+- Aurora Veil
+- Protect
+
+Garchomp @ Sitrus Berry
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Protect
+
+Palafin @ Leftovers
+Ability: Zero to Hero
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Jet Punch
+- Wave Crash
+- Bulk Up
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sucker Punch
+- Kowtow Cleave
+- Iron Head
+- Protect
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Dragon Pulse
+- Flamethrower
+- Extreme Speed
+- Protect

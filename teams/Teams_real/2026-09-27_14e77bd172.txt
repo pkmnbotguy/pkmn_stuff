@@ -1,0 +1,59 @@
+Whimsicott @ Babiri Berry
+Ability: Prankster
+Level: 50
+EVs: 26 SpA / 21 SpD / 19 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Encore
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Modest Nature
+- Expanding Force
+- Hyper Voice
+- Trick Room
+- Imprison
+
+Glimmora @ Life Orb
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Power Gem
+- Sludge Bomb
+- Earth Power
+- Spiky Shield
+
+Basculegion-F @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Hydro Pump
+- Muddy Water
+- Ice Beam
+
+Ninetales @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Weather Ball
+- Scorching Sands
+- Protect

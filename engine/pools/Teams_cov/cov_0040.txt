@@ -1,0 +1,60 @@
+Torterra @ Iron Ball  
+Ability: Shell Armor  
+Level: 50  
+EVs: 19 Def / 16 SpA / 31 SpD  
+Lax Nature  
+- Bulldoze  
+- Reflect  
+- Body Slam  
+- Frenzy Plant  
+
+Aerodactyl @ Mystic Water  
+Ability: Pressure  
+Level: 50  
+EVs: 18 HP / 11 Atk / 20 Def / 17 SpD  
+Impish Nature  
+- Roar  
+- Tailwind  
+- Rock Tomb  
+- Taunt  
+
+Samurott-Hisui @ Soft Sand  
+Ability: Sharpness  
+Level: 50  
+EVs: 16 HP / 17 Atk / 32 SpD / 1 Spe  
+Modest Nature  
+- X-Scissor  
+- Surf  
+- Iron Tail  
+- Hydro Pump  
+
+Arcanine-Hisui @ Shed Shell  
+Ability: Flash Fire  
+Level: 50  
+EVs: 32 HP / 23 Def / 11 SpA  
+Bashful Nature  
+- Fire Blast  
+- Will-O-Wisp  
+- Head Smash  
+- Stealth Rock  
+
+Gallade @ King's Rock  
+Ability: Sharpness  
+Level: 50  
+EVs: 19 Atk / 32 SpA / 15 Spe  
+Impish Nature  
+- Draining Kiss  
+- Will-O-Wisp  
+- Coaching  
+- Rain Dance  
+
+Eelektross @ Oran Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 32 HP / 5 Atk / 29 Def  
+Lax Nature  
+- Supercell Slam  
+- Endure  
+- Outrage  
+- Thunder Fang  
+

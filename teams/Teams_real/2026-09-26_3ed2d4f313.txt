@@ -1,0 +1,57 @@
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Psychic
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Weather Ball
+- Wide Guard
+- Hurricane
+- Tailwind
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Last Resort
+
+Zoroark-Hisui @ Life Orb
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Bitter Malice
+- Taunt
+- Hyper Voice
+- Protect
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Revival Blessing
+- Double Shock
+- Close Combat
+
+Pincurchin @ Rocky Helmet
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Rising Voltage
+- Pain Split
+- Protect
+- Muddy Water

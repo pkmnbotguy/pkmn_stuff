@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Hex
+- Substitute
+- Clear Smog
+- Protect
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Grassy Glide
+- Fake Out
+
+Sandaconda @ Binding Band
+Ability: Shed Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Careful Nature
+- Sand Tomb
+- Wrap
+- Rest
+- Protect
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Swords Dance
+- Sucker Punch
+- Protect
+
+Swalot @ Leftovers
+Ability: Liquid Ooze
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Calm Nature
+- Body Press
+- Stockpile
+- Toxic
+- Protect
+
+Slowbro @ Slowbronite
+Ability: Oblivious
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Bold Nature
+- Stored Power
+- Iron Defense
+- Calm Mind
+- Slack Off

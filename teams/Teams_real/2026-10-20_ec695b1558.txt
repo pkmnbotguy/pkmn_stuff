@@ -1,0 +1,59 @@
+Oranguru @ Sitrus Berry
+Ability: Telepathy
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Stored Power
+- Psych Up
+- Instruct
+- Trick Room
+
+Ampharos @ Ampharosite
+Ability: Static
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Charge Beam
+- Parabolic Charge
+- Cotton Guard
+- Protect
+
+Golurk @ Golurkite
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Poltergeist
+- High Horsepower
+- Earthquake
+- Protect
+
+Indeedee-F @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Terrain Pulse
+- Follow Me
+- Trick Room
+- Protect
+
+Sirfetchd @ Life Orb
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Brave Bird
+- Close Combat
+- Meteor Assault
+- Protect
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Darkest Lariat

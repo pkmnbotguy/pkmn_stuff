@@ -1,0 +1,59 @@
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Swords Dance
+- Dire Claw
+- Close Combat
+- Rock Slide
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Protect
+- Hyper Voice
+- Draco Meteor
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Trick Room
+- Rage Powder
+- Matcha Gotcha
+- Shadow Ball
+
+Staraptor @ Choice Scarf
+Ability: Reckless
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Final Gambit
+- Brave Bird
+- Double-Edge
+- U-turn
+
+Sylveon @ Life Orb
+Ability: Pixilate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Hyper Beam
+- Hyper Voice
+- Quick Attack
+- Protect
+
+Scizor @ Scizorite
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Brave Nature
+- Swords Dance
+- Bullet Punch
+- Knock Off
+- Superpower

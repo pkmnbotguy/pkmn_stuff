@@ -1,0 +1,60 @@
+Vivillon-Ocean @ Life Orb  
+Ability: Shield Dust  
+Level: 50  
+EVs: 23 HP / 32 SpD / 11 Spe  
+Brave Nature  
+- Thief  
+- Quiver Dance  
+- Snore  
+- Calm Mind  
+
+Squawkabilly-White @ Cheri Berry  
+Ability: Hustle  
+Level: 50  
+EVs: 9 Atk / 30 Def / 27 SpD  
+Naive Nature  
+- Sunny Day  
+- Hurricane  
+- Seed Bomb  
+- Fly  
+
+Abomasnow @ Roseli Berry  
+Ability: Soundproof  
+Level: 50  
+EVs: 5 HP / 21 Atk / 16 SpD / 24 Spe  
+Adamant Nature  
+- Rock Slide  
+- Avalanche  
+- Round  
+- Leech Seed  
+
+Avalugg-Hisui @ Quick Claw  
+Ability: Sturdy  
+Level: 50  
+EVs: 13 Atk / 13 Def / 14 SpA / 26 SpD  
+Docile Nature  
+- Facade  
+- Recover  
+- Chilling Water  
+- Gyro Ball  
+
+Liepard @ Kasib Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 17 HP / 16 Def / 12 SpA / 21 SpD  
+Careful Nature  
+- Throat Chop  
+- Foul Play  
+- Rain Dance  
+- Facade  
+
+Staraptor @ Staraptite  
+Ability: Intimidate  
+Level: 50  
+EVs: 29 HP / 9 Atk / 11 Def / 17 SpA  
+Bold Nature  
+- Steel Wing  
+- Blaze Kick  
+- Heat Wave  
+- Roost  
+

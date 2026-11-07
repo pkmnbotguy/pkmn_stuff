@@ -1,0 +1,59 @@
+Volcarona @ Charti Berry
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Bug Buzz
+- Rage Powder
+- Overheat
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Jolly Nature
+- U-turn
+- Wood Hammer
+- Fake Out
+- Grassy Glide
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Stomping Tantrum
+- Earthquake
+- Rock Slide
+- Dragon Claw
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Swords Dance
+- Protect
+- Sucker Punch
+- Kowtow Cleave
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Power Gem
+- Spiky Shield
+- Earth Power
+- Sludge Bomb
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Hyper Voice
+- Draco Meteor

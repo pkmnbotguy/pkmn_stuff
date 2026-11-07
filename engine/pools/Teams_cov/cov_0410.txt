@@ -1,0 +1,60 @@
+Polteageist @ Expert Belt  
+Ability: Weak Armor  
+Level: 50  
+EVs: 5 HP / 9 Def / 32 SpA / 20 Spe  
+Lax Nature  
+- Sucker Punch  
+- Shadow Ball  
+- Self-Destruct  
+- Endure  
+
+Flapple @ Wacan Berry  
+Ability: Ripen  
+Level: 50  
+EVs: 8 HP / 30 Atk / 28 Def  
+Timid Nature  
+- Dual Wingbeat  
+- Endure  
+- Facade  
+- Giga Drain  
+
+Slowking-Galar @ Mystic Water  
+Ability: Regenerator  
+Level: 50  
+EVs: 4 HP / 22 Def / 8 SpA / 32 SpD  
+Impish Nature  
+- Fire Blast  
+- Light Screen  
+- Protect  
+- Thunder Wave  
+
+Goodra-Hisui @ Coba Berry  
+Ability: Gooey  
+Level: 50  
+EVs: 26 HP / 23 SpA / 17 Spe  
+Sassy Nature  
+- Fire Punch  
+- Rock Tomb  
+- Mud Shot  
+- Lash Out  
+
+Rotom-Heat @ Magnet  
+Ability: Levitate  
+Level: 50  
+EVs: 26 Def / 12 SpA / 28 SpD  
+Quirky Nature  
+- Charge Beam  
+- Sunny Day  
+- Charge  
+- Round  
+
+Espathra @ Iron Ball  
+Ability: Opportunist  
+Level: 50  
+EVs: 5 Atk / 26 Def / 5 SpA / 30 SpD  
+Serious Nature  
+- Pluck  
+- Roost  
+- Calm Mind  
+- Confuse Ray  
+

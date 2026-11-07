@@ -1,0 +1,59 @@
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Earth Power
+- Power Gem
+- Protect
+
+Tsareena @ Choice Scarf
+Ability: Queenly Majesty
+Level: 50
+EVs: 4 HP / 32 Atk / 30 Spe
+Jolly Nature
+- Triple Axel
+- Power Whip
+- U-turn
+- Knock Off
+
+Aegislash @ Sitrus Berry
+Ability: Stance Change
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- Poltergeist
+- Wide Guard
+- King's Shield
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Impish Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Heat Wave
+- Overheat
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Static
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Fake Out
+- Focus Blast
+- Protect

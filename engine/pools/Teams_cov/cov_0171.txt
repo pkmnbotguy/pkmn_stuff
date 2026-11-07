@@ -1,0 +1,60 @@
+Lycanroc-Dusk @ Charcoal  
+Ability: Tough Claws  
+Level: 50  
+EVs: 1 HP / 32 Atk / 32 SpA / 1 Spe  
+Mild Nature  
+- Thunder Fang  
+- Close Combat  
+- Quick Guard  
+- Accelerock  
+
+Inteleon @ Expert Belt  
+Ability: Torrent  
+Level: 50  
+EVs: 10 HP / 31 Atk / 21 SpA / 4 Spe  
+Hasty Nature  
+- Taunt  
+- Air Slash  
+- Sleep Talk  
+- Agility  
+
+Klefki @ Black Glasses  
+Ability: Magician  
+Level: 50  
+EVs: 32 HP / 28 SpD / 6 Spe  
+Bashful Nature  
+- Calm Mind  
+- Psych Up  
+- Torment  
+- Substitute  
+
+Sandaconda @ Focus Band  
+Ability: Sand Veil  
+Level: 50  
+EVs: 15 HP / 31 Def / 20 SpD  
+Gentle Nature  
+- Drill Run  
+- Coil  
+- Glare  
+- Snore  
+
+Garchomp @ Sitrus Berry  
+Ability: Sand Veil  
+Level: 50  
+EVs: 32 Def / 32 SpD / 2 Spe  
+Lax Nature  
+- Dragon Claw  
+- Dragon Cheer  
+- Sandstorm  
+- Stone Edge  
+
+Persian @ Bright Powder  
+Ability: Limber  
+Level: 50  
+EVs: 32 HP / 13 Def / 21 SpD  
+Impish Nature  
+- Power Gem  
+- Dig  
+- Trailblaze  
+- Screech  
+

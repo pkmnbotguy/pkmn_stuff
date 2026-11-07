@@ -1,0 +1,59 @@
+Blaziken @ Blazikenite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Detect
+- Flare Blitz
+- Close Combat
+- Rock Slide
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Helping Hand
+- Protect
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 30 HP / 8 Def / 28 SpA
+Quiet Nature
+- Protect
+- Hyper Voice
+- Moonblast
+- Aqua Jet
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Leaf Storm
+- Sludge Bomb
+- Sleep Powder
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Bold Nature
+- Protect
+- Helping Hand
+- Psychic Noise
+- Trick Room
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head

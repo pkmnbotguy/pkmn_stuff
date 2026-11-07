@@ -1,0 +1,59 @@
+Torkoal @ Life Orb
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Solar Beam
+- Earth Power
+- Protect
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sludge Bomb
+- Earth Power
+- Sleep Powder
+- Protect
+
+Annihilape @ Roseli Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 1 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Protect
+- Rage Fist
+- Drain Punch
+- Ice Punch
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Thunderbolt
+- Tailwind
+- Protect
+
+Grimmsnarl @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Spirit Break
+- Reflect
+- Light Screen
+- Parting Shot
+
+Lycanroc-Dusk @ Focus Sash
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Close Combat
+- Accelerock
+- Protect

@@ -1,0 +1,60 @@
+Azumarill @ Light Clay  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 15 Def / 23 SpA / 28 SpD  
+Adamant Nature  
+- Brutal Swing  
+- Icy Wind  
+- Play Rough  
+- Focus Punch  
+
+Weavile @ Payapa Berry  
+Ability: Pressure  
+Level: 50  
+EVs: 23 HP / 5 Atk / 6 Def / 32 Spe  
+Quiet Nature  
+- Reversal  
+- Nasty Plot  
+- Reflect  
+- X-Scissor  
+
+Talonflame @ Misty Seed  
+Ability: Gale Wings  
+Level: 50  
+EVs: 18 Def / 32 SpD / 16 Spe  
+Naive Nature  
+- Fire Blast  
+- Brave Bird  
+- Flare Blitz  
+- Quick Guard  
+
+Typhlosion @ Charcoal  
+Ability: Blaze  
+Level: 50  
+EVs: 32 SpA / 3 SpD / 31 Spe  
+Mild Nature  
+- Focus Blast  
+- Burning Jealousy  
+- Howl  
+- Inferno  
+
+Tsareena @ Miracle Seed  
+Ability: Queenly Majesty  
+Level: 50  
+EVs: 4 HP / 22 Atk / 8 Def / 32 SpD  
+Quirky Nature  
+- Trailblaze  
+- Grassy Terrain  
+- Sweet Scent  
+- Knock Off  
+
+Zoroark @ Oran Berry  
+Ability: Illusion  
+Level: 50  
+EVs: 32 HP / 1 Def / 28 SpD / 5 Spe  
+Bold Nature  
+- Lash Out  
+- Hyper Beam  
+- Facade  
+- Focus Blast  
+

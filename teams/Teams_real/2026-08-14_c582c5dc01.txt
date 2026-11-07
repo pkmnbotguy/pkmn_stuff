@@ -1,0 +1,59 @@
+Rotom @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Electroweb
+- Thunderbolt
+- Shadow Ball
+- Volt Switch
+
+Florges @ Sitrus Berry
+Ability: Symbiosis
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Moonblast
+- Synthesis
+- Protect
+- Calm Mind
+
+Simipour @ Focus Sash
+Ability: Torrent
+Level: 50
+EVs: 2 Atk / 32 SpA / 32 Spe
+Timid Nature
+- Hydro Pump
+- Fake Out
+- Taunt
+- Ice Beam
+
+Pinsir @ Pinsirite
+Ability: Hyper Cutter
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Body Slam
+- Feint
+- Close Combat
+
+Goodra @ Life Orb
+Ability: Gooey
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Focus Blast
+- Draco Meteor
+- Sludge Bomb
+- Protect
+
+Decidueye @ Spell Tag
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Poltergeist
+- Tailwind
+- Leaf Blade
+- Shadow Sneak

@@ -1,0 +1,59 @@
+Drampa @ Drampanite
+Ability: Sap Sipper
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Draco Meteor
+- Earth Power
+- Hyper Voice
+- Protect
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 23 HP / 2 Atk / 14 SpD / 27 Spe
+Adamant Nature
+- Dual Wingbeat
+- Protect
+- Roost
+- Close Combat
+
+Incineroar @ Focus Sash
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Jolly Nature
+- Blaze Kick
+- Darkest Lariat
+- Fake Out
+- Taunt
+
+Toxtricity @ Life Orb
+Ability: Punk Rock
+Level: 50
+EVs: 19 HP / 26 SpA / 21 Spe
+Modest Nature
+- Overdrive
+- Sludge Bomb
+- Snarl
+- Protect
+
+Whimsicott @ Bright Powder
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Giga Drain
+- Tailwind
+- Trick Room
+- Charm
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Dazzling Gleam
+- Protect
+- Energy Ball

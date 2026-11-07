@@ -1,0 +1,60 @@
+Vivillon-Modern @ White Herb  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 HP / 20 Atk / 14 SpD  
+Lonely Nature  
+- Pollen Puff  
+- U-turn  
+- Endure  
+- Bug Buzz  
+
+Kangaskhan @ Iron Ball  
+Ability: Inner Focus  
+Level: 50  
+EVs: 17 HP / 28 Def / 21 Spe  
+Serious Nature  
+- Shadow Ball  
+- Double-Edge  
+- Last Resort  
+- Fling  
+
+Simipour @ Mystic Water  
+Ability: Torrent  
+Level: 50  
+EVs: 31 HP / 32 SpA / 3 Spe  
+Docile Nature  
+- Thief  
+- Ice Punch  
+- Fake Out  
+- Rain Dance  
+
+Noivern @ Soft Sand  
+Ability: Frisk  
+Level: 50  
+EVs: 2 Atk / 14 Def / 32 SpA / 2 SpD / 16 Spe  
+Lonely Nature  
+- Dragon Pulse  
+- Body Slam  
+- Steel Wing  
+- Scary Face  
+
+Polteageist @ Shell Bell  
+Ability: Weak Armor  
+Level: 50  
+EVs: 24 Atk / 10 SpD / 32 Spe  
+Quirky Nature  
+- Teatime  
+- Will-O-Wisp  
+- Psyshock  
+- Endure  
+
+Scovillain @ Rawst Berry  
+Ability: Moody  
+Level: 50  
+EVs: 32 Atk / 4 SpA / 30 Spe  
+Bold Nature  
+- Grassy Glide  
+- Leaf Storm  
+- Rage Powder  
+- Trailblaze  
+

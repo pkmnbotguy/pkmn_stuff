@@ -1,0 +1,59 @@
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Darkest Lariat
+- Flare Blitz
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Weather Ball
+- Ancient Power
+- Protect
+
+Gourgeist @ Choice Scarf
+Ability: Insomnia
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Jolly Nature
+- Trick-or-Treat
+- Trick
+- Power Whip
+- Will-O-Wisp
+
+Absol @ Absolite Z
+Ability: Super Luck
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Claw
+- Night Slash
+- Protect
+- Focus Energy
+
+Clefable @ Rocky Helmet
+Ability: Cute Charm
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Helping Hand
+- Moonblast
+- Protect
+
+Malamar @ Focus Sash
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Trick Room
+- Knock Off
+- Superpower
+- Topsy-Turvy

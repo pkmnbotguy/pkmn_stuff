@@ -1,0 +1,59 @@
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 27 HP / 6 Atk / 2 Def / 31 SpD
+Careful Nature
+- Dragon Dance
+- Drain Punch
+- Knock Off
+- Detect
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 17 HP / 13 Def / 5 SpA / 1 SpD / 30 Spe
+Modest Nature
+- Rage Powder
+- Flamethrower
+- Struggle Bug
+- Protect
+
+Salazzle @ Focus Sash
+Ability: Corrosion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Naive Nature
+- Fake Out
+- Sludge Bomb
+- Toxic
+- Protect
+
+Mimikyu @ Expert Belt
+Ability: Disguise
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Play Rough
+- Shadow Claw
+- Shadow Sneak
+- Protect
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Thunderbolt
+- Electroweb
+- Hydro Pump
+- Protect
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Rage Powder
+- Life Dew
+- Matcha Gotcha
+- Trick Room

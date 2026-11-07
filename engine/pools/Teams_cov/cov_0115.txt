@@ -1,0 +1,60 @@
+Persian @ Babiri Berry  
+Ability: Technician  
+Level: 50  
+EVs: 22 Def / 20 SpD / 24 Spe  
+Calm Nature  
+- Fake Tears  
+- Payback  
+- Hyper Voice  
+- Icy Wind  
+
+Kangaskhan @ Grassy Seed  
+Ability: Inner Focus  
+Level: 50  
+EVs: 29 HP / 17 Def / 20 SpA  
+Bashful Nature  
+- Last Resort  
+- Ice Beam  
+- Whirlpool  
+- Endeavor  
+
+Samurott-Hisui @ Hard Stone  
+Ability: Sharpness  
+Level: 50  
+EVs: 14 Atk / 27 SpA / 1 SpD / 24 Spe  
+Brave Nature  
+- Superpower  
+- Protect  
+- Flip Turn  
+- Night Slash  
+
+Jolteon @ Never-Melt Ice  
+Ability: Quick Feet  
+Level: 50  
+EVs: 2 HP / 30 Atk / 7 SpA / 27 Spe  
+Naughty Nature  
+- Electro Ball  
+- Last Resort  
+- Copycat  
+- Metal Sound  
+
+Empoleon @ Choice Scarf  
+Ability: Competitive  
+Level: 50  
+EVs: 10 Def / 12 SpA / 32 SpD / 12 Spe  
+Bashful Nature  
+- Mud-Slap  
+- Scary Face  
+- Air Slash  
+- Aqua Jet  
+
+Floette-Eternal @ Floettite  
+Ability: Flower Veil  
+Level: 50  
+EVs: 18 Atk / 12 Def / 21 SpA / 15 Spe  
+Jolly Nature  
+- Light of Ruin  
+- Hyper Beam  
+- Charm  
+- Wish  
+

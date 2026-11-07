@@ -1,0 +1,59 @@
+Typhlosion-Hisui @ Choice Scarf
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Extrasensory
+- Heat Wave
+- Eruption
+- Shadow Ball
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Earth Power
+- Heat Wave
+- Helping Hand
+- Solar Beam
+
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 14 HP / 1 Def / 26 SpA / 25 Spe
+Modest Nature
+- Earth Power
+- Dragon Pulse
+- Protect
+- Energy Ball
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Surf
+- Weather Ball
+- Protect
+- Rain Dance
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Scary Face
+- Darkest Lariat
+- Flare Blitz
+- Fake Out
+
+Dragonite @ Expert Belt
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Air Slash
+- Dragon Pulse
+- Protect

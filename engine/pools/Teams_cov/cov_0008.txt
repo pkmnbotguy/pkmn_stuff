@@ -1,0 +1,60 @@
+Vivillon-Monsoon @ Expert Belt  
+Ability: Friend Guard  
+Level: 50  
+EVs: 20 HP / 17 SpA / 6 SpD / 23 Spe  
+Sassy Nature  
+- Psychic  
+- Air Slash  
+- Light Screen  
+- Giga Drain  
+
+Chandelure @ Chandelurite  
+Ability: Flash Fire  
+Level: 50  
+EVs: 8 HP / 29 Atk / 2 SpA / 27 SpD  
+Bashful Nature  
+- Inferno  
+- Burning Jealousy  
+- Clear Smog  
+- Overheat  
+
+Toxicroak @ King's Rock  
+Ability: Poison Touch  
+Level: 50  
+EVs: 29 Atk / 6 SpA / 22 SpD / 9 Spe  
+Serious Nature  
+- Rest  
+- Mud-Slap  
+- Swords Dance  
+- Fake Out  
+
+Charizard @ Miracle Seed  
+Ability: Solar Power  
+Level: 50  
+EVs: 25 HP / 10 Atk / 7 SpA / 24 SpD  
+Mild Nature  
+- Slash  
+- Heat Wave  
+- Brick Break  
+- Aerial Ace  
+
+Slurpuff @ Smooth Rock  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 31 Def / 26 SpD / 9 Spe  
+Lonely Nature  
+- Play Rough  
+- Sticky Web  
+- Endeavor  
+- Giga Impact  
+
+Ampharos @ Black Belt  
+Ability: Static  
+Level: 50  
+EVs: 24 HP / 8 Atk / 2 Def / 32 Spe  
+Serious Nature  
+- Snore  
+- Discharge  
+- Bulldoze  
+- Rain Dance  
+

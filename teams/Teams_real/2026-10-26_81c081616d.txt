@@ -1,0 +1,59 @@
+Eelektross @ Eelektrossite
+Ability: Levitate
+Level: 50
+EVs: 7 HP / 4 Def / 32 SpA / 23 Spe
+Modest Nature
+- Flamethrower
+- Thunderbolt
+- Electroweb
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Light Screen
+- Reflect
+- Sucker Punch
+- Spirit Break
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Krookodile @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Earthquake
+- Knock Off
+- Gunk Shot
+- Protect
+
+Volcarona @ Expert Belt
+Ability: Flame Body
+Level: 50
+EVs: 17 HP / 13 Def / 5 SpA / 1 SpD / 30 Spe
+Modest Nature
+- Heat Wave
+- Bug Buzz
+- Rage Powder
+- Protect
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Will-O-Wisp
+- Thunderbolt
+- Hydro Pump
+- Protect

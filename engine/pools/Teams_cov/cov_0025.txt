@@ -1,0 +1,60 @@
+Kommo-o @ Grassy Seed  
+Ability: Overcoat  
+Level: 50  
+EVs: 22 Atk / 13 SpA / 31 Spe  
+Relaxed Nature  
+- X-Scissor  
+- Bulk Up  
+- Earthquake  
+- Brutal Swing  
+
+Wigglytuff @ Soft Sand  
+Ability: Frisk  
+Level: 50  
+EVs: 4 HP / 20 Atk / 31 Def / 7 SpA / 4 Spe  
+Quiet Nature  
+- Dig  
+- Perish Song  
+- Focus Blast  
+- Body Slam  
+
+Overqwil @ Mystic Water  
+Ability: Swift Swim  
+Level: 50  
+EVs: 4 HP / 30 Atk / 32 SpA  
+Calm Nature  
+- Blizzard  
+- Pin Missile  
+- Dark Pulse  
+- Spite  
+
+Pyroar @ Pyroarite  
+Ability: Unnerve  
+Level: 50  
+EVs: 6 Atk / 32 SpA / 27 SpD / 1 Spe  
+Modest Nature  
+- Sunny Day  
+- Double-Edge  
+- Acrobatics  
+- Giga Impact  
+
+Quaquaval @ Expert Belt  
+Ability: Moxie  
+Level: 50  
+EVs: 20 Atk / 8 SpA / 31 SpD / 7 Spe  
+Quirky Nature  
+- Misty Terrain  
+- Counter  
+- Agility  
+- Wave Crash  
+
+Manectric @ Wacan Berry  
+Ability: Minus  
+Level: 50  
+EVs: 4 HP / 21 Atk / 5 SpA / 32 SpD / 4 Spe  
+Mild Nature  
+- Psychic Fangs  
+- Flamethrower  
+- Electro Ball  
+- Scary Face  
+

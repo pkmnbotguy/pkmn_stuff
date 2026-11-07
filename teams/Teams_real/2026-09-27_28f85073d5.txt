@@ -1,0 +1,59 @@
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Steel Roller
+- Psychic Fangs
+- Body Press
+- Protect
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Follow Me
+- Trick Room
+- Helping Hand
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Rock Slide
+- Dire Claw
+- Protect
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Recover
+- Protect
+
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Armor Cannon
+- Expanding Force
+- Aura Sphere
+- Protect
+
+Dragapult @ Life Orb
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Mild Nature
+- Draco Meteor
+- Shadow Ball
+- Dragon Darts
+- Protect

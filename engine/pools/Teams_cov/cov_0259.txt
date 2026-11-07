@@ -1,0 +1,60 @@
+Golurk @ Mental Herb  
+Ability: Klutz  
+Level: 50  
+EVs: 32 HP / 8 SpA / 25 SpD / 1 Spe  
+Docile Nature  
+- Smack Down  
+- Psychic  
+- Shadow Punch  
+- Solar Beam  
+
+Samurott @ Shell Bell  
+Ability: Shell Armor  
+Level: 50  
+EVs: 15 Atk / 1 Def / 18 SpA / 32 Spe  
+Bashful Nature  
+- Drill Run  
+- Aqua Tail  
+- Soak  
+- Taunt  
+
+Skeledirge @ Binding Band  
+Ability: Blaze  
+Level: 50  
+EVs: 29 Atk / 19 Def / 18 SpA  
+Careful Nature  
+- Round  
+- Solar Beam  
+- Belch  
+- Dig  
+
+Beartic @ Scope Lens  
+Ability: Slush Rush  
+Level: 50  
+EVs: 21 HP / 29 Atk / 4 SpD / 12 Spe  
+Timid Nature  
+- Substitute  
+- Taunt  
+- Superpower  
+- Bulldoze  
+
+Whimsicott @ Kasib Berry  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 32 Atk / 19 Def / 6 SpD / 9 Spe  
+Docile Nature  
+- U-turn  
+- Sunny Day  
+- Fling  
+- Trick Room  
+
+Garganacl @ Icy Rock  
+Ability: Clear Body  
+Level: 50  
+EVs: 27 Atk / 15 Def / 22 SpA / 2 SpD  
+Naive Nature  
+- Smack Down  
+- Stone Edge  
+- Earth Power  
+- Helping Hand  
+

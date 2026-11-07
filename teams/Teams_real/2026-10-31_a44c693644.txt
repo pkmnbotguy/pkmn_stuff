@@ -1,0 +1,59 @@
+Golurk @ Golurkite
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Protect
+- Headlong Rush
+- Iron Head
+- Poltergeist
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Careful Nature
+- Eruption
+- Heat Wave
+- Weather Ball
+- Solar Beam
+
+Gourgeist @ Occa Berry
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Bold Nature
+- Trick-or-Treat
+- Trick Room
+- Poltergeist
+- Rock Slide
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Phantom Force
+- Gunk Shot
+- Close Combat
+- Ice Punch
+
+Wyrdeer @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Bold Nature
+- Trick Room
+- Helping Hand
+- Skill Swap
+- Psychic
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+Level: 50
+EVs: 15 HP / 29 Def / 2 SpA / 20 SpD
+Calm Nature
+- Protect
+- Muddy Water
+- Scald
+- Ice Beam

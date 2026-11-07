@@ -1,0 +1,59 @@
+Ceruledge @ Leftovers
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Bitter Blade
+- Flamethrower
+- Shadow Ball
+- Phantom Force
+
+Toxtricity @ Sitrus Berry
+Ability: Punk Rock
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Overdrive
+- Protect
+- Poison Jab
+- Volt Switch
+
+Tyranitar @ King's Rock
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Naughty Nature
+- Rock Slide
+- Earthquake
+- Heavy Slam
+- Dragon Dance
+
+Baxcalibur @ Focus Sash
+Ability: Thermal Exchange
+Level: 50
+EVs: 12 HP / 3 Atk / 2 Def / 18 SpD / 31 Spe
+Jolly Nature
+- Glaive Rush
+- Protect
+- Earthquake
+- Icicle Spear
+
+Crabominable @ Never-Melt Ice
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Close Combat
+- Ice Hammer
+- Protect
+- Snowscape
+
+Dragonite @ Lum Berry
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Adamant Nature
+- Draco Meteor
+- Hurricane
+- Earthquake
+- Fire Blast

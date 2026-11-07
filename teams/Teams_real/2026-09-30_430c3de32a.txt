@@ -1,0 +1,59 @@
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 5 HP / 1 Def / 30 SpA / 1 SpD / 29 Spe
+Modest Nature
+- Coaching
+- Flash Cannon
+- Protect
+- Dragon Cheer
+
+Charizard @ Charizardite X
+Ability: Blaze
+Level: 50
+EVs: 14 HP / 21 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Protect
+- Outrage
+- Dragon Claw
+- Roost
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Dazzling Gleam
+- Shadow Ball
+- Protect
+
+Clefable @ Sitrus Berry
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Life Dew
+- Dazzling Gleam
+- Protect
+
+Meowscarada @ Focus Sash
+Ability: Protean
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Knock Off
+- Triple Axel
+- U-turn
+- Flower Trick
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Careful Nature
+- Protect
+- Iron Head
+- Psychic Fangs
+- Thunder Punch

@@ -1,0 +1,59 @@
+Rhyperior @ Passho Berry
+Ability: Solid Rock
+Level: 50
+EVs: 20 HP / 32 Atk / 14 SpD
+Brave Nature
+- Curse
+- Rock Slide
+- Earthquake
+- Protect
+
+Reuniclus @ Light Clay
+Ability: Regenerator
+Level: 50
+EVs: 31 HP / 32 SpA / 3 SpD
+Brave Nature
+- Knock Off
+- Reflect
+- Light Screen
+- Trick Room
+
+Forretress @ Occa Berry
+Ability: Overcoat
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Relaxed Nature
+- Body Press
+- Stealth Rock
+- Spikes
+- Toxic Spikes
+
+Drampa @ Drampanite
+Ability: Berserk
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Hyper Voice
+- Flamethrower
+- Ice Beam
+- Thunderbolt
+
+Cofagrigus @ Sitrus Berry
+Ability: Mummy
+Level: 50
+EVs: 32 HP / 3 Def / 31 SpD
+Quiet Nature
+- Will-O-Wisp
+- Destiny Bond
+- Disable
+- Shadow Ball
+
+Goodra-Hisui @ Chesto Berry
+Ability: Shell Armor
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Rest
+- Shelter
+- Heavy Slam
+- Body Press

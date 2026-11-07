@@ -1,0 +1,60 @@
+Typhlosion-Hisui @ Miracle Seed  
+Ability: Frisk  
+Level: 50  
+EVs: 3 HP / 21 Atk / 32 Def / 10 SpA  
+Adamant Nature  
+- Fire Fang  
+- Mystical Fire  
+- Fire Spin  
+- Lava Plume  
+
+Starmie @ Smooth Rock  
+Ability: Natural Cure  
+Level: 50  
+EVs: 27 HP / 16 SpD / 23 Spe  
+Timid Nature  
+- Facade  
+- Aqua Jet  
+- Dive  
+- Ice Beam  
+
+Mr. Rime @ Poison Barb  
+Ability: Tangled Feet  
+Level: 50  
+EVs: 8 HP / 15 Def / 27 SpD / 16 Spe  
+Impish Nature  
+- Uproar  
+- Haze  
+- Copycat  
+- Fling  
+
+Slowbro-Galar @ Occa Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 4 HP / 30 Atk / 32 SpA  
+Sassy Nature  
+- Snore  
+- Snowscape  
+- Body Slam  
+- Iron Defense  
+
+Vivillon-Monsoon @ Hard Stone  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 3 HP / 31 Def / 32 Spe  
+Sassy Nature  
+- Skitter Smack  
+- Struggle Bug  
+- Solar Beam  
+- Round  
+
+Leafeon @ Air Balloon  
+Ability: Leaf Guard  
+Level: 50  
+EVs: 32 HP / 4 Atk / 10 Def / 10 SpA / 10 Spe  
+Rash Nature  
+- Double-Edge  
+- Hyper Beam  
+- Shadow Ball  
+- Giga Drain  
+

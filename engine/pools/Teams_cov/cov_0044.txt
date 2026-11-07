@@ -1,0 +1,60 @@
+Gyarados @ Gyaradosite  
+Ability: Intimidate  
+Level: 50  
+EVs: 2 Def / 26 SpA / 27 SpD / 11 Spe  
+Hasty Nature  
+- Double-Edge  
+- Dragon Pulse  
+- Dragon Dance  
+- Bounce  
+
+Vivillon-Polar @ Heat Rock  
+Ability: Friend Guard  
+Level: 50  
+EVs: 20 HP / 27 Atk / 19 SpA  
+Calm Nature  
+- Bug Bite  
+- String Shot  
+- Struggle Bug  
+- Stun Spore  
+
+Gourgeist @ Persim Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 18 Atk / 30 Def / 18 SpA  
+Sassy Nature  
+- Thief  
+- Curse  
+- Bullet Seed  
+- Hypnosis  
+
+Mamoswine @ Occa Berry  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 19 Def / 28 SpA / 19 Spe  
+Hasty Nature  
+- Stealth Rock  
+- Substitute  
+- Icicle Crash  
+- Hyper Beam  
+
+Grimmsnarl @ Babiri Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 27 HP / 7 Atk / 32 SpD  
+Naughty Nature  
+- Wonder Room  
+- Imprison  
+- Sleep Talk  
+- Fake Tears  
+
+Glalie @ Damp Rock  
+Ability: Ice Body  
+Level: 50  
+EVs: 16 Atk / 2 SpA / 24 SpD / 24 Spe  
+Relaxed Nature  
+- Payback  
+- Spikes  
+- Explosion  
+- Dark Pulse  
+

@@ -1,0 +1,59 @@
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Extreme Speed
+- Dragon Pulse
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Darkest Lariat
+- Parting Shot
+- Fake Out
+- Flare Blitz
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Calm Nature
+- Hyper Voice
+- Moonblast
+- Protect
+- Calm Mind
+
+Toucannon @ King's Rock
+Ability: Skill Link
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Impish Nature
+- Beak Blast
+- Rock Blast
+- Bullet Seed
+- Tailwind
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Protect
+- Shadow Ball
+- Rage Powder
+
+Excadrill @ Focus Sash
+Ability: Mold Breaker
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Iron Head
+- Rock Slide
+- X-Scissor

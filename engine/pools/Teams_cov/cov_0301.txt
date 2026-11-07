@@ -1,0 +1,60 @@
+Kleavor @ Cheri Berry  
+Ability: Swarm  
+Level: 50  
+EVs: 11 HP / 21 Atk / 23 Def / 2 SpA / 9 Spe  
+Lonely Nature  
+- Stone Axe  
+- Endure  
+- Feint  
+- Reversal  
+
+Blaziken @ Smooth Rock  
+Ability: Blaze  
+Level: 50  
+EVs: 29 HP / 23 SpA / 14 SpD  
+Rash Nature  
+- Rock Tomb  
+- Brick Break  
+- Will-O-Wisp  
+- Earthquake  
+
+Basculegion @ Dragon Fang  
+Ability: Swift Swim  
+Level: 50  
+EVs: 24 Atk / 24 SpD / 18 Spe  
+Gentle Nature  
+- Night Shade  
+- Hydro Pump  
+- Pain Split  
+- Spite  
+
+Rotom-Frost @ Babiri Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 19 Atk / 26 Def / 6 SpA / 15 SpD  
+Hasty Nature  
+- Uproar  
+- Endure  
+- Foul Play  
+- Protect  
+
+Vaporeon @ Lum Berry  
+Ability: Hydration  
+Level: 50  
+EVs: 19 Atk / 6 Def / 19 SpA / 22 Spe  
+Impish Nature  
+- Trailblaze  
+- Calm Mind  
+- Tickle  
+- Round  
+
+Heracross @ Heracronite  
+Ability: Swarm  
+Level: 50  
+EVs: 4 Atk / 29 Def / 32 SpA / 1 Spe  
+Calm Nature  
+- Megahorn  
+- Seismic Toss  
+- Vacuum Wave  
+- Smart Strike  
+

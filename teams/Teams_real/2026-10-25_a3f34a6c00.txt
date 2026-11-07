@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Swords Dance
+- Protect
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Dazzling Gleam
+- Psychic
+- Trick Room
+- Protect
+
+Sinistcha @ Focus Sash
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Quiet Nature
+- Rage Powder
+- Flamethrower
+- Energy Ball
+- Protect
+
+Overqwil @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 5 Def / 15 SpD / 13 Spe
+Brave Nature
+- Crunch
+- Barb Barrage
+- Minimize
+- Protect
+
+Zoroark-Hisui @ Choice Scarf
+Ability: Illusion
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Bitter Malice
+- Hyper Voice
+- Trick
+- Detect

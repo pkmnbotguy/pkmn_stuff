@@ -1,0 +1,59 @@
+Pyroar @ Pyroarite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overheat
+- Will-O-Wisp
+- Snarl
+- Protect
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Moonblast
+- Protect
+
+Goodra-Hisui @ Leftovers
+Ability: Shell Armor
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Calm Nature
+- Body Press
+- Shelter
+- Flash Cannon
+- Protect
+
+Persian-Alola @ Rocky Helmet
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Fake Out
+- Parting Shot
+- Foul Play
+- Taunt
+
+Meganium @ Meganiumite
+Ability: Overgrow
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Solar Beam
+- Dazzling Gleam
+- Weather Ball
+- Protect
+
+Swampert @ Sitrus Berry
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- High Horsepower
+- Yawn
+- Wide Guard

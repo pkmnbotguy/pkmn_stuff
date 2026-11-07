@@ -1,0 +1,60 @@
+Noivern @ Charti Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 16 HP / 24 SpA / 26 Spe  
+Bold Nature  
+- Acrobatics  
+- Steel Wing  
+- Thief  
+- Dragon Cheer  
+
+Froslass @ Froslassite  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 14 Def / 28 SpA / 22 SpD / 2 Spe  
+Naughty Nature  
+- Icy Wind  
+- Hex  
+- Chilling Water  
+- Thunder  
+
+Squawkabilly @ Poison Barb  
+Ability: Hustle  
+Level: 50  
+EVs: 4 Def / 10 SpA / 20 SpD / 32 Spe  
+Lax Nature  
+- Parting Shot  
+- Quick Attack  
+- Protect  
+- Hurricane  
+
+Grimmsnarl @ Grassy Seed  
+Ability: Frisk  
+Level: 50  
+EVs: 30 Atk / 7 Def / 14 SpD / 15 Spe  
+Modest Nature  
+- Wonder Room  
+- Superpower  
+- Chilling Water  
+- Snore  
+
+Hydreigon @ Eject Button  
+Ability: Levitate  
+Level: 50  
+EVs: 23 HP / 10 Atk / 6 Def / 27 SpD  
+Brave Nature  
+- Hydro Pump  
+- Crunch  
+- Substitute  
+- U-turn  
+
+Excadrill @ Black Belt  
+Ability: Sand Rush  
+Level: 50  
+EVs: 11 Atk / 26 Def / 29 SpA  
+Lonely Nature  
+- Rock Blast  
+- Snore  
+- Substitute  
+- Metal Sound  
+

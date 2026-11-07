@@ -1,0 +1,59 @@
+Lopunny @ Lopunnite
+Ability: Limber
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Adamant Nature
+- Close Combat
+- Protect
+- Triple Axel
+- After You
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Weather Ball
+- Hurricane
+- Wide Guard
+- Tailwind
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Weather Ball
+- Protect
+- Solar Beam
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sludge Bomb
+- Sleep Powder
+- Protect
+- Solar Beam
+
+Basculegion-F @ Choice Scarf
+Ability: Swift Swim
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Modest Nature
+- Ice Beam
+- Muddy Water
+- Shadow Ball
+- Flip Turn

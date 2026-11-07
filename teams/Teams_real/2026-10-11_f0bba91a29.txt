@@ -1,0 +1,59 @@
+Toxapex @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Sassy Nature
+- Baneful Bunker
+- Infestation
+- Recover
+- Toxic
+
+Reuniclus @ Life Orb
+Ability: Magic Guard
+Level: 50
+EVs: 31 HP / 32 SpA / 3 SpD
+Quiet Nature
+- Expanding Force
+- Trick Room
+- Focus Blast
+- Recover
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psyshock
+- Helping Hand
+- Follow Me
+- Protect
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Memento
+- Helping Hand
+- Bitter Malice
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Play Rough
+- Iron Head
+- Rock Slide
+- Protect
+
+Aggron @ Aggronite
+Ability: Sturdy
+Level: 50
+EVs: 31 HP / 1 Atk / 2 Def / 32 SpD
+Relaxed Nature
+- Body Press
+- Metal Burst
+- Iron Defense
+- Heavy Slam

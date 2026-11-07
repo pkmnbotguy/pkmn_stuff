@@ -1,0 +1,59 @@
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Kowtow Cleave
+- Sucker Punch
+- Low Kick
+
+Sneasler @ Iron Ball
+Ability: Poison Touch
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Close Combat
+- Fake Out
+- Poison Jab
+- Feint
+
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Water Spout
+- Ice Beam
+- Aura Sphere
+- Dark Pulse
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Weather Ball
+- Heat Wave
+- Dragon Pulse
+- Ancient Power
+
+Farigiraf @ Mental Herb
+Ability: Armor Tail
+Level: 50
+EVs: 30 HP / 22 Def / 14 SpA
+Relaxed Nature
+- Hyper Voice
+- Rain Dance
+- Trick Room
+- Psychic Noise
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Rock Slide
+- Stomping Tantrum
+- Dragon Claw
+- Earthquake

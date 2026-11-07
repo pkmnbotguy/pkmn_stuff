@@ -1,0 +1,59 @@
+Dragonite @ Dragoninite
+Ability: Inner Focus
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Rain Dance
+- Hurricane
+- Weather Ball
+- Protect
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Snarl
+- Draco Meteor
+- Flamethrower
+- Dark Pulse
+
+Dragapult @ Light Clay
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Phantom Force
+- Light Screen
+- Reflect
+- Dragon Darts
+
+Archaludon @ Magnet
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Dragon Pulse
+- Flash Cannon
+- Electro Shot
+- Protect
+
+Dragalge @ Dragalgite
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 11 Def / 23 SpA
+Modest Nature
+- Draco Meteor
+- Flip Turn
+- Sludge Wave
+- Protect
+
+Goodra-Hisui @ Leftovers
+Ability: Shell Armor
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Calm Nature
+- Protect
+- Shelter
+- Flash Cannon
+- Body Press

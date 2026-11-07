@@ -1,0 +1,59 @@
+Incineroar @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Parting Shot
+- Snarl
+- Fake Out
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Acrobatics
+- Close Combat
+- Dire Claw
+- Fake Out
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Earthquake
+- Scale Shot
+- Rock Slide
+- Swords Dance
+
+Raichu @ Raichunite Y
+Ability: Static
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Focus Blast
+- Zap Cannon
+- Volt Switch
+- Dazzling Gleam
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Roost
+- Protect
+
+Vivillon @ Sitrus Berry
+Ability: Friend Guard
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rage Powder
+- Tailwind
+- String Shot
+- Protect

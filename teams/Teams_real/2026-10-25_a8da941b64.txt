@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Poison Jab
+- Liquidation
+- Leech Life
+- Sucker Punch
+
+Sableye @ Damp Rock
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Light Screen
+- Reflect
+- Rain Dance
+- Encore
+
+Greninja @ Greninjite
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Blizzard
+- Water Shuriken
+- Protect
+- Brick Break
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Protect
+- Flash Cannon
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Throat Chop
+- Flare Blitz
+- Close Combat
+- Fake Out
+
+Clefable @ Fairy Feather
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Moonblast
+- Follow Me
+- Thunderbolt
+- Substitute

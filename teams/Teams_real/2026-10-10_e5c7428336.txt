@@ -1,0 +1,59 @@
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Trick Room
+- Follow Me
+- Helping Hand
+- Psyshock
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpA
+Modest Nature
+- Hyper Voice
+- Trick Room
+- Expanding Force
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 14 Def / 20 Spe
+Modest Nature
+- Zap Cannon
+- Encore
+- Protect
+- Focus Blast
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Aqua Jet
+- Wave Crash
+- Flip Turn
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 32 SpD / 2 Spe
+Careful Nature
+- Iron Head
+- Iron Defense
+- Body Press
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Parting Shot
+- Fake Out
+- Darkest Lariat

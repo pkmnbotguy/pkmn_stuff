@@ -1,0 +1,59 @@
+Rillaboom @ Expert Belt
+Ability: Grassy Surge
+Level: 50
+EVs: 24 HP / 15 Atk / 14 SpD / 13 Spe
+Adamant Nature
+- Grassy Glide
+- High Horsepower
+- U-turn
+- Fake Out
+
+Toxtricity @ Choice Scarf
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Boomburst
+- Overdrive
+- Sludge Wave
+- Volt Switch
+
+Noivern @ Focus Sash
+Ability: Telepathy
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Boomburst
+- Draco Meteor
+- Tailwind
+- Protect
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Dazzling Gleam
+- Icy Wind
+- Protect
+
+Maushold @ Sitrus Berry
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 10 Def / 24 SpD
+Impish Nature
+- Super Fang
+- Crunch
+- Helping Hand
+- Follow Me
+
+Chimecho @ Chimechite
+Ability: Levitate
+Level: 50
+EVs: 31 HP / 15 Def / 15 SpA / 3 SpD / 2 Spe
+Bold Nature
+- Boomburst
+- Draining Kiss
+- Psychic
+- Protect

@@ -1,0 +1,60 @@
+Vivillon-Sandstorm @ Yache Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 5 HP / 17 Def / 32 SpA / 12 SpD  
+Gentle Nature  
+- Safeguard  
+- U-turn  
+- Quiver Dance  
+- Sleep Talk  
+
+Scrafty @ Life Orb  
+Ability: Shed Skin  
+Level: 50  
+EVs: 14 Atk / 16 Def / 10 SpA / 26 Spe  
+Docile Nature  
+- Sunny Day  
+- Thunder Punch  
+- Assurance  
+- Encore  
+
+Grimmsnarl @ Persim Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 4 Atk / 32 Def / 30 Spe  
+Brave Nature  
+- Brick Break  
+- Spirit Break  
+- Sucker Punch  
+- Sleep Talk  
+
+Gourgeist-Small @ Aspear Berry  
+Ability: Pickup  
+Level: 50  
+EVs: 12 HP / 19 SpA / 20 SpD / 15 Spe  
+Brave Nature  
+- Ally Switch  
+- Endure  
+- Disable  
+- Sunny Day  
+
+Pinsir @ Lum Berry  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 22 HP / 23 Atk / 6 SpD / 15 Spe  
+Sassy Nature  
+- High Horsepower  
+- Body Slam  
+- Hyper Beam  
+- Detect  
+
+Scovillain @ Scovillainite  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 32 HP / 19 Atk / 4 SpA / 11 SpD  
+Mild Nature  
+- Spicy Extract  
+- Giga Impact  
+- Double Hit  
+- Super Fang  
+

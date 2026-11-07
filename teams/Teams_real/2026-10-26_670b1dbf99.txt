@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Substitute
+- Protect
+- Sludge Bomb
+
+Ninetales-Alola @ Choice Scarf
+Ability: Snow Warning
+Level: 50
+EVs: 11 HP / 1 Def / 25 SpA / 1 SpD / 28 Spe
+Modest Nature
+- Blizzard
+- Freeze-Dry
+- Protect
+- Icy Wind
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Rock Slide
+- Dire Claw
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Parting Shot
+- Fake Out
+- Flare Blitz
+- Throat Chop
+
+Dragonite @ Life Orb
+Ability: Inner Focus
+Level: 50
+EVs: 31 HP / 32 Atk / 3 Spe
+Adamant Nature
+- Scale Shot
+- Protect
+- Superpower
+- Extreme Speed
+
+Swampert @ Leftovers
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Yawn
+- Earth Power
+- Muddy Water
+- Protect

@@ -1,0 +1,59 @@
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Trick
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Sunny Day
+- Helping Hand
+
+Sableye @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 7 Def / 27 SpD
+Bold Nature
+- Snarl
+- Quash
+- Sunny Day
+- Helping Hand
+
+Goodra-Hisui @ Life Orb
+Ability: Sap Sipper
+Level: 50
+EVs: 32 HP / 15 Def / 14 SpA / 5 Spe
+Bold Nature
+- Draco Meteor
+- Flash Cannon
+- Chilling Water
+- Life Dew
+
+Runerigus @ Leftovers
+Ability: Wandering Spirit
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Poltergeist
+- Self-Destruct
+- Disable
+- Ally Switch
+
+Pyroar @ Pyroarite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Overheat
+- Scorching Sands
+- Protect

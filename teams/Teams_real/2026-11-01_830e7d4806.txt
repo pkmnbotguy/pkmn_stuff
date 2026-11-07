@@ -1,0 +1,59 @@
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Flamethrower
+- Tailwind
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Hurricane
+- Weather Ball
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Mimikyu @ Life Orb
+Ability: Disguise
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Play Rough
+- Shadow Claw
+- Shadow Sneak
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Poison Jab
+
+Greninja @ Greninjite
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Mild Nature
+- Dark Pulse
+- Ice Beam
+- Gunk Shot
+- Rock Slide

@@ -1,0 +1,59 @@
+Pyroar @ Pyroarite
+Ability: Rivalry
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Scorching Sands
+- Overheat
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Sunny Day
+- Encore
+- Energy Ball
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Ice Beam
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Helping Hand
+- Hyper Voice
+- Trick Room
+- Imprison
+
+Rotom-Wash @ Rocky Helmet
+Ability: Levitate
+Level: 50
+EVs: 12 HP / 6 Def / 15 SpA / 10 SpD / 23 Spe
+Timid Nature
+- Thunderbolt
+- Hydro Pump
+- Will-O-Wisp
+- Protect
+
+Scrafty @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fake Out
+- Drain Punch
+- Knock Off
+- Protect

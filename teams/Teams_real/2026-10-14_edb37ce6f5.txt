@@ -1,0 +1,59 @@
+Sableye @ Sablenite
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Psych Up
+- Recover
+- Night Shade
+- Foul Play
+
+Sinistcha @ Coba Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Quiet Nature
+- Rage Powder
+- Life Dew
+- Trick Room
+- Matcha Gotcha
+
+Klefki @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 29 Def / 5 SpD
+Bold Nature
+- Psych Up
+- Draining Kiss
+- Calm Mind
+- Substitute
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Psych Up
+- Stored Power
+- Heat Wave
+- Protect
+
+Meowstic @ Bright Powder
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 24 Def / 10 SpD
+Impish Nature
+- Light Screen
+- Skill Swap
+- Fake Out
+- Yawn
+
+Overqwil @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 5 Def / 15 SpD / 13 Spe
+Careful Nature
+- Minimize
+- Stockpile
+- Barb Barrage
+- Protect

@@ -1,0 +1,60 @@
+Bellibolt @ Expert Belt  
+Ability: Static  
+Level: 50  
+EVs: 32 Atk / 15 Def / 19 SpA  
+Impish Nature  
+- Electric Terrain  
+- Discharge  
+- Toxic  
+- Light Screen  
+
+Tauros-Paldea-Blaze @ Hard Stone  
+Ability: Cud Chew  
+Level: 50  
+EVs: 18 Atk / 16 SpD / 32 Spe  
+Sassy Nature  
+- Stomping Tantrum  
+- Rock Tomb  
+- Close Combat  
+- Double-Edge  
+
+Alcremie-Matcha-Cream @ Dragon Fang  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 31 Atk / 4 Def / 4 SpA / 27 Spe  
+Quiet Nature  
+- Sweet Scent  
+- Misty Terrain  
+- Alluring Voice  
+- Play Rough  
+
+Salazzle @ Passho Berry  
+Ability: Oblivious  
+Level: 50  
+EVs: 7 HP / 7 Atk / 17 Def / 32 SpA / 3 Spe  
+Serious Nature  
+- Toxic Spikes  
+- Flare Blitz  
+- Payback  
+- Acid Spray  
+
+Stunfisk @ Sitrus Berry  
+Ability: Limber  
+Level: 50  
+EVs: 32 HP / 10 Atk / 18 SpA / 6 Spe  
+Bashful Nature  
+- Flail  
+- Payback  
+- Fissure  
+- Earth Power  
+
+Tyrantrum @ Muscle Band  
+Ability: Strong Jaw  
+Level: 50  
+EVs: 3 HP / 32 Atk / 12 SpA / 19 SpD  
+Rash Nature  
+- Head Smash  
+- Assurance  
+- Dragon Dance  
+- Lash Out  
+

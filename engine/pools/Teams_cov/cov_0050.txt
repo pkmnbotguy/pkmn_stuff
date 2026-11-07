@@ -1,0 +1,60 @@
+Zoroark-Hisui @ Kasib Berry  
+Ability: Illusion  
+Level: 50  
+EVs: 17 Def / 25 SpA / 24 Spe  
+Careful Nature  
+- Substitute  
+- Taunt  
+- Focus Punch  
+- Agility  
+
+Lopunny @ Lopunnite  
+Ability: Cute Charm  
+Level: 50  
+EVs: 32 HP / 27 Atk / 7 SpA  
+Rash Nature  
+- Assurance  
+- Swords Dance  
+- Iron Tail  
+- Trailblaze  
+
+Swalot @ Dragon Fang  
+Ability: Gluttony  
+Level: 50  
+EVs: 23 Atk / 30 Def / 13 Spe  
+Bashful Nature  
+- Fling  
+- Rain Dance  
+- Helping Hand  
+- Thunder Wave  
+
+Reuniclus @ Chople Berry  
+Ability: Overcoat  
+Level: 50  
+EVs: 12 HP / 32 Atk / 6 SpA / 16 Spe  
+Lonely Nature  
+- Encore  
+- Steel Roller  
+- Focus Blast  
+- Future Sight  
+
+Meowstic-F @ Aspear Berry  
+Ability: Keen Eye  
+Level: 50  
+EVs: 1 Atk / 17 Def / 32 SpD / 16 Spe  
+Sassy Nature  
+- Light Screen  
+- Protect  
+- Snore  
+- Dig  
+
+Flapple @ Babiri Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 15 HP / 5 Atk / 14 SpA / 32 Spe  
+Brave Nature  
+- Pounce  
+- Sucker Punch  
+- U-turn  
+- Outrage  
+

@@ -1,0 +1,59 @@
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Drain Punch
+- Throat Chop
+- Fake Out
+- Protect
+
+Slowking-Galar @ Colbur Berry
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Protect
+- Sludge Bomb
+- Trick Room
+- Psychic
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Protect
+- Calm Mind
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- Brick Break
+
+Volcarona @ Charti Berry
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 29 Def / 5 Spe
+Bold Nature
+- Flamethrower
+- Will-O-Wisp
+- Tailwind
+- Rage Powder
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Leech Life
+- Swords Dance
+- Protect

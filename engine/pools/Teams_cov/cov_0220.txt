@@ -1,0 +1,60 @@
+Vivillon-Savanna @ Coba Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 32 Atk / 18 Def / 13 SpD / 3 Spe  
+Impish Nature  
+- Weather Ball  
+- Facade  
+- Draining Kiss  
+- Substitute  
+
+Aurorus @ Mystic Water  
+Ability: Refrigerate  
+Level: 50  
+EVs: 32 Atk / 25 Def / 9 Spe  
+Relaxed Nature  
+- Stealth Rock  
+- Rain Dance  
+- Protect  
+- Ice Beam  
+
+Skarmory @ Mental Herb  
+Ability: Weak Armor  
+Level: 50  
+EVs: 7 Atk / 27 SpA / 32 Spe  
+Quiet Nature  
+- Sunny Day  
+- Rock Slide  
+- Swords Dance  
+- Whirlwind  
+
+Roserade @ Kasib Berry  
+Ability: Natural Cure  
+Level: 50  
+EVs: 10 HP / 17 SpA / 21 SpD / 18 Spe  
+Jolly Nature  
+- Petal Blizzard  
+- Spikes  
+- Poison Jab  
+- Sleep Talk  
+
+Emboar @ Eject Button  
+Ability: Reckless  
+Level: 50  
+EVs: 16 HP / 2 Def / 16 SpA / 32 Spe  
+Bold Nature  
+- Fire Punch  
+- Double-Edge  
+- Reversal  
+- Scorching Sands  
+
+Barbaracle @ Kebia Berry  
+Ability: Pickpocket  
+Level: 50  
+EVs: 32 HP / 18 Def / 8 SpA / 8 Spe  
+Careful Nature  
+- Rock Slide  
+- Screech  
+- Facade  
+- Mud-Slap  
+

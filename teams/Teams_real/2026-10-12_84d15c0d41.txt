@@ -1,0 +1,59 @@
+Armarouge @ Wise Glasses
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Quiet Nature
+- Expanding Force
+- Trick Room
+- Armor Cannon
+- Wide Guard
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Quiet Nature
+- Follow Me
+- Trick Room
+- Psychic
+- Helping Hand
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Heat Wave
+- Earth Power
+- Protect
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Expanding Force
+- Dazzling Gleam
+- Protect
+- Trick Room
+
+Milotic @ Psychic Seed
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Bold Nature
+- Coil
+- Muddy Water
+- Hypnosis
+- Recover
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Protect
+- Fake Out

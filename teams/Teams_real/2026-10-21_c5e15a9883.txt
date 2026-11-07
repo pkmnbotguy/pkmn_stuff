@@ -1,0 +1,59 @@
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- High Horsepower
+- Ice Punch
+- Protect
+
+Feraligatr @ Feraligite
+Ability: Sheer Force
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Liquidation
+- Double-Edge
+- Dragon Dance
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Scald
+- Coil
+- Hypnosis
+- Protect
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Weather Ball
+- Ice Beam
+- Helping Hand
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Last Respects
+- Aqua Jet
+- Liquidation
+- Protect
+
+Rotom-Wash @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Hydro Pump
+- Thunderbolt
+- Will-O-Wisp
+- Protect

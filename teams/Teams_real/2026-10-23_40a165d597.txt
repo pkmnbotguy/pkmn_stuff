@@ -1,0 +1,59 @@
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Clanging Scales
+- Aura Sphere
+- Flash Cannon
+
+Gholdengo @ Electric Seed
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Protect
+- Shadow Ball
+- Make It Rain
+- Power Gem
+
+Scovillain @ Scovillainite
+Ability: Insomnia
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Protect
+- Rage Powder
+- Leech Seed
+- Overheat
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Parting Shot
+- Fake Out
+- Taunt
+- Darkest Lariat
+
+Espathra @ Mental Herb
+Ability: Speed Boost
+Level: 50
+EVs: 32 HP / 7 Def / 14 SpD / 13 Spe
+Timid Nature
+- Protect
+- Calm Mind
+- Lumina Crash
+- Baton Pass
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Volt Switch
+- Volt Tackle
+- Feint
+- Fake Out

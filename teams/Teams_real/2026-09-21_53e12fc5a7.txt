@@ -1,0 +1,59 @@
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 25 Def / 6 SpD / 3 Spe
+Bold Nature
+- Weather Ball
+- Ice Beam
+- Protect
+- Haze
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Leech Life
+- Swords Dance
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Weather Ball
+- Protect
+- Ancient Power
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Spirit Break
+- Light Screen
+- Reflect
+- Parting Shot
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Helping Hand
+- Trick Room
+- Psychic
+- Protect

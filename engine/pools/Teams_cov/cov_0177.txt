@@ -1,0 +1,60 @@
+Meowstic @ Black Belt  
+Ability: Prankster  
+Level: 50  
+EVs: 16 Atk / 18 Def / 13 SpA / 19 SpD  
+Timid Nature  
+- Dark Pulse  
+- Helping Hand  
+- Rest  
+- Magic Room  
+
+Liepard @ Dragon Fang  
+Ability: Unburden  
+Level: 50  
+EVs: 21 HP / 13 Def / 32 SpD  
+Brave Nature  
+- Dark Pulse  
+- Giga Impact  
+- Bite  
+- Ice Fang  
+
+Luxray @ Colbur Berry  
+Ability: Rivalry  
+Level: 50  
+EVs: 13 Atk / 24 SpA / 12 SpD / 17 Spe  
+Rash Nature  
+- Sunny Day  
+- Supercell Slam  
+- Electric Terrain  
+- Baby-Doll Eyes  
+
+Reuniclus @ Psychic Seed  
+Ability: Regenerator  
+Level: 50  
+EVs: 32 HP / 15 SpD / 19 Spe  
+Gentle Nature  
+- Protect  
+- Helping Hand  
+- Guard Swap  
+- Fling  
+
+Crabominable @ Normal Gem  
+Ability: Anger Point  
+Level: 50  
+EVs: 16 Atk / 30 SpA / 20 SpD  
+Naive Nature  
+- Payback  
+- Snowscape  
+- Mud Shot  
+- Hard Press  
+
+Goodra @ Muscle Band  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 30 Atk / 15 SpA / 21 SpD  
+Rash Nature  
+- Body Press  
+- Mega Kick  
+- Blizzard  
+- Body Slam  
+

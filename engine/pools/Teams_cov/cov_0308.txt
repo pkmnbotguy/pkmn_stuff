@@ -1,0 +1,60 @@
+Vivillon-Sandstorm @ Payapa Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 3 HP / 24 Atk / 9 Def / 9 SpA / 21 Spe  
+Gentle Nature  
+- Rage Powder  
+- Bug Bite  
+- Weather Ball  
+- Sleep Talk  
+
+Whimsicott @ Soft Sand  
+Ability: Prankster  
+Level: 50  
+EVs: 32 Atk / 11 SpD / 23 Spe  
+Naughty Nature  
+- Psychic  
+- Energy Ball  
+- Giga Drain  
+- Poison Powder  
+
+Vileplume @ Haban Berry  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 29 HP / 31 Atk / 1 Def / 5 SpA  
+Impish Nature  
+- Solar Beam  
+- Swords Dance  
+- Grassy Terrain  
+- Teeter Dance  
+
+Meganium @ Icy Rock  
+Ability: Leaf Guard  
+Level: 50  
+EVs: 20 HP / 32 Atk / 14 SpD  
+Rash Nature  
+- Iron Tail  
+- Flail  
+- Rest  
+- Fake Tears  
+
+Watchog @ Eject Button  
+Ability: Illuminate  
+Level: 50  
+EVs: 12 HP / 32 Atk / 10 Def / 12 Spe  
+Quirky Nature  
+- Facade  
+- Flamethrower  
+- Baton Pass  
+- Light Screen  
+
+Trevenant @ Rawst Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 32 HP / 2 Atk / 32 SpD  
+Gentle Nature  
+- Phantom Force  
+- Hyper Beam  
+- Calm Mind  
+- Protect  
+

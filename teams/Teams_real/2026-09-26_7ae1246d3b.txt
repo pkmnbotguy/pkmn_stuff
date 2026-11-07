@@ -1,0 +1,59 @@
+Lopunny @ Lopunnite
+Ability: Limber
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Close Combat
+- Triple Axel
+- Protect
+
+Gholdengo @ Metal Coat
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Earth Power
+- Weather Ball
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 17 Def / 20 SpD
+Sassy Nature
+- Psychic
+- Thunderbolt
+- Trick Room
+- Helping Hand
+
+Floette-Eternal @ Floettite
+Ability: Symbiosis
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Sleep Powder
+- Tailwind
+- Protect

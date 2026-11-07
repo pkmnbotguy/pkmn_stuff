@@ -1,0 +1,58 @@
+NOTICE
+
+vgcsim's own code is licensed under MIT No Attribution (see LICENSE).
+It contains and depends on the following third-party work.
+
+Pokémon Showdown
+----------------
+https://github.com/smogon/pokemon-showdown
+
+The fast engine (src/battle.rs and the modules it uses) reimplements Pokémon
+Showdown's battle rules for this format and is checked against Showdown commit
+56bc083aa (2026-10-17). The exact reference engine (src/sim/) is a port of
+Showdown's simulator (event system, action queue, handlers, PRNG) at commit
+9fb3a5b99 (2026-10-03). data/dex.json and data/effects.json are exported from
+Showdown's dex for the format (tools/export_dex.js, tools/export_effects.js),
+including the Champions mod. data/damage_cases_sample.json holds damage numbers
+computed by Showdown (tools/damage_oracle.js). The pools/Teams_cov teams were
+generated from Showdown's dex and validated by its team validator
+(tools/coverage_pool.js). Showdown itself is not part of this repository; the
+verification tools run against a local checkout. Its license:
+
+The MIT License (MIT)
+
+Copyright (c) 2011-2026 Guangcong Luo and other contributors http://pokemonshowdown.com/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+battler
+-------
+https://github.com/jackson-nestelroad/battler
+
+battler's effect scripts were read as a description of some effects during
+development. No code was copied from it.
+
+Tournament teams
+----------------
+During development the engine was also tested on publicly shared tournament
+teams from the VGC Pastes repository (https://x.com/VGCPastes) and Limitless
+(https://limitlessvgc.com). Those teams are not included in this repository.
+
+Pokémon and related names are trademarks of Nintendo, Creatures Inc. and
+GAME FREAK inc. This project is not affiliated with or endorsed by them or by
+Pokémon Showdown.

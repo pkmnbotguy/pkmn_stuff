@@ -1,0 +1,59 @@
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Glaive Rush
+- Ice Shard
+- High Horsepower
+- Protect
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Aura Sphere
+- Coaching
+- Detect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Ninetales-Alola @ Never-Melt Ice
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Moonblast
+- Aurora Veil
+- Protect
+
+Slowking-Galar @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Psychic Noise
+- Sludge Bomb
+- Trick Room
+- Chilly Reception
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Scald
+- Icy Wind
+- Life Dew
+- Protect

@@ -1,0 +1,59 @@
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Protect
+- Expanding Force
+- Thunderbolt
+- Trick Room
+
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Protect
+- Rock Slide
+- Snarl
+- Knock Off
+
+Conkeldurr @ Life Orb
+Ability: Iron Fist
+Level: 50
+EVs: 28 HP / 31 Atk / 7 SpD
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Thunder Punch
+- Ice Punch
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Protect
+- Earth Power
+- Heat Wave
+- Ancient Power
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Araquanid @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD
+Brave Nature
+- Liquidation
+- Leech Life
+- Wide Guard
+- Mirror Coat

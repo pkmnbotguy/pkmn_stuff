@@ -1,0 +1,60 @@
+Archaludon @ Misty Seed  
+Ability: Stamina  
+Level: 50  
+EVs: 29 Def / 19 SpA / 18 SpD  
+Jolly Nature  
+- Dark Pulse  
+- Substitute  
+- Meteor Beam  
+- Smack Down  
+
+Appletun @ Cheri Berry  
+Ability: Ripen  
+Level: 50  
+EVs: 13 Atk / 22 Def / 31 SpA  
+Docile Nature  
+- Bullet Seed  
+- Sunny Day  
+- Amnesia  
+- Light Screen  
+
+Overqwil @ Chesto Berry  
+Ability: Poison Point  
+Level: 50  
+EVs: 6 Atk / 17 Def / 32 SpA / 11 Spe  
+Naive Nature  
+- Icy Wind  
+- Surf  
+- Barb Barrage  
+- Endure  
+
+Altaria @ Wacan Berry  
+Ability: Natural Cure  
+Level: 50  
+EVs: 8 HP / 26 Def / 32 SpA  
+Hardy Nature  
+- Will-O-Wisp  
+- Ice Beam  
+- Hyper Voice  
+- Draco Meteor  
+
+Manectric @ Psychic Seed  
+Ability: Static  
+Level: 50  
+EVs: 7 HP / 17 Atk / 8 SpA / 30 SpD / 4 Spe  
+Naughty Nature  
+- Uproar  
+- Roar  
+- Facade  
+- Agility  
+
+Pangoro @ White Herb  
+Ability: Scrappy  
+Level: 50  
+EVs: 32 Def / 32 SpD / 2 Spe  
+Docile Nature  
+- Circle Throw  
+- Outrage  
+- Drain Punch  
+- Gunk Shot  
+

@@ -1,0 +1,59 @@
+Inteleon @ Life Orb
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Substitute
+- Snipe Shot
+- Ice Beam
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Weather Ball
+- Hurricane
+- Wide Guard
+- Tailwind
+
+Tsareena @ Miracle Seed
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Trop Kick
+- Knock Off
+- Triple Axel
+- Protect
+
+Beedrill @ Beedrillite
+Ability: Swarm
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Drill Run
+- U-turn
+- Poison Jab
+- Protect
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Revival Blessing
+- Double Shock
+- Fake Out
+- Close Combat
+
+Maushold @ Chople Berry
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Follow Me
+- Super Fang
+- Taunt
+- Protect

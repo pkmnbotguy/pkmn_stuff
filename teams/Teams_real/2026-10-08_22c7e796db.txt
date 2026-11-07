@@ -1,0 +1,59 @@
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Earth Power
+- Power Gem
+- Protect
+
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Solar Beam
+- Weather Ball
+- Dazzling Gleam
+- Protect
+
+Espathra @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 32 HP / 26 Def / 8 SpD
+Bold Nature
+- Lumina Crash
+- Calm Mind
+- Baton Pass
+- Protect
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Encore
+- Rain Dance
+- Light Screen
+- Reflect
+
+Gogoat @ Choice Scarf
+Ability: Grass Pelt
+Level: 50
+EVs: 26 HP / 27 Atk / 6 SpD / 7 Spe
+Jolly Nature
+- Horn Leech
+- High Horsepower
+- Milk Drink
+- Rain Dance
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect

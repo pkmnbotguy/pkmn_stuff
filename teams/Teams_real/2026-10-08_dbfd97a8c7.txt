@@ -1,0 +1,59 @@
+Sirfetchd @ Leek
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Sassy Nature
+- Meteor Assault
+- Brick Break
+- Leaf Blade
+- Night Slash
+
+Drampa @ Drampanite
+Ability: Cloud Nine
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Sassy Nature
+- Hyper Voice
+- Protect
+- Thunderbolt
+- Ice Beam
+
+Grimmsnarl @ Roseli Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Sassy Nature
+- Spirit Break
+- Leech Life
+- Light Screen
+- Bulk Up
+
+Machamp @ Expert Belt
+Ability: No Guard
+Level: 50
+EVs: 31 HP / 20 Atk / 1 Def / 1 SpD / 13 Spe
+Sassy Nature
+- Cross Chop
+- Thunder Punch
+- Fire Punch
+- Throat Chop
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Uproar
+- Protect
+- Helping Hand
+- Trick Room
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Wood Hammer
+- Hammer Arm
+- Fake Out
+- High Horsepower

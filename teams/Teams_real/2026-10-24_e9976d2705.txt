@@ -1,0 +1,59 @@
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Body Press
+- Iron Head
+- Psychic Fangs
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Detect
+- Rock Slide
+- Night Slash
+- Shadow Claw
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Detect
+- Coaching
+- Aura Sphere
+- Heat Wave
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- High Horsepower
+- Grassy Glide
+- Wood Hammer
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Rock Slide
+- Dragon Claw
+- Stomping Tantrum
+
+Whimsicott @ Fairy Feather
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Helping Hand
+- Tailwind
+- Moonblast

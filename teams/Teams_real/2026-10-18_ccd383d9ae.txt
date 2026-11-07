@@ -1,0 +1,59 @@
+Heracross @ Heracronite
+Ability: Moxie
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Close Combat
+- Pin Missile
+- Rock Blast
+- Detect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Encore
+- Moonblast
+- Tailwind
+- Endeavor
+
+Zoroark-Hisui @ Life Orb
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Hyper Voice
+- Icy Wind
+- Protect
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Power Gem
+- Earth Power
+- Spiky Shield
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Darkest Lariat
+
+Mamoswine @ Choice Scarf
+Ability: Oblivious
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Earthquake
+- High Horsepower
+- Icicle Crash
+- Ice Shard

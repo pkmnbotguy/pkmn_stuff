@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Weather Ball
+- Heat Wave
+- Ancient Power
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Draco Meteor
+- Flamethrower
+- Protect
+
+Toxapex @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Bold Nature
+- Toxic
+- Wide Guard
+- Infestation
+- Baneful Bunker
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Parting Shot
+- Fake Out
+- Flare Blitz
+- Throat Chop
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 9 HP / 22 Def / 20 SpA / 15 Spe
+Modest Nature
+- Yawn
+- Hyper Voice
+- Quick Attack
+- Detect
+
+Tsareena @ Focus Sash
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Power Whip
+- Triple Axel
+- Low Kick
+- Protect

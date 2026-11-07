@@ -1,0 +1,59 @@
+Luxray @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Supercell Slam
+- Ice Fang
+- Psychic Fangs
+- Electroweb
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Impish Nature
+- Taunt
+- Light Screen
+- High Jump Kick
+- Power Whip
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Protect
+- Muddy Water
+- Weather Ball
+- Ice Beam
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Protect
+- Make It Rain
+- Shadow Ball
+- Power Gem
+
+Ceruledge @ Leftovers
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Protect
+- Bitter Blade
+- Shadow Sneak
+- Bulk Up

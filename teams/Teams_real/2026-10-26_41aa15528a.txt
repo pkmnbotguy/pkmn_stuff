@@ -1,0 +1,59 @@
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fake Out
+- Knock Off
+- Drain Punch
+- Close Combat
+
+Chandelure @ Chandelurite
+Ability: Infiltrator
+Level: 50
+EVs: 32 HP / 31 SpA / 3 Spe
+Bold Nature
+- Shadow Ball
+- Heat Wave
+- Protect
+- Trick Room
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Wide Guard
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Thunderbolt
+- Hydro Pump
+- Will-O-Wisp
+- Protect
+
+Hydreigon @ Wise Glasses
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Draco Meteor
+- Snarl
+- Earth Power
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Rage Powder
+- Strength Sap
+- Protect

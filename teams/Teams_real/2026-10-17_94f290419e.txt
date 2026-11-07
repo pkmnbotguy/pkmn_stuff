@@ -1,0 +1,59 @@
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Protect
+- Close Combat
+- Taunt
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 14 Def / 20 Spe
+Modest Nature
+- Zap Cannon
+- Encore
+- Protect
+- Focus Blast
+
+Talonflame @ Focus Sash
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Tailwind
+- Flare Blitz
+- Quick Guard
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Flamethrower
+- Protect
+- Dragon Pulse
+
+Vanilluxe @ Choice Scarf
+Ability: Snow Warning
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Mild Nature
+- Freeze-Dry
+- Blizzard
+- Aurora Veil
+- Icy Wind
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Grassy Glide
+- High Horsepower
+- U-turn
+- Fake Out

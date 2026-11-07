@@ -1,0 +1,60 @@
+Gliscor @ Aspear Berry  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 7 HP / 3 Def / 32 SpA / 24 Spe  
+Adamant Nature  
+- Crabhammer  
+- Snore  
+- Power Whip  
+- Screech  
+
+Watchog @ Shuca Berry  
+Ability: Illuminate  
+Level: 50  
+EVs: 8 HP / 17 Atk / 31 Def / 10 SpD  
+Bashful Nature  
+- Thunder Punch  
+- Fire Punch  
+- Thunder  
+- Shadow Ball  
+
+Vanilluxe @ Shed Shell  
+Ability: Ice Body  
+Level: 50  
+EVs: 32 HP / 29 Def / 5 Spe  
+Quirky Nature  
+- Ice Beam  
+- Beat Up  
+- Icicle Crash  
+- Frost Breath  
+
+Thievul @ Focus Band  
+Ability: Stakeout  
+Level: 50  
+EVs: 1 HP / 8 Atk / 7 Def / 23 SpA / 27 Spe  
+Gentle Nature  
+- Quick Guard  
+- Baton Pass  
+- Lash Out  
+- Attract  
+
+Vivillon-Ocean @ Expert Belt  
+Ability: Friend Guard  
+Level: 50  
+EVs: 15 HP / 27 Def / 24 Spe  
+Timid Nature  
+- Iron Defense  
+- Quiver Dance  
+- Whirlwind  
+- Hyper Beam  
+
+Medicham @ Medichamite  
+Ability: Pure Power  
+Level: 50  
+EVs: 18 Def / 32 SpA / 16 Spe  
+Docile Nature  
+- Axe Kick  
+- Imprison  
+- Calm Mind  
+- Psycho Cut  
+

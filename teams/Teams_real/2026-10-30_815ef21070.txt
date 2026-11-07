@@ -1,0 +1,59 @@
+Serperior @ Leftovers
+Ability: Contrary
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Protect
+- Taunt
+- Dragon Pulse
+- Leaf Storm
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Sludge Bomb
+- Earth Power
+- Leech Seed
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Draco Meteor
+- Protect
+- Flash Cannon
+
+Arcanine @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 7 HP / 32 Atk / 1 Def / 1 SpD / 25 Spe
+Jolly Nature
+- Will-O-Wisp
+- Flare Blitz
+- Snarl
+- Extreme Speed
+
+Staraptor @ Staraptite
+Ability: Reckless
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Roost
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Misty Terrain
+- Parting Shot
+- Light Screen
+- Reflect

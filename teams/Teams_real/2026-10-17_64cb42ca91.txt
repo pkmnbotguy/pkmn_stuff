@@ -1,0 +1,59 @@
+Rillaboom @ Rocky Helmet
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Fake Out
+- Low Kick
+- Grassy Glide
+- Wood Hammer
+
+Overqwil @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Adamant Nature
+- Aqua Jet
+- Protect
+- Throat Chop
+- Gunk Shot
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Protect
+- Earth Power
+- Dragon Pulse
+
+Gholdengo @ Focus Sash
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Protect
+- Shadow Ball
+- Make It Rain
+
+Altaria @ Haban Berry
+Ability: Cloud Nine
+Level: 50
+EVs: 26 HP / 17 Def / 3 SpD / 20 Spe
+Timid Nature
+- Tailwind
+- Defog
+- Haze
+- Ice Beam
+
+Pyroar @ Pyroarite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Scorching Sands
+- Protect
+- Heat Wave
+- Overheat

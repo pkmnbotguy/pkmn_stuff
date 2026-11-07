@@ -1,0 +1,60 @@
+Vivillon-River @ Payapa Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 14 Atk / 21 Def / 31 SpD  
+Bold Nature  
+- Substitute  
+- Protect  
+- Whirlwind  
+- Struggle Bug  
+
+Squawkabilly @ White Herb  
+Ability: Guts  
+Level: 50  
+EVs: 8 Def / 32 SpD / 26 Spe  
+Impish Nature  
+- Quick Attack  
+- Giga Impact  
+- Endure  
+- Pounce  
+
+Venusaur @ Black Glasses  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 10 Atk / 13 Def / 11 SpA / 32 Spe  
+Modest Nature  
+- Knock Off  
+- Leech Seed  
+- Energy Ball  
+- Outrage  
+
+Serperior @ Mystic Water  
+Ability: Contrary  
+Level: 50  
+EVs: 32 Atk / 4 Def / 30 Spe  
+Jolly Nature  
+- Sleep Talk  
+- Aerial Ace  
+- Frenzy Plant  
+- Knock Off  
+
+Luxray @ Tanga Berry  
+Ability: Rivalry  
+Level: 50  
+EVs: 14 Atk / 20 SpA / 32 SpD  
+Modest Nature  
+- Thief  
+- Thunderbolt  
+- Play Rough  
+- Substitute  
+
+Chandelure @ Haban Berry  
+Ability: Flame Body  
+Level: 50  
+EVs: 31 Atk / 3 Def / 32 SpD  
+Bashful Nature  
+- Rest  
+- Giga Impact  
+- Temper Flare  
+- Imprison  
+

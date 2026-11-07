@@ -1,0 +1,60 @@
+Polteageist @ Silver Powder  
+Ability: Weak Armor  
+Level: 50  
+EVs: 31 Atk / 29 SpA / 6 Spe  
+Calm Nature  
+- Round  
+- Payback  
+- Stored Power  
+- Sweet Scent  
+
+Alcremie-Matcha-Cream @ Passho Berry  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 8 HP / 32 SpA / 18 SpD / 8 Spe  
+Mild Nature  
+- Misty Terrain  
+- Facade  
+- Snore  
+- Attract  
+
+Umbreon @ Cheri Berry  
+Ability: Inner Focus  
+Level: 50  
+EVs: 8 HP / 29 SpD / 29 Spe  
+Sassy Nature  
+- Facade  
+- Helping Hand  
+- Confuse Ray  
+- Baton Pass  
+
+Swampert @ Shell Bell  
+Ability: Torrent  
+Level: 50  
+EVs: 22 HP / 23 SpA / 21 Spe  
+Naughty Nature  
+- Focus Punch  
+- Dig  
+- Snore  
+- Sand Tomb  
+
+Talonflame @ Misty Seed  
+Ability: Gale Wings  
+Level: 50  
+EVs: 32 Atk / 12 SpA / 5 SpD / 17 Spe  
+Naive Nature  
+- Dual Wingbeat  
+- Sky Attack  
+- Feint  
+- Aerial Ace  
+
+Toxapex @ Charti Berry  
+Ability: Limber  
+Level: 50  
+EVs: 26 HP / 29 Atk / 11 Spe  
+Quiet Nature  
+- Pain Split  
+- Infestation  
+- Sludge Wave  
+- Hydro Pump  
+

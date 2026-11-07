@@ -1,0 +1,60 @@
+Salamence @ Babiri Berry  
+Ability: Moxie  
+Level: 50  
+EVs: 23 Atk / 32 SpA / 11 Spe  
+Mild Nature  
+- Flamethrower  
+- Dragon Tail  
+- Crunch  
+- Psychic Fangs  
+
+Blastoise @ Colbur Berry  
+Ability: Rain Dish  
+Level: 50  
+EVs: 27 HP / 16 Def / 4 SpA / 19 Spe  
+Modest Nature  
+- Aqua Ring  
+- Flash Cannon  
+- Ice Spinner  
+- Substitute  
+
+Persian @ Fairy Feather  
+Ability: Unnerve  
+Level: 50  
+EVs: 13 HP / 13 Atk / 25 Def / 15 SpA  
+Jolly Nature  
+- Slash  
+- Assurance  
+- Bite  
+- Thunder  
+
+Farfetch’d @ Passho Berry  
+Ability: Defiant  
+Level: 50  
+EVs: 30 HP / 4 SpA / 32 Spe  
+Brave Nature  
+- Final Gambit  
+- Poison Jab  
+- Night Slash  
+- Quick Attack  
+
+Simipour @ Quick Claw  
+Ability: Gluttony  
+Level: 50  
+EVs: 21 HP / 31 Def / 14 SpD  
+Docile Nature  
+- Scald  
+- Recycle  
+- Taunt  
+- Belch  
+
+Golurk @ Haban Berry  
+Ability: Klutz  
+Level: 50  
+EVs: 18 HP / 27 Def / 10 SpA / 10 SpD / 1 Spe  
+Impish Nature  
+- Phantom Force  
+- Bulldoze  
+- Round  
+- Double-Edge  
+

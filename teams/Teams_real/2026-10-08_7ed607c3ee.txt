@@ -1,0 +1,59 @@
+Mudsdale @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Sassy Nature
+- Body Press
+- Heavy Slam
+- High Horsepower
+- Protect
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Psychic
+
+Golurk @ Golurkite
+Ability: No Guard
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Poltergeist
+- Headlong Rush
+- Drain Punch
+- Protect
+
+Araquanid @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD
+Brave Nature
+- Liquidation
+- Leech Life
+- Wide Guard
+- Protect
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Expanding Force
+- Dark Pulse
+- Trick Room
+- Protect
+
+Grapploct @ Black Belt
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Storm Throw
+- Mach Punch
+- Octolock
+- Detect

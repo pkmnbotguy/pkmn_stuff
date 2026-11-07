@@ -1,0 +1,59 @@
+Gogoat @ Leftovers
+Ability: Sap Sipper
+Level: 50
+EVs: 26 HP / 27 Atk / 6 SpD / 7 Spe
+Adamant Nature
+- Milk Drink
+- Leech Seed
+- Protect
+- Horn Leech
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Protect
+- Earth Power
+- Power Gem
+
+Grimmsnarl @ Roseli Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Protect
+- Parting Shot
+- Fake Tears
+- Fake Out
+
+Gallade @ Life Orb
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Sacred Sword
+- Psycho Cut
+- Protect
+- Trick Room
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Sludge Bomb
+- Protect
+- Perish Song
+
+Gyarados @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Thunder Wave
+- Waterfall
+- Taunt

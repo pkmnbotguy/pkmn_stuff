@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Protect
+- Heat Wave
+- Tailwind
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 7 Def / 27 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Trick Room
+
+Overqwil @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Sassy Nature
+- Acupressure
+- Barb Barrage
+- Protect
+- Minimize
+
+Eelektross @ Eelektrossite
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Drain Punch
+- Protect
+- Muddy Water
+- Discharge
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Light Screen
+- Follow Me
+- Trick Room
+- Psychic
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Low Kick
+- Iron Head

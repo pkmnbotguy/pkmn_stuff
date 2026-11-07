@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Rock Slide
+- Protect
+- Iron Head
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Protect
+- Draco Meteor
+- Hyper Voice
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 4 Atk / 1 Def / 15 SpD / 14 Spe
+Careful Nature
+- Brave Bird
+- Tailwind
+- Roost
+- Bulk Up
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 31 HP / 12 Def / 23 SpD
+Calm Nature
+- Matcha Gotcha
+- Rage Powder
+- Shadow Ball
+- Protect
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Thunderbolt
+- Will-O-Wisp
+- Hydro Pump
+- Protect

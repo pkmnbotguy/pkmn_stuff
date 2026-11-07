@@ -1,0 +1,56 @@
+Armarouge @ Charcoal
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Armor Cannon
+- Heat Wave
+- Expanding Force
+- Protect
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Psychic
+- Trick Room
+- Follow Me
+- Helping Hand
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Protect
+- Hyper Voice
+- Expanding Force
+
+Gallade @ Life Orb
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Psycho Cut
+- Wide Guard
+- Swords Dance
+- Sacred Sword
+
+Meowstic @ Meowsticite
+Ability: Prankster
+Level: 50
+EVs: 10 Def / 27 SpA / 29 Spe
+Modest Nature
+- Expanding Force
+- Nasty Plot
+- Alluring Voice
+- Protect
+
+Ditto @ Choice Scarf
+Ability: Imposter
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Timid Nature
+- Transform

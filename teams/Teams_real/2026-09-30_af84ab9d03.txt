@@ -1,0 +1,59 @@
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 17 HP / 14 Atk / 1 Def / 2 SpD / 32 Spe
+Jolly Nature
+- Grassy Glide
+- Protect
+- Wood Hammer
+- Fake Out
+
+Scizor @ Scizorite
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Bullet Punch
+- Close Combat
+- Feint
+- Protect
+
+Inteleon @ Choice Scarf
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Snipe Shot
+- Hydro Cannon
+- Ice Beam
+- Shadow Ball
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- First Impression
+- Protect
+- Iron Head
+- Leech Life
+
+Archaludon @ Chople Berry
+Ability: Stamina
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Flash Cannon
+- Dragon Pulse
+- Electro Shot
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Hurricane
+- Tailwind
+- Wide Guard
+- Protect

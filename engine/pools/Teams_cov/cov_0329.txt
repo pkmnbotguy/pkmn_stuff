@@ -1,0 +1,60 @@
+Vivillon-Modern @ Miracle Seed  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 32 Atk / 8 Def / 1 SpD / 25 Spe  
+Brave Nature  
+- Sleep Talk  
+- Rage Powder  
+- Facade  
+- Safeguard  
+
+Heliolisk @ Aspear Berry  
+Ability: Sand Veil  
+Level: 50  
+EVs: 22 HP / 29 Atk / 5 SpA / 10 Spe  
+Quirky Nature  
+- Mud-Slap  
+- Thunder  
+- Bulldoze  
+- Sandstorm  
+
+Basculegion-F @ Muscle Band  
+Ability: Swift Swim  
+Level: 50  
+EVs: 11 HP / 32 Atk / 8 Def / 15 Spe  
+Relaxed Nature  
+- Psychic Fangs  
+- Surf  
+- Endure  
+- Water Pulse  
+
+Rampardos @ Sharp Beak  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 31 Atk / 30 Def / 5 SpD  
+Impish Nature  
+- Earth Power  
+- Substitute  
+- Focus Punch  
+- Giga Impact  
+
+Pelipper @ White Herb  
+Ability: Keen Eye  
+Level: 50  
+EVs: 25 HP / 32 Atk / 9 SpA  
+Gentle Nature  
+- Acrobatics  
+- U-turn  
+- Soak  
+- Swallow  
+
+Mamoswine @ Scope Lens  
+Ability: Oblivious  
+Level: 50  
+EVs: 11 Def / 23 SpA / 17 SpD / 15 Spe  
+Quirky Nature  
+- Thrash  
+- Stone Edge  
+- Curse  
+- Smack Down  
+

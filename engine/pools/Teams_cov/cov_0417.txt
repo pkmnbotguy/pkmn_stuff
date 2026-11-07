@@ -1,0 +1,60 @@
+Machamp @ Fairy Feather  
+Ability: Steadfast  
+Level: 50  
+EVs: 27 Atk / 7 SpD / 32 Spe  
+Lax Nature  
+- Bullet Punch  
+- Substitute  
+- Cross Poison  
+- High Horsepower  
+
+Garbodor @ Metal Coat  
+Ability: Stench  
+Level: 50  
+EVs: 3 HP / 29 Atk / 4 Def / 30 Spe  
+Timid Nature  
+- Clear Smog  
+- Cross Poison  
+- Corrosive Gas  
+- Pain Split  
+
+Slowbro-Galar @ Damp Rock  
+Ability: Own Tempo  
+Level: 50  
+EVs: 19 HP / 23 SpA / 24 Spe  
+Gentle Nature  
+- Hyper Beam  
+- Body Press  
+- Psyshock  
+- Giga Impact  
+
+Indeedee-F @ Payapa Berry  
+Ability: Synchronize  
+Level: 50  
+EVs: 20 HP / 23 SpA / 23 Spe  
+Naughty Nature  
+- Stored Power  
+- Body Slam  
+- Fake Out  
+- Terrain Pulse  
+
+Simisear @ Chesto Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 5 HP / 6 Atk / 24 SpA / 31 SpD  
+Calm Nature  
+- Sleep Talk  
+- Stuff Cheeks  
+- Will-O-Wisp  
+- Fire Punch  
+
+Hippowdon @ Psychic Seed  
+Ability: Sand Force  
+Level: 50  
+EVs: 14 HP / 10 Atk / 12 SpA / 30 Spe  
+Serious Nature  
+- Slack Off  
+- Round  
+- Dig  
+- Stomping Tantrum  
+

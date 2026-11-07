@@ -1,0 +1,59 @@
+Archaludon @ Choice Scarf
+Ability: Sturdy
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Dragon Pulse
+- Draco Meteor
+- Flash Cannon
+
+Kommo-O @ Life Orb
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Vacuum Wave
+- Protect
+- Aura Sphere
+- Clanging Scales
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Swampert @ Leftovers
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Relaxed Nature
+- Earthquake
+- Ice Beam
+- Wide Guard
+- Roar
+
+Toxtricity @ Magnet
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overdrive
+- Sludge Bomb
+- Snarl
+- Protect
+
+Talonflame @ Charcoal
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Tailwind
+- Quick Guard
+- Protect

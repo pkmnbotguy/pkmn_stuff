@@ -1,0 +1,60 @@
+Gourgeist-Large @ Silver Powder  
+Ability: Insomnia  
+Level: 50  
+EVs: 2 HP / 32 Atk / 32 Spe  
+Lax Nature  
+- Giga Impact  
+- Hyper Beam  
+- Destiny Bond  
+- Shadow Sneak  
+
+Indeedee-F @ Chilan Berry  
+Ability: Own Tempo  
+Level: 50  
+EVs: 32 Def / 18 SpA / 16 Spe  
+Lonely Nature  
+- Psychic Terrain  
+- Charm  
+- Future Sight  
+- Wish  
+
+Slowking-Galar @ Shuca Berry  
+Ability: Curious Medicine  
+Level: 50  
+EVs: 26 HP / 28 Def / 12 SpA  
+Relaxed Nature  
+- Snarl  
+- Venoshock  
+- Snore  
+- Mud Shot  
+
+Slowbro @ Choice Scarf  
+Ability: Own Tempo  
+Level: 50  
+EVs: 4 HP / 6 Atk / 32 Def / 24 SpA  
+Quirky Nature  
+- Dig  
+- Water Pulse  
+- Scald  
+- Mud Shot  
+
+Forretress @ Occa Berry  
+Ability: Sturdy  
+Level: 50  
+EVs: 17 HP / 17 Def / 32 Spe  
+Quirky Nature  
+- Facade  
+- Bug Bite  
+- Spikes  
+- Sunny Day  
+
+Bellibolt @ Focus Sash  
+Ability: Damp  
+Level: 50  
+EVs: 18 HP / 32 SpD / 16 Spe  
+Sassy Nature  
+- Thunder  
+- Hyper Voice  
+- Electro Ball  
+- Soak  
+

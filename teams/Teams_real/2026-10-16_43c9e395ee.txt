@@ -1,0 +1,59 @@
+Mamoswine @ Life Orb
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Ice Shard
+- Rock Slide
+- High Horsepower
+
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Triple Axel
+- Knock Off
+- Low Kick
+
+Aurorus @ Quick Claw
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Blizzard
+- Ancient Power
+- Earth Power
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Helping Hand
+- Hypnosis
+- Roar
+
+Glaceon @ Bright Powder
+Ability: Snow Cloak
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Protect
+- Blizzard
+- Freeze-Dry
+- Shadow Ball
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 12 HP / 1 Def / 20 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Protect
+- Aurora Veil
+- Blizzard
+- Shadow Ball

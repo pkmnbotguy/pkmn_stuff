@@ -1,0 +1,60 @@
+Overqwil @ Soft Sand  
+Ability: Intimidate  
+Level: 50  
+EVs: 3 Atk / 27 Def / 18 SpA / 18 SpD  
+Quiet Nature  
+- Sleep Talk  
+- Double-Edge  
+- Swords Dance  
+- Agility  
+
+Ninetales @ Silk Scarf  
+Ability: Drought  
+Level: 50  
+EVs: 32 HP / 21 Atk / 1 SpD / 12 Spe  
+Mild Nature  
+- Body Slam  
+- Confuse Ray  
+- Roar  
+- Charm  
+
+Vivillon-Sandstorm @ Fairy Feather  
+Ability: Shield Dust  
+Level: 50  
+EVs: 3 HP / 32 Atk / 4 SpD / 27 Spe  
+Impish Nature  
+- Hurricane  
+- Pollen Puff  
+- Snore  
+- Rest  
+
+Rhyperior @ Heat Rock  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 1 Def / 25 SpA / 17 SpD / 23 Spe  
+Gentle Nature  
+- Shadow Claw  
+- High Horsepower  
+- Surf  
+- Snore  
+
+Houndstone @ Metronome  
+Ability: Fluffy  
+Level: 50  
+EVs: 32 Atk / 2 SpA / 32 Spe  
+Docile Nature  
+- Zen Headbutt  
+- Phantom Force  
+- Dig  
+- Destiny Bond  
+
+Tsareena @ Choice Scarf  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 30 Def / 8 SpD / 28 Spe  
+Hardy Nature  
+- Sunny Day  
+- Petal Blizzard  
+- Helping Hand  
+- Fling  
+

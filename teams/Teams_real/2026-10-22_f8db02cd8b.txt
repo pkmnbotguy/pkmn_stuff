@@ -1,0 +1,59 @@
+Chimecho @ Chimechite
+Ability: Levitate
+Level: 50
+EVs: 31 HP / 15 Def / 15 SpA / 3 SpD / 2 Spe
+Timid Nature
+- Recover
+- Stored Power
+- Flash Cannon
+- Protect
+
+Espathra @ Electric Seed
+Ability: Speed Boost
+Level: 50
+EVs: 20 HP / 20 Def / 14 SpD / 12 Spe
+Bold Nature
+- Lumina Crash
+- Baton Pass
+- Protect
+- Calm Mind
+
+Pincurchin @ Terrain Extender
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpA
+Bold Nature
+- Rising Voltage
+- Memento
+- Acupressure
+- Sucker Punch
+
+Raichu-Alola @ Focus Sash
+Ability: Surge Surfer
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Rising Voltage
+- Psychic
+- Fake Out
+- Grass Knot
+
+Salazzle @ King's Rock
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Overheat
+- Fake Out
+- Fling
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Waterfall
+- Crunch
+- Protect
+- Dragon Dance

@@ -1,0 +1,59 @@
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- Hurricane
+- Wide Guard
+- Weather Ball
+- Protect
+
+Clefable @ Rocky Helmet
+Ability: Magic Guard
+Level: 50
+EVs: 29 HP / 5 SpA / 32 Spe
+Modest Nature
+- Encore
+- Follow Me
+- Light Screen
+- Life Dew
+
+Rillaboom @ Occa Berry
+Ability: Overgrow
+Level: 50
+EVs: 32 HP / 12 Def / 20 SpD / 2 Spe
+Impish Nature
+- Protect
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Volcarona @ Focus Sash
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 17 Def / 5 SpA / 1 SpD / 11 Spe
+Modest Nature
+- Tailwind
+- Struggle Bug
+- Morning Sun
+- Rage Powder
+
+Heracross @ Heracronite
+Ability: Moxie
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Impish Nature
+- Rock Blast
+- Skitter Smack
+- Detect
+- Brick Break

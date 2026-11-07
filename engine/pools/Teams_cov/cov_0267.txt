@@ -1,0 +1,60 @@
+Pidgeot @ Black Glasses  
+Ability: Big Pecks  
+Level: 50  
+EVs: 2 HP / 32 Atk / 32 Spe  
+Lonely Nature  
+- Sky Attack  
+- Rain Dance  
+- Snore  
+- Thief  
+
+Mr. Mime @ Focus Sash  
+Ability: Soundproof  
+Level: 50  
+EVs: 26 HP / 8 Def / 32 SpD  
+Sassy Nature  
+- Teeter Dance  
+- Hyper Beam  
+- Tickle  
+- Guard Swap  
+
+Hydreigon @ Charti Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 32 Atk / 24 SpA / 10 Spe  
+Naive Nature  
+- Uproar  
+- Psych Up  
+- Sunny Day  
+- Hyper Beam  
+
+Passimian @ Twisted Spoon  
+Ability: Defiant  
+Level: 50  
+EVs: 8 Atk / 2 SpA / 32 SpD / 24 Spe  
+Docile Nature  
+- Thief  
+- Chilling Water  
+- Smack Down  
+- Rock Tomb  
+
+Hatterene @ Light Clay  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 14 HP / 30 Atk / 1 Def / 17 SpA / 4 Spe  
+Gentle Nature  
+- Light Screen  
+- Misty Terrain  
+- Heal Pulse  
+- Trick Room  
+
+Rampardos @ Eject Button  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 22 HP / 28 SpD / 16 Spe  
+Mild Nature  
+- Blizzard  
+- Endure  
+- Snore  
+- Round  
+

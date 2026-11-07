@@ -1,0 +1,60 @@
+Sneasler @ Life Orb  
+Ability: Poison Touch  
+Level: 50  
+EVs: 17 HP / 25 Atk / 24 Spe  
+Sassy Nature  
+- Sunny Day  
+- Feint  
+- Screech  
+- Double Hit  
+
+Corviknight @ Leftovers  
+Ability: Mirror Armor  
+Level: 50  
+EVs: 23 HP / 11 Def / 19 SpA / 13 Spe  
+Jolly Nature  
+- Rain Dance  
+- Focus Energy  
+- Power Trip  
+- Agility  
+
+Liepard @ Eject Button  
+Ability: Unburden  
+Level: 50  
+EVs: 32 Atk / 32 Def / 2 SpA  
+Adamant Nature  
+- Sunny Day  
+- Round  
+- Substitute  
+- Crunch  
+
+Houndstone @ Wise Glasses  
+Ability: Sand Rush  
+Level: 50  
+EVs: 21 Def / 23 SpD / 22 Spe  
+Quirky Nature  
+- Facade  
+- Thunder Fang  
+- Ally Switch  
+- Phantom Force  
+
+Grapploct @ Aspear Berry  
+Ability: Limber  
+Level: 50  
+EVs: 23 Atk / 31 Def / 12 SpD  
+Modest Nature  
+- Protect  
+- Superpower  
+- Snore  
+- Ice Punch  
+
+Espathra @ Leppa Berry  
+Ability: Opportunist  
+Level: 50  
+EVs: 25 Def / 20 SpA / 21 SpD  
+Docile Nature  
+- Baby-Doll Eyes  
+- Rest  
+- Helping Hand  
+- Pounce  
+

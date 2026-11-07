@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Perish Song
+- Protect
+
+Politoed @ Leftovers
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Perish Song
+- Protect
+- Weather Ball
+- Encore
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sleep Powder
+- Rage Powder
+- Protect
+- Hurricane
+
+Archaludon @ Choice Scarf
+Ability: Stalwart
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Electro Shot
+- Draco Meteor
+- Snarl
+- Flash Cannon
+
+Incineroar @ Passho Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Throat Chop
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Ice Punch
+- Protect
+- Wave Crash

@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- First Impression
+- Liquidation
+- Iron Head
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Trick Room
+- Psychic
+- Thunderbolt
+- Helping Hand
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Serious Nature
+- Coaching
+- Double Shock
+- Revival Blessing
+- Close Combat
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Swords Dance
+- Kowtow Cleave
+- Sucker Punch
+
+Politoed @ Life Orb
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Muddy Water
+- Ice Beam
+- Weather Ball
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Solar Beam
+- Heat Wave
+- Weather Ball

@@ -1,0 +1,59 @@
+Crabominable @ Crabominite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Protect
+- Close Combat
+- Ice Hammer
+- Drain Punch
+
+Malamar @ Focus Sash
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Calm Nature
+- Protect
+- Skill Swap
+- Knock Off
+- Disable
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Protect
+- Psychic
+- Helping Hand
+- Trick Room
+
+Sinistcha @ Leftovers
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Rage Powder
+- Strength Sap
+- Matcha Gotcha
+- Trick Room
+
+Kommo-O @ Roseli Berry
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Clanging Scales
+- Aura Sphere
+- Draco Meteor
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Overheat
+- Expanding Force
+- Dazzling Gleam

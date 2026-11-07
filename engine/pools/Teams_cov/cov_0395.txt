@@ -1,0 +1,60 @@
+Squawkabilly-Blue @ Babiri Berry  
+Ability: Guts  
+Level: 50  
+EVs: 32 HP / 22 SpD / 12 Spe  
+Gentle Nature  
+- Hyper Voice  
+- Protect  
+- Torment  
+- Quick Attack  
+
+Alcremie-Lemon-Cream @ Sharp Beak  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 32 Atk / 2 SpA / 32 SpD  
+Brave Nature  
+- Play Rough  
+- Fake Tears  
+- Pain Split  
+- Protect  
+
+Toxicroak @ White Herb  
+Ability: Poison Touch  
+Level: 50  
+EVs: 32 HP / 1 Atk / 30 Def / 3 SpA  
+Rash Nature  
+- Bulk Up  
+- Brick Break  
+- Spite  
+- Dark Pulse  
+
+Diggersby @ Muscle Band  
+Ability: Cheek Pouch  
+Level: 50  
+EVs: 1 Atk / 32 Def / 26 SpA / 7 SpD  
+Hardy Nature  
+- Protect  
+- Substitute  
+- Swords Dance  
+- Brick Break  
+
+Kommo-o @ Chesto Berry  
+Ability: Overcoat  
+Level: 50  
+EVs: 32 HP / 8 Atk / 22 SpA / 4 SpD  
+Rash Nature  
+- Sunny Day  
+- Rock Tomb  
+- Belly Drum  
+- Endure  
+
+Machamp @ Rindo Berry  
+Ability: Steadfast  
+Level: 50  
+EVs: 17 Atk / 25 SpA / 6 SpD / 18 Spe  
+Timid Nature  
+- Facade  
+- Fling  
+- Body Slam  
+- Round  
+

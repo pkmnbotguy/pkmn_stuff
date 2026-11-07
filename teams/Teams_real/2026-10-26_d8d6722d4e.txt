@@ -1,0 +1,59 @@
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 7 Def / 27 SpD
+Relaxed Nature
+- Protect
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Protect
+- Knock Off
+- Rock Slide
+- High Horsepower
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Brave Nature
+- Roost
+- Brave Bird
+- Iron Head
+- Bulk Up
+
+Sableye @ Damp Rock
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Rain Dance
+- Light Screen
+- Foul Play
+- Encore
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Swords Dance
+- Leech Life
+- Sucker Punch
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Bitter Malice
+- Memento
+- Protect
+- Flamethrower

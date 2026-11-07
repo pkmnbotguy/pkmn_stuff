@@ -1,0 +1,60 @@
+Toucannon @ Wacan Berry  
+Ability: Sheer Force  
+Level: 50  
+EVs: 13 HP / 27 SpD / 26 Spe  
+Naive Nature  
+- Snore  
+- Overheat  
+- Air Cutter  
+- Seed Bomb  
+
+Medicham @ Life Orb  
+Ability: Telepathy  
+Level: 50  
+EVs: 20 HP / 32 Atk / 6 Def / 8 SpA  
+Lonely Nature  
+- Detect  
+- Night Shade  
+- Drain Punch  
+- Aura Sphere  
+
+Pinsir @ Focus Sash  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 17 Atk / 18 Def / 31 Spe  
+Bold Nature  
+- Swords Dance  
+- Hard Press  
+- Giga Impact  
+- Bulk Up  
+
+Clefable @ Poison Barb  
+Ability: Unaware  
+Level: 50  
+EVs: 16 Atk / 12 Def / 7 SpA / 15 SpD / 16 Spe  
+Mild Nature  
+- Grass Knot  
+- Rain Dance  
+- Drain Punch  
+- Bounce  
+
+Alcremie-Matcha-Cream @ Silver Powder  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 32 Atk / 22 SpD / 12 Spe  
+Modest Nature  
+- Attract  
+- Giga Drain  
+- Stored Power  
+- Sweet Kiss  
+
+Skarmory @ Smooth Rock  
+Ability: Keen Eye  
+Level: 50  
+EVs: 19 HP / 29 SpD / 18 Spe  
+Hasty Nature  
+- Sandstorm  
+- Rock Slide  
+- Rock Tomb  
+- Sand Tomb  
+

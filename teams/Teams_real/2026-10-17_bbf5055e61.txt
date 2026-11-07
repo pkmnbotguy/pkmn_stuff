@@ -1,0 +1,59 @@
+Zoroark @ Black Glasses
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 7 SpD / 25 Spe
+Rash Nature
+- Night Daze
+- Flamethrower
+- Sucker Punch
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Stomping Tantrum
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Air Slash
+- Ancient Power
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Moonblast
+- Sunny Day
+- Misty Terrain
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 14 Def / 23 SpD
+Calm Nature
+- Trick Room
+- Helping Hand
+- Psychic
+- Protect

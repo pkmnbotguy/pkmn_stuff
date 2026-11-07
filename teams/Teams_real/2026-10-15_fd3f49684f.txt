@@ -1,0 +1,59 @@
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Serious Nature
+- Psychic Fangs
+- Steel Roller
+- Protect
+- Meteor Mash
+
+Kangaskhan @ Silk Scarf
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Serious Nature
+- Fake Out
+- Double-Edge
+- Protect
+- Body Slam
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 3 HP / 32 SpA / 31 Spe
+Serious Nature
+- Hydro Pump
+- Will-O-Wisp
+- Thunderbolt
+- Volt Switch
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Serious Nature
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+- Stomping Tantrum
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Serious Nature
+- Clanging Scales
+- Protect
+- Drain Punch
+- Bulk Up
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Serious Nature
+- Sludge Bomb
+- Earth Power
+- Giga Drain
+- Leech Seed

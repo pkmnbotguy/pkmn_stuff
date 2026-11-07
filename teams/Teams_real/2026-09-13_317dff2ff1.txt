@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 25 Atk / 9 SpD
+Adamant Nature
+- Leech Life
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Earthquake
+- Ice Punch
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 25 SpA / 10 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Wide Guard
+- Tailwind
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 25 SpA / 9 Spe
+Modest Nature
+- Dragon Pulse
+- Flash Cannon
+- Electro Shot
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Poison Jab
+- Close Combat
+- Fake Out
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Flip Turn
+- Aqua Jet
+- Last Respects

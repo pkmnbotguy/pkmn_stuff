@@ -1,0 +1,60 @@
+Clawitzer @ Never-Melt Ice  
+Ability: Mega Launcher  
+Level: 50  
+EVs: 30 Atk / 13 SpA / 23 Spe  
+Brave Nature  
+- Icy Wind  
+- Muddy Water  
+- Water Pulse  
+- Sludge Wave  
+
+Simipour @ Poison Barb  
+Ability: Torrent  
+Level: 50  
+EVs: 30 SpA / 32 SpD / 4 Spe  
+Timid Nature  
+- Stuff Cheeks  
+- Aqua Ring  
+- Fling  
+- Rest  
+
+Ninetales-Alola @ Icy Rock  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 32 HP / 5 Atk / 7 Def / 22 SpD  
+Serious Nature  
+- Misty Terrain  
+- Wonder Room  
+- Avalanche  
+- Double-Edge  
+
+Toucannon @ Wise Glasses  
+Ability: Skill Link  
+Level: 50  
+EVs: 29 Def / 15 SpD / 22 Spe  
+Quiet Nature  
+- Air Slash  
+- Hyper Beam  
+- Dual Wingbeat  
+- Snore  
+
+Sinistcha @ Chilan Berry  
+Ability: Heatproof  
+Level: 50  
+EVs: 7 HP / 27 Def / 32 SpD  
+Lax Nature  
+- Rage Powder  
+- Poltergeist  
+- Calm Mind  
+- Curse  
+
+Glaceon @ Twisted Spoon  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 21 Def / 15 SpD / 30 Spe  
+Serious Nature  
+- Facade  
+- Last Resort  
+- Trailblaze  
+- Wish  
+

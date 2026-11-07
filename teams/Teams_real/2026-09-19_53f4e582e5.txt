@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Super Luck
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Psycho Cut
+- Shadow Claw
+- Night Slash
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Superpower
+- Protect
+- Zen Headbutt
+- Poison Jab
+
+Incineroar @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Throat Chop
+- Parting Shot
+- Fake Out
+- Flare Blitz
+
+Hydreigon @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Dark Pulse
+- Draco Meteor
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Parting Shot
+- Light Screen
+- Spirit Break
+- Scary Face

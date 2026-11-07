@@ -1,0 +1,59 @@
+Toucannon @ Life Orb
+Ability: Skill Link
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Beak Blast
+- Bullet Seed
+- Rock Blast
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Dire Claw
+- Close Combat
+- Coaching
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Relaxed Nature
+- Protect
+- Ice Shard
+- Icicle Crash
+- Glaive Rush
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 10 Def / 17 SpA / 6 SpD / 2 Spe
+Bold Nature
+- Protect
+- Hurricane
+- Muddy Water
+- Tailwind
+
+Milotic @ Quick Claw
+Ability: Competitive
+Level: 50
+EVs: 22 HP / 12 SpA / 32 Spe
+Timid Nature
+- Protect
+- Muddy Water
+- Ice Beam
+- Dragon Cheer
+
+Rillaboom @ Expert Belt
+Ability: Grassy Surge
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Wood Hammer
+- U-turn
+- Fake Out

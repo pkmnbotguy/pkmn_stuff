@@ -1,0 +1,59 @@
+Blaziken @ Blazikenite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Flare Blitz
+- Rock Slide
+- Detect
+
+Meowscarada @ Life Orb
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flower Trick
+- Triple Axel
+- Sucker Punch
+- Protect
+
+Sylveon @ Focus Sash
+Ability: Pixilate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Quick Attack
+- Yawn
+- Detect
+
+Dragonite @ White Herb
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Extreme Speed
+- Scale Shot
+- Superpower
+- Protect
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Power Gem
+- Focus Blast
+- Shadow Ball
+
+Mudsdale @ Sitrus Berry
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Earthquake
+- Heavy Slam
+- Curse
+- Protect

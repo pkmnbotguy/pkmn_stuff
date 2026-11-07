@@ -1,0 +1,60 @@
+Tyranitar @ White Herb  
+Ability: Sand Stream  
+Level: 50  
+EVs: 31 Atk / 18 SpA / 17 SpD  
+Adamant Nature  
+- Protect  
+- Fire Fang  
+- Lash Out  
+- Brutal Swing  
+
+Gyarados @ Occa Berry  
+Ability: Moxie  
+Level: 50  
+EVs: 32 Atk / 22 Def / 12 Spe  
+Bashful Nature  
+- Dragon Dance  
+- Outrage  
+- Body Slam  
+- Surf  
+
+Archaludon @ Payapa Berry  
+Ability: Stamina  
+Level: 50  
+EVs: 27 Atk / 9 Def / 30 SpA  
+Lonely Nature  
+- Rock Slide  
+- Roar  
+- Thunder  
+- Endure  
+
+Vivillon-Savanna @ Sharp Beak  
+Ability: Shield Dust  
+Level: 50  
+EVs: 29 HP / 7 SpD / 30 Spe  
+Naive Nature  
+- Snore  
+- Pollen Puff  
+- U-turn  
+- Hurricane  
+
+Emolga @ Poison Barb  
+Ability: Motor Drive  
+Level: 50  
+EVs: 31 HP / 29 Atk / 6 Def  
+Docile Nature  
+- Speed Swap  
+- Solar Beam  
+- Acrobatics  
+- Endure  
+
+Pinsir @ Pinsirite  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 4 Def / 32 SpA / 30 SpD  
+Brave Nature  
+- Rain Dance  
+- Brick Break  
+- Circle Throw  
+- Round  
+

@@ -1,0 +1,60 @@
+Goodra @ Kasib Berry  
+Ability: Hydration  
+Level: 50  
+EVs: 27 HP / 32 Atk / 7 Def  
+Mild Nature  
+- Muddy Water  
+- Sunny Day  
+- Charm  
+- Body Press  
+
+Stunfisk @ King's Rock  
+Ability: Sand Veil  
+Level: 50  
+EVs: 20 HP / 32 Atk / 4 SpA / 6 SpD / 4 Spe  
+Modest Nature  
+- Snore  
+- Sludge Bomb  
+- Rock Tomb  
+- Uproar  
+
+Absol @ Absolite  
+Ability: Super Luck  
+Level: 50  
+EVs: 2 HP / 32 Def / 32 SpD  
+Quiet Nature  
+- Future Sight  
+- Assurance  
+- Aerial Ace  
+- Thunder  
+
+Glalie @ Focus Band  
+Ability: Moody  
+Level: 50  
+EVs: 22 HP / 32 Atk / 12 SpA  
+Calm Nature  
+- Avalanche  
+- Spite  
+- Protect  
+- Frost Breath  
+
+Roserade @ Eject Button  
+Ability: Natural Cure  
+Level: 50  
+EVs: 24 HP / 28 Atk / 11 SpA / 3 Spe  
+Calm Nature  
+- Bullet Seed  
+- Energy Ball  
+- Toxic  
+- Leech Seed  
+
+Quaquaval @ Twisted Spoon  
+Ability: Torrent  
+Level: 50  
+EVs: 11 HP / 15 Def / 25 SpD / 15 Spe  
+Docile Nature  
+- Water Pulse  
+- Liquidation  
+- Flip Turn  
+- Focus Energy  
+

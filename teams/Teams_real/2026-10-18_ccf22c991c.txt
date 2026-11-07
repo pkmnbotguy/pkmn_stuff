@@ -1,0 +1,59 @@
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sucker Punch
+- Iron Head
+- Kowtow Cleave
+- Protect
+
+Rillaboom @ Focus Sash
+Ability: Grassy Surge
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Grassy Glide
+- Fake Out
+- Knock Off
+- High Horsepower
+
+Ninetales-Alola @ Babiri Berry
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aurora Veil
+- Blizzard
+- Freeze-Dry
+- Protect
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Earth Power
+- Power Gem
+- Protect
+
+Slowking-Galar @ Sitrus Berry
+Ability: Curious Medicine
+Level: 50
+EVs: 32 HP / 28 Def / 6 SpD
+Relaxed Nature
+- Psychic
+- Sludge Bomb
+- Helping Hand
+- Trick Room
+
+Primarina @ Mystic Water
+Ability: Liquid Voice
+Level: 50
+EVs: 30 HP / 8 Def / 28 SpA
+Quiet Nature
+- Hyper Voice
+- Moonblast
+- Ice Beam
+- Protect

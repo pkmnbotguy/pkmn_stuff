@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Expanding Force
+- Hypnosis
+- Heat Wave
+- Protect
+
+Meowstic @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Expanding Force
+- Protect
+- Psychic Terrain
+- Gravity
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 1 Def / 8 SpA / 24 SpD / 1 Spe
+Calm Nature
+- Trick
+- Electroweb
+- Hydro Pump
+- Thunderbolt
+
+Conkeldurr @ White Herb
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 20 Atk / 11 Def / 3 SpD
+Naughty Nature
+- Wide Guard
+- Drain Punch
+- Ice Punch
+- Knock Off
+
+Orthworm @ Sitrus Berry
+Ability: Earth Eater
+Level: 50
+EVs: 32 HP / 1 Atk / 25 Def / 8 SpD
+Sassy Nature
+- Shed Tail
+- Heavy Slam
+- Iron Defense
+- Body Press
+
+Kingambit @ Shuca Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head

@@ -1,0 +1,60 @@
+Incineroar @ Cheri Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 5 Atk / 18 Def / 27 SpD / 16 Spe  
+Serious Nature  
+- Low Kick  
+- Protect  
+- Overheat  
+- Body Slam  
+
+Infernape @ Terrain Extender  
+Ability: Blaze  
+Level: 50  
+EVs: 32 Atk / 3 Def / 7 SpA / 22 SpD / 2 Spe  
+Docile Nature  
+- Swords Dance  
+- U-turn  
+- Switcheroo  
+- Blaze Kick  
+
+Malamar @ Metal Coat  
+Ability: Infiltrator  
+Level: 50  
+EVs: 32 HP / 28 Atk / 6 SpA  
+Docile Nature  
+- Gravity  
+- Expanding Force  
+- Future Sight  
+- Psycho Cut  
+
+Blastoise @ Payapa Berry  
+Ability: Rain Dish  
+Level: 50  
+EVs: 27 Atk / 7 Def / 32 SpD  
+Quirky Nature  
+- Rock Tomb  
+- Dragon Pulse  
+- Ice Punch  
+- Focus Punch  
+
+Barbaracle @ Rindo Berry  
+Ability: Tough Claws  
+Level: 50  
+EVs: 5 HP / 16 Atk / 31 Def / 14 Spe  
+Adamant Nature  
+- Blizzard  
+- Bulk Up  
+- Whirlpool  
+- Rock Slide  
+
+Vivillon-Ocean @ Chilan Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 22 HP / 2 Def / 13 SpA / 29 Spe  
+Quirky Nature  
+- Quiver Dance  
+- Stun Spore  
+- Acrobatics  
+- Thief  
+

@@ -1,0 +1,59 @@
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Aura Sphere
+- Protect
+- Coaching
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Protect
+- Tailwind
+
+Persian-Alola @ Black Glasses
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Fake Out
+- Parting Shot
+- Icy Wind
+- Foul Play
+
+Wyrdeer @ Colbur Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Modest Nature
+- Trick Room
+- Psychic Noise
+- Helping Hand
+- Roar
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stomping Tantrum
+- Psychic Fangs
+- Iron Head
+- Protect
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Calm Mind
+- Protect

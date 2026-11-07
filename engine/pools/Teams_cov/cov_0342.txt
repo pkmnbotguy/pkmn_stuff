@@ -1,0 +1,60 @@
+Vivillon-Sun @ Fairy Feather  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 31 Def / 10 SpA / 3 SpD / 22 Spe  
+Serious Nature  
+- Quiver Dance  
+- Safeguard  
+- U-turn  
+- Air Cutter  
+
+Lopunny @ Heat Rock  
+Ability: Limber  
+Level: 50  
+EVs: 5 Atk / 8 Def / 30 SpD / 23 Spe  
+Relaxed Nature  
+- Reversal  
+- Cotton Guard  
+- Round  
+- Iron Tail  
+
+Skarmory @ Mental Herb  
+Ability: Sturdy  
+Level: 50  
+EVs: 10 Atk / 31 Def / 25 Spe  
+Mild Nature  
+- Protect  
+- Body Press  
+- Snore  
+- Sunny Day  
+
+Whimsicott @ Chople Berry  
+Ability: Infiltrator  
+Level: 50  
+EVs: 20 HP / 22 Def / 24 SpD  
+Quirky Nature  
+- Giga Impact  
+- Facade  
+- Shadow Ball  
+- Grass Knot  
+
+Alcremie-Ruby-Swirl @ Quick Claw  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 30 SpA / 4 SpD / 32 Spe  
+Quiet Nature  
+- Rest  
+- Fake Tears  
+- Snore  
+- Imprison  
+
+Snorlax @ Big Root  
+Ability: Thick Fat  
+Level: 50  
+EVs: 13 Atk / 24 Def / 15 SpA / 14 SpD  
+Bold Nature  
+- Double-Edge  
+- Flail  
+- Chilling Water  
+- Uproar  
+

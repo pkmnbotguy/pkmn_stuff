@@ -1,0 +1,59 @@
+Meganium @ Meganiumite
+Ability: Overgrow
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Weather Ball
+- Dazzling Gleam
+- Protect
+- Solar Beam
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Hurricane
+- Weather Ball
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Dragon Pulse
+- Protect
+- Flash Cannon
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Rock Slide
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Scald
+- Protect
+- Ice Beam
+- Icy Wind
+
+Kleavor @ Expert Belt
+Ability: Swarm
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Bug Buzz
+- X-Scissor
+- Protect
+- Stone Axe

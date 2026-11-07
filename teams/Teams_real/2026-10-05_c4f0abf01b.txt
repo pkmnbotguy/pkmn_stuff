@@ -1,0 +1,59 @@
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Spout
+- Aura Sphere
+- Shell Smash
+- Protect
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Calm Nature
+- Trick Room
+- Follow Me
+- Psychic
+- Helping Hand
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Swords Dance
+- Sucker Punch
+- Iron Head
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+- Fake Out
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 9 HP / 22 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Quick Attack
+- Detect
+- Hyper Beam
+
+Volcarona @ Psychic Seed
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 23 Def / 9 SpA / 1 SpD / 1 Spe
+Modest Nature
+- Quiver Dance
+- Fiery Dance
+- Giga Drain
+- Protect

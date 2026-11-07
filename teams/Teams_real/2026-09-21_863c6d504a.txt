@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Close Combat
+- Leech Life
+- Protect
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpA
+Brave Nature
+- Expanding Force
+- Hyper Voice
+- Trick Room
+- Protect
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Trick Room
+- Helping Hand
+- Follow Me
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Solar Beam
+- Protect
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Quiet Nature
+- Armor Cannon
+- Expanding Force
+- Trick Room
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Dire Claw
+- Close Combat
+- Protect

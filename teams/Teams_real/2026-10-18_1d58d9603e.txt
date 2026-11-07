@@ -1,0 +1,59 @@
+Rotom-Wash @ Wide Lens
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 1 Def / 8 SpA / 24 SpD / 1 Spe
+Calm Nature
+- Electroweb
+- Hydro Pump
+- Will-O-Wisp
+- Thunder Wave
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Close Combat
+- Detect
+- Throat Chop
+- Fake Out
+
+Clefable @ Sitrus Berry
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Cosmic Power
+- Flamethrower
+- Follow Me
+- Moonlight
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Dragon Pulse
+- Electro Shot
+- Flash Cannon
+- Aura Sphere
+
+Pelipper @ Eject Button
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- U-turn
+- Tailwind
+- Wide Guard
+
+Inteleon @ Focus Sash
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Snipe Shot
+- Muddy Water
+- Focus Energy
+- Protect

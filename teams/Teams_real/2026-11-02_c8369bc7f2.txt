@@ -1,0 +1,59 @@
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Substitute
+- Shadow Ball
+- Sludge Bomb
+- Protect
+
+Kommo-O @ Dragon Fang
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Clanging Scales
+- Aura Sphere
+- Clangorous Soul
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Snarl
+- Parting Shot
+- Fake Out
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+Level: 50
+EVs: 32 HP / 6 Def / 28 SpD
+Careful Nature
+- High Horsepower
+- Stone Edge
+- Yawn
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Rock Tomb
+- Protect

@@ -1,0 +1,60 @@
+Hawlucha @ Never-Melt Ice  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 22 HP / 15 Atk / 17 Def / 12 SpD  
+Adamant Nature  
+- Mega Kick  
+- Rock Slide  
+- Low Kick  
+- Flying Press  
+
+Sinistcha @ Oran Berry  
+Ability: Hospitality  
+Level: 50  
+EVs: 10 Def / 28 SpD / 28 Spe  
+Adamant Nature  
+- Hyper Beam  
+- Rage Powder  
+- Spite  
+- Rest  
+
+Ariados @ Passho Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 26 HP / 8 SpD / 32 Spe  
+Rash Nature  
+- Focus Energy  
+- Bug Bite  
+- Hex  
+- Spite  
+
+Eelektross @ Smooth Rock  
+Ability: Levitate  
+Level: 50  
+EVs: 21 HP / 24 Atk / 17 Def / 4 SpD  
+Sassy Nature  
+- Endure  
+- Light Screen  
+- Snore  
+- Scary Face  
+
+Vanilluxe @ Babiri Berry  
+Ability: Weak Armor  
+Level: 50  
+EVs: 26 HP / 8 SpA / 32 Spe  
+Quiet Nature  
+- Rest  
+- Iron Defense  
+- Beat Up  
+- Icy Wind  
+
+Luxray @ Cheri Berry  
+Ability: Guts  
+Level: 50  
+EVs: 17 HP / 31 SpA / 18 Spe  
+Sassy Nature  
+- Rest  
+- Throat Chop  
+- Endure  
+- Body Slam  
+

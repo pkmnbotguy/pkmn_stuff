@@ -1,0 +1,59 @@
+Dragalge @ Dragalgite
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Draco Meteor
+- Haze
+- Dragon Pulse
+- Sludge Bomb
+
+Overqwil @ Black Glasses
+Ability: Poison Point
+Level: 50
+EVs: 32 HP / 1 Atk / 5 Def / 15 SpD / 13 Spe
+Brave Nature
+- Barb Barrage
+- Liquidation
+- Throat Chop
+- Protect
+
+Toxtricity @ Normal Gem
+Ability: Punk Rock
+Level: 50
+EVs: 19 HP / 26 SpA / 21 Spe
+Quiet Nature
+- Boomburst
+- Overdrive
+- Sludge Bomb
+- Protect
+
+Slowking-Galar @ Mental Herb
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Eerie Spell
+- Slack Off
+- Sludge Wave
+- Trick Room
+
+Glimmora @ Focus Sash
+Ability: Corrosion
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Quiet Nature
+- Earth Power
+- Toxic
+- Spiky Shield
+- Power Gem
+
+Slowbro-Galar @ Quick Claw
+Ability: Quick Draw
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Psychic
+- Protect
+- Flamethrower
+- Shell Side Arm

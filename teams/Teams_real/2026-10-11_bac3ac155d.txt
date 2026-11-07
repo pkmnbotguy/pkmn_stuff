@@ -1,0 +1,59 @@
+Spiritomb @ Sitrus Berry
+Ability: Pressure
+Level: 50
+EVs: 32 HP / 12 Atk / 12 Def / 10 SpD
+Sassy Nature
+- Trick Room
+- Will-O-Wisp
+- Foul Play
+- Taunt
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Calm Nature
+- Trick Room
+- Psychic
+- Helping Hand
+- Follow Me
+
+Meowstic-F @ Meowsticite
+Ability: Competitive
+Level: 50
+EVs: 16 HP / 4 Def / 17 SpA / 29 Spe
+Timid Nature
+- Expanding Force
+- Protect
+- Thunderbolt
+- Alluring Voice
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Rock Slide
+- Protect
+- Play Rough
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Earth Power
+- Protect
+- Solar Beam
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Revival Blessing
+- Close Combat
+- Fake Out
+- Double Shock

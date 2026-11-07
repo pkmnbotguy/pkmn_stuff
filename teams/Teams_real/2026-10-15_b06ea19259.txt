@@ -1,0 +1,59 @@
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Psychic
+- Grass Knot
+
+Whimsicott @ Occa Berry
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Tailwind
+- Moonblast
+- Encore
+- Charm
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Brave Bird
+- Roost
+
+Squawkabilly @ Focus Sash
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Parting Shot
+- Taunt
+- Brave Bird
+- Protect
+
+Ninetales-Alola @ Babiri Berry
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Aurora Veil
+- Blizzard
+- Dazzling Gleam
+
+Lycanroc-Dusk @ Life Orb
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Accelerock
+- Sucker Punch
+- Roar
+- Protect

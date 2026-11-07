@@ -1,0 +1,59 @@
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Protect
+- Fake Out
+- Focus Blast
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Careful Nature
+- Wood Hammer
+- Fake Out
+- U-turn
+- Grassy Glide
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+Level: 50
+EVs: 19 HP / 17 Def / 10 SpA / 11 SpD / 9 Spe
+Bold Nature
+- Scald
+- Roar
+- Calm Mind
+- Ice Beam
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Flare Blitz
+- Protect
+- Tailwind
+- Brave Bird
+
+Maushold @ Wide Lens
+Ability: Friend Guard
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Population Bomb
+- Protect
+- Follow Me
+- Thunder Wave
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Protect
+- Nasty Plot
+- Shadow Ball

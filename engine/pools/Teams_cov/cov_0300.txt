@@ -1,0 +1,60 @@
+Mr. Rime @ Metronome  
+Ability: Screen Cleaner  
+Level: 50  
+EVs: 23 HP / 32 Atk / 10 SpD / 1 Spe  
+Quiet Nature  
+- Power Swap  
+- Power Split  
+- Energy Ball  
+- Trick Room  
+
+Lucario @ Wise Glasses  
+Ability: Justified  
+Level: 50  
+EVs: 27 HP / 9 Def / 30 SpD  
+Careful Nature  
+- Low Kick  
+- Hyper Beam  
+- Stone Edge  
+- Bone Rush  
+
+Grapploct @ Sitrus Berry  
+Ability: Limber  
+Level: 50  
+EVs: 24 HP / 31 Atk / 7 SpD / 4 Spe  
+Bold Nature  
+- Muddy Water  
+- Brutal Swing  
+- Skitter Smack  
+- Hydro Pump  
+
+Maushold-Four @ Life Orb  
+Ability: Technician  
+Level: 50  
+EVs: 32 Atk / 32 SpD / 2 Spe  
+Naive Nature  
+- Tickle  
+- Low Kick  
+- Double-Edge  
+- Taunt  
+
+Eelektross @ Eelektrossite  
+Ability: Levitate  
+Level: 50  
+EVs: 32 Def / 21 SpA / 4 SpD / 9 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Sunny Day  
+- Stomping Tantrum  
+- Drain Punch  
+
+Ariados @ Yache Berry  
+Ability: Sniper  
+Level: 50  
+EVs: 30 HP / 4 Atk / 32 SpD  
+Lonely Nature  
+- Smart Strike  
+- Lunge  
+- Pin Missile  
+- Bounce  
+

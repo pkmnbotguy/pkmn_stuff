@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 23 HP / 5 Atk / 6 SpD / 32 Spe
+Adamant Nature
+- Double-Edge
+- Dragon Claw
+- Dragon Dance
+- Protect
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Infernape @ Focus Sash
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Flamethrower
+- Aura Sphere
+- Fake Out
+- Encore
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- Protect
+
+Empoleon @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 30 HP / 31 SpA / 5 Spe
+Calm Nature
+- Hydro Pump
+- Flash Cannon
+- Ice Beam
+- Protect
+
+Farigiraf @ Silk Scarf
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Hyper Voice
+- Psychic
+- Trick Room
+- Protect

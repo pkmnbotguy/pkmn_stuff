@@ -1,0 +1,59 @@
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Flamethrower
+- Draco Meteor
+- Earth Power
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Steel Wing
+- Final Gambit
+
+Sinistcha @ Miracle Seed
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Timid Nature
+- Scald
+- Matcha Gotcha
+- Poltergeist
+- Rage Powder
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Brave Nature
+- Taunt
+- Spirit Break
+- Light Screen
+- Reflect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 16 Def / 10 SpA / 11 SpD
+Quiet Nature
+- Trick Room
+- Twin Beam
+- Helping Hand
+- Protect
+
+Kingambit @ Hard Stone
+Ability: Supreme Overlord
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Low Kick
+- Protect

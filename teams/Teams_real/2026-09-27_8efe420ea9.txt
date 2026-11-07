@@ -1,0 +1,59 @@
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Shell Smash
+- Water Spout
+- Dark Pulse
+- Aura Sphere
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Iron Head
+- Protect
+- Swords Dance
+- Icicle Spear
+
+Roserade @ Focus Sash
+Ability: Natural Cure
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Energy Ball
+- Venoshock
+- Spikes
+- Toxic Spikes
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Expanding Force
+- Scorching Sands
+- Nasty Plot
+
+Indeedee @ Wise Glasses
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Calm Mind
+- Trick Room
+- Hyper Voice
+
+Clefable @ Leftovers
+Ability: Magic Guard
+Level: 50
+EVs: 22 HP / 27 Def / 2 SpD / 15 Spe
+Bold Nature
+- Follow Me
+- Charge Beam
+- Life Dew
+- Moonblast

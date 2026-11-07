@@ -1,0 +1,59 @@
+Hatterene @ Focus Sash
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Dazzling Gleam
+- Mystical Fire
+- Trick Room
+- Protect
+
+Clefable @ Clefablite
+Ability: Magic Guard
+Level: 50
+EVs: 32 HP / 30 Def / 4 SpA
+Bold Nature
+- Follow Me
+- Moonblast
+- Flamethrower
+- Protect
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Play Rough
+- Iron Head
+- Sucker Punch
+- Protect
+
+Wigglytuff @ Life Orb
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Flamethrower
+- Thunderbolt
+- Hyper Voice
+- Protect
+
+Azumarill @ Sitrus Berry
+Ability: Huge Power
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Belly Drum
+- Protect
+
+Florges @ Shell Bell
+Ability: Symbiosis
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpA
+Relaxed Nature
+- Pollen Puff
+- Sunny Day
+- Misty Terrain
+- Protect

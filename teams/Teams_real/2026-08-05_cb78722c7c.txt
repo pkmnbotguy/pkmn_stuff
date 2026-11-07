@@ -1,0 +1,59 @@
+Incineroar @ Shuca Berry
+Ability: Intimidate
+Level: 50
+EVs: 31 HP / 1 Atk / 8 Def / 10 SpD / 16 Spe
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Clefable @ Clefablite
+Ability: Unaware
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Follow Me
+- Dazzling Gleam
+- Air Slash
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 6 HP / 26 Atk / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Stomping Tantrum
+- Dragon Claw
+- Earthquake
+- Protect
+
+Gholdengo @ Sitrus Berry
+Ability: Good as Gold
+Level: 50
+EVs: 27 HP / 24 Def / 5 SpD / 10 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Toxapex @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 8 Def / 26 SpD
+Bold Nature
+- Baneful Bunker
+- Infestation
+- Toxic
+- Wide Guard
+
+Abomasnow @ Abomasite
+Ability: Snow Warning
+Level: 50
+EVs: 32 HP / 5 Def / 29 SpD
+Relaxed Nature
+- Aurora Veil
+- Leech Seed
+- Blizzard
+- Protect

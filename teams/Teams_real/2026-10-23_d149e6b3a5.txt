@@ -1,0 +1,59 @@
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Twin Beam
+- Trick Room
+- Helping Hand
+- Thunderbolt
+
+Ampharos @ Ampharosite
+Ability: Static
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Thunderbolt
+- Discharge
+- Dragon Pulse
+- Protect
+
+Staraptor @ Choice Scarf
+Ability: Reckless
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Double-Edge
+- Brave Bird
+- Close Combat
+- Final Gambit
+
+Rhyperior @ Life Orb
+Ability: Solid Rock
+Level: 50
+EVs: 20 HP / 32 Atk / 14 SpD
+Brave Nature
+- Rock Slide
+- High Horsepower
+- Heat Crash
+- Protect
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Heat Wave
+- Eruption
+- Protect
+- Earth Power
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Grassy Glide
+- Wood Hammer
+- Knock Off
+- Fake Out

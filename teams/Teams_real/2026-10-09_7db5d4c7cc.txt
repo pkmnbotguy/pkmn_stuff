@@ -1,0 +1,59 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Spirit Break
+- Light Screen
+- Reflect
+- Parting Shot
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Rain Dance
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Muddy Water
+- Coil
+- Hypnosis
+- Recover
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 25 HP / 10 Def / 11 SpA / 1 SpD / 19 Spe
+Calm Nature
+- Sludge Bomb
+- Earth Power
+- Leech Seed
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Dragon Pulse
+- Flamethrower
+- Protect

@@ -1,0 +1,60 @@
+Pyroar @ Mental Herb  
+Ability: Unnerve  
+Level: 50  
+EVs: 32 HP / 30 Atk / 3 SpA / 1 Spe  
+Calm Nature  
+- Scorching Sands  
+- Crunch  
+- Double-Edge  
+- Taunt  
+
+Cofagrigus @ Metronome  
+Ability: Mummy  
+Level: 50  
+EVs: 27 HP / 7 Atk / 32 Def  
+Calm Nature  
+- Body Press  
+- Shadow Claw  
+- Mean Look  
+- Snore  
+
+Slowking-Galar @ Roseli Berry  
+Ability: Curious Medicine  
+Level: 50  
+EVs: 18 Def / 30 SpD / 18 Spe  
+Brave Nature  
+- Slack Off  
+- Sludge Wave  
+- Toxic Spikes  
+- Venoshock  
+
+Tauros @ Icy Rock  
+Ability: Intimidate  
+Level: 50  
+EVs: 11 Atk / 22 Def / 11 SpD / 22 Spe  
+Timid Nature  
+- Uproar  
+- Curse  
+- Fire Blast  
+- Facade  
+
+Mr. Rime @ King's Rock  
+Ability: Screen Cleaner  
+Level: 50  
+EVs: 12 Atk / 22 Def / 32 Spe  
+Jolly Nature  
+- Avalanche  
+- Dazzling Gleam  
+- Sleep Talk  
+- Thief  
+
+Torkoal @ Sharp Beak  
+Ability: White Smoke  
+Level: 50  
+EVs: 32 HP / 31 Atk / 3 Def  
+Mild Nature  
+- Eruption  
+- Stone Edge  
+- Temper Flare  
+- Iron Defense  
+

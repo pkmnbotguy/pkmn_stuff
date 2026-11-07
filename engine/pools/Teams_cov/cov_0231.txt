@@ -1,0 +1,60 @@
+Arcanine-Hisui @ Chesto Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 22 HP / 7 Atk / 32 Def / 4 SpA / 1 SpD  
+Rash Nature  
+- Bite  
+- Stealth Rock  
+- Rock Tomb  
+- Temper Flare  
+
+Indeedee-F @ Payapa Berry  
+Ability: Synchronize  
+Level: 50  
+EVs: 20 HP / 23 SpA / 23 Spe  
+Naughty Nature  
+- Stored Power  
+- Body Slam  
+- Fake Out  
+- Terrain Pulse  
+
+Gliscor @ Iron Ball  
+Ability: Sand Veil  
+Level: 50  
+EVs: 25 HP / 4 Atk / 32 SpA / 5 SpD  
+Gentle Nature  
+- Throat Chop  
+- Rock Tomb  
+- Fire Fang  
+- Dig  
+
+Slowking-Galar @ Leftovers  
+Ability: Curious Medicine  
+Level: 50  
+EVs: 25 HP / 3 Atk / 8 Def / 30 Spe  
+Timid Nature  
+- Shadow Ball  
+- Yawn  
+- Acid Spray  
+- Hex  
+
+Forretress @ Zoom Lens  
+Ability: Overcoat  
+Level: 50  
+EVs: 18 HP / 9 Atk / 19 Def / 20 Spe  
+Bashful Nature  
+- Steel Beam  
+- Iron Head  
+- Earth Power  
+- Struggle Bug  
+
+Emolga @ Binding Band  
+Ability: Static  
+Level: 50  
+EVs: 1 HP / 32 Atk / 22 Def / 11 SpD  
+Timid Nature  
+- Rain Dance  
+- Snore  
+- Facade  
+- Discharge  
+

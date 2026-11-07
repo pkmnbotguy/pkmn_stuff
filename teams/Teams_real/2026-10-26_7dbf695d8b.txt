@@ -1,0 +1,59 @@
+Mimikyu @ Mental Herb
+Ability: Disguise
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Trick Room
+- Shadow Claw
+- Play Rough
+- Protect
+
+Delphox @ Delphoxite
+Ability: Magician
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Psychic
+- Protect
+- Encore
+- Heat Wave
+
+Noivern @ Life Orb
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Draco Meteor
+- Air Slash
+- Protect
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Light Screen
+- Hydro Pump
+- Thunderbolt
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Timid Nature
+- Shadow Claw
+- Detect
+- Perish Song
+- Night Slash
+
+Salazzle @ Focus Sash
+Ability: Corrosion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Toxic
+- Protect
+- Overheat
+- Fake Out

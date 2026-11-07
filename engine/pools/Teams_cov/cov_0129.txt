@@ -1,0 +1,60 @@
+Vivillon-Elegant @ Babiri Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 23 HP / 21 Def / 22 SpD  
+Hardy Nature  
+- Sleep Powder  
+- Poison Powder  
+- Rage Powder  
+- Giga Drain  
+
+Squawkabilly-Yellow @ Soft Sand  
+Ability: Hustle  
+Level: 50  
+EVs: 27 HP / 13 Atk / 12 Def / 14 Spe  
+Timid Nature  
+- Copycat  
+- Air Slash  
+- Sleep Talk  
+- Torment  
+
+Victreebel @ Fairy Feather  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 16 Def / 4 SpA / 29 SpD / 17 Spe  
+Brave Nature  
+- Solar Beam  
+- Round  
+- Bullet Seed  
+- Weather Ball  
+
+Meowstic-F @ Chesto Berry  
+Ability: Competitive  
+Level: 50  
+EVs: 32 HP / 7 Def / 15 SpA / 5 SpD / 7 Spe  
+Bashful Nature  
+- Safeguard  
+- Thunder Wave  
+- Psychic Noise  
+- Tickle  
+
+Toxicroak @ Big Root  
+Ability: Poison Touch  
+Level: 50  
+EVs: 13 HP / 10 Atk / 22 SpA / 21 SpD  
+Impish Nature  
+- Baton Pass  
+- Screech  
+- Thunder Punch  
+- Quick Guard  
+
+Malamar @ Wise Glasses  
+Ability: Suction Cups  
+Level: 50  
+EVs: 8 HP / 32 SpA / 23 SpD / 3 Spe  
+Timid Nature  
+- Fake Tears  
+- Throat Chop  
+- Giga Impact  
+- Double Team  
+

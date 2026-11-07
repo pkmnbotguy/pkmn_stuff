@@ -1,0 +1,59 @@
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Armor Cannon
+- Expanding Force
+- Wide Guard
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Psychic Terrain
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 24 Def / 10 SpA
+Quiet Nature
+- Hyper Voice
+- Expanding Force
+- Protect
+- Trick Room
+
+Torkoal @ Charcoal
+Ability: White Smoke
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Protect
+- Weather Ball
+- Heat Wave
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 12 Def / 22 SpD
+Relaxed Nature
+- Superpower
+- Knock Off
+- Trick Room
+- Protect

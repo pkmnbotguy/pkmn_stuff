@@ -1,0 +1,60 @@
+Gardevoir @ Gardevoirite  
+Ability: Synchronize  
+Level: 50  
+EVs: 28 Atk / 24 Def / 14 Spe  
+Naive Nature  
+- Facade  
+- Safeguard  
+- Body Slam  
+- Icy Wind  
+
+Talonflame @ Electric Seed  
+Ability: Flame Body  
+Level: 50  
+EVs: 2 HP / 24 Atk / 9 SpD / 31 Spe  
+Quirky Nature  
+- Giga Impact  
+- Brave Bird  
+- Rain Dance  
+- Round  
+
+Lopunny @ Misty Seed  
+Ability: Limber  
+Level: 50  
+EVs: 7 Atk / 32 Def / 11 SpD / 16 Spe  
+Hardy Nature  
+- Entrainment  
+- Low Sweep  
+- Round  
+- Close Combat  
+
+Dedenne @ Cheri Berry  
+Ability: Pickup  
+Level: 50  
+EVs: 20 Atk / 32 Def / 14 Spe  
+Timid Nature  
+- Nuzzle  
+- Volt Switch  
+- Magnet Rise  
+- Super Fang  
+
+Mabosstiff @ Scope Lens  
+Ability: Guard Dog  
+Level: 50  
+EVs: 7 Atk / 29 SpD / 30 Spe  
+Lax Nature  
+- Swagger  
+- Crunch  
+- Destiny Bond  
+- Giga Impact  
+
+Vivillon-Elegant @ Kebia Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 16 Atk / 17 Def / 30 SpA / 3 SpD  
+Brave Nature  
+- Facade  
+- Round  
+- Pounce  
+- Iron Defense  
+

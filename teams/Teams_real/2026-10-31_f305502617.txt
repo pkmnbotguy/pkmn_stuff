@@ -1,0 +1,59 @@
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Steel Beam
+- Dark Pulse
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- Protect
+- Taunt
+- Acrobatics
+
+Diggersby @ Life Orb
+Ability: Huge Power
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Brave Nature
+- Earthquake
+- Mega Kick
+- High Horsepower
+- Protect
+
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 27 HP / 32 SpA / 7 Spe
+Modest Nature
+- Calm Mind
+- Heat Wave
+- Shadow Ball
+- Protect
+
+Clefable @ Rocky Helmet
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Moonblast
+- Helping Hand
+- Life Dew
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Bold Nature
+- Nasty Plot
+- Thunderbolt
+- Hydro Pump
+- Protect

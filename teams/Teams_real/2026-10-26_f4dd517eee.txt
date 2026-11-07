@@ -1,0 +1,59 @@
+Sharpedo @ Sharpedonite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Aqua Jet
+- Crunch
+- Psychic Fangs
+
+Sableye @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Careful Nature
+- Fake Out
+- Sunny Day
+- Light Screen
+- Reflect
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Nasty Plot
+- Psychic
+- Heat Wave
+
+Annihilape @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Phantom Force
+- Close Combat
+- Coaching
+- Protect
+
+Lycanroc-Midnight @ Choice Scarf
+Ability: No Guard
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stone Edge
+- Rock Slide
+- Play Rough
+- Iron Tail
+
+Vileplume @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sludge Bomb
+- Sleep Powder
+- Strength Sap
+- Toxic

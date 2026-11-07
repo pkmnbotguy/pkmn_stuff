@@ -1,0 +1,60 @@
+Scolipede @ Babiri Berry  
+Ability: Poison Point  
+Level: 50  
+EVs: 21 HP / 11 Atk / 21 SpD / 13 Spe  
+Docile Nature  
+- Sleep Talk  
+- Pounce  
+- Steel Roller  
+- Hex  
+
+Persian @ Terrain Extender  
+Ability: Limber  
+Level: 50  
+EVs: 1 Atk / 32 Def / 9 SpA / 24 SpD  
+Jolly Nature  
+- Double-Edge  
+- Shadow Ball  
+- Covet  
+- Trailblaze  
+
+Vivillon-Jungle @ Expert Belt  
+Ability: Shield Dust  
+Level: 50  
+EVs: 7 HP / 23 Atk / 4 SpA / 32 SpD  
+Adamant Nature  
+- Hurricane  
+- Draining Kiss  
+- Quiver Dance  
+- Psychic  
+
+Hatterene @ Yache Berry  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 16 HP / 22 SpD / 28 Spe  
+Naughty Nature  
+- Trick  
+- Quash  
+- Round  
+- Power Whip  
+
+Rotom-Fan @ Electric Seed  
+Ability: Levitate  
+Level: 50  
+EVs: 8 HP / 32 Def / 21 SpD / 5 Spe  
+Jolly Nature  
+- Volt Switch  
+- Discharge  
+- Eerie Impulse  
+- Hyper Voice  
+
+Absol @ Aspear Berry  
+Ability: Justified  
+Level: 50  
+EVs: 21 HP / 14 Def / 10 SpA / 7 SpD / 14 Spe  
+Adamant Nature  
+- Hyper Beam  
+- Confuse Ray  
+- Fire Blast  
+- Substitute  
+

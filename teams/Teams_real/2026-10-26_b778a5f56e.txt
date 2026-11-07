@@ -1,0 +1,59 @@
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- Dual Wingbeat
+- Rock Slide
+- Ice Fang
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Psyshock
+- Overheat
+- Protect
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Protect
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sucker Punch
+- Night Slash
+- Close Combat
+- Protect
+
+Malamar @ Choice Scarf
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Jolly Nature
+- Superpower
+- Rock Slide
+- Skill Swap
+- Trick
+
+Tyranitar @ Passho Berry
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Dragon Dance
+- Protect

@@ -1,0 +1,59 @@
+Sirfetchd @ Leek
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Sassy Nature
+- Meteor Assault
+- Leaf Blade
+- First Impression
+- Night Slash
+
+Drampa @ Drampanite
+Ability: Cloud Nine
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Sassy Nature
+- Hyper Voice
+- Flamethrower
+- Ice Beam
+- Rock Slide
+
+Toxtricity-Low-Key @ Payapa Berry
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Overdrive
+- Thunderbolt
+- Sludge Bomb
+- Boomburst
+
+Machamp @ Expert Belt
+Ability: No Guard
+Level: 50
+EVs: 31 HP / 20 Atk / 1 Def / 1 SpD / 13 Spe
+Sassy Nature
+- Seismic Toss
+- Cross Chop
+- Thunder Punch
+- Throat Chop
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Uproar
+- Helping Hand
+- Twin Beam
+- Trick Room
+
+Tinkaton @ Eject Button
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Sassy Nature
+- Play Rough
+- Gigaton Hammer
+- Skitter Smack
+- Fake Out

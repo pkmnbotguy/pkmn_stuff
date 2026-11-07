@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Protect
+- Solar Beam
+- Flamethrower
+
+Typhlosion @ Charcoal
+Ability: Blaze
+Level: 50
+EVs: 32 SpA / 2 SpD / 32 Spe
+Modest Nature
+- Shadow Ball
+- Protect
+- Eruption
+- Heat Wave
+
+Ninetales @ Life Orb
+Ability: Drought
+Level: 50
+EVs: 32 HP / 6 Def / 19 SpA / 9 Spe
+Modest Nature
+- Flamethrower
+- Dark Pulse
+- Heat Wave
+- Protect
+
+Talonflame @ Focus Sash
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Tailwind
+- Brave Bird
+- Flare Blitz
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Darkest Lariat
+- Parting Shot
+- Flare Blitz
+- Fake Out
+
+Arcanine @ Silk Scarf
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 17 Atk / 1 SpD / 16 Spe
+Adamant Nature
+- Flare Blitz
+- Extreme Speed
+- Protect
+- Play Rough

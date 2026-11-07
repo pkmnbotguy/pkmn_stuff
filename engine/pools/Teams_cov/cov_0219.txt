@@ -1,0 +1,60 @@
+Vivillon-Jungle @ Icy Rock  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 16 Atk / 31 SpD / 19 Spe  
+Lax Nature  
+- Tailwind  
+- Snore  
+- Rest  
+- Struggle Bug  
+
+Aurorus @ Pecha Berry  
+Ability: Refrigerate  
+Level: 50  
+EVs: 19 Atk / 22 SpD / 25 Spe  
+Naughty Nature  
+- Mirror Coat  
+- Aurora Veil  
+- Freeze-Dry  
+- Iron Defense  
+
+Alcremie-Ruby-Cream @ Haban Berry  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 32 HP / 13 Def / 14 SpD / 7 Spe  
+Sassy Nature  
+- Sweet Kiss  
+- Imprison  
+- Calm Mind  
+- Tri Attack  
+
+Machamp @ Wacan Berry  
+Ability: No Guard  
+Level: 50  
+EVs: 32 Atk / 17 Def / 17 SpA  
+Gentle Nature  
+- Giga Impact  
+- Facade  
+- Wide Guard  
+- Rest  
+
+Crabominable @ Crabominite  
+Ability: Anger Point  
+Level: 50  
+EVs: 27 HP / 12 Atk / 19 Def / 8 SpA  
+Adamant Nature  
+- Earthquake  
+- Facade  
+- Thief  
+- Icy Wind  
+
+Sinistcha @ Kasib Berry  
+Ability: Heatproof  
+Level: 50  
+EVs: 5 HP / 31 SpD / 30 Spe  
+Lax Nature  
+- Energy Ball  
+- Endure  
+- Memento  
+- Phantom Force  
+

@@ -1,0 +1,60 @@
+Vivillon-High Plains @ Magnet  
+Ability: Friend Guard  
+Level: 50  
+EVs: 18 Atk / 14 Def / 2 SpD / 32 Spe  
+Lax Nature  
+- Rest  
+- Sleep Talk  
+- Tailwind  
+- Substitute  
+
+Sirfetch’d @ Spell Tag  
+Ability: Scrappy  
+Level: 50  
+EVs: 32 Atk / 13 Def / 4 SpA / 17 Spe  
+Gentle Nature  
+- Steel Wing  
+- Poison Jab  
+- Round  
+- Quick Guard  
+
+Gourgeist-Large @ Lum Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 29 HP / 5 SpA / 32 SpD  
+Quiet Nature  
+- Foul Play  
+- Bullet Seed  
+- Explosion  
+- Sleep Talk  
+
+Talonflame @ Damp Rock  
+Ability: Gale Wings  
+Level: 50  
+EVs: 24 Def / 23 SpA / 8 SpD / 11 Spe  
+Bold Nature  
+- Heat Wave  
+- Bulk Up  
+- Substitute  
+- Fly  
+
+Trevenant @ King's Rock  
+Ability: Natural Cure  
+Level: 50  
+EVs: 3 HP / 15 Def / 32 SpA / 16 Spe  
+Sassy Nature  
+- Shadow Punch  
+- Forest's Curse  
+- Focus Blast  
+- Knock Off  
+
+Aggron @ Mental Herb  
+Ability: Heavy Metal  
+Level: 50  
+EVs: 10 HP / 14 Atk / 22 Def / 20 SpD  
+Lonely Nature  
+- Focus Blast  
+- Body Slam  
+- Giga Impact  
+- Thunder Punch  
+

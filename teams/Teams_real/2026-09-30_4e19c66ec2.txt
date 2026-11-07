@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Weather Ball
+- Heat Wave
+- Protect
+- Hurricane
+
+Pelipper @ Leftovers
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Hurricane
+- Wide Guard
+- Weather Ball
+- Protect
+
+Gliscor @ Focus Sash
+Ability: Hyper Cutter
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Tailwind
+- High Horsepower
+- Dual Wingbeat
+
+Emolga @ Charti Berry
+Ability: Motor Drive
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Volt Switch
+- Air Slash
+- Encore
+
+Gyarados @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 5 Atk / 26 Def / 1 SpD / 2 Spe
+Adamant Nature
+- Waterfall
+- Taunt
+- Helping Hand
+- Thunder Wave
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Ice Fang
+- Dual Wingbeat
+- Protect

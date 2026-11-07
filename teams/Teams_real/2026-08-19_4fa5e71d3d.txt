@@ -1,0 +1,59 @@
+Staraptor @ Choice Scarf
+Ability: Reckless
+Level: 50
+EVs: 32 HP / 5 Atk / 29 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Final Gambit
+- U-turn
+
+Whimsicott @ Focus Sash
+Ability: Infiltrator
+Level: 50
+EVs: 32 HP / 11 Def / 23 SpA
+Quiet Nature
+- Moonblast
+- Energy Ball
+- Trick Room
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Rock Slide
+- Knock Off
+- Ice Punch
+- Protect
+
+Excadrill @ Iron Ball
+Ability: Sand Force
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Def
+Brave Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 32 HP / 23 Def / 11 SpA
+Quiet Nature
+- Heat Wave
+- Weather Ball
+- Ancient Power
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 17 HP / 16 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Detect

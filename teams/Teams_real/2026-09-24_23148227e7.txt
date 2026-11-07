@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Careful Nature
+- Rock Slide
+- Knock Off
+- Protect
+- Dragon Dance
+
+Chimecho @ Chimechite
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Relaxed Nature
+- Boomburst
+- Psychic
+- Ally Switch
+- Calm Mind
+
+Klefki @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Foul Play
+- Reflect
+- Light Screen
+- Trick Room
+
+Garganacl @ Leftovers
+Ability: Purifying Salt
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Relaxed Nature
+- Wide Guard
+- Body Press
+- Salt Cure
+- Iron Defense
+
+Arcanine-Hisui @ Focus Sash
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Protect
+- Extreme Speed
+- Rock Slide
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Rage Powder

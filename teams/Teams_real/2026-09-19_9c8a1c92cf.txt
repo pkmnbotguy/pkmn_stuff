@@ -1,0 +1,59 @@
+Baxcalibur @ Life Orb
+Ability: Thermal Exchange
+Level: 50
+EVs: 19 HP / 25 Atk / 22 Spe
+Adamant Nature
+- Glaive Rush
+- Icicle Crash
+- Protect
+- Freeze-Dry
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Flamethrower
+- Hyper Voice
+- Tailwind
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Snarl
+- Flash Cannon
+- Dragon Pulse
+- Protect
+
+Garchomp @ Roseli Berry
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Earthquake
+- Dragon Claw
+- Protect
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Dragon Pulse
+- Protect
+- Heat Wave
+- Extreme Speed
+
+Dragalge @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 6 Def / 28 SpA
+Modest Nature
+- Sludge Bomb
+- Thunderbolt
+- Dragon Pulse
+- Protect

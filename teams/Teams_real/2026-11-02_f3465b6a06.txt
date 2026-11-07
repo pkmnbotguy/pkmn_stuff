@@ -1,0 +1,59 @@
+Noivern @ Life Orb
+Ability: Telepathy
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Protect
+- Dark Pulse
+- Boomburst
+
+Raichu @ King's Rock
+Ability: Static
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Surf
+- Discharge
+- Thunderbolt
+
+Sneasler @ Normal Gem
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Throat Chop
+- Fake Out
+- Close Combat
+
+Charizard @ Charcoal
+Ability: Solar Power
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Protect
+- Hurricane
+- Scorching Sands
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Giga Drain
+- Tailwind
+- Helping Hand
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Sludge Wave
+- Dazzling Gleam
+- Protect

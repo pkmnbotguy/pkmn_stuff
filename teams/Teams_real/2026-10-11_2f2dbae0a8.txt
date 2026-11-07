@@ -1,0 +1,59 @@
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Revival Blessing
+- Fake Out
+- Double Shock
+
+Delphox @ Delphoxite
+Ability: Magician
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Nasty Plot
+- Heat Wave
+- Psychic
+- Protect
+
+Basculegion-F @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 1 Def / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Shadow Ball
+- Muddy Water
+- Flip Turn
+- Ice Beam
+
+Ninetales-Alola @ Never-Melt Ice
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Freeze-Dry
+- Protect
+
+Kingambit @ Occa Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Swords Dance
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Flamethrower
+- Protect
+- Dragon Pulse

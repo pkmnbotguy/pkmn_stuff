@@ -1,0 +1,57 @@
+Kangaskhan @ Colbur Berry  
+Ability: Early Bird  
+Level: 50  
+EVs: 14 HP / 22 Def / 30 Spe  
+Modest Nature  
+- Ice Punch  
+- Sunny Day  
+- Blizzard  
+- Fire Punch  
+
+Gourgeist @ Cheri Berry  
+Ability: Pickup  
+Level: 50  
+EVs: 7 Atk / 28 SpD / 31 Spe  
+Quirky Nature  
+- Psychic  
+- Poltergeist  
+- Skill Swap  
+- Curse  
+
+Delphox @ Miracle Seed  
+Ability: Magician  
+Level: 50  
+EVs: 11 Atk / 8 Def / 26 SpA / 21 SpD  
+Mild Nature  
+- Agility  
+- Night Shade  
+- Double Team  
+- Imprison  
+
+Lucario @ Silver Powder  
+Ability: Inner Focus  
+Level: 50  
+EVs: 3 HP / 20 Atk / 32 SpA / 5 SpD / 6 Spe  
+Brave Nature  
+- Terrain Pulse  
+- Counter  
+- Blaze Kick  
+- Aura Sphere  
+
+Houndoom @ Houndoominite  
+Ability: Flash Fire  
+Level: 50  
+EVs: 32 Atk / 32 SpA / 2 SpD  
+Rash Nature  
+- Beat Up  
+- Overheat  
+- Flare Blitz  
+- Snore  
+
+Ditto @ Shed Shell  
+Ability: Imposter  
+Level: 50  
+EVs: 32 Atk / 4 Def / 16 SpD / 14 Spe  
+Quirky Nature  
+- Transform  
+

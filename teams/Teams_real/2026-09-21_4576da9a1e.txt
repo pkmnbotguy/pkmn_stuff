@@ -1,0 +1,59 @@
+Rillaboom @ Red Card
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 30 SpD / 4 Spe
+Careful Nature
+- Wood Hammer
+- Grassy Glide
+- Protect
+- Fake Out
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 21 Def / 10 SpA / 1 SpD / 2 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Haze
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Flamethrower
+- Hyper Voice
+- Draco Meteor
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Protect
+- Taunt
+
+Incineroar @ Grassy Seed
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Leech Life
+- Taunt
+- Flare Blitz
+
+Decidueye-Hisui @ Focus Sash
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Triple Arrows
+- Leaf Blade
+- Grassy Glide
+- Sucker Punch

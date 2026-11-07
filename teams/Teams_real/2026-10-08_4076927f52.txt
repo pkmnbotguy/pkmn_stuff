@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Protect
+- Perish Song
+- Shadow Ball
+- Sludge Bomb
+
+Persian-Alola @ Rocky Helmet
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Careful Nature
+- Protect
+- Parting Shot
+- Foul Play
+- Fake Out
+
+Scrafty @ Eject Button
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Protect
+- Fake Out
+- Coaching
+- Close Combat
+
+Pinsir @ Pinsirite
+Ability: Hyper Cutter
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Swords Dance
+- Rock Slide
+- Feint
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Protect
+- Perish Song
+- Whirlpool
+- Weather Ball
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Protect
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse

@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Tailwind
+- Protect
+
+Liepard @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Fake Out
+- Encore
+- Charm
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Flash Cannon
+- Shadow Ball
+- Thunderbolt
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Flash Cannon
+- Snarl
+- Protect
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Wave Crash
+- Flip Turn
+- High Horsepower
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Hurricane
+- Muddy Water
+- Helping Hand
+- Tailwind

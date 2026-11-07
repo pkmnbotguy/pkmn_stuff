@@ -1,0 +1,59 @@
+Ceruledge @ Focus Sash
+Ability: Weak Armor
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Swords Dance
+- Shadow Sneak
+- Bitter Blade
+- Poltergeist
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Protect
+- Draco Meteor
+- Air Slash
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Protect
+- Iron Head
+- Poison Jab
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Nasty Plot
+- Make It Rain
+- Dazzling Gleam
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 1 SpA / 10 SpD / 12 Spe
+Hasty Nature
+- Volt Switch
+- Hydro Pump
+- Will-O-Wisp
+- Protect
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Dazzling Gleam
+- Calm Mind
+- Protect

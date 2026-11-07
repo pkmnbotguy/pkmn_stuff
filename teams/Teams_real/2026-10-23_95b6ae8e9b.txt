@@ -1,0 +1,59 @@
+Falinks @ Falinksite
+Ability: Defiant
+Level: 50
+EVs: 29 HP / 5 Atk / 32 Spe
+Jolly Nature
+- No Retreat
+- Protect
+- Brick Break
+- Poison Jab
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Taunt
+- Parting Shot
+- Fake Out
+
+Rotom-Mow @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 12 SpD / 1 Spe
+Careful Nature
+- Will-O-Wisp
+- Leaf Storm
+- Light Screen
+- Volt Switch
+
+Mamoswine @ Focus Sash
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Ice Shard
+- High Horsepower
+- Icicle Crash
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Nasty Plot
+- Shadow Ball
+- Make It Rain
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Wide Guard
+- Rock Slide
+- Tailwind

@@ -1,0 +1,59 @@
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Tomb
+- Protect
+- Dire Claw
+- Close Combat
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Draco Meteor
+- Hyper Voice
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Lucario @ Lucarionite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Flash Cannon
+- Nasty Plot
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Darkest Lariat
+
+Empoleon @ Focus Sash
+Ability: Competitive
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Yawn
+- Protect

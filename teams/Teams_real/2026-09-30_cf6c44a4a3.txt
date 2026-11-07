@@ -1,0 +1,59 @@
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Espathra @ Grassy Seed
+Ability: Speed Boost
+Level: 50
+EVs: 24 HP / 26 Def / 10 SpD / 6 Spe
+Timid Nature
+- Lumina Crash
+- Calm Mind
+- Baton Pass
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dazzling Gleam
+- Draining Kiss
+- Calm Mind
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Throat Chop
+- Fake Out
+- Parting Shot
+
+Goodra-Hisui @ Leftovers
+Ability: Shell Armor
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Dragon Pulse
+- Flash Cannon
+- Flamethrower
+- Protect
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Claw
+- X-Scissor
+- Close Combat
+- Detect

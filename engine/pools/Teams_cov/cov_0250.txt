@@ -1,0 +1,60 @@
+Skarmory @ Skarmorite  
+Ability: Keen Eye  
+Level: 50  
+EVs: 11 HP / 8 Atk / 18 Def / 29 SpA  
+Bold Nature  
+- Drill Peck  
+- Rock Tomb  
+- Agility  
+- Sleep Talk  
+
+Sharpedo @ Sharpedonite  
+Ability: Rough Skin  
+Level: 50  
+EVs: 10 HP / 27 Atk / 29 SpA  
+Timid Nature  
+- Liquidation  
+- Dark Pulse  
+- Bounce  
+- Poison Jab  
+
+Slowking-Galar @ Haban Berry  
+Ability: Own Tempo  
+Level: 50  
+EVs: 32 HP / 1 Def / 11 SpA / 22 SpD  
+Naive Nature  
+- Eerie Spell  
+- Thunder Punch  
+- Sludge Wave  
+- Sleep Talk  
+
+Raichu @ Icy Rock  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 24 HP / 25 Def / 16 SpA / 1 SpD  
+Timid Nature  
+- Sleep Talk  
+- Substitute  
+- Draining Kiss  
+- Protect  
+
+Lycanroc @ Dragon Fang  
+Ability: Steadfast  
+Level: 50  
+EVs: 8 HP / 25 Atk / 6 SpD / 27 Spe  
+Hardy Nature  
+- Sandstorm  
+- Snarl  
+- Drill Run  
+- Round  
+
+Trevenant @ Oran Berry  
+Ability: Harvest  
+Level: 50  
+EVs: 21 HP / 6 Def / 32 SpA / 7 SpD  
+Serious Nature  
+- Trick  
+- Substitute  
+- Ally Switch  
+- Earthquake  
+

@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Flamethrower
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Dire Claw
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Hyper Beam
+- Hyper Voice
+- Protect
+- Mystical Fire
+
+Samurott-Hisui @ Expert Belt
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Razor Shell
+- Ceaseless Edge
+- Protect
+- Sucker Punch
+
+Spiritomb @ Leftovers
+Ability: Infiltrator
+Level: 50
+EVs: 32 HP / 12 Atk / 12 Def / 10 SpD
+Sassy Nature
+- Trick Room
+- Helping Hand
+- Will-O-Wisp
+- Shadow Sneak
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Leech Seed
+- Flamethrower
+- Protect
+- Rage Powder

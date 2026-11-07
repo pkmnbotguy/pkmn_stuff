@@ -1,0 +1,59 @@
+Altaria @ Altarianite
+Ability: Cloud Nine
+Level: 50
+EVs: 32 HP / 13 Def / 20 SpA / 1 SpD
+Bold Nature
+- Dragon Pulse
+- Flamethrower
+- Hyper Voice
+- Tailwind
+
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 14 HP / 1 Def / 26 SpA / 25 Spe
+Modest Nature
+- Dragon Pulse
+- Earth Power
+- Energy Ball
+- Detect
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 3 HP / 32 SpA / 31 Spe
+Modest Nature
+- Thunderbolt
+- Hydro Pump
+- Helping Hand
+- Trick
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Trick Room
+- Psychic
+- Skill Swap
+- Follow Me
+
+Armarouge @ Twisted Spoon
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Quiet Nature
+- Armor Cannon
+- Ally Switch
+- Expanding Force
+- Wide Guard
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Throat Chop
+- Protect

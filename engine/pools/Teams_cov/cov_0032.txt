@@ -1,0 +1,60 @@
+Aerodactyl @ Colbur Berry  
+Ability: Pressure  
+Level: 50  
+EVs: 30 Def / 4 SpA / 32 Spe  
+Hasty Nature  
+- Substitute  
+- Tailwind  
+- Rest  
+- Curse  
+
+Baxcalibur @ Baxcalibrite  
+Ability: Thermal Exchange  
+Level: 50  
+EVs: 5 HP / 29 Def / 32 SpD  
+Careful Nature  
+- Glaive Rush  
+- Iron Head  
+- Dragon Pulse  
+- Giga Impact  
+
+Infernape @ Zoom Lens  
+Ability: Iron Fist  
+Level: 50  
+EVs: 28 Atk / 32 SpD / 6 Spe  
+Timid Nature  
+- Body Slam  
+- Focus Punch  
+- Slack Off  
+- Calm Mind  
+
+Gliscor @ Smooth Rock  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 5 HP / 29 SpA / 32 SpD  
+Impish Nature  
+- Gunk Shot  
+- Poison Jab  
+- Cross Poison  
+- Sunny Day  
+
+Rotom-Mow @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 2 SpA / 32 SpD / 32 Spe  
+Bold Nature  
+- Uproar  
+- Charge Beam  
+- Discharge  
+- Nasty Plot  
+
+Aurorus @ Yache Berry  
+Ability: Snow Warning  
+Level: 50  
+EVs: 11 HP / 32 SpA / 6 SpD / 17 Spe  
+Naive Nature  
+- Stealth Rock  
+- Facade  
+- Hyper Beam  
+- Weather Ball  
+

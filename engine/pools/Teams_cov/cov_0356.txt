@@ -1,0 +1,60 @@
+Vivillon-Pokeball @ Red Card  
+Ability: Shield Dust  
+Level: 50  
+EVs: 30 HP / 4 Def / 32 Spe  
+Rash Nature  
+- Hyper Beam  
+- U-turn  
+- Struggle Bug  
+- Energy Ball  
+
+Typhlosion @ Cheri Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 8 Atk / 9 SpA / 26 SpD / 23 Spe  
+Brave Nature  
+- Fling  
+- Blast Burn  
+- Substitute  
+- Zen Headbutt  
+
+Mamoswine @ Kasib Berry  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 23 Def / 32 SpA / 11 Spe  
+Gentle Nature  
+- Double Hit  
+- Icicle Spear  
+- Ice Fang  
+- Rock Blast  
+
+Pikachu @ Scope Lens  
+Ability: Static  
+Level: 50  
+EVs: 27 HP / 20 Atk / 10 SpA / 9 Spe  
+Hardy Nature  
+- Charge  
+- Iron Tail  
+- Discharge  
+- Charm  
+
+Decidueye @ Focus Sash  
+Ability: Overgrow  
+Level: 50  
+EVs: 22 HP / 32 SpA / 12 Spe  
+Hasty Nature  
+- Spirit Shackle  
+- Round  
+- Leaf Blade  
+- Phantom Force  
+
+Samurott-Hisui @ Silk Scarf  
+Ability: Torrent  
+Level: 50  
+EVs: 30 HP / 15 SpD / 21 Spe  
+Brave Nature  
+- Screech  
+- Encore  
+- Megahorn  
+- Water Pulse  
+

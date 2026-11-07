@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Sucker Punch
+- Leech Life
+- Protect
+
+Slowking @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 23 Def / 1 SpA / 10 SpD
+Calm Nature
+- Trick Room
+- Helping Hand
+- Muddy Water
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Last Respects
+- Flip Turn
+- Aqua Jet
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Wide Guard
+- Weather Ball
+- Tailwind
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Earthquake
+- Knock Off
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Ice Beam
+- Icy Wind
+- Scald
+- Protect

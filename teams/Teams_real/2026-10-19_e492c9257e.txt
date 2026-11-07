@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Weather Ball
+- Hurricane
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Sleep Powder
+- Sludge Bomb
+- Earth Power
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Electro Shot
+- Dragon Pulse
+- Aura Sphere
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Sassy Nature
+- Sucker Punch
+- Fake Out
+- Light Screen
+- Parting Shot
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 27 HP / 7 Def / 32 Spe
+Jolly Nature
+- Fake Out
+- Protect
+- Zap Cannon
+- Focus Blast
+
+Politoed @ Mystic Water
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Protect
+- Weather Ball
+- Muddy Water
+- Ice Beam

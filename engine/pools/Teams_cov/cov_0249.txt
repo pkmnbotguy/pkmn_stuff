@@ -1,0 +1,60 @@
+Perrserker @ Scope Lens  
+Ability: Battle Armor  
+Level: 50  
+EVs: 13 HP / 19 Atk / 30 Def / 4 Spe  
+Bashful Nature  
+- Sleep Talk  
+- Flail  
+- Charm  
+- Knock Off  
+
+Gardevoir @ Metal Coat  
+Ability: Synchronize  
+Level: 50  
+EVs: 6 Atk / 25 Def / 11 SpA / 24 Spe  
+Careful Nature  
+- Endure  
+- Thunder Wave  
+- Mean Look  
+- Trick  
+
+Noivern @ Rawst Berry  
+Ability: Telepathy  
+Level: 50  
+EVs: 32 HP / 11 SpA / 23 SpD  
+Adamant Nature  
+- Dragon Pulse  
+- Round  
+- U-turn  
+- Dual Wingbeat  
+
+Wyrdeer @ Payapa Berry  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 7 HP / 32 Atk / 11 SpA / 8 SpD / 8 Spe  
+Naughty Nature  
+- Dig  
+- Psychic  
+- Hyper Beam  
+- Extrasensory  
+
+Annihilape @ Leppa Berry  
+Ability: Defiant  
+Level: 50  
+EVs: 6 Atk / 28 SpD / 32 Spe  
+Naive Nature  
+- Endure  
+- Shadow Punch  
+- Assurance  
+- Focus Blast  
+
+Snorlax @ Smooth Rock  
+Ability: Immunity  
+Level: 50  
+EVs: 10 HP / 15 Def / 19 SpD / 22 Spe  
+Brave Nature  
+- Belch  
+- Rock Tomb  
+- Ice Beam  
+- Helping Hand  
+

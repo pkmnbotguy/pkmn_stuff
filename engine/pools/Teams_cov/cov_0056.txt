@@ -1,0 +1,60 @@
+Vileplume @ Cheri Berry  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 29 HP / 28 SpA / 9 Spe  
+Modest Nature  
+- Protect  
+- Trailblaze  
+- Stun Spore  
+- Venoshock  
+
+Houndstone @ Metal Coat  
+Ability: Fluffy  
+Level: 50  
+EVs: 7 HP / 16 Atk / 22 SpD / 21 Spe  
+Mild Nature  
+- Ice Fang  
+- Mud-Slap  
+- Pain Split  
+- Shadow Sneak  
+
+Victreebel @ Victreebelite  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 15 HP / 32 Def / 19 SpA  
+Naughty Nature  
+- Sucker Punch  
+- Growth  
+- Sleep Powder  
+- Stun Spore  
+
+Ninetales-Alola @ Leftovers  
+Ability: Snow Warning  
+Level: 50  
+EVs: 29 HP / 20 SpA / 17 SpD  
+Mild Nature  
+- Triple Axel  
+- Safeguard  
+- Dazzling Gleam  
+- Calm Mind  
+
+Araquanid @ Muscle Band  
+Ability: Water Absorb  
+Level: 50  
+EVs: 24 Def / 30 SpD / 12 Spe  
+Careful Nature  
+- Sticky Web  
+- Waterfall  
+- Pounce  
+- Hydro Pump  
+
+Alcremie-Rainbow-Swirl @ Binding Band  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 8 HP / 32 Def / 26 SpA  
+Careful Nature  
+- Magic Room  
+- Snore  
+- Tri Attack  
+- Decorate  
+

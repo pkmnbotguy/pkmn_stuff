@@ -1,0 +1,60 @@
+Vivillon @ Charti Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 1 Atk / 22 SpA / 20 SpD / 23 Spe  
+Naive Nature  
+- Rain Dance  
+- Weather Ball  
+- Substitute  
+- Skitter Smack  
+
+Heracross @ Zoom Lens  
+Ability: Swarm  
+Level: 50  
+EVs: 32 HP / 22 Atk / 11 SpA / 1 SpD  
+Lonely Nature  
+- Bulk Up  
+- Giga Impact  
+- Megahorn  
+- Lunge  
+
+Pinsir @ Babiri Berry  
+Ability: Hyper Cutter  
+Level: 50  
+EVs: 21 SpA / 25 SpD / 20 Spe  
+Hardy Nature  
+- Throat Chop  
+- Protect  
+- Body Slam  
+- Superpower  
+
+Hydrapple @ Fairy Feather  
+Ability: Sticky Hold  
+Level: 50  
+EVs: 20 HP / 3 SpA / 32 SpD / 11 Spe  
+Bold Nature  
+- Rest  
+- Double-Edge  
+- Hyper Beam  
+- Gyro Ball  
+
+Avalugg @ Haban Berry  
+Ability: Sturdy  
+Level: 50  
+EVs: 12 HP / 32 Atk / 22 SpA  
+Brave Nature  
+- Superpower  
+- Iron Defense  
+- Chilling Water  
+- Protect  
+
+Spiritomb @ Roseli Berry  
+Ability: Pressure  
+Level: 50  
+EVs: 10 HP / 32 Def / 24 Spe  
+Impish Nature  
+- Payback  
+- Lash Out  
+- Psychic  
+- Ally Switch  
+

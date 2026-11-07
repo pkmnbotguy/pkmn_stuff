@@ -1,0 +1,59 @@
+Milotic @ Grassy Seed
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Protect
+- Scald
+- Ice Beam
+- Recover
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Torkoal @ Sitrus Berry
+Ability: Drought
+Level: 50
+EVs: 32 HP / 24 Def / 10 SpD
+Bold Nature
+- Protect
+- Flamethrower
+- Will-O-Wisp
+- Helping Hand
+
+Kleavor @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Stone Axe
+- X-Scissor
+- Feint
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Steel Roller
+- Psychic Fangs
+- Body Press
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Zap Cannon
+- Focus Blast
+- Fake Out

@@ -1,0 +1,57 @@
+Ariados @ Mental Herb  
+Ability: Sniper  
+Level: 50  
+EVs: 24 HP / 12 Atk / 30 Def  
+Timid Nature  
+- Lunge  
+- Baton Pass  
+- Giga Drain  
+- Disable  
+
+Decidueye-Hisui @ Wise Glasses  
+Ability: Scrappy  
+Level: 50  
+EVs: 26 HP / 28 Def / 12 SpD  
+Bold Nature  
+- Shadow Claw  
+- Focus Blast  
+- Swords Dance  
+- Synthesis  
+
+Ditto @ Charti Berry  
+Ability: Imposter  
+Level: 50  
+EVs: 5 Def / 31 SpA / 7 SpD / 23 Spe  
+Naughty Nature  
+- Transform  
+
+Sceptile @ Passho Berry  
+Ability: Unburden  
+Level: 50  
+EVs: 30 HP / 30 Atk / 6 Spe  
+Calm Nature  
+- Seed Bomb  
+- Sleep Talk  
+- Endure  
+- Roar  
+
+Reuniclus @ Sharp Beak  
+Ability: Overcoat  
+Level: 50  
+EVs: 21 HP / 20 Def / 1 SpA / 24 Spe  
+Quirky Nature  
+- Endeavor  
+- Gravity  
+- Guard Swap  
+- Superpower  
+
+Basculegion @ Charcoal  
+Ability: Adaptability  
+Level: 50  
+EVs: 1 HP / 13 Atk / 32 SpA / 20 SpD  
+Quiet Nature  
+- Confuse Ray  
+- Uproar  
+- Flip Turn  
+- Scale Shot  
+

@@ -1,0 +1,59 @@
+Vileplume @ Big Root
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Strength Sap
+- Giga Drain
+- Sleep Powder
+- Sludge Bomb
+
+Indeedee-F @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Psychic
+- Trick Room
+- Protect
+
+Reuniclus @ Life Orb
+Ability: Regenerator
+Level: 50
+EVs: 31 HP / 32 SpA / 3 SpD
+Quiet Nature
+- Expanding Force
+- Focus Blast
+- Reflect
+- Protect
+
+Espathra @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Modest Nature
+- Calm Mind
+- Baton Pass
+- Protect
+- Expanding Force
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Earth Power
+- Protect
+- Helping Hand
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Sucker Punch
+- Play Rough
+- Iron Head
+- Protect

@@ -1,0 +1,60 @@
+Emolga @ Spell Tag  
+Ability: Motor Drive  
+Level: 50  
+EVs: 3 HP / 32 SpA / 31 SpD  
+Adamant Nature  
+- Light Screen  
+- U-turn  
+- Rain Dance  
+- Rising Voltage  
+
+Avalugg-Hisui @ Heat Rock  
+Ability: Strong Jaw  
+Level: 50  
+EVs: 32 HP / 32 SpD / 2 Spe  
+Hardy Nature  
+- Heavy Slam  
+- Sleep Talk  
+- Crunch  
+- Icicle Spear  
+
+Toxtricity @ Coba Berry  
+Ability: Punk Rock  
+Level: 50  
+EVs: 8 HP / 25 Atk / 27 SpA / 6 Spe  
+Rash Nature  
+- Charge  
+- Hyper Voice  
+- Shift Gear  
+- Fire Punch  
+
+Tauros @ Red Card  
+Ability: Sheer Force  
+Level: 50  
+EVs: 15 HP / 21 Atk / 25 Def / 5 Spe  
+Jolly Nature  
+- Dig  
+- Stomping Tantrum  
+- Giga Impact  
+- Zen Headbutt  
+
+Alcremie-Matcha-Cream @ Damp Rock  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 22 HP / 32 SpA / 5 SpD / 7 Spe  
+Lonely Nature  
+- Entrainment  
+- Aromatic Mist  
+- Safeguard  
+- Wonder Room  
+
+Bellibolt @ Chesto Berry  
+Ability: Electromorphosis  
+Level: 50  
+EVs: 14 HP / 20 Atk / 32 Def  
+Jolly Nature  
+- Thunder  
+- Endure  
+- Toxic  
+- Discharge  
+

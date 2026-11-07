@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Expanding Force
+- Protect
+- Calm Mind
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Helping Hand
+- Psychic
+- Follow Me
+- Trick Room
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Head Smash
+- Flare Blitz
+- Helping Hand
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Throat Chop
+- Protect
+- Close Combat
+- Dire Claw
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Armor Cannon
+- Expanding Force
+- Protect
+- Taunt
+
+Greninja @ Greninjite
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Protect
+- Ice Beam
+- Dark Pulse
+- Low Kick

@@ -1,0 +1,59 @@
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Leech Seed
+- Overheat
+- Rage Powder
+- Protect
+
+Froslass @ Froslassite
+Ability: Snow Cloak
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Shadow Ball
+- Aurora Veil
+- Protect
+
+Lycanroc-Dusk @ Focus Sash
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Accelerock
+- Rock Slide
+- Protect
+
+Samurott-Hisui @ Black Glasses
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Arbok @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 24 HP / 15 Atk / 27 Spe
+Adamant Nature
+- Gunk Shot
+- Coil
+- Haze
+- Protect
+
+Dragonite @ Life Orb
+Ability: Inner Focus
+Level: 50
+EVs: 31 HP / 32 Atk / 3 Spe
+Adamant Nature
+- Dragon Claw
+- Tailwind
+- Aerial Ace
+- Superpower

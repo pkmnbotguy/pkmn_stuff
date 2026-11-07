@@ -1,0 +1,59 @@
+Alcremie @ Sitrus Berry
+Ability: Aroma Veil
+Level: 50
+EVs: 32 HP / 32 Def / 1 SpA
+Bold Nature
+- Decorate
+- Protect
+- Imprison
+- Dazzling Gleam
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Cotton Spore
+- Encore
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Bold Nature
+- Expanding Force
+- Dazzling Gleam
+- Mystical Fire
+- Psychic Terrain
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Naive Nature
+- Hyper Voice
+- Aura Sphere
+- Expanding Force
+- Protect
+
+Tinkaton @ Eject Button
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Jolly Nature
+- Gigaton Hammer
+- Fake Out
+- Wood Hammer
+- Swords Dance
+
+Primarina @ Mystic Water
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 8 Def / 24 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Shadow Ball
+- Ice Beam

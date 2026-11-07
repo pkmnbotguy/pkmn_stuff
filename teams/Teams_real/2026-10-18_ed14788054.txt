@@ -1,0 +1,59 @@
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 32 Atk / 2 SpA / 32 Spe
+Naive Nature
+- Protect
+- Close Combat
+- Flamethrower
+- Earthquake
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Scald
+- Ice Beam
+- Recover
+- Mirror Coat
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Earthquake
+- Scale Shot
+- Poison Jab
+- Swords Dance
+
+Corviknight @ Leftovers
+Ability: Unnerve
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Impish Nature
+- Iron Head
+- Taunt
+- Drill Peck
+- Roost
+
+Jolteon @ King's Rock
+Ability: Volt Absorb
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Thunderbolt
+- Light Screen
+- Yawn
+- Shadow Ball
+
+Dragapult @ Dragon Fang
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Draco Meteor
+- Phantom Force
+- Sucker Punch
+- Will-O-Wisp

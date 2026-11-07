@@ -1,0 +1,60 @@
+Sinistcha-Masterpiece @ Fairy Feather  
+Ability: Hospitality  
+Level: 50  
+EVs: 3 HP / 32 Atk / 6 SpA / 25 SpD  
+Timid Nature  
+- Protect  
+- Spite  
+- Iron Defense  
+- Scald  
+
+Chimecho @ Chimechite  
+Ability: Levitate  
+Level: 50  
+EVs: 16 Atk / 12 SpA / 16 SpD / 22 Spe  
+Careful Nature  
+- Heal Bell  
+- Substitute  
+- Round  
+- Charge Beam  
+
+Grapploct @ Cheri Berry  
+Ability: Limber  
+Level: 50  
+EVs: 8 HP / 8 Atk / 32 Def / 5 SpA / 5 SpD / 8 Spe  
+Relaxed Nature  
+- Stomping Tantrum  
+- Attract  
+- Substitute  
+- Sucker Punch  
+
+Gourgeist-Super @ Iron Ball  
+Ability: Frisk  
+Level: 50  
+EVs: 18 HP / 16 SpD / 32 Spe  
+Quiet Nature  
+- Sunny Day  
+- Curse  
+- Scary Face  
+- Disable  
+
+Tauros-Paldea-Combat @ Occa Berry  
+Ability: Anger Point  
+Level: 50  
+EVs: 32 HP / 2 Def / 32 SpA  
+Quiet Nature  
+- Giga Impact  
+- Sunny Day  
+- Reversal  
+- Wild Charge  
+
+Whimsicott @ Muscle Band  
+Ability: Infiltrator  
+Level: 50  
+EVs: 6 HP / 28 Atk / 32 Def  
+Serious Nature  
+- Growth  
+- Rest  
+- Safeguard  
+- Beat Up  
+

@@ -1,0 +1,59 @@
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Drain Punch
+- Iron Head
+- Fake Out
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Relaxed Nature
+- First Impression
+- Leech Life
+- Liquidation
+- Iron Head
+
+Grimmsnarl @ Leftovers
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Light Screen
+- Reflect
+- Spirit Break
+- Throat Chop
+
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Armor Cannon
+- Expanding Force
+- Trick Room
+- Protect
+
+Eelektross @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 6 Atk / 9 Def / 19 Spe
+Adamant Nature
+- Supercell Slam
+- Stomping Tantrum
+- Protect
+- Drain Punch
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Protect
+- Recover

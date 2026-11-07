@@ -1,0 +1,59 @@
+Talonflame @ Muscle Band
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Brave Bird
+- Roost
+- Tailwind
+
+Staraptor @ Staraptite
+Ability: Reckless
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Roost
+- Protect
+
+Clefable @ Clefablite
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Rash Nature
+- Follow Me
+- Blizzard
+- Moonblast
+- Play Rough
+
+Aegislash @ Spell Tag
+Ability: Stance Change
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Swords Dance
+- Close Combat
+- Poltergeist
+- Shadow Sneak
+
+Indeedee @ Psychic Seed
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Expanding Force
+- Protect
+- Psychic
+- Trick Room
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Flamethrower
+- Earthquake
+- Dark Pulse
+- Draco Meteor

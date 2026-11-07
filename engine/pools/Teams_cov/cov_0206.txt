@@ -1,0 +1,60 @@
+Milotic @ Haban Berry  
+Ability: Competitive  
+Level: 50  
+EVs: 22 Atk / 32 SpA / 12 SpD  
+Bold Nature  
+- Endure  
+- Iron Tail  
+- Surf  
+- Aqua Ring  
+
+Skeledirge @ Rindo Berry  
+Ability: Blaze  
+Level: 50  
+EVs: 21 HP / 24 Def / 21 SpA  
+Hardy Nature  
+- Torch Song  
+- Rest  
+- Body Slam  
+- Fire Blast  
+
+Mimikyu @ Electric Seed  
+Ability: Disguise  
+Level: 50  
+EVs: 31 HP / 31 Atk / 4 Spe  
+Adamant Nature  
+- Pounce  
+- Curse  
+- Hex  
+- Shadow Sneak  
+
+Scolipede @ Wise Glasses  
+Ability: Swarm  
+Level: 50  
+EVs: 19 HP / 17 Atk / 9 SpA / 21 Spe  
+Naughty Nature  
+- Attract  
+- Pin Missile  
+- Spikes  
+- Cross Poison  
+
+Liepard @ Twisted Spoon  
+Ability: Limber  
+Level: 50  
+EVs: 32 HP / 12 Def / 2 SpD / 20 Spe  
+Bold Nature  
+- Play Rough  
+- Swagger  
+- Thunder Wave  
+- Rest  
+
+Diggersby @ King's Rock  
+Ability: Pickup  
+Level: 50  
+EVs: 17 HP / 25 Atk / 7 SpA / 17 SpD  
+Lonely Nature  
+- Trailblaze  
+- Payback  
+- Protect  
+- Earthquake  
+

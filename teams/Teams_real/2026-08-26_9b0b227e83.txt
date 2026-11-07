@@ -1,0 +1,59 @@
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 20 HP / 13 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 31 HP / 17 Def / 18 SpD
+Calm Nature
+- Overheat
+- Giga Drain
+- Rage Powder
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 19 HP / 16 Def / 21 SpA / 10 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Detect
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Low Kick
+
+Maushold-Four @ Wide Lens
+Ability: Technician
+Level: 50
+EVs: 20 HP / 10 Atk / 4 SpD / 32 Spe
+Jolly Nature
+- Population Bomb
+- Rain Dance
+- Follow Me
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 6 SpA / 15 SpD / 13 Spe
+Modest Nature
+- Flash Cannon
+- Dragon Pulse
+- Electro Shot
+- Protect

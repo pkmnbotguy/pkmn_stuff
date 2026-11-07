@@ -1,0 +1,59 @@
+Charizard @ Charizardite X
+Ability: Blaze
+Level: 50
+EVs: 14 HP / 21 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Dragon Claw
+- Dragon Dance
+- Flare Blitz
+- Protect
+
+Steelix @ Steelixite
+Ability: Sturdy
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpD
+Impish Nature
+- Body Press
+- Iron Defense
+- Earthquake
+- Iron Head
+
+Tyranitar @ Focus Sash
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Earthquake
+- Knock Off
+- Dragon Dance
+
+Greninja @ Life Orb
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Shuriken
+- Dark Pulse
+- Blizzard
+- Surf
+
+Serperior @ Leftovers
+Ability: Contrary
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Leech Seed
+- Substitute
+- Protect
+
+Talonflame @ Charti Berry
+Ability: Flame Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- Brave Bird
+- Blaze Kick
+- Protect

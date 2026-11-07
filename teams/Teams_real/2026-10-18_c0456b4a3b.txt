@@ -1,0 +1,59 @@
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Iron Head
+- High Horsepower
+- Rock Slide
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Knock Off
+- Rock Slide
+- Dragon Dance
+
+Grimmsnarl @ Leftovers
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 15 Def / 19 SpD
+Impish Nature
+- Fake Out
+- Spirit Break
+- Parting Shot
+- Fake Tears
+
+Rotom @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Volt Switch
+- Discharge
+- Hex
+- Trick
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Tailwind
+- Brave Bird
+- Flare Blitz
+
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Detect
+- Dragon Pulse
+- Earth Power
+- Leaf Storm

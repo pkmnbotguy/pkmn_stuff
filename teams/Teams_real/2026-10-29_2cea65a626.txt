@@ -1,0 +1,59 @@
+Pelipper @ Quick Claw
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Hurricane
+- Ice Beam
+- Tailwind
+- Wide guard
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Solar Beam
+- Sleep Powder
+- Sludge Bomb
+- Protect
+
+Archaludon @ Sitrus Berry
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Electro Shot
+- Flash Cannon
+- Draco meteor
+- Protect
+
+Indeedee-F @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Terrain Pulse
+- Trick
+- Light Screen
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Weather ball
+- Protect
+- Focus Blast
+- heat wave
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Earthquake
+- Knock off
+- Wave crash
+- rock slide

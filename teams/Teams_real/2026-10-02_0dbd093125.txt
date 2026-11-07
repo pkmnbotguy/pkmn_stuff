@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Shadow Claw
+- Detect
+- Night Slash
+
+Slowking-Galar @ Life Orb
+Ability: Curious Medicine
+Level: 50
+EVs: 32 HP / 17 Def / 2 SpA / 15 SpD
+Sassy Nature
+- Sludge Bomb
+- Flamethrower
+- Expanding Force
+- Helping Hand
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Throat Chop
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Encore
+- Protect
+- Super Fang
+- Follow Me
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- U-turn
+- Wood Hammer
+- Grassy Glide
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Clanging Scales
+- Clangorous Soul
+- Protect

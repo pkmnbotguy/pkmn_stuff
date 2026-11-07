@@ -1,0 +1,60 @@
+Krookodile @ Light Clay  
+Ability: Intimidate  
+Level: 50  
+EVs: 10 Atk / 26 SpA / 30 SpD  
+Mild Nature  
+- Crunch  
+- Mud-Slap  
+- Stone Edge  
+- Foul Play  
+
+Vivillon @ Zoom Lens  
+Ability: Shield Dust  
+Level: 50  
+EVs: 32 Atk / 22 Def / 2 SpD / 10 Spe  
+Docile Nature  
+- Light Screen  
+- Hurricane  
+- Facade  
+- Solar Beam  
+
+Polteageist-Antique @ Cheri Berry  
+Ability: Cursed Body  
+Level: 50  
+EVs: 5 HP / 9 Atk / 20 Def / 32 SpA  
+Brave Nature  
+- Sleep Talk  
+- Giga Drain  
+- Light Screen  
+- Hex  
+
+Decidueye @ Electric Seed  
+Ability: Long Reach  
+Level: 50  
+EVs: 11 HP / 32 Atk / 21 SpD / 2 Spe  
+Jolly Nature  
+- Feather Dance  
+- Round  
+- Shadow Sneak  
+- Frenzy Plant  
+
+Goodra-Hisui @ Pecha Berry  
+Ability: Shell Armor  
+Level: 50  
+EVs: 28 HP / 6 Def / 14 SpD / 18 Spe  
+Naive Nature  
+- Dragon Tail  
+- Fire Punch  
+- Mud Shot  
+- Muddy Water  
+
+Swalot @ Scope Lens  
+Ability: Gluttony  
+Level: 50  
+EVs: 13 HP / 2 Atk / 22 SpA / 29 Spe  
+Naive Nature  
+- Toxic Spikes  
+- Substitute  
+- Stockpile  
+- Mud-Slap  
+

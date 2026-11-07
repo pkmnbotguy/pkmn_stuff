@@ -1,0 +1,59 @@
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 13 Def / 1 SpA / 20 SpD
+Modest Nature
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Trick Room
+
+Houndoom @ Houndoominite
+Ability: Unnerve
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Dark Pulse
+- Will-O-Wisp
+- Protect
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Dazzling Gleam
+- Psychic
+- Trick Room
+- Protect
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Swords Dance
+- Play Rough
+- Sucker Punch
+- Protect
+
+Scrafty @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fake Out
+- Close Combat
+- Knock Off
+- Rock Slide
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 1 Def / 8 SpA / 24 SpD / 1 Spe
+Calm Nature
+- Electroweb
+- Hydro Pump
+- Will-O-Wisp
+- Protect

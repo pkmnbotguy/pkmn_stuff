@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- First Impression
+- Iron Head
+- Protect
+
+Araquanid @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD
+Brave Nature
+- Liquidation
+- Leech Life
+- Protect
+- Wide Guard
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 5 Def / 5 SpA / 24 Spe
+Modest Nature
+- Fiery Dance
+- Quiver Dance
+- Giga Drain
+- Protect
+
+Forretress @ Iron Ball
+Ability: Sturdy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Sassy Nature
+- Helping Hand
+- Protect
+- Struggle Bug
+- Gyro Ball
+
+Kleavor @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- X-Scissor
+- Night Slash
+- Close Combat
+- Stone Axe
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sleep Powder
+- Hurricane
+- Rage Powder
+- Protect

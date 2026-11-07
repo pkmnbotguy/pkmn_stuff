@@ -1,0 +1,60 @@
+Squawkabilly @ Metronome  
+Ability: Intimidate  
+Level: 50  
+EVs: 25 Def / 16 SpD / 25 Spe  
+Mild Nature  
+- Seed Bomb  
+- Protect  
+- Scary Face  
+- Reversal  
+
+Reuniclus @ Psychic Seed  
+Ability: Magic Guard  
+Level: 50  
+EVs: 29 HP / 23 Def / 9 SpA / 5 Spe  
+Brave Nature  
+- Expanding Force  
+- Attract  
+- Rest  
+- Steel Roller  
+
+Swampert @ Chilan Berry  
+Ability: Damp  
+Level: 50  
+EVs: 32 HP / 2 Atk / 32 Spe  
+Docile Nature  
+- Focus Punch  
+- Mirror Coat  
+- Surf  
+- Chilling Water  
+
+Hatterene @ Muscle Band  
+Ability: Healer  
+Level: 50  
+EVs: 11 Atk / 23 SpA / 32 SpD  
+Lax Nature  
+- Magic Powder  
+- Trick  
+- Substitute  
+- Misty Explosion  
+
+Typhlosion @ Hard Stone  
+Ability: Flash Fire  
+Level: 50  
+EVs: 23 Atk / 23 SpD / 20 Spe  
+Mild Nature  
+- Fire Spin  
+- Sleep Talk  
+- Endure  
+- Sunny Day  
+
+Vivillon @ Icy Rock  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 19 SpA / 15 SpD / 32 Spe  
+Hasty Nature  
+- Whirlwind  
+- Rest  
+- Bug Bite  
+- Hurricane  
+

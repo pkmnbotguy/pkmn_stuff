@@ -1,0 +1,59 @@
+Typhlosion-Hisui @ Choice Scarf
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Heat Wave
+- Solar Beam
+- Shadow Ball
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Earth Power
+- Power Gem
+- Flamethrower
+- Protect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Iron Head
+- Psychic Fangs
+- Ice Punch
+- Protect
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Earth Power
+- Dark Pulse
+- Tailwind
+- Protect
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Low Kick
+- Power Whip
+- Triple Axel
+- Protect
+
+Meowstic @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 10 Def / 27 SpA / 29 Spe
+Modest Nature
+- Expanding Force
+- Helping Hand
+- Thunder Wave
+- Sunny Day

@@ -1,0 +1,59 @@
+Goodra-Hisui @ Leftovers
+Ability: Sap Sipper
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Body Press
+- Flash Cannon
+- Shelter
+- Life Dew
+
+Ceruledge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Bitter Blade
+- Poltergeist
+- Close Combat
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Dragon Claw
+- Earthquake
+- Stomping Tantrum
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Protect
+- Rock Slide
+- Dragon Dance
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Drill Run
+- Sucker Punch
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Keen Eye
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Wide Guard
+- Weather Ball
+- Tailwind
+- Hurricane

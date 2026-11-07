@@ -1,0 +1,59 @@
+Weavile @ Focus Sash
+Ability: Pickpocket
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Ice Spinner
+- Psycho Cut
+- Knock Off
+
+Kommo-O @ Shell Bell
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Clanging Scales
+- Clangorous Soul
+- Protect
+
+Eelektross @ Eelektrossite
+Ability: Levitate
+Level: 50
+EVs: 7 HP / 4 Def / 32 SpA / 23 Spe
+Modest Nature
+- Flamethrower
+- Thunderbolt
+- Giga Drain
+- Protect
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Scald
+- Protect
+- Ice Beam
+- Recover
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Steel Roller
+- Iron Head
+- Protect
+- Psychic Fangs
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 5 Def / 5 SpA / 24 Spe
+Modest Nature
+- Heat Wave
+- Quiver Dance
+- Struggle Bug
+- Morning Sun

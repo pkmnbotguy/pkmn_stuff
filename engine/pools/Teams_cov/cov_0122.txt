@@ -1,0 +1,60 @@
+Gallade @ Scope Lens  
+Ability: Sharpness  
+Level: 50  
+EVs: 13 HP / 31 Def / 22 Spe  
+Quiet Nature  
+- Focus Punch  
+- Air Slash  
+- Magic Room  
+- Shadow Sneak  
+
+Vivillon-High Plains @ Oran Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 2 HP / 32 Atk / 7 SpD / 25 Spe  
+Careful Nature  
+- Quiver Dance  
+- Rest  
+- Hurricane  
+- Air Slash  
+
+Infernape @ Aspear Berry  
+Ability: Blaze  
+Level: 50  
+EVs: 28 Atk / 31 Def / 7 Spe  
+Calm Nature  
+- Uproar  
+- Facade  
+- Fake Tears  
+- Rock Slide  
+
+Indeedee @ Wacan Berry  
+Ability: Inner Focus  
+Level: 50  
+EVs: 32 HP / 2 SpA / 32 SpD  
+Modest Nature  
+- Protect  
+- Expanding Force  
+- Round  
+- Power Split  
+
+Pyroar @ Persim Berry  
+Ability: Rivalry  
+Level: 50  
+EVs: 11 HP / 18 SpA / 20 SpD / 17 Spe  
+Jolly Nature  
+- Will-O-Wisp  
+- Rest  
+- Fire Blast  
+- Round  
+
+Raichu @ Raichunite Y  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 14 HP / 6 Def / 27 SpA / 16 SpD / 3 Spe  
+Naughty Nature  
+- Play Rough  
+- Grass Knot  
+- Agility  
+- Fake Out  
+

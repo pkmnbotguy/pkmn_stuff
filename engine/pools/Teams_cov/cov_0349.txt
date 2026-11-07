@@ -1,0 +1,60 @@
+Gourgeist-Large @ Misty Seed  
+Ability: Frisk  
+Level: 50  
+EVs: 22 HP / 1 Atk / 32 Def / 11 SpD  
+Careful Nature  
+- Hyper Beam  
+- Sludge Bomb  
+- Dark Pulse  
+- Psychic  
+
+Tauros-Paldea-Combat @ Damp Rock  
+Ability: Intimidate  
+Level: 50  
+EVs: 32 SpA / 31 SpD / 3 Spe  
+Sassy Nature  
+- Assurance  
+- Swagger  
+- Sleep Talk  
+- Sandstorm  
+
+Abomasnow @ Chople Berry  
+Ability: Snow Warning  
+Level: 50  
+EVs: 20 Atk / 32 Def / 14 SpD  
+Sassy Nature  
+- Outrage  
+- Seed Bomb  
+- Iron Tail  
+- Protect  
+
+Sceptile @ Sharp Beak  
+Ability: Unburden  
+Level: 50  
+EVs: 25 Def / 8 SpA / 1 SpD / 32 Spe  
+Hasty Nature  
+- Endure  
+- Hyper Beam  
+- Rest  
+- Solar Beam  
+
+Rampardos @ Fairy Feather  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 24 HP / 10 SpD / 32 Spe  
+Adamant Nature  
+- Endure  
+- Body Press  
+- Rest  
+- Mud-Slap  
+
+Simisear @ Mental Herb  
+Ability: Blaze  
+Level: 50  
+EVs: 22 HP / 25 Atk / 14 SpA / 5 Spe  
+Impish Nature  
+- Stuff Cheeks  
+- Snore  
+- Fire Punch  
+- Fire Blast  
+

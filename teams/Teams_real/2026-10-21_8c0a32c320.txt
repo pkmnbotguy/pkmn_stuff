@@ -1,0 +1,59 @@
+Lucario @ Lucarionite
+Ability: Steadfast
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Thunder Punch
+- Meteor Mash
+- Detect
+
+Heracross @ Life Orb
+Ability: Moxie
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Rock Slide
+- Close Combat
+- Megahorn
+- Detect
+
+Decidueye-Hisui @ Focus Sash
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Triple Arrows
+- Coaching
+- Tailwind
+- Shadow Sneak
+
+Gallade @ Expert Belt
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Trick Room
+- Coaching
+- Sacred Sword
+- Psycho Cut
+
+Crabominable @ Crabominite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Ice Hammer
+- Drain Punch
+- Mach Punch
+
+Pangoro @ Black Glasses
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Detect
+- Headlong Rush
+- Knock Off
+- Hammer Arm

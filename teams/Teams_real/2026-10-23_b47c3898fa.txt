@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Roost
+- Protect
+
+Ninetales-Alola @ Choice Scarf
+Ability: Snow Warning
+Level: 50
+EVs: 11 HP / 1 Def / 25 SpA / 1 SpD / 28 Spe
+Modest Nature
+- Blizzard
+- Freeze-Dry
+- Icy Wind
+- Moonblast
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Power Gem
+- Earth Power
+- Spiky Shield
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Protect
+- Aqua Jet
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+EVs: 17 HP / 13 Def / 5 SpA / 1 SpD / 30 Spe
+Modest Nature
+- Heat Wave
+- Struggle Bug
+- Quiver Dance
+- Rage Powder
+
+Floette-Eternal @ Floettite
+Ability: Symbiosis
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect

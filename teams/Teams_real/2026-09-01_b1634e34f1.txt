@@ -1,0 +1,59 @@
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+Level: 50
+EVs: 19 HP / 20 Atk / 27 Spe
+Adamant Nature
+- Protect
+- Rock Slide
+- Knock Off
+- Low Kick
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 23 HP / 17 Atk / 26 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Dual Wingbeat
+- Tailwind
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 26 Atk / 8 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Flip Turn
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 31 Def / 2 SpD / 1 Spe
+Bold Nature
+- Protect
+- Overheat
+- Giga Drain
+- Rage Powder
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 27 HP / 23 Def / 9 SpD / 7 Spe
+Bold Nature
+- Psychic
+- Thunderbolt
+- Nasty Plot
+- Trick Room
+
+Gholdengo @ Focus Sash
+Ability: Good as Gold
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Make It Rain
+- Shadow Ball
+- Power Gem

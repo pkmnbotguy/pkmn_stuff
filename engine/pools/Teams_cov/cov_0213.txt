@@ -1,0 +1,60 @@
+Toxtricity-Low-Key @ Chesto Berry  
+Ability: Technician  
+Level: 50  
+EVs: 17 HP / 29 Atk / 14 Def / 6 SpA  
+Brave Nature  
+- Endeavor  
+- Thief  
+- Psychic Noise  
+- Flail  
+
+Charizard @ Binding Band  
+Ability: Solar Power  
+Level: 50  
+EVs: 15 HP / 16 Atk / 12 Def / 17 SpA / 6 SpD  
+Brave Nature  
+- Brutal Swing  
+- Scary Face  
+- Focus Punch  
+- Body Slam  
+
+Squawkabilly-Blue @ Magnet  
+Ability: Hustle  
+Level: 50  
+EVs: 32 HP / 14 Atk / 20 SpD  
+Adamant Nature  
+- Scary Face  
+- Dual Wingbeat  
+- Fly  
+- Foul Play  
+
+Simipour @ Haban Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 10 Atk / 13 Def / 27 SpA / 16 Spe  
+Quirky Nature  
+- Recycle  
+- Superpower  
+- Nasty Plot  
+- Throat Chop  
+
+Vivillon-Ocean @ Rawst Berry  
+Ability: Shield Dust  
+Level: 50  
+EVs: 8 HP / 32 Def / 26 SpA  
+Hasty Nature  
+- Thief  
+- Facade  
+- Light Screen  
+- Hurricane  
+
+Gallade @ Dragon Fang  
+Ability: Justified  
+Level: 50  
+EVs: 24 Def / 22 SpA / 8 SpD / 12 Spe  
+Calm Nature  
+- Hypnosis  
+- Close Combat  
+- Solar Blade  
+- Reversal  
+

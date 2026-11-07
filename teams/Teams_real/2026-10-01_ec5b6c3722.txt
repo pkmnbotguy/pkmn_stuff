@@ -1,0 +1,59 @@
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Aura Sphere
+- Dragon Pulse
+- Electro Shot
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Flip Turn
+- Aqua Jet
+- Wave Crash
+- Last Respects
+
+Pikachu @ Light Ball
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Alluring Voice
+- Fake Out
+- Knock Off
+- Thunder
+
+Ninetales @ Heat Rock
+Ability: Drought
+Level: 50
+EVs: 12 HP / 10 Def / 20 SpA / 24 Spe
+Timid Nature
+- Protect
+- Flamethrower
+- Solar Beam
+- Encore
+
+Victreebel @ Life Orb
+Ability: Chlorophyll
+Level: 50
+EVs: 25 HP / 9 Def / 32 SpA
+Rash Nature
+- Strength Sap
+- Sludge Bomb
+- Weather Ball
+- Sucker Punch

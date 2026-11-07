@@ -1,0 +1,19 @@
+[package]
+name = "vgcsim"
+version = "0.2.0"
+edition = "2024"
+description = "Fast Pokemon Champions VGC doubles engine (Gen 9 rules), checked against Showdown."
+license = "MIT-0"
+readme = "README.md"
+publish = false
+
+[dependencies]
+arrayvec = "0.7"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = { version = "1.0", features = ["preserve_order"] }
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+codegen-units = 1
+debug = 1

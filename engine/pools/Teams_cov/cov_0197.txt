@@ -1,0 +1,60 @@
+Ninetales @ Black Belt  
+Ability: Flash Fire  
+Level: 50  
+EVs: 12 HP / 21 Atk / 1 Def / 32 Spe  
+Bold Nature  
+- Charm  
+- Psyshock  
+- Heat Wave  
+- Nasty Plot  
+
+Goodra @ Tanga Berry  
+Ability: Hydration  
+Level: 50  
+EVs: 32 HP / 13 Atk / 21 SpD  
+Serious Nature  
+- Aqua Tail  
+- Sludge Bomb  
+- Counter  
+- Feint  
+
+Arbok @ Bright Powder  
+Ability: Unnerve  
+Level: 50  
+EVs: 4 HP / 21 Def / 32 SpA / 9 Spe  
+Docile Nature  
+- Throat Chop  
+- Substitute  
+- Crunch  
+- Payback  
+
+Dragapult @ Fairy Feather  
+Ability: Infiltrator  
+Level: 50  
+EVs: 31 HP / 18 SpD / 17 Spe  
+Lonely Nature  
+- Bite  
+- Draco Meteor  
+- Acrobatics  
+- Breaking Swipe  
+
+Blaziken @ Magnet  
+Ability: Speed Boost  
+Level: 50  
+EVs: 31 HP / 28 Atk / 5 SpA / 2 SpD  
+Careful Nature  
+- Round  
+- Quick Attack  
+- Heat Wave  
+- Reversal  
+
+Oranguru @ Kebia Berry  
+Ability: Symbiosis  
+Level: 50  
+EVs: 30 Atk / 19 SpA / 17 Spe  
+Hasty Nature  
+- Zen Headbutt  
+- Pain Split  
+- Foul Play  
+- Extrasensory  
+

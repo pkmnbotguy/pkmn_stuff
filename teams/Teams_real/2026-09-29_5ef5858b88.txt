@@ -1,0 +1,59 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Tailwind
+- Protect
+- Encore
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Population Bomb
+- Protect
+- Bullet Seed
+- Bite
+
+Dragapult @ Dragon Fang
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Darts
+- Dragon Cheer
+- Phantom Force
+- Steel Wing
+
+Inteleon @ Scope Lens
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Snipe Shot
+- Ice Beam
+- Protect
+- Dark Pulse
+
+Incineroar @ Muscle Band
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Jolly Nature
+- Flare Blitz
+- Dark Pulse
+- Parting Shot
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Lonely Nature
+- Dragon Rush
+- Double-Edge
+- Hyper Voice
+- Temper Flare

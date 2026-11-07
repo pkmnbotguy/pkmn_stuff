@@ -1,0 +1,59 @@
+Incineroar @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Helping Hand
+- Fake Out
+- Flare Blitz
+- Throat Chop
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Adamant Nature
+- Protect
+- Tailwind
+- Draco Meteor
+- Double-Edge
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- High Horsepower
+- Ice Punch
+
+Scizor @ Scizorite
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Swords Dance
+- Protect
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 Spe
+Bold Nature
+- U-turn
+- Struggle Bug
+- Overheat
+- Rage Powder
+
+Dragapult @ Life Orb
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Thunderbolt
+- Draco Meteor
+- Thunder Wave
+- Protect

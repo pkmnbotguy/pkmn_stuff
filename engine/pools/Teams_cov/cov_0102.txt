@@ -1,0 +1,60 @@
+Bellibolt @ Babiri Berry  
+Ability: Electromorphosis  
+Level: 50  
+EVs: 8 HP / 26 Def / 32 SpD  
+Naughty Nature  
+- Muddy Water  
+- Volt Switch  
+- Protect  
+- Reflect  
+
+Manectric @ Silver Powder  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 17 HP / 24 Def / 16 SpD / 9 Spe  
+Serious Nature  
+- Ice Fang  
+- Curse  
+- Electro Ball  
+- Rain Dance  
+
+Florges @ Silk Scarf  
+Ability: Symbiosis  
+Level: 50  
+EVs: 32 HP / 20 Atk / 14 Def  
+Docile Nature  
+- Sleep Talk  
+- Grass Knot  
+- Trick  
+- Pollen Puff  
+
+Milotic @ King's Rock  
+Ability: Competitive  
+Level: 50  
+EVs: 8 HP / 32 Atk / 26 SpD  
+Rash Nature  
+- Dragon Dance  
+- Dive  
+- Dragon Cheer  
+- Iron Tail  
+
+Volcarona @ Shell Bell  
+Ability: Swarm  
+Level: 50  
+EVs: 24 HP / 12 Atk / 4 SpA / 26 Spe  
+Lonely Nature  
+- Substitute  
+- Sleep Talk  
+- Leech Life  
+- U-turn  
+
+Kleavor @ Persim Berry  
+Ability: Sheer Force  
+Level: 50  
+EVs: 32 HP / 30 Def / 4 Spe  
+Naughty Nature  
+- Focus Energy  
+- Vacuum Wave  
+- Pounce  
+- Acrobatics  
+

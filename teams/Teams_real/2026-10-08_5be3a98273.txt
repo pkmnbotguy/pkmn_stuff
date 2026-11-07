@@ -1,0 +1,59 @@
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Thunderbolt
+- Trick Room
+- Protect
+- Psychic
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Dragon Pulse
+- Hyper Voice
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Play Rough
+- Iron Head
+- Swords Dance
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+EVs: 30 HP / 8 Def / 28 SpA
+Quiet Nature
+- Hyper Voice
+- Moonblast
+- Aqua Jet
+- Protect
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Head Smash
+- Flare Blitz
+- Extreme Speed
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 14 HP / 23 Atk / 7 Def / 20 SpD / 2 Spe
+Careful Nature
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out

@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Quick Attack
+- Protect
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Protect
+- Crunch
+- Icicle Spear
+- Glaive Rush
+
+Sneasler @ Black Belt
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Dire Claw
+- Close Combat
+- Fake Out
+
+Typhlosion @ Charcoal
+Ability: Blaze
+Level: 50
+EVs: 32 SpA / 2 SpD / 32 Spe
+Modest Nature
+- Shadow Ball
+- Protect
+- Eruption
+- Heat Wave
+
+Pelipper @ Quick Claw
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Hurricane
+- Tailwind
+- Weather Ball
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sunny Day
+- Trick Room
+- Moonblast
+- Tailwind

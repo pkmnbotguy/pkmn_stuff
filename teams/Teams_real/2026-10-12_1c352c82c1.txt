@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 12 HP / 1 Def / 20 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Blizzard
+- Protect
+- Shadow Ball
+- Disable
+
+Dragapult @ Life Orb
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dragon Cheer
+- Phantom Force
+- Protect
+- Disable
+
+Gholdengo @ Focus Sash
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Protect
+- Shadow Ball
+- Nasty Plot
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Aqua Jet
+- Flip Turn
+- Wave Crash
+
+Cofagrigus @ Sitrus Berry
+Ability: Mummy
+Level: 50
+EVs: 32 HP / 3 Def / 31 SpD
+Sassy Nature
+- Iron Defense
+- Will-O-Wisp
+- Protect
+- Body Press

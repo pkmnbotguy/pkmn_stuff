@@ -1,0 +1,59 @@
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Sassy Nature
+- Protect
+- Eruption
+- Earth Power
+- Solar Beam
+
+Farigiraf @ Sitrus Berry
+Ability: Cud Chew
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Protect
+- Trick Room
+- Psychic
+- Helping Hand
+
+Absol @ Absolite Z
+Ability: Super Luck
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Detect
+- Shadow Claw
+- Night Slash
+- Close Combat
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Detect
+- Hyper Beam
+- Hyper Voice
+- Quick Attack
+
+Araquanid @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD
+Brave Nature
+- Protect
+- Leech Life
+- Liquidation
+- Crunch
+
+Malamar @ Life Orb
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 12 Def / 22 SpD
+Relaxed Nature
+- Protect
+- Superpower
+- Knock Off
+- Trick Room

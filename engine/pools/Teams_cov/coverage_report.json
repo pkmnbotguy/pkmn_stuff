@@ -1,0 +1,14 @@
+{
+ "teams": 418,
+ "rejected": 0,
+ "legal_species": 293,
+ "moves_learnable": 510,
+ "moves_covered": 510,
+ "items_total": 166,
+ "items_covered": 166,
+ "species_ability_pairs": 722,
+ "moves_missing": [],
+ "items_missing": [],
+ "species_missing": [],
+ "sample_problems": []
+}

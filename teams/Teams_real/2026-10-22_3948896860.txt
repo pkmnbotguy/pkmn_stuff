@@ -1,0 +1,59 @@
+Politoed @ Mystic Water
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Protect
+- Ice Beam
+- Muddy Water
+- Weather Ball
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Ice Punch
+- High Horsepower
+- Wave Crash
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Light Screen
+- Reflect
+- Parting Shot
+- Spirit Break
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Trick
+- Protect
+
+Starmie @ Starminite
+Ability: Natural Cure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Hasty Nature
+- Protect
+- Expanding Force
+- Liquidation
+- Flip Turn
+
+Dragonite @ Focus Sash
+Ability: Inner Focus
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Draco Meteor
+- Hurricane

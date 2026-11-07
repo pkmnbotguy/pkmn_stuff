@@ -1,0 +1,60 @@
+Swalot @ Light Clay  
+Ability: Liquid Ooze  
+Level: 50  
+EVs: 22 Atk / 12 SpA / 32 SpD  
+Bold Nature  
+- Protect  
+- Giga Drain  
+- Fling  
+- Bullet Seed  
+
+Starmie @ Grassy Seed  
+Ability: Analytic  
+Level: 50  
+EVs: 13 HP / 32 Def / 21 SpD  
+Sassy Nature  
+- Snore  
+- Bulk Up  
+- Thunder Wave  
+- Giga Impact  
+
+Mamoswine @ Leftovers  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 19 Atk / 11 Def / 32 SpD / 4 Spe  
+Docile Nature  
+- Reversal  
+- Protect  
+- Iron Head  
+- Bulldoze  
+
+Tyranitar @ Mental Herb  
+Ability: Sand Stream  
+Level: 50  
+EVs: 10 HP / 15 Def / 22 SpA / 4 SpD / 15 Spe  
+Quiet Nature  
+- Fire Fang  
+- Fire Blast  
+- Dragon Dance  
+- Ancient Power  
+
+Slurpuff @ Never-Melt Ice  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 22 HP / 19 Atk / 25 SpA  
+Bold Nature  
+- Sweet Scent  
+- Fake Tears  
+- Giga Impact  
+- Endure  
+
+Conkeldurr @ Eject Button  
+Ability: Iron Fist  
+Level: 50  
+EVs: 19 HP / 16 Atk / 15 Def / 11 SpA / 5 SpD  
+Gentle Nature  
+- Rest  
+- Mega Kick  
+- Round  
+- Endure  
+

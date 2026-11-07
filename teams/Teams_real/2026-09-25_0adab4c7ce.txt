@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Flamethrower
+- Protect
+- Draco Meteor
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpA
+Modest Nature
+- Hyper Voice
+- Protect
+- Expanding Force
+- Trick Room
+
+Sableye @ Life Orb
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Modest Nature
+- Fake Out
+- Rain Dance
+- Sunny Day
+- Energy Ball
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Wide Guard
+- Weather Ball
+- Tailwind
+
+Swampert @ Choice Scarf
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Wave Crash
+- Earthquake
+- Ice Punch
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Eruption
+- Weather Ball
+- Heat Wave
+- Protect

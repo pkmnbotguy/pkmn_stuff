@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Focus Energy
+- Protect
+- Shadow Claw
+- Night Slash
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Protect
+- Wood Hammer
+- Fake Out
+
+Ceruledge @ Colbur Berry
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Protect
+- Bulk Up
+- Shadow Sneak
+- Bitter Blade
+
+Raichu @ Raichunite Y
+Ability: lightning rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Zap Cannon
+- Protect
+- Focus Blast
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Helping Hand
+- Fake Out
+- Parting Shot
+- Flare Blitz
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Coil
+- Muddy Water
+- Protect
+- Hypnosis

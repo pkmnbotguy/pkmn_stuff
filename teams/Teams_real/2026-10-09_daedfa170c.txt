@@ -1,0 +1,59 @@
+Dragonite @ Dragoninite
+Ability: multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+modest Nature
+- protect
+- dragon pulse
+- heat wave
+- tailwind
+
+Incineroar @ Sitrus Berry
+Ability: intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+impish Nature
+- fake out
+- parting shot
+- flare blitz
+- darkest lariat
+
+Gholdengo @ Life Orb
+Ability: good as gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+modest Nature
+- make it rain
+- shadow ball
+- protect
+- nasty plot
+
+Sinistcha @ Kasib Berry
+Ability: hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+bold Nature
+- rage powder
+- matcha gotcha
+- life dew
+- trick room
+
+Floette-Eternal @ Floettite
+Ability: flower veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+modest Nature
+- dazzling gleam
+- protect
+- calm mind
+- draining kiss
+
+Rillaboom @ Miracle Seed
+Ability: grassy surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+adamant Nature
+- fake out
+- grassy glide
+- wood hammer
+- u-turn

@@ -1,0 +1,59 @@
+Houndoom @ Houndoominite
+Ability: Flash Fire
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Heat Wave
+- Protect
+- Scorching Sands
+
+Inteleon @ Scope Lens
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Snipe Shot
+- Icy Wind
+- Protect
+- Ice Beam
+
+Tsareena @ Focus Sash
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Trop Kick
+- Triple Axel
+- Low Kick
+- Taunt
+
+Luxray @ Expert Belt
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Wild Charge
+- Psychic Fangs
+- Superpower
+- Baby-Doll Eyes
+
+Whimsicott @ Occa Berry
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Dazzling Gleam
+- Tailwind
+- Protect
+- Sunny Day
+
+Wyrdeer @ Psychic Seed
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Adamant Nature
+- Psyshield Bash
+- Megahorn
+- Trick Room
+- Imprison

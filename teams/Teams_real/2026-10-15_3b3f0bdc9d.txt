@@ -1,0 +1,59 @@
+Victreebel @ Victreebelite
+Ability: Chlorophyll
+Level: 50
+EVs: 25 HP / 9 Def / 32 SpA
+Lax Nature
+- Power Whip
+- Sludge Bomb
+- Strength Sap
+- Stockpile
+
+Absol @ Absolite Z
+Ability: Pressure
+Level: 50
+EVs: 27 HP / 32 Atk / 4 Def / 3 SpD
+Brave Nature
+- Knock Off
+- Stone Edge
+- Phantom Force
+- Shadow Sneak
+
+Aerodactyl @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Earth Power
+- Steel Wing
+- Dragon Dance
+
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 19 HP / 15 SpA / 32 Spe
+Modest Nature
+- Overheat
+- Flamethrower
+- Shadow Ball
+- Energy Ball
+
+Kingambit @ Leftovers
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Shadow Claw
+- Lash Out
+
+Garchomp @ Sitrus Berry
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Careful Nature
+- Stomping Tantrum
+- Draco Meteor
+- Outrage
+- Dig

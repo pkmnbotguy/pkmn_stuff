@@ -1,0 +1,60 @@
+Vivillon-Marine @ Twisted Spoon  
+Ability: Shield Dust  
+Level: 50  
+EVs: 22 HP / 18 Atk / 26 Spe  
+Bashful Nature  
+- Confuse Ray  
+- Safeguard  
+- Quiver Dance  
+- Giga Drain  
+
+Drampa @ Metronome  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 25 Atk / 11 SpA / 30 Spe  
+Bashful Nature  
+- Protect  
+- Dragon Cheer  
+- Shadow Claw  
+- Light Screen  
+
+Clefable @ Chesto Berry  
+Ability: Cute Charm  
+Level: 50  
+EVs: 16 Atk / 14 SpA / 32 SpD / 4 Spe  
+Quiet Nature  
+- Trick  
+- Brick Break  
+- Cosmic Power  
+- Safeguard  
+
+Arcanine @ Fairy Feather  
+Ability: Flash Fire  
+Level: 50  
+EVs: 12 HP / 6 Atk / 32 Def / 12 SpA / 4 SpD  
+Quiet Nature  
+- Curse  
+- Helping Hand  
+- Body Slam  
+- Flamethrower  
+
+Sandaconda @ Kebia Berry  
+Ability: Shed Skin  
+Level: 50  
+EVs: 32 HP / 2 SpA / 32 Spe  
+Careful Nature  
+- Coil  
+- Minimize  
+- Body Press  
+- Hurricane  
+
+Floette-Eternal @ Chilan Berry  
+Ability: Flower Veil  
+Level: 50  
+EVs: 6 HP / 28 SpD / 32 Spe  
+Quiet Nature  
+- Rain Dance  
+- Wish  
+- Calm Mind  
+- Hyper Beam  
+

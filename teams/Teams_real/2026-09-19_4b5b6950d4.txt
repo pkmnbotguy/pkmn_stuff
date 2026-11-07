@@ -1,0 +1,59 @@
+Alcremie @ Focus Sash
+Ability: Aroma Veil
+Level: 50
+EVs: 32 HP / 32 Def / 1 SpA
+Bold Nature
+- Dazzling Gleam
+- Psych Up
+- Protect
+- Decorate
+
+Chimecho @ Chimechite
+Ability: Levitate
+Level: 50
+EVs: 31 HP / 15 Def / 15 SpA / 3 SpD / 2 Spe
+Modest Nature
+- Trick Room
+- Calm Mind
+- Heal Pulse
+- Dazzling Gleam
+
+Arbok @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 24 HP / 15 Atk / 27 Spe
+Impish Nature
+- Coil
+- Leech Life
+- Earthquake
+- Gunk Shot
+
+Farfetchd @ Choice Scarf
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- U-turn
+- Simple Beam
+- Brave Bird
+- Close Combat
+
+Farigiraf @ Air Balloon
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Twin Beam
+- Ally Switch
+- Helping Hand
+- Trick Room
+
+Torterra @ White Herb
+Ability: Shell Armor
+Level: 50
+EVs: 32 HP / 11 Atk / 15 Def / 8 Spe
+Brave Nature
+- Rock Slide
+- Earthquake
+- Shell Smash
+- Protect

@@ -1,0 +1,60 @@
+Simipour @ Twisted Spoon  
+Ability: Gluttony  
+Level: 50  
+EVs: 23 Atk / 2 Def / 15 SpA / 26 Spe  
+Relaxed Nature  
+- Taunt  
+- Icy Wind  
+- Aqua Ring  
+- Round  
+
+Bellibolt @ Quick Claw  
+Ability: Electromorphosis  
+Level: 50  
+EVs: 23 HP / 32 Def / 11 SpD  
+Brave Nature  
+- Muddy Water  
+- Sucker Punch  
+- Hyper Beam  
+- Thunderbolt  
+
+Scolipede @ Chople Berry  
+Ability: Poison Point  
+Level: 50  
+EVs: 11 HP / 26 Def / 29 SpD  
+Jolly Nature  
+- Leech Life  
+- Rock Tomb  
+- Substitute  
+- Swords Dance  
+
+Sirfetch’d @ Hard Stone  
+Ability: Steadfast  
+Level: 50  
+EVs: 11 Atk / 32 Def / 17 SpA / 6 SpD  
+Brave Nature  
+- Meteor Assault  
+- Double-Edge  
+- Knock Off  
+- Helping Hand  
+
+Malamar @ Shuca Berry  
+Ability: Contrary  
+Level: 50  
+EVs: 26 HP / 1 Atk / 25 Def / 11 SpA / 3 Spe  
+Bold Nature  
+- Stored Power  
+- Superpower  
+- Rest  
+- Torment  
+
+Pelipper @ Bright Powder  
+Ability: Rain Dish  
+Level: 50  
+EVs: 32 HP / 15 Atk / 9 SpA / 10 SpD  
+Naughty Nature  
+- Sleep Talk  
+- Tailwind  
+- Chilling Water  
+- Spit Up  
+

@@ -1,0 +1,60 @@
+Vivillon-Continental @ Smooth Rock  
+Ability: Shield Dust  
+Level: 50  
+EVs: 7 HP / 29 Def / 1 SpA / 29 SpD  
+Bashful Nature  
+- Protect  
+- Pollen Puff  
+- Rain Dance  
+- Whirlwind  
+
+Musharna @ Leppa Berry  
+Ability: Telepathy  
+Level: 50  
+EVs: 15 HP / 2 Def / 17 SpA / 32 Spe  
+Quirky Nature  
+- Snore  
+- Charm  
+- Expanding Force  
+- Hyper Beam  
+
+Palafin @ Black Belt  
+Ability: Zero to Hero  
+Level: 50  
+EVs: 2 HP / 32 Atk / 32 SpD  
+Lax Nature  
+- Reversal  
+- Icy Wind  
+- Flip Turn  
+- Rain Dance  
+
+Houndstone @ Kasib Berry  
+Ability: Fluffy  
+Level: 50  
+EVs: 7 Def / 31 SpA / 21 SpD / 7 Spe  
+Brave Nature  
+- Dig  
+- Fire Fang  
+- Crunch  
+- Sleep Talk  
+
+Sylveon @ Big Root  
+Ability: Pixilate  
+Level: 50  
+EVs: 32 Atk / 27 Def / 6 SpD / 1 Spe  
+Adamant Nature  
+- Flail  
+- Dazzling Gleam  
+- Shadow Ball  
+- Moonblast  
+
+Sandaconda @ Eject Button  
+Ability: Sand Veil  
+Level: 50  
+EVs: 29 HP / 13 Atk / 9 SpA / 15 SpD  
+Lonely Nature  
+- Snore  
+- Fire Fang  
+- Earth Power  
+- Hyper Beam  
+

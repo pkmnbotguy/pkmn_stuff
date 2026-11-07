@@ -1,0 +1,59 @@
+Sirfetchd @ Leek
+Ability: scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- leafblade
+- protect
+- nightslash
+- meteorassault
+
+Arcanine-Hisui @ Focus Sash
+Ability: rockhead
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- extremespeed
+- headsmash
+- flareblitz
+- protect
+
+Pelipper @ Sitrus Berry
+Ability: drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 32 SpD / 1 Spe
+Bold Nature
+- wideguard
+- tailwind
+- weatherball
+- hurricane
+
+Farigiraf @ Colbur Berry
+Ability: armortail
+Level: 50
+EVs: 32 HP / 10 Def / 3 SpA / 20 SpD
+Relaxed Nature
+- psychic
+- protect
+- trickroom
+- helpinghand
+
+Rillaboom @ Miracle Seed
+Ability: grassysurge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- grassyglide
+- woodhammer
+- fakeout
+- highhorsepower
+
+Golisopod @ Golisopite
+Ability: emergencyexit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- leechlife
+- swordsdance
+- protect
+- ironhead

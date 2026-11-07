@@ -1,0 +1,60 @@
+Vivillon-Pokeball @ Focus Band  
+Ability: Friend Guard  
+Level: 50  
+EVs: 25 HP / 10 SpA / 31 SpD  
+Bold Nature  
+- Round  
+- Stun Spore  
+- Solar Beam  
+- Energy Ball  
+
+Perrserker @ Rawst Berry  
+Ability: Tough Claws  
+Level: 50  
+EVs: 32 SpA / 2 SpD / 32 Spe  
+Hasty Nature  
+- Throat Chop  
+- Steel Beam  
+- X-Scissor  
+- Thunderbolt  
+
+Swalot @ Charcoal  
+Ability: Sticky Hold  
+Level: 50  
+EVs: 13 HP / 3 Def / 26 SpD / 24 Spe  
+Impish Nature  
+- Earthquake  
+- Destiny Bond  
+- Brick Break  
+- Solar Beam  
+
+Sneasler @ Metal Coat  
+Ability: Unburden  
+Level: 50  
+EVs: 4 HP / 6 Atk / 31 Def / 25 Spe  
+Modest Nature  
+- Sludge Wave  
+- Screech  
+- Brick Break  
+- Aerial Ace  
+
+Salamence @ Black Glasses  
+Ability: Intimidate  
+Level: 50  
+EVs: 17 HP / 17 SpA / 32 Spe  
+Sassy Nature  
+- Thrash  
+- Hurricane  
+- Crunch  
+- Fire Fang  
+
+Gourgeist-Small @ Rindo Berry  
+Ability: Pickup  
+Level: 50  
+EVs: 25 HP / 10 Atk / 31 SpD  
+Relaxed Nature  
+- Bullet Seed  
+- Leech Seed  
+- Safeguard  
+- Grass Knot  
+

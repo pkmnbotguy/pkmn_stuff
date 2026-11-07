@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Solar Beam
+- Ancient Power
+- Dragon Dance
+
+Raichu @ Expert Belt
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 14 Def / 20 Spe
+Modest Nature
+- Rising Voltage
+- Protect
+- Dig
+- Surf
+
+Quaquaval @ Focus Sash
+Ability: Moxie
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Aqua Step
+- Triple Axel
+- Acrobatics
+- Close Combat
+
+Eelektross @ Terrain Extender
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 6 Atk / 9 Def / 19 Spe
+Adamant Nature
+- Supercell Slam
+- Stomping Tantrum
+- Outrage
+- Electric Terrain
+
+Gallade @ Leftovers
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Sacred Sword
+- Solar Blade
+- Aqua Cutter
+- Psycho Cut
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Light of Ruin
+- Trailblaze
+- Psychic
+- Dazzling Gleam

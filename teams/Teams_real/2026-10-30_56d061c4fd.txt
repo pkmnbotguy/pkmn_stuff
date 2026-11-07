@@ -1,0 +1,59 @@
+Incineroar @ Charcoal
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Brave Nature
+- Flare Blitz
+- Fake Out
+- Darkest Lariat
+- Parting Shot
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Bold Nature
+- Psychic
+- Protect
+- Trick Room
+- Helping Hand
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Protect
+- Heat Wave
+- Earth Power
+- Ancient Power
+
+Gallade @ White Herb
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Trick Room
+- Psycho Cut
+- Wide Guard
+- Sacred Sword
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Dazzling Gleam
+- Expanding Force
+- Trick Room
+- Protect
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Psychic
+- Trick Room
+- Helping Hand

@@ -1,0 +1,59 @@
+Salazzle @ Passho Berry
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Heat Wave
+- Taunt
+- Fake Out
+- Protect
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Energy Ball
+- Sludge Bomb
+- Earth Power
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Rock Slide
+- Fake Out
+- Protect
+
+Slowking-Galar @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Modest Nature
+- Chilling Water
+- Psychic
+- Ice Beam
+- Trick Room
+
+Overqwil @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Throat Chop
+- Barb Barrage
+- Icy Wind
+- Protect
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Power Gem
+- Sludge Bomb
+- Earth Power
+- Spiky Shield

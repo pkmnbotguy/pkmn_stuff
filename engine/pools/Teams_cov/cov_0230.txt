@@ -1,0 +1,60 @@
+Pelipper @ White Herb  
+Ability: Drizzle  
+Level: 50  
+EVs: 13 Atk / 23 SpA / 30 SpD  
+Lax Nature  
+- Round  
+- Substitute  
+- Fly  
+- Chilling Water  
+
+Vivillon-Fancy @ Silver Powder  
+Ability: Friend Guard  
+Level: 50  
+EVs: 26 HP / 23 Atk / 2 SpD / 15 Spe  
+Rash Nature  
+- Rage Powder  
+- Substitute  
+- Endure  
+- Confuse Ray  
+
+Blaziken @ Zoom Lens  
+Ability: Speed Boost  
+Level: 50  
+EVs: 22 HP / 29 Atk / 8 Def / 7 Spe  
+Brave Nature  
+- Stone Edge  
+- Flare Blitz  
+- Sleep Talk  
+- Rest  
+
+Maushold @ Sharp Beak  
+Ability: Cheek Pouch  
+Level: 50  
+EVs: 17 HP / 31 SpA / 18 Spe  
+Adamant Nature  
+- Bullet Seed  
+- U-turn  
+- Rain Dance  
+- Dig  
+
+Meowstic-F @ Metal Coat  
+Ability: Competitive  
+Level: 50  
+EVs: 6 Atk / 27 Def / 24 SpA / 9 Spe  
+Docile Nature  
+- Shadow Ball  
+- Play Rough  
+- Wonder Room  
+- Protect  
+
+Aggron @ Shuca Berry  
+Ability: Sturdy  
+Level: 50  
+EVs: 6 HP / 2 Atk / 32 SpD / 26 Spe  
+Quirky Nature  
+- Steel Roller  
+- Superpower  
+- Meteor Beam  
+- Sleep Talk  
+

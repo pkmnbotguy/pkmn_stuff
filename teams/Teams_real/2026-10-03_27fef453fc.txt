@@ -1,0 +1,59 @@
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 27 HP / 32 SpA / 7 Spe
+Modest Nature
+- Heat Wave
+- Shadow Ball
+- Substitute
+- Protect
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dark Pulse
+- Draco Meteor
+- Earth Power
+- Flash Cannon
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 10 HP / 23 Atk / 7 Def / 26 Spe
+Adamant Nature
+- Power Whip
+- Low Kick
+- Triple Axel
+- Protect
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Tailwind
+- Sunny Day
+- Wide Guard
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Fake Out
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Scald
+- Icy Wind
+- Ice Beam
+- Protect

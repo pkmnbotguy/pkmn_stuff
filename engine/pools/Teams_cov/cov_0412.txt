@@ -1,0 +1,60 @@
+Sinistcha-Masterpiece @ Choice Scarf  
+Ability: Heatproof  
+Level: 50  
+EVs: 17 Atk / 10 Def / 11 SpA / 2 SpD / 26 Spe  
+Mild Nature  
+- Psych Up  
+- Trick Room  
+- Giga Drain  
+- Protect  
+
+Aggron @ Cheri Berry  
+Ability: Rock Head  
+Level: 50  
+EVs: 29 HP / 20 Atk / 15 SpD / 2 Spe  
+Serious Nature  
+- Thunder Wave  
+- Endure  
+- Earthquake  
+- Low Kick  
+
+Vanilluxe @ Shed Shell  
+Ability: Ice Body  
+Level: 50  
+EVs: 32 Atk / 32 SpA / 2 Spe  
+Hardy Nature  
+- Chilling Water  
+- Facade  
+- Attract  
+- Ice Spinner  
+
+Wyrdeer @ Passho Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 30 HP / 32 Def / 4 SpA  
+Brave Nature  
+- Sunny Day  
+- Energy Ball  
+- Rest  
+- Wild Charge  
+
+Tauros-Paldea-Combat @ Muscle Band  
+Ability: Cud Chew  
+Level: 50  
+EVs: 32 Atk / 7 SpA / 2 SpD / 25 Spe  
+Naive Nature  
+- Earthquake  
+- Thief  
+- Snore  
+- Giga Impact  
+
+Meowstic @ Wise Glasses  
+Ability: Prankster  
+Level: 50  
+EVs: 25 HP / 19 SpD / 22 Spe  
+Naughty Nature  
+- Tickle  
+- Dark Pulse  
+- Charm  
+- Psychic  
+

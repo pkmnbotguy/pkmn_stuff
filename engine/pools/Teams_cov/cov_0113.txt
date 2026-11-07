@@ -1,0 +1,60 @@
+Baxcalibur @ Iron Ball  
+Ability: Thermal Exchange  
+Level: 50  
+EVs: 32 HP / 2 Atk / 32 SpA  
+Rash Nature  
+- Icicle Crash  
+- Dragon Pulse  
+- Scale Shot  
+- Crunch  
+
+Torkoal @ Choice Scarf  
+Ability: Drought  
+Level: 50  
+EVs: 3 HP / 32 Def / 12 SpA / 14 SpD / 5 Spe  
+Serious Nature  
+- Body Slam  
+- Bulldoze  
+- Scorching Sands  
+- Temper Flare  
+
+Arcanine @ Poison Barb  
+Ability: Justified  
+Level: 50  
+EVs: 21 HP / 14 Atk / 18 Def / 13 SpA  
+Adamant Nature  
+- Covet  
+- Rest  
+- Curse  
+- Fire Spin  
+
+Lopunny @ Zoom Lens  
+Ability: Klutz  
+Level: 50  
+EVs: 14 HP / 29 Atk / 23 Spe  
+Gentle Nature  
+- Teeter Dance  
+- Brutal Swing  
+- Fake Tears  
+- Quick Attack  
+
+Scrafty @ Life Orb  
+Ability: Shed Skin  
+Level: 50  
+EVs: 17 HP / 31 Atk / 18 SpD  
+Jolly Nature  
+- Payback  
+- Beat Up  
+- Iron Head  
+- Assurance  
+
+Camerupt @ Dragon Fang  
+Ability: Anger Point  
+Level: 50  
+EVs: 3 HP / 13 Atk / 10 SpA / 32 SpD / 8 Spe  
+Lax Nature  
+- Dig  
+- Swallow  
+- Sandstorm  
+- Eruption  
+

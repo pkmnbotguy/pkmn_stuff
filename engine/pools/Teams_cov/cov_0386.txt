@@ -1,0 +1,60 @@
+Ariados @ Chesto Berry  
+Ability: Insomnia  
+Level: 50  
+EVs: 20 HP / 16 SpA / 30 SpD  
+Adamant Nature  
+- Skitter Smack  
+- Leech Life  
+- Solar Beam  
+- Trailblaze  
+
+Trevenant @ Electric Seed  
+Ability: Natural Cure  
+Level: 50  
+EVs: 21 HP / 3 Def / 8 SpA / 2 SpD / 32 Spe  
+Jolly Nature  
+- Burning Jealousy  
+- Imprison  
+- Shadow Ball  
+- Skill Swap  
+
+Sharpedo @ Metal Coat  
+Ability: Rough Skin  
+Level: 50  
+EVs: 6 Atk / 32 SpA / 28 Spe  
+Hardy Nature  
+- Facade  
+- Payback  
+- Bounce  
+- Aqua Jet  
+
+Maushold @ Light Clay  
+Ability: Cheek Pouch  
+Level: 50  
+EVs: 28 Atk / 18 SpA / 20 Spe  
+Brave Nature  
+- Protect  
+- Thief  
+- Hyper Beam  
+- Facade  
+
+Dragonite @ Icy Rock  
+Ability: Multiscale  
+Level: 50  
+EVs: 21 HP / 30 SpA / 8 SpD / 7 Spe  
+Modest Nature  
+- Iron Head  
+- Dragon Cheer  
+- Endure  
+- Sleep Talk  
+
+Cinderace @ Choice Scarf  
+Ability: Blaze  
+Level: 50  
+EVs: 5 HP / 32 Def / 22 SpA / 1 SpD / 6 Spe  
+Adamant Nature  
+- Court Change  
+- Pyro Ball  
+- Snore  
+- Burning Jealousy  
+

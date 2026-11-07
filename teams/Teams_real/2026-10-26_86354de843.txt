@@ -1,0 +1,59 @@
+Lucario @ Expert Belt
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Close Combat
+- Meteor Mash
+- Bullet Punch
+- Detect
+
+Heliolisk @ Rocky Helmet
+Ability: Dry Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Thunderbolt
+- Morning Sun
+- Ally Switch
+- Protect
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Timid Nature
+- Rage Powder
+- Flamethrower
+- Energy Ball
+- Protect
+
+Garchomp @ Yache Berry
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dragon Claw
+- Protect
+- Rock Slide
+- Stomping Tantrum
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpA
+Relaxed Nature
+- Hyper Voice
+- Protect
+- Life Dew
+- Trick Room
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Jolly Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot

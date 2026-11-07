@@ -1,0 +1,59 @@
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Follow Me
+- Trick Room
+- Reflect
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Hyper Voice
+- Expanding Force
+- Calm Mind
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Roost
+- Protect
+
+Rhyperior @ Passho Berry
+Ability: Lightning Rod
+Level: 50
+EVs: 20 HP / 32 Atk / 14 SpD
+Careful Nature
+- High Horsepower
+- Rock Slide
+- Helping Hand
+- Protect
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Overheat
+- Struggle Bug
+- Rage Powder
+- Tailwind
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Rock Tomb

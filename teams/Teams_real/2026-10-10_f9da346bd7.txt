@@ -1,0 +1,59 @@
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Dazzling Gleam
+- Helping Hand
+- Trick Room
+
+Slowbro @ Slowbronite
+Ability: Oblivious
+Level: 50
+EVs: 31 HP / 20 SpD / 15 Spe
+Modest Nature
+- Iron Defense
+- Body Press
+- Expanding Force
+- Trick Room
+
+Rhyperior @ Expert Belt
+Ability: Lightning Rod
+Level: 50
+EVs: 20 HP / 32 Atk / 14 SpD
+Brave Nature
+- Rock Slide
+- High Horsepower
+- Ice Punch
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Earth Power
+- Protect
+
+Gholdengo @ Psychic Seed
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Quiet Nature
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Rock Slide

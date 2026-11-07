@@ -1,0 +1,59 @@
+Swalot @ Leppa Berry
+Ability: Sticky Hold
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Sassy Nature
+- Protect
+- Stockpile
+- Toxic
+- Body Press
+
+Audino @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 7 Def / 20 SpA / 7 SpD
+Bold Nature
+- Trick Room
+- Simple Beam
+- Protect
+- Heal Pulse
+
+Slowbro @ Slowbronite
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Calm Nature
+- Psych Up
+- Body Press
+- Stored Power
+- Slack Off
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Darkest Lariat
+- Fake Out
+- Will-O-Wisp
+- Parting Shot
+
+Drampa @ Drampanite
+Ability: Berserk
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Bold Nature
+- Calm Mind
+- Hyper Voice
+- Roost
+- Dragon Pulse
+
+Sinistcha @ Occa Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Psych Up
+- Life Dew
+- Protect
+- Matcha Gotcha

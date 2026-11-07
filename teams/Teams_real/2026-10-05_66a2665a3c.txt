@@ -1,0 +1,59 @@
+Lopunny @ Lopunnite
+Ability: Cute Charm
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Close Combat
+- Protect
+- Triple Axel
+
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpA
+Timid Nature
+- Hyper Voice
+- Expanding Force
+- Protect
+- Trick Room
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Protect
+- Throat Chop
+
+Ceruledge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Bitter Blade
+- Poltergeist
+- Protect
+- Swords Dance
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 12 SpD / 2 Spe
+Bold Nature
+- Muddy Water
+- Coil
+- Protect
+- Hypnosis
+
+Indeedee-F @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Mystical Fire
+- Imprison
+- Trick Room
+- Follow Me

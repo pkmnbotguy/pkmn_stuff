@@ -1,0 +1,59 @@
+Stunfisk @ Bright Powder
+Ability: Sand Veil
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Earth Power
+- Thunderbolt
+- Sandstorm
+- Stealth Rock
+
+Forretress @ Iron Ball
+Ability: Overcoat
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Gyro Ball
+- Body Press
+- Power Trick
+- Curse
+
+Mr-Mime @ Focus Band
+Ability: Filter
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Psychic
+- Dazzling Gleam
+- Fake Out
+- Wide Guard
+
+Toxtricity-Low-Key @ Life Orb
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Overdrive
+- Sludge Bomb
+- Boomburst
+- Protect
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Uproar
+- Protect
+- Helping Hand
+- Trick Room
+
+Steelix @ Steelixite
+Ability: Sheer Force
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpD
+Gentle Nature
+- Iron Head
+- Earthquake
+- Wide Guard
+- Thunder Fang

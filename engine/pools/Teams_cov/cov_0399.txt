@@ -1,0 +1,60 @@
+Hydreigon @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 32 HP / 32 SpA / 2 SpD  
+Bold Nature  
+- Dragon Rush  
+- Scale Shot  
+- Breaking Swipe  
+- Beat Up  
+
+Rotom-Fan @ Quick Claw  
+Ability: Levitate  
+Level: 50  
+EVs: 32 HP / 15 Def / 7 SpA / 12 Spe  
+Bashful Nature  
+- Endure  
+- Dark Pulse  
+- Sunny Day  
+- Snore  
+
+Chesnaught @ Normal Gem  
+Ability: Overgrow  
+Level: 50  
+EVs: 13 HP / 32 SpD / 21 Spe  
+Quiet Nature  
+- Steel Roller  
+- Poison Jab  
+- Giga Impact  
+- Zen Headbutt  
+
+Meganium @ Icy Rock  
+Ability: Leaf Guard  
+Level: 50  
+EVs: 32 Atk / 2 Def / 32 SpA  
+Mild Nature  
+- Bullet Seed  
+- Mud-Slap  
+- Leech Seed  
+- Dazzling Gleam  
+
+Pinsir @ Poison Barb  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 6 HP / 28 SpD / 32 Spe  
+Mild Nature  
+- Close Combat  
+- Bulldoze  
+- X-Scissor  
+- Round  
+
+Araquanid @ Misty Seed  
+Ability: Water Bubble  
+Level: 50  
+EVs: 24 HP / 10 Atk / 32 Spe  
+Serious Nature  
+- Soak  
+- Aqua Ring  
+- Dive  
+- Body Slam  
+

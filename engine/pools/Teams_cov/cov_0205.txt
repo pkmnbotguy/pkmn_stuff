@@ -1,0 +1,60 @@
+Pyroar @ Haban Berry  
+Ability: Moxie  
+Level: 50  
+EVs: 32 Atk / 16 SpA / 13 SpD / 5 Spe  
+Careful Nature  
+- Flamethrower  
+- Fire Fang  
+- Temper Flare  
+- Roar  
+
+Dragalge @ Oran Berry  
+Ability: Poison Touch  
+Level: 50  
+EVs: 32 HP / 2 Def / 32 Spe  
+Careful Nature  
+- Facade  
+- Venoshock  
+- Double Team  
+- Focus Blast  
+
+Vivillon-Icy Snow @ Leftovers  
+Ability: Friend Guard  
+Level: 50  
+EVs: 1 HP / 32 Def / 1 SpA / 19 SpD / 13 Spe  
+Mild Nature  
+- Round  
+- Tailwind  
+- Acrobatics  
+- Facade  
+
+Krookodile @ Rawst Berry  
+Ability: Moxie  
+Level: 50  
+EVs: 27 HP / 31 SpA / 8 SpD  
+Impish Nature  
+- Low Kick  
+- Endure  
+- Body Slam  
+- Snore  
+
+Gourgeist-Super @ Pecha Berry  
+Ability: Pickup  
+Level: 50  
+EVs: 8 SpA / 26 SpD / 32 Spe  
+Adamant Nature  
+- Sleep Talk  
+- Curse  
+- Dark Pulse  
+- Self-Destruct  
+
+Farigiraf @ Expert Belt  
+Ability: Armor Tail  
+Level: 50  
+EVs: 31 Def / 27 SpA / 8 Spe  
+Naive Nature  
+- Psychic Fangs  
+- Thief  
+- Dazzling Gleam  
+- Twin Beam  
+

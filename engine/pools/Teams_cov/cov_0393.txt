@@ -1,0 +1,60 @@
+Dragapult @ Damp Rock  
+Ability: Infiltrator  
+Level: 50  
+EVs: 2 HP / 32 Atk / 32 SpA  
+Modest Nature  
+- Phantom Force  
+- Curse  
+- Sleep Talk  
+- Substitute  
+
+Toxtricity-Low-Key @ Scope Lens  
+Ability: Minus  
+Level: 50  
+EVs: 32 HP / 32 Def / 2 Spe  
+Serious Nature  
+- Volt Switch  
+- Snarl  
+- Rain Dance  
+- Hyper Voice  
+
+Grapploct @ Focus Sash  
+Ability: Limber  
+Level: 50  
+EVs: 18 Atk / 17 Def / 31 Spe  
+Gentle Nature  
+- Chilling Water  
+- Detect  
+- Reversal  
+- Body Slam  
+
+Aggron @ Icy Rock  
+Ability: Rock Head  
+Level: 50  
+EVs: 14 HP / 7 Atk / 29 SpD / 16 Spe  
+Quiet Nature  
+- Thunder Punch  
+- Superpower  
+- Snore  
+- Blizzard  
+
+Squawkabilly @ Black Glasses  
+Ability: Intimidate  
+Level: 50  
+EVs: 15 Atk / 22 SpA / 13 SpD / 16 Spe  
+Adamant Nature  
+- Seed Bomb  
+- Tailwind  
+- Final Gambit  
+- Helping Hand  
+
+Slowking @ Aspear Berry  
+Ability: Own Tempo  
+Level: 50  
+EVs: 31 HP / 7 SpA / 7 SpD / 21 Spe  
+Bold Nature  
+- Weather Ball  
+- Ice Punch  
+- Chilly Reception  
+- Psychic Noise  
+

@@ -1,0 +1,60 @@
+Vanilluxe @ Air Balloon  
+Ability: Snow Warning  
+Level: 50  
+EVs: 14 Atk / 32 Def / 20 SpA  
+Relaxed Nature  
+- Imprison  
+- Frost Breath  
+- Sheer Cold  
+- Light Screen  
+
+Indeedee @ Mental Herb  
+Ability: Inner Focus  
+Level: 50  
+EVs: 17 Def / 30 SpA / 19 Spe  
+Jolly Nature  
+- Round  
+- Gravity  
+- Substitute  
+- Drain Punch  
+
+Alcremie-Ruby-Swirl @ Terrain Extender  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 13 Def / 29 SpA / 24 SpD  
+Timid Nature  
+- Charm  
+- Sweet Scent  
+- Fling  
+- Psych Up  
+
+Bellibolt @ Oran Berry  
+Ability: Damp  
+Level: 50  
+EVs: 29 Atk / 32 SpD / 5 Spe  
+Careful Nature  
+- Eerie Impulse  
+- Charge  
+- Discharge  
+- Muddy Water  
+
+Kleavor @ Wide Lens  
+Ability: Swarm  
+Level: 50  
+EVs: 32 Atk / 6 SpA / 28 SpD  
+Mild Nature  
+- Helping Hand  
+- Rock Slide  
+- Substitute  
+- Air Slash  
+
+Lopunny @ Smooth Rock  
+Ability: Cute Charm  
+Level: 50  
+EVs: 8 HP / 24 Atk / 12 SpA / 22 SpD  
+Rash Nature  
+- Copycat  
+- Cosmic Power  
+- Fling  
+- Ice Beam  
+

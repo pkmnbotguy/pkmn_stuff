@@ -1,0 +1,59 @@
+Persian-Alola @ Focus Sash
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Fake Out
+- Snarl
+- Fake Tears
+- Taunt
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Protect
+- Rage Powder
+- Trick Room
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Sludge Bomb
+- Nasty Plot
+- Protect
+
+Dragapult @ Life Orb
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dragon Darts
+- Psychic Fangs
+- Will-O-Wisp
+- Protect
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Struggle Bug
+- Overheat
+- Rage Powder
+- Protect
+
+Toxapex @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Bold Nature
+- Infestation
+- Wide Guard
+- Baneful Bunker
+- Toxic

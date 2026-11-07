@@ -1,0 +1,60 @@
+Azumarill @ Kasib Berry  
+Ability: Thick Fat  
+Level: 50  
+EVs: 28 HP / 8 Atk / 30 SpA  
+Bold Nature  
+- Liquidation  
+- Surf  
+- Rest  
+- Hyper Voice  
+
+Rhyperior @ Normal Gem  
+Ability: Reckless  
+Level: 50  
+EVs: 17 HP / 17 SpD / 32 Spe  
+Relaxed Nature  
+- Fire Punch  
+- Poison Jab  
+- Megahorn  
+- Smart Strike  
+
+Wyrdeer @ Oran Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 17 Atk / 20 SpA / 29 SpD  
+Rash Nature  
+- Wild Charge  
+- Body Slam  
+- Endure  
+- Reflect  
+
+Drampa @ Lum Berry  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 30 Atk / 5 SpA / 31 SpD  
+Sassy Nature  
+- Thunderbolt  
+- Snore  
+- Tickle  
+- Rock Slide  
+
+Tauros-Paldea-Aqua @ Leftovers  
+Ability: Cud Chew  
+Level: 50  
+EVs: 3 Atk / 27 Def / 23 SpA / 13 SpD  
+Brave Nature  
+- High Horsepower  
+- Endure  
+- Wild Charge  
+- Whirlpool  
+
+Mr. Rime @ Babiri Berry  
+Ability: Ice Body  
+Level: 50  
+EVs: 23 Atk / 11 SpA / 32 SpD  
+Impish Nature  
+- Brick Break  
+- After You  
+- Torment  
+- Thunderbolt  
+

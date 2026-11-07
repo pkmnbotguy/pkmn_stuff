@@ -1,0 +1,59 @@
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Hurricane
+- Muddy Water
+- Icy Wind
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Electro Shot
+- Draco Meteor
+- Flash Cannon
+
+Greninja @ Greninjite
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Mild Nature
+- Ice Beam
+- Gunk Shot
+- Dark Pulse
+- Rock Slide
+
+Basculegion-F @ Kasib Berry
+Ability: Swift Swim
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Modest Nature
+- Muddy Water
+- Shadow Ball
+- Ice Beam
+- Protect
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Dual Wingbeat
+- Will-O-Wisp
+- Tailwind
+
+Tsareena @ Choice Scarf
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Zen Headbutt
+- Triple Axel
+- Aromatic Mist
+- Power Whip

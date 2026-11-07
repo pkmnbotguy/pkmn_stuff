@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Super Luck
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Psycho Cut
+- Sucker Punch
+- Detect
+
+Sableye @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Adamant Nature
+- Fake Out
+- Knock Off
+- Disable
+- Encore
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Drain Punch
+- Brick Break
+- Throat Chop
+- Coaching
+
+Houndoom @ Bright Powder
+Ability: Flash Fire
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Scorching Sands
+- Destiny Bond
+- Flamethrower
+
+Weavile @ Life Orb
+Ability: Pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Ice Spinner
+- Protect
+- Poison Jab
+- Throat Chop
+
+Krookodile @ Quick Claw
+Ability: Moxie
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Earthquake
+- Crunch
+- Gunk Shot
+- Stealth Rock

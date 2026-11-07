@@ -1,0 +1,59 @@
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Twin Beam
+- Thunderbolt
+- Trick Room
+- Protect
+
+Dragalge @ Dragalgite
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 11 Def / 23 SpA
+Modest Nature
+- Thunderbolt
+- Protect
+- Draco Meteor
+- Sludge Bomb
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Ancient Power
+- Eruption
+- Protect
+- Heat Wave
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Will-O-Wisp
+- Snarl
+- Fake Out
+- Parting Shot
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Expanding Force
+- Trick Room
+- Dazzling Gleam
+- Protect
+
+Grapploct @ Black Belt
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Storm Throw
+- Mach Punch
+- Ice Punch
+- Protect

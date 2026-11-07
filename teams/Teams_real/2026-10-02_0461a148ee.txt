@@ -1,0 +1,59 @@
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 15 Atk / 5 Def / 8 SpD / 6 Spe
+Brave Nature
+- Protect
+- Thunder Punch
+- Rage Fist
+- Drain Punch
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Trick Room
+- Thunderbolt
+- Nasty Plot
+- Expanding Force
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Flamethrower
+- Protect
+- Shadow Ball
+- Hyper Beam
+
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Ice Beam
+- Protect
+- Heat Wave
+- Dragon Pulse
+
+Staraptor @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 3 Atk / 31 Spe
+Adamant Nature
+- Final Gambit
+- Brave Bird
+- Tailwind
+- Brick Break
+
+Camerupt @ Cameruptite
+Ability: Magma Armor
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Earth Power
+- Heat Wave
+- Protect
+- Flash Cannon

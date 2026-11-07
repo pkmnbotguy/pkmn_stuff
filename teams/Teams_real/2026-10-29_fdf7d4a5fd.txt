@@ -1,0 +1,59 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Tailwind
+- Protect
+- Encore
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Population Bomb
+- Super Fang
+- Protect
+- Bite
+
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 19 HP / 15 SpA / 32 Spe
+Modest Nature
+- Poltergeist
+- Heat Wave
+- Energy Ball
+- Haze
+
+Inteleon @ Scope Lens
+Ability: Sniper
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Snipe Shot
+- Ice Beam
+- Protect
+- Dark Pulse
+
+Kleavor @ Life Orb
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- X-Scissor
+- Stone Axe
+- Night Slash
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Focus Blast
+- Weather Ball
+- Protect

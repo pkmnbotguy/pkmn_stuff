@@ -1,0 +1,60 @@
+Grapploct @ Psychic Seed  
+Ability: Technician  
+Level: 50  
+EVs: 32 HP / 8 Atk / 6 Def / 5 SpA / 15 Spe  
+Hasty Nature  
+- Bulk Up  
+- Topsy-Turvy  
+- Dig  
+- Seismic Toss  
+
+Medicham @ Shell Bell  
+Ability: Pure Power  
+Level: 50  
+EVs: 20 HP / 22 Def / 2 SpA / 22 Spe  
+Quiet Nature  
+- Sunny Day  
+- Acupressure  
+- Pain Split  
+- Psych Up  
+
+Swalot @ Silver Powder  
+Ability: Gluttony  
+Level: 50  
+EVs: 29 HP / 6 Def / 31 Spe  
+Relaxed Nature  
+- Acid Spray  
+- Double-Edge  
+- Pain Split  
+- Curse  
+
+Pyroar @ Kebia Berry  
+Ability: Unnerve  
+Level: 50  
+EVs: 17 HP / 6 Def / 21 SpD / 22 Spe  
+Lax Nature  
+- Flare Blitz  
+- Mud-Slap  
+- Will-O-Wisp  
+- Body Slam  
+
+Polteageist @ Air Balloon  
+Ability: Weak Armor  
+Level: 50  
+EVs: 2 Atk / 32 SpA / 32 Spe  
+Bashful Nature  
+- Giga Impact  
+- Stored Power  
+- Substitute  
+- Aromatic Mist  
+
+Banette @ Iron Ball  
+Ability: Insomnia  
+Level: 50  
+EVs: 12 SpA / 32 SpD / 22 Spe  
+Impish Nature  
+- Will-O-Wisp  
+- Scary Face  
+- Skill Swap  
+- Pain Split  
+

@@ -1,0 +1,59 @@
+Goodra-Hisui @ Leftovers
+Ability: Sap Sipper
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Impish Nature
+- Heavy Slam
+- Body Press
+- Protect
+- Shelter
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Last Respects
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- High Horsepower
+- Wood Hammer
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Throat Chop
+- Fake Out
+- Parting Shot
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dazzling Gleam
+- Draining Kiss
+- Calm Mind
+- Protect
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Psycho Cut
+- Close Combat
+- Detect

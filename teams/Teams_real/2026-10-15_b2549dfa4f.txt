@@ -1,0 +1,59 @@
+Pincurchin @ Sitrus Berry
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpA
+Quiet Nature
+- Protect
+- Rising Voltage
+- Electroweb
+- Sucker Punch
+
+Manectric @ Manectite
+Ability: Lightning Rod
+Level: 50
+EVs: 15 HP / 32 SpA / 19 Spe
+Modest Nature
+- Protect
+- Rising Voltage
+- Volt Switch
+- Flamethrower
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Spiky Shield
+- Power Gem
+- Sludge Bomb
+- Earth Power
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Brave Bird
+- Roost
+
+Whimsicott @ Occa Berry
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Moonblast
+- Charm
+- Encore
+- Tailwind
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dark Pulse
+- Snarl
+- Draco Meteor
+- Earth Power

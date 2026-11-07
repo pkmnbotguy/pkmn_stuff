@@ -1,0 +1,60 @@
+Vivillon-Garden @ Choice Scarf  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 32 HP / 13 Atk / 7 Def / 14 SpA  
+Lax Nature  
+- Poison Powder  
+- Skitter Smack  
+- String Shot  
+- Bug Buzz  
+
+Mr. Mime @ Aspear Berry  
+Ability: Filter  
+Level: 50  
+EVs: 31 HP / 29 Atk / 6 SpA  
+Hardy Nature  
+- Stored Power  
+- Iron Defense  
+- Energy Ball  
+- Torment  
+
+Garganacl @ Wacan Berry  
+Ability: Sturdy  
+Level: 50  
+EVs: 28 Def / 18 SpD / 20 Spe  
+Lonely Nature  
+- Fling  
+- Facade  
+- Hyper Beam  
+- Double-Edge  
+
+Avalugg-Hisui @ Cheri Berry  
+Ability: Strong Jaw  
+Level: 50  
+EVs: 17 HP / 25 Def / 24 Spe  
+Impish Nature  
+- Rapid Spin  
+- Ancient Power  
+- Rain Dance  
+- Ice Beam  
+
+Politoed @ Sharp Beak  
+Ability: Damp  
+Level: 50  
+EVs: 32 Atk / 12 Def / 22 Spe  
+Naughty Nature  
+- Haze  
+- Hyper Beam  
+- Uproar  
+- Dig  
+
+Sirfetch’d @ Binding Band  
+Ability: Steadfast  
+Level: 50  
+EVs: 28 Atk / 5 Def / 16 SpD / 17 Spe  
+Rash Nature  
+- Attract  
+- Grassy Glide  
+- Poison Jab  
+- Flail  
+

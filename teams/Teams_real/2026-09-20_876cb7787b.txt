@@ -1,0 +1,59 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Perish Song
+- Shadow Ball
+- Disable
+
+Scrafty @ Roseli Berry
+Ability: Intimidate
+Level: 50
+EVs: 27 HP / 6 Atk / 2 Def / 31 SpD
+Careful Nature
+- Fake Out
+- Detect
+- Knock Off
+- Drain Punch
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Blaze Kick
+- Close Combat
+- Baton Pass
+
+Altaria @ Altarianite
+Ability: Natural Cure
+Level: 50
+EVs: 32 HP / 13 Def / 20 SpA / 1 SpD
+Bold Nature
+- Protect
+- Perish Song
+- Moonblast
+- Roost
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Protect
+- Muddy Water
+- Hypnosis
+- Perish Song
+
+Grimmsnarl @ Bright Powder
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Fake Out
+- Parting Shot
+- Reflect
+- Light Screen

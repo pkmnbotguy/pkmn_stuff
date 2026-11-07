@@ -1,0 +1,59 @@
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Swords Dance
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 14 HP / 23 Atk / 7 Def / 20 SpD / 2 Spe
+Careful Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 29 HP / 5 Atk / 16 Def / 16 SpD
+Impish Nature
+- Fake Out
+- Parting Shot
+- Throat Chop
+- Flare Blitz
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Light of Ruin
+- Moonblast
+- Dazzling Gleam
+- Protect

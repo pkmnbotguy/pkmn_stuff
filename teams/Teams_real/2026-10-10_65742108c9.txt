@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Protect
+- Hyper Voice
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Weather Ball
+- Solar Beam
+
+Indeedee @ Choice Scarf
+Ability: psychicsurge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Trick
+- Trick Room
+- Expanding Force
+- Imprison
+
+Toxapex @ Leftovers
+Ability: regenerator
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Bold Nature
+- Baneful Bunker
+- Wide Guard
+- Infestation
+- Toxic
+
+Sneasler @ Psychic Seed
+Ability: unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Rock Slide
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Tailwind
+- Protect
+- Moonblast
+- Helping Hand

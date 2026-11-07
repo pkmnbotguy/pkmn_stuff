@@ -1,0 +1,59 @@
+Pyroar @ Pyroarite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Hyper Voice
+- Snarl
+- Protect
+
+Sableye @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 7 Def / 27 SpD
+Bold Nature
+- Snarl
+- Sunny Day
+- Helping Hand
+- Quash
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Steel Roller
+- Bullet Punch
+- Psychic Fangs
+- Cosmic Power
+
+Vivillon @ Choice Scarf
+Ability: Compound Eyes
+Level: 50
+EVs: 24 Def / 10 SpD / 32 Spe
+Timid Nature
+- Hurricane
+- Pollen Puff
+- Sleep Powder
+- Tailwind
+
+Runerigus @ Leftovers
+Ability: Wandering Spirit
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Poltergeist
+- Disable
+- Ally Switch
+- Trick Room
+
+Gallade @ Life Orb
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Impish Nature
+- Sacred Sword
+- Fire Punch
+- Wide Guard
+- Upper Hand

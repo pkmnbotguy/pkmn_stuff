@@ -1,0 +1,59 @@
+Venusaur @ Venusaurite
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Sludge Bomb
+- Giga Drain
+- Earth Power
+- Protect
+
+Palafin @ Mystic Water
+Ability: Zero to Hero
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Adamant Nature
+- Jet Punch
+- Wave Crash
+- Close Combat
+- Protect
+
+Persian-Alola @ Focus Sash
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Fake Out
+- Parting Shot
+- Taunt
+- Knock Off
+
+Charizard @ Charizardite X
+Ability: Blaze
+Level: 50
+EVs: 14 HP / 21 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Flame Charge
+- Dragon Dance
+- Dragon Claw
+- Protect
+
+Tinkaton @ Occa Berry
+Ability: Mold Breaker
+Level: 50
+EVs: 32 HP / 7 Atk / 27 Spe
+Jolly Nature
+- Fake Out
+- Gigaton Hammer
+- Play Rough
+- Protect
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 3 HP / 32 SpA / 31 Spe
+Modest Nature
+- Will-O-Wisp
+- Trick
+- Volt Switch
+- Hydro Pump

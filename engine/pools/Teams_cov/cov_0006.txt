@@ -1,0 +1,60 @@
+Hatterene @ Metal Coat  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 21 HP / 24 Atk / 6 SpD / 15 Spe  
+Hasty Nature  
+- Charm  
+- Round  
+- Guard Swap  
+- Protect  
+
+Vivillon-Marine @ Psychic Seed  
+Ability: Friend Guard  
+Level: 50  
+EVs: 21 HP / 14 Atk / 10 SpA / 21 SpD  
+Gentle Nature  
+- Sleep Powder  
+- Snore  
+- Acrobatics  
+- Endure  
+
+Absol @ Leppa Berry  
+Ability: Super Luck  
+Level: 50  
+EVs: 25 HP / 7 Def / 30 SpA / 4 SpD  
+Bold Nature  
+- Superpower  
+- Shadow Claw  
+- Double-Edge  
+- Snore  
+
+Musharna @ Heat Rock  
+Ability: Telepathy  
+Level: 50  
+EVs: 14 Atk / 20 Def / 22 SpA / 10 Spe  
+Bold Nature  
+- Energy Ball  
+- Endure  
+- Calm Mind  
+- Charm  
+
+Liepard @ Aspear Berry  
+Ability: Unburden  
+Level: 50  
+EVs: 6 HP / 32 SpD / 28 Spe  
+Naive Nature  
+- Sleep Talk  
+- Skitter Smack  
+- Fake Out  
+- Rain Dance  
+
+Roserade @ Light Clay  
+Ability: Natural Cure  
+Level: 50  
+EVs: 32 HP / 30 SpA / 4 SpD  
+Impish Nature  
+- Ingrain  
+- Bullet Seed  
+- Cotton Spore  
+- Sleep Talk  
+

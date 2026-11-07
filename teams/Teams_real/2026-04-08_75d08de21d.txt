@@ -1,0 +1,59 @@
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Psychic
+- Hyper Voice
+- Calm Mind
+- Protect
+
+Aegislash @ White Herb
+Ability: Stance Change
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- Poltergeist
+- Sacred Sword
+- King's Shield
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Helping Hand
+- Parting Shot
+- Fake Out
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Pollen Puff
+- Sleep Powder
+- Protect
+
+Hydreigon @ Lum Berry
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Dark Pulse
+- Draco Meteor
+- Tailwind
+- Protect
+
+Tauros-Paldea-Aqua @ Mystic Water
+Ability: Intimidate
+Level: 50
+EVs: 31 HP / 6 Atk / 1 Def / 21 SpD / 7 Spe
+Careful Nature
+- Wave Crash
+- Close Combat
+- Aqua Jet
+- Protect

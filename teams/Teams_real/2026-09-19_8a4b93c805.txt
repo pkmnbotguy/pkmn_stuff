@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Tailwind
+- Roost
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sleep Powder
+- Hurricane
+- Rage Powder
+- Protect
+
+Skarmory @ Skarmorite
+Ability: Sturdy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Iron Head
+- Swords Dance
+- Roost
+
+Dragonite @ White Herb
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Extreme Speed
+- Draco Meteor
+- Flamethrower
+- Protect
+
+Gyarados @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Waterfall
+- Crunch
+- Dragon Dance
+- Protect
+
+Rotom-Fan @ Light Clay
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Volt Switch
+- Electroweb
+- Reflect
+- Light Screen

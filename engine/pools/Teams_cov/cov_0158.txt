@@ -1,0 +1,60 @@
+Thievul @ Persim Berry  
+Ability: Unburden  
+Level: 50  
+EVs: 21 Atk / 10 Def / 13 SpD / 22 Spe  
+Hasty Nature  
+- Round  
+- Giga Impact  
+- Snore  
+- Sucker Punch  
+
+Rotom @ Oran Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 27 Atk / 17 Def / 21 SpA / 1 Spe  
+Hardy Nature  
+- Trick  
+- Helping Hand  
+- Stored Power  
+- Substitute  
+
+Maushold @ Iron Ball  
+Ability: Friend Guard  
+Level: 50  
+EVs: 4 HP / 32 SpA / 7 SpD / 23 Spe  
+Lonely Nature  
+- Baton Pass  
+- Trailblaze  
+- Thunder Wave  
+- Grass Knot  
+
+Farfetch’d @ Red Card  
+Ability: Defiant  
+Level: 50  
+EVs: 13 HP / 25 Atk / 28 Def  
+Modest Nature  
+- Slash  
+- Body Slam  
+- Sky Attack  
+- Knock Off  
+
+Furfrou @ Focus Sash  
+Ability: Fur Coat  
+Level: 50  
+EVs: 12 Def / 28 SpA / 26 SpD  
+Lax Nature  
+- Baby-Doll Eyes  
+- Thunder Fang  
+- Round  
+- Attract  
+
+Dedenne @ Chople Berry  
+Ability: Plus  
+Level: 50  
+EVs: 19 Atk / 2 Def / 13 SpD / 32 Spe  
+Rash Nature  
+- Thunder Wave  
+- Endure  
+- Substitute  
+- Endeavor  
+

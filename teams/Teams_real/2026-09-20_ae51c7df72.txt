@@ -1,0 +1,59 @@
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Power Gem
+- Earth Power
+- Spiky Shield
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 20 HP / 20 Def / 4 SpA / 8 SpD / 14 Spe
+Calm Nature
+- Protect
+- Scald
+- Life Dew
+- Icy Wind
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 Spe
+Bold Nature
+- Protect
+- Struggle Bug
+- Heat Wave
+- Quiver Dance
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Reflect
+- Light Screen
+- Parting Shot
+- Spirit Break
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Fake Out
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Double-Edge
+- Dragon Claw
+- Protect
+- Tailwind

@@ -1,0 +1,59 @@
+Klefki @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 28 HP / 32 SpA / 6 Spe
+Modest Nature
+- Rain Dance
+- Light Screen
+- Sandstorm
+- Flash Cannon
+
+Aggron @ Aggronite
+Ability: Sturdy
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Careful Nature
+- Protect
+- Iron Defense
+- Body Press
+- Heavy Slam
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Rock Slide
+- High Horsepower
+- Iron Head
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Dazzling Gleam
+- Shadow Ball
+- Make It Rain
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+
+Steelix @ Steelixite
+Ability: Sturdy
+Level: 50
+EVs: 32 HP / 2 Atk / 32 SpD
+Adamant Nature
+- Protect
+- High Horsepower
+- Heavy Slam
+- Wide Guard

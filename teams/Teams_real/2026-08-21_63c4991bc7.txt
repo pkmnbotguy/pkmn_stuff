@@ -1,0 +1,59 @@
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 2 Def / 4 SpA / 5 SpD / 23 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Mamoswine @ Life Orb
+Ability: Oblivious
+Level: 50
+EVs: 10 HP / 32 Atk / 24 Spe
+Adamant Nature
+- High Horsepower
+- Icicle Crash
+- Ice Shard
+- Protect
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 21 Def / 13 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 19 HP / 32 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Calm Mind
+- Detect
+
+Arcanine-Hisui @ Focus Sash
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Protect
+
+Meowscarada @ Choice Scarf
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flower Trick
+- Knock Off
+- Triple Axel
+- Aerial Ace

@@ -1,0 +1,59 @@
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Tailwind
+- Flamethrower
+- Hyper Voice
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 10 HP / 2 Def / 32 SpA / 2 SpD / 20 Spe
+Modest Nature
+- Protect
+- Expanding Force
+- Wide Guard
+- Armor Cannon
+
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+Level: 50
+EVs: 32 HP / 8 Def / 15 SpA / 11 Spe
+Modest Nature
+- Protect
+- Calm Mind
+- Hyper Voice
+- Expanding Force
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 4 HP / 20 Atk / 10 Def / 32 Spe
+Adamant Nature
+- Protect
+- Throat Chop
+- Dire Claw
+- Close Combat
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Trick
+- Dazzling Gleam
+- Mystical Fire
+- Expanding Force
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Protect
+- Ice Beam
+- Icy Wind
+- Scald

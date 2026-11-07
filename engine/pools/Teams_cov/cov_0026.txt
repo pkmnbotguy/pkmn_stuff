@@ -1,0 +1,60 @@
+Maushold @ Wise Glasses  
+Ability: Friend Guard  
+Level: 50  
+EVs: 21 HP / 32 Atk / 11 SpD / 2 Spe  
+Naughty Nature  
+- Follow Me  
+- Beat Up  
+- Population Bomb  
+- Tidy Up  
+
+Grimmsnarl @ Smooth Rock  
+Ability: Frisk  
+Level: 50  
+EVs: 22 HP / 13 Def / 11 SpD / 20 Spe  
+Naughty Nature  
+- Lash Out  
+- Shadow Claw  
+- Power Swap  
+- Bite  
+
+Vivillon-Fancy @ Terrain Extender  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 28 HP / 25 Def / 13 Spe  
+Timid Nature  
+- Protect  
+- Bug Buzz  
+- Whirlwind  
+- U-turn  
+
+Lopunny @ Persim Berry  
+Ability: Klutz  
+Level: 50  
+EVs: 29 HP / 20 SpA / 17 SpD  
+Calm Nature  
+- Draining Kiss  
+- Substitute  
+- Shadow Ball  
+- Dynamic Punch  
+
+Whimsicott @ Icy Rock  
+Ability: Infiltrator  
+Level: 50  
+EVs: 21 HP / 8 Atk / 32 SpD / 5 Spe  
+Rash Nature  
+- Helping Hand  
+- Endure  
+- Solar Beam  
+- Protect  
+
+Araquanid @ Electric Seed  
+Ability: Water Bubble  
+Level: 50  
+EVs: 28 HP / 18 Def / 16 SpA / 4 SpD  
+Adamant Nature  
+- Endure  
+- Wide Guard  
+- Crunch  
+- Sleep Talk  
+

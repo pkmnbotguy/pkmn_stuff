@@ -1,0 +1,60 @@
+Vivillon-Monsoon @ Miracle Seed  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 HP / 11 Def / 23 Spe  
+Bashful Nature  
+- Facade  
+- Safeguard  
+- Sunny Day  
+- Bug Buzz  
+
+Aerodactyl @ Persim Berry  
+Ability: Unnerve  
+Level: 50  
+EVs: 32 HP / 18 Atk / 13 SpA / 3 Spe  
+Docile Nature  
+- Bite  
+- Iron Tail  
+- Taunt  
+- Wide Guard  
+
+Meowstic-F @ Poison Barb  
+Ability: Infiltrator  
+Level: 50  
+EVs: 28 Def / 14 SpA / 24 SpD  
+Mild Nature  
+- Helping Hand  
+- Wonder Room  
+- Shadow Ball  
+- Covet  
+
+Annihilape @ Silk Scarf  
+Ability: Vital Spirit  
+Level: 50  
+EVs: 32 Atk / 25 Def / 9 Spe  
+Impish Nature  
+- Acrobatics  
+- Double-Edge  
+- Screech  
+- Phantom Force  
+
+Tauros @ Kasib Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 31 Def / 3 SpA / 31 SpD / 1 Spe  
+Naughty Nature  
+- Round  
+- Flamethrower  
+- Body Slam  
+- Giga Impact  
+
+Simisear @ Tanga Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 19 Atk / 17 Def / 30 SpD  
+Modest Nature  
+- Nasty Plot  
+- Snore  
+- Crunch  
+- Round  
+

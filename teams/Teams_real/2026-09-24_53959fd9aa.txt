@@ -1,0 +1,59 @@
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Modest Nature
+- Protect
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Soak
+
+Swampert @ Sitrus Berry
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Wave Crash
+- Protect
+- Ice Punch
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Parting Shot
+- Fake Out
+- Flare Blitz
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Sucker Punch
+- Iron Head
+- Protect
+- Leech Life
+
+Rotom-Wash @ Mental Herb
+Ability: Levitate
+Level: 50
+EVs: 12 HP / 6 Def / 15 SpA / 10 SpD / 23 Spe
+Timid Nature
+- Electroweb
+- Will-O-Wisp
+- Light Screen
+- Protect

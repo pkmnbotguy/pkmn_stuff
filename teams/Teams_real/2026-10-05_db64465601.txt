@@ -1,0 +1,59 @@
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Jolly Nature
+- Superpower
+- Knock Off
+- Rock Slide
+- Protect
+
+Delphox @ Delphoxite
+Ability: Magician
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Expanding Force
+- Calm Mind
+- Protect
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Energy Ball
+- Mystical Fire
+- Trick
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Flare Blitz
+- Snarl
+- Parting Shot
+- Fake Out
+
+Dragapult @ Life Orb
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Shadow Ball
+- Sunny Day
+- Protect
+
+Kleavor @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stone Axe
+- X-Scissor
+- Tailwind
+- Protect

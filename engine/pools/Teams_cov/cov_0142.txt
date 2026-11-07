@@ -1,0 +1,60 @@
+Vivillon-Modern @ Quick Claw  
+Ability: Shield Dust  
+Level: 50  
+EVs: 32 HP / 13 Def / 12 SpD / 9 Spe  
+Bashful Nature  
+- Iron Defense  
+- Energy Ball  
+- Light Screen  
+- Poison Powder  
+
+Bastiodon @ Colbur Berry  
+Ability: Soundproof  
+Level: 50  
+EVs: 22 HP / 18 Atk / 10 Def / 16 SpA  
+Impish Nature  
+- Iron Tail  
+- Screech  
+- Reflect  
+- Hyper Beam  
+
+Musharna @ Rocky Helmet  
+Ability: Forewarn  
+Level: 50  
+EVs: 14 HP / 4 Atk / 32 SpA / 16 Spe  
+Bold Nature  
+- Reflect  
+- Helping Hand  
+- Charm  
+- Rain Dance  
+
+Runerigus @ Scope Lens  
+Ability: Wandering Spirit  
+Level: 50  
+EVs: 32 Atk / 32 Def / 1 SpA / 1 SpD  
+Sassy Nature  
+- Destiny Bond  
+- Bulldoze  
+- Sandstorm  
+- Giga Drain  
+
+Squawkabilly @ Wide Lens  
+Ability: Hustle  
+Level: 50  
+EVs: 25 HP / 23 Def / 18 SpA  
+Naughty Nature  
+- Heat Wave  
+- Scary Face  
+- Aerial Ace  
+- Brave Bird  
+
+Tauros-Paldea-Blaze @ Light Clay  
+Ability: Intimidate  
+Level: 50  
+EVs: 32 HP / 26 Atk / 8 SpA  
+Jolly Nature  
+- Bulk Up  
+- Body Press  
+- Double-Edge  
+- Outrage  
+

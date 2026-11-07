@@ -1,0 +1,60 @@
+Decidueye-Hisui @ Payapa Berry  
+Ability: Scrappy  
+Level: 50  
+EVs: 32 HP / 6 Atk / 28 SpA  
+Sassy Nature  
+- Aerial Ace  
+- Roost  
+- Grassy Terrain  
+- Steel Wing  
+
+Kingambit @ Scope Lens  
+Ability: Supreme Overlord  
+Level: 50  
+EVs: 10 HP / 22 Atk / 24 SpA / 10 Spe  
+Calm Nature  
+- Rain Dance  
+- Brick Break  
+- Dig  
+- Air Slash  
+
+Typhlosion-Hisui @ Roseli Berry  
+Ability: Frisk  
+Level: 50  
+EVs: 18 HP / 14 Atk / 10 Def / 24 SpD  
+Adamant Nature  
+- Substitute  
+- Focus Punch  
+- Snore  
+- Sleep Talk  
+
+Politoed @ Kasib Berry  
+Ability: Water Absorb  
+Level: 50  
+EVs: 8 HP / 30 Def / 28 SpA  
+Hardy Nature  
+- Helping Hand  
+- Brick Break  
+- Psychic  
+- Facade  
+
+Meganium @ Misty Seed  
+Ability: Overgrow  
+Level: 50  
+EVs: 6 HP / 29 Atk / 31 SpD  
+Docile Nature  
+- Weather Ball  
+- Protect  
+- Dazzling Gleam  
+- Petal Blizzard  
+
+Slurpuff @ Aspear Berry  
+Ability: Sweet Veil  
+Level: 50  
+EVs: 25 Def / 14 SpA / 27 Spe  
+Bold Nature  
+- Sticky Web  
+- Cotton Guard  
+- Cotton Spore  
+- Flamethrower  
+

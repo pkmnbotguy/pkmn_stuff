@@ -1,0 +1,59 @@
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rising Voltage
+- Volt Switch
+- Fake Out
+- Protect
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Psychic Noise
+- Helping Hand
+- Trick Room
+- Protect
+
+Araquanid @ Sitrus Berry
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Liquidation
+- Leech Life
+- Icy Wind
+- Wide Guard
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 20 HP / 20 Atk / 26 Spe
+Adamant Nature
+- Close Combat
+- Dual Wingbeat
+- Tailwind
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Make It Rain
+- Nasty Plot
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Stomping Tantrum
+- Dragon Claw
+- Rock Slide
+- Earthquake

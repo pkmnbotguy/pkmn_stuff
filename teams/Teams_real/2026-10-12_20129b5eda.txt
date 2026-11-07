@@ -1,0 +1,59 @@
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Wide Guard
+- Rock Slide
+- Tailwind
+- Dual Wingbeat
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- High Horsepower
+- Protect
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Earth Power
+- Spiky Shield
+- Sludge Bomb
+- Power Gem
+
+Arcanine-Hisui @ Choice Scarf
+Ability: Rock Head
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Head Smash
+- Rock Slide
+- Flame Charge
+- Wild Charge
+
+Rampardos @ Life Orb
+Ability: Sheer Force
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Thunder Punch
+- Fire Punch
+- Protect
+
+Lycanroc-Dusk @ Hard Stone
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Accelerock
+- Rock Slide
+- Close Combat
+- Protect

@@ -1,0 +1,59 @@
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Rock Slide
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Aura Sphere
+- Dragon Pulse
+- Protect
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Flamethrower
+- Leech Seed
+- Rage Powder
+- Protect
+
+Scizor @ Sitrus Berry
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Relaxed Nature
+- Iron Head
+- Bug Bite
+- Bullet Punch
+- Protect
+
+Sableye @ Roseli Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Sassy Nature
+- Foul Play
+- Will-O-Wisp
+- Light Screen
+- Rain Dance

@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Low Kick
+- Rock Slide
+- Protect
+
+Clefable @ Clefablite
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 30 Def / 4 SpA
+Bold Nature
+- Moonblast
+- Follow Me
+- Protect
+- Icy Wind
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Nasty Plot
+- Shadow Ball
+- Protect
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Clanging Scales
+- Clangorous Soul
+- Protect
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Drum Beating
+- High Horsepower
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat Chop

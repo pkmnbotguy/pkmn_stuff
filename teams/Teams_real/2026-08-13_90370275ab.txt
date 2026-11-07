@@ -1,0 +1,59 @@
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 20 HP / 27 SpA / 19 Spe
+Modest Nature
+- Solar Beam
+- Dazzling Gleam
+- Protect
+- Weather Ball
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 17 HP / 17 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Protect
+- Low Kick
+
+Garchomp @ Sitrus Berry
+Ability: Rough Skin
+Level: 50
+EVs: 12 HP / 31 Atk / 19 Def / 4 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Protect
+- Rock Slide
+
+Talonflame @ Charcoal
+Ability: Gale Wings
+Level: 50
+EVs: 32 Atk / 1 Def / 1 SpD / 32 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Protect
+- Tailwind
+
+Aegislash @ Life Orb
+Ability: Stance Change
+Level: 50
+EVs: 32 HP / 23 SpA / 11 Spe
+Modest Nature
+- Flash Cannon
+- Shadow Ball
+- King's Shield
+- Wide Guard
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 20 HP / 20 Atk / 10 Def / 16 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Protect
+- Fake Out

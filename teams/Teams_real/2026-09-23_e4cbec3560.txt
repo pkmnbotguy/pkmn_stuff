@@ -1,0 +1,59 @@
+Decidueye-Hisui @ Scope Lens
+Ability: Scrappy
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Adamant Nature
+- Triple Arrows
+- Leaf Blade
+- Protect
+- Sucker Punch
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Flash Cannon
+- Dark Pulse
+- Aura Sphere
+- Protect
+
+Ceruledge @ Colbur Berry
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Bitter Blade
+- Shadow Sneak
+- Protect
+- Bulk Up
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 31 HP / 21 Def / 1 SpA / 12 SpD / 1 Spe
+Bold Nature
+- Recover
+- Scald
+- Icy Wind
+- Protect
+
+Altaria @ Altarianite
+Ability: Cloud Nine
+Level: 50
+EVs: 26 HP / 17 Def / 3 SpD / 20 Spe
+Timid Nature
+- Hyper Voice
+- Tailwind
+- Protect
+- Flamethrower

@@ -1,0 +1,60 @@
+Vivillon-High Plains @ Aspear Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 8 HP / 32 Atk / 4 SpA / 22 SpD  
+Hardy Nature  
+- Endure  
+- Poison Powder  
+- Sunny Day  
+- Tailwind  
+
+Tsareena @ King's Rock  
+Ability: Leaf Guard  
+Level: 50  
+EVs: 17 HP / 8 Atk / 16 Def / 25 SpD  
+Impish Nature  
+- Aromatic Mist  
+- Zen Headbutt  
+- Acrobatics  
+- Substitute  
+
+Steelix @ Wide Lens  
+Ability: Sturdy  
+Level: 50  
+EVs: 10 Atk / 8 Def / 13 SpA / 3 SpD / 32 Spe  
+Hardy Nature  
+- Body Slam  
+- Fissure  
+- Substitute  
+- Crunch  
+
+Hawlucha @ Focus Sash  
+Ability: Unburden  
+Level: 50  
+EVs: 32 HP / 20 Atk / 14 SpD  
+Careful Nature  
+- Fire Punch  
+- Round  
+- Bulk Up  
+- Roost  
+
+Kleavor @ Terrain Extender  
+Ability: Swarm  
+Level: 50  
+EVs: 22 HP / 32 Def / 12 SpD  
+Sassy Nature  
+- Quick Attack  
+- Focus Energy  
+- Counter  
+- Tailwind  
+
+Typhlosion @ Oran Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 23 HP / 11 Def / 32 Spe  
+Relaxed Nature  
+- Quick Attack  
+- Fling  
+- Rock Tomb  
+- Fire Blast  
+

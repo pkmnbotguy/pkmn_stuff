@@ -1,0 +1,60 @@
+Vivillon-Savanna @ Muscle Band  
+Ability: Shield Dust  
+Level: 50  
+EVs: 2 HP / 32 Def / 32 Spe  
+Lax Nature  
+- Calm Mind  
+- Stun Spore  
+- Pollen Puff  
+- String Shot  
+
+Baxcalibur @ Mental Herb  
+Ability: Ice Body  
+Level: 50  
+EVs: 24 HP / 11 Atk / 5 Def / 6 SpA / 20 Spe  
+Naive Nature  
+- Scary Face  
+- Glaive Rush  
+- Ice Fang  
+- Body Slam  
+
+Goodra-Hisui @ Choice Scarf  
+Ability: Gooey  
+Level: 50  
+EVs: 3 HP / 22 Atk / 12 SpA / 29 Spe  
+Jolly Nature  
+- Stomping Tantrum  
+- Charm  
+- Hydro Pump  
+- Scary Face  
+
+Leafeon @ Soft Sand  
+Ability: Leaf Guard  
+Level: 50  
+EVs: 32 HP / 18 Def / 12 SpA / 4 Spe  
+Mild Nature  
+- Roar  
+- Mud-Slap  
+- Leaf Blade  
+- Tickle  
+
+Quaquaval @ Binding Band  
+Ability: Moxie  
+Level: 50  
+EVs: 20 HP / 28 SpA / 18 SpD  
+Mild Nature  
+- Whirlpool  
+- Aqua Step  
+- Psych Up  
+- Aqua Cutter  
+
+Sableye @ Yache Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 31 HP / 4 Atk / 31 SpA  
+Careful Nature  
+- Zen Headbutt  
+- Recover  
+- Psychic  
+- Lash Out  
+

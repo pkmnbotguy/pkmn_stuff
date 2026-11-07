@@ -1,0 +1,59 @@
+Staraptor @ Quick Claw
+Ability: Reckless
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Tailwind
+- Double-Edge
+
+Froslass @ Wise Glasses
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Taunt
+- Icy Wind
+- Destiny Bond
+- Spikes
+
+Corviknight @ Muscle Band
+Ability: Pressure
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Impish Nature
+- Body Press
+- U-turn
+- Brave Bird
+- Roost
+
+Espathra @ Bright Powder
+Ability: Speed Boost
+Level: 50
+EVs: 27 HP / 30 Def / 9 SpD
+Bold Nature
+- Stored Power
+- Dazzling Gleam
+- Substitute
+- Calm Mind
+
+Baxcalibur @ Life Orb
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Icicle Spear
+- Glaive Rush
+- Earthquake
+- Dragon Dance
+
+Raichu @ Focus Band
+Ability: Lightning Rod
+Level: 50
+EVs: 27 HP / 7 Def / 32 Spe
+Jolly Nature
+- Volt Switch
+- Nasty Plot
+- Fake Out
+- Electroweb

@@ -1,0 +1,59 @@
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Armor Cannon
+- Expanding Force
+- Wide Guard
+- Protect
+
+Dragapult @ Life Orb
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Shadow Ball
+- Will-O-Wisp
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Focus Blast
+- Protect
+- Sludge Bomb
+
+Milotic @ Psychic Seed
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Bold Nature
+- Muddy Water
+- Coil
+- Hypnosis
+- Recover
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Follow Me
+- Helping Hand
+- Trick Room
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Protect
+- Close Combat
+- Brave Bird
+- Roost

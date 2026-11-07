@@ -1,0 +1,13 @@
+/target*/
+/py/target/
+/prof/target/
+/pgo/
+/fuzz/
+*.profraw
+*.profdata
+__pycache__/
+*.pyc
+*.pyd
+*.so
+.venv/
+venv/

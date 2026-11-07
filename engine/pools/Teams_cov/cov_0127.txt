@@ -1,0 +1,60 @@
+Swampert @ Smooth Rock  
+Ability: Damp  
+Level: 50  
+EVs: 24 Def / 16 SpD / 26 Spe  
+Adamant Nature  
+- Hyper Beam  
+- Avalanche  
+- Outrage  
+- Facade  
+
+Raichu @ Focus Band  
+Ability: Static  
+Level: 50  
+EVs: 11 HP / 32 Atk / 15 SpD / 8 Spe  
+Gentle Nature  
+- Wild Charge  
+- Focus Punch  
+- Alluring Voice  
+- Quick Attack  
+
+Arcanine-Hisui @ Charti Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 32 HP / 3 SpD / 31 Spe  
+Mild Nature  
+- Burn Up  
+- Extreme Speed  
+- Flame Charge  
+- Thrash  
+
+Tauros-Paldea-Combat @ Wacan Berry  
+Ability: Anger Point  
+Level: 50  
+EVs: 21 HP / 27 SpA / 18 Spe  
+Rash Nature  
+- Giga Impact  
+- Iron Tail  
+- Endeavor  
+- Megahorn  
+
+Persian @ Rocky Helmet  
+Ability: Technician  
+Level: 50  
+EVs: 2 Atk / 22 Def / 13 SpA / 29 SpD  
+Timid Nature  
+- Payback  
+- U-turn  
+- Slash  
+- Water Pulse  
+
+Delphox @ Delphoxite  
+Ability: Blaze  
+Level: 50  
+EVs: 32 HP / 5 Def / 29 SpA  
+Naive Nature  
+- Fire Blast  
+- Mystical Fire  
+- Solar Beam  
+- Charm  
+

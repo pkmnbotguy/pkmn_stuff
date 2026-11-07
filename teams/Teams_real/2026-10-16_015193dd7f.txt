@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Protect
+- Low Kick
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Hyper Voice
+- Protect
+- Flamethrower
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 29 HP / 31 Atk / 2 Def / 1 SpD / 3 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- U-turn
+
+Annihilape @ Leftovers
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 5 Atk / 7 Def / 10 SpD / 12 Spe
+Adamant Nature
+- Rage Fist
+- Drain Punch
+- Protect
+- Bulk Up
+
+Maushold @ Chople Berry
+Ability: Friend Guard
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpD / 32 Spe
+Bold Nature
+- Protect
+- Follow Me
+- Encore
+- Beat Up
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- High Horsepower
+- Protect
+- Rock Tomb

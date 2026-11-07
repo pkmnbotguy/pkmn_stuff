@@ -1,0 +1,59 @@
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse
+- Protect
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 15 Def / 19 SpD
+Relaxed Nature
+- Weather Ball
+- Icy Wind
+- Perish Song
+- Protect
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Shadow Ball
+- Sludge Bomb
+- Perish Song
+- Protect
+
+Espathra @ Colbur Berry
+Ability: Speed Boost
+Level: 50
+EVs: 32 HP / 26 Def / 8 SpD
+Bold Nature
+- Lumina Crash
+- Baton Pass
+- Calm Mind
+- Protect
+
+Clefable @ Rocky Helmet
+Ability: Unaware
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Helping Hand
+- Moonblast
+- Protect
+
+Vivillon @ Choice Scarf
+Ability: Compound Eyes
+Level: 50
+EVs: 24 Def / 10 SpD / 32 Spe
+Timid Nature
+- Sleep Powder
+- Rage Powder
+- U-turn
+- Pollen Puff

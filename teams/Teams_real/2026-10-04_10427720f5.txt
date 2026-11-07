@@ -1,0 +1,59 @@
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Imprison
+- Trick Room
+- Expanding Force
+- Hyper Voice
+
+Ceruledge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Bitter Blade
+- Poltergeist
+- Close Combat
+
+Lopunny @ Lopunnite
+Ability: Limber
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Thunder Punch
+- Triple Axel
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Rage Powder
+- Fiery Dance
+- Protect
+- Struggle Bug
+
+Drampa @ Drampanite
+Ability: Cloud Nine
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Protect
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Dragonite @ Life Orb
+Ability: Inner Focus
+Level: 50
+EVs: 31 HP / 32 Atk / 3 Spe
+Adamant Nature
+- Dragon Dance
+- Scale Shot
+- Stomping Tantrum
+- Rock Slide

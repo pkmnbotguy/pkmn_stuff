@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Serious Nature
+- Leech Life
+- Protect
+- Swords Dance
+- Sucker Punch
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Serious Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat Chop
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Serious Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-Turn
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Serious Nature
+- Trick Room
+- Helping Hand
+- Protect
+- Psychic
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Flamethrower
+- Power Gem
+- Dragon Pulse
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Serious Nature
+- Protect
+- Coil
+- Muddy Water
+- Hypnosis

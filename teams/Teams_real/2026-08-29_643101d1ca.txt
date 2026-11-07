@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 21 Def / 11 SpA / 30 Spe
+Modest Nature
+- Heat Wave
+- Weather Ball
+- Solar Beam
+- Protect
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 31 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Protect
+- Ice Fang
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Protect
+- Tailwind
+- Taunt
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Phantom Force
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Quick Attack
+- Hyper Beam
+- Detect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Dragon Claw
+- Protect

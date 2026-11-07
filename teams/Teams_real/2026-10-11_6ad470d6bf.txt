@@ -1,0 +1,59 @@
+Chandelure @ Chandelurite
+Ability: Flash Fire
+Level: 50
+EVs: 19 HP / 15 SpA / 32 Spe
+Quiet Nature
+- Heat Wave
+- Energy Ball
+- Shadow Ball
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Earth Power
+- Weather Ball
+- Protect
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Expanding Force
+- Protect
+- Dazzling Gleam
+- Trick Room
+
+Excadrill @ Iron Ball
+Ability: Mold Breaker
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Def
+Brave Nature
+- Rock Slide
+- High Horsepower
+- Iron Head
+- Protect
+
+Squawkabilly @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Taunt
+- Final Gambit
+- Parting Shot
+
+Reuniclus @ Twisted Spoon
+Ability: Regenerator
+Level: 50
+EVs: 31 HP / 32 SpA / 3 SpD
+Quiet Nature
+- Expanding Force
+- Flash Cannon
+- Trick Room
+- Protect

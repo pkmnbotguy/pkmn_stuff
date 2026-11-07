@@ -1,0 +1,59 @@
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 31 HP / 32 Atk / 3 Spe
+Brave Nature
+- Fake Out
+- Flare Blitz
+- Assurance
+- Parting Shot
+
+Farigiraf @ Life Orb
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 16 Def / 10 SpA / 11 SpD
+Quiet Nature
+- Protect
+- Hyper Voice
+- Psychic
+- Trick Room
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Protect
+- Sucker Punch
+- Play Rough
+- Iron Head
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Flip Turn
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Blizzard
+- Freeze-Dry
+- Moonblast
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Zap Cannon
+- Focus Blast
+- Volt Switch

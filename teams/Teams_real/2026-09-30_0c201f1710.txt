@@ -1,0 +1,59 @@
+Talonflame @ White Herb
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Tailwind
+- Flare Blitz
+- Defog
+
+Lucario @ Lucarionite Z
+Ability: Steadfast
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Protect
+- Flash Cannon
+- Terrain Pulse
+
+Meowstic @ Eject Button
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Quick Guard
+- Charm
+- Psychic
+- Misty Terrain
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Close Combat
+- Roost
+- Protect
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Power Gem
+- Earth Power
+- Spiky Shield
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Darkest Lariat
+- Flare Blitz
+- Fake Out
+- Parting Shot

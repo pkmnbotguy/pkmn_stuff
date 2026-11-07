@@ -1,0 +1,59 @@
+Weavile @ Life Orb
+Ability: Pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Protect
+- Knock Off
+- Triple Axel
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 13 SpD / 21 Spe
+Timid Nature
+- Light Screen
+- Thunder Wave
+- Thunderbolt
+- Helping Hand
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Tailwind
+- Struggle Bug
+- Heat Wave
+- Rage Powder
+
+Runerigus @ Leftovers
+Ability: Wandering Spirit
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Trick Room
+- Will-O-Wisp
+- Taunt
+- Body Press
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Sucker Punch
+- Play Rough
+- Protect
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Shadow Claw
+- Night Slash
+- Protect
+- Close Combat

@@ -1,0 +1,59 @@
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 30 HP / 28 SpA / 8 SpD
+Quiet Nature
+- Eruption
+- Heat Wave
+- Earth Power
+- Protect
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 Def / 32 SpA / 15 SpD / 17 Spe
+Timid Nature
+- Draco Meteor
+- Earth Power
+- Power Gem
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 24 Def / 13 SpD
+Sassy Nature
+- Hyper Voice
+- Psychic
+- Trick Room
+- Protect
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Leaf Storm
+- Sludge Bomb
+- Sleep Powder
+- Protect
+
+Alcremie @ Rocky Helmet
+Ability: Sweet Veil
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Decorate
+- Helping Hand
+- Dazzling Gleam
+- Mystical Fire
+
+Kingambit @ Occa Berry
+Ability: Defiant
+Level: 50
+EVs: 14 HP / 32 Atk / 20 SpD
+Brave Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect

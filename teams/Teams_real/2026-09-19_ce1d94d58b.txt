@@ -1,0 +1,59 @@
+Sneasler @ psychic seed
+Ability: unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- close combat
+- dire claw
+- protect
+- acrobatics
+
+Indeedee @ choice scarf
+Ability: psychic surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- expanding force
+- dazzling gleam
+- mystical fire
+- trick
+
+Salamence @ salamencite
+Ability: intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- hyper voice
+- protect
+- flamethrower
+- draco meteor
+
+Tyranitar @ tyranitarite
+Ability: sand stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- rock slide
+- knock off
+- protect
+- low kick
+
+Excadrill @ focus sash
+Ability: sand rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- protect
+- high horsepower
+- iron head
+- rock slide
+
+Gholdengo @ life orb
+Ability: good as gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- make it rain
+- shadow ball
+- protect
+- nasty plot

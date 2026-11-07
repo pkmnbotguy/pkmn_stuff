@@ -1,0 +1,59 @@
+Incineroar @ White Herb
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Close Combat
+- Fake Out
+- Darkest Lariat
+- Flare Blitz
+
+Swalot @ Life Orb
+Ability: Liquid Ooze
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Quiet Nature
+- Ice Beam
+- Zen Headbutt
+- Seed Bomb
+- Sunny Day
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Bold Nature
+- Protect
+- Psychic
+- Thunderbolt
+- Trick Room
+
+Gallade @ Iron Ball
+Ability: Steadfast
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Sacred Sword
+- Trick Room
+- Psycho Cut
+- Leaf Blade
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Protect
+- Weather Ball
+- Eruption
+- Helping Hand
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Hurricane
+- Rage Powder
+- Sleep Powder

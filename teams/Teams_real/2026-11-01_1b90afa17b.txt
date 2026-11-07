@@ -1,0 +1,59 @@
+Hatterene @ Quick Claw
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Trick Room
+- Dazzling Gleam
+- Psychic
+- Giga Drain
+
+Heracross @ Heracronite
+Ability: Guts
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Pin Missile
+- Rock Blast
+- Close Combat
+- Protect
+
+Hawlucha @ Hawluchanite
+Ability: Mold Breaker
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Flying Press
+- Brave Bird
+- Entrainment
+- Protect
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+Level: 50
+EVs: 32 HP / 6 Def / 28 SpD
+Careful Nature
+- Fissure
+- Yawn
+- Stone Edge
+- Slack Off
+
+Houndstone @ Sitrus Berry
+Ability: Fluffy
+Level: 50
+EVs: 20 HP / 13 Atk / 1 SpD / 32 Spe
+Impish Nature
+- Body Press
+- Last Respects
+- Will-O-Wisp
+- Ally Switch
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dark Pulse
+- Draco Meteor
+- Heat Wave
+- Earth Power

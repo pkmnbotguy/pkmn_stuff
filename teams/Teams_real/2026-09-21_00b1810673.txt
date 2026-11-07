@@ -1,0 +1,59 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Solar Beam
+- Heat Wave
+- Ancient Power
+- Protect
+
+Garchomp @ Sitrus Berry
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Dragon Claw
+- Protect
+
+Pincurchin @ Shuca Berry
+Ability: Electric Surge
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Rising Voltage
+- Scald
+- Sucker Punch
+- Protect
+
+Tinkaton @ Occa Berry
+Ability: Own Tempo
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Jolly Nature
+- Gigaton Hammer
+- Fake Out
+- Wood Hammer
+- Protect
+
+Tsareena @ Choice Scarf
+Ability: Queenly Majesty
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Trop Kick
+- High Jump Kick
+- Triple Axel
+- Zen Headbutt
+
+Greninja @ Greninjite
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Water Shuriken
+- Dark Pulse
+- Ice Beam
+- Extrasensory

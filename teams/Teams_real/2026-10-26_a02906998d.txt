@@ -1,0 +1,59 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Moonblast
+- Charm
+- Giga Drain
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 15 Def / 5 SpD / 14 Spe
+Impish Nature
+- Iron Head
+- Iron Defense
+- Body Press
+- Drill Peck
+
+Zoroark @ Bright Powder
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 7 SpD / 25 Spe
+Modest Nature
+- Night Daze
+- Burning Jealousy
+- Sludge Bomb
+- Toxic
+
+Basculegion-F @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 2 Def / 32 SpA / 32 Spe
+Hasty Nature
+- Shadow Ball
+- Muddy Water
+- Crunch
+- Icy Wind
+
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Will-O-Wisp
+- Hex
+- Thunderbolt
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Blaze Kick
+- Roost

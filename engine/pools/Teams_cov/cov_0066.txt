@@ -1,0 +1,60 @@
+Dragalge @ Fairy Feather  
+Ability: Adaptability  
+Level: 50  
+EVs: 2 HP / 30 Atk / 13 Def / 16 SpD / 5 Spe  
+Serious Nature  
+- Double Team  
+- Facade  
+- Sludge Bomb  
+- Substitute  
+
+Lopunny @ Kasib Berry  
+Ability: Limber  
+Level: 50  
+EVs: 29 HP / 7 Atk / 1 Def / 29 SpA  
+Mild Nature  
+- Entrainment  
+- Pounce  
+- Fling  
+- Switcheroo  
+
+Espathra @ Zoom Lens  
+Ability: Opportunist  
+Level: 50  
+EVs: 20 Def / 23 SpD / 23 Spe  
+Quirky Nature  
+- Calm Mind  
+- Giga Impact  
+- Baby-Doll Eyes  
+- Skill Swap  
+
+Persian @ Shell Bell  
+Ability: Limber  
+Level: 50  
+EVs: 32 HP / 28 Atk / 6 SpA  
+Quirky Nature  
+- Uproar  
+- Round  
+- Endeavor  
+- Hyper Beam  
+
+Alakazam @ Cheri Berry  
+Ability: Magic Guard  
+Level: 50  
+EVs: 18 HP / 14 Def / 4 SpD / 30 Spe  
+Quiet Nature  
+- Ice Punch  
+- Shadow Ball  
+- Foul Play  
+- Skill Swap  
+
+Swalot @ Shuca Berry  
+Ability: Liquid Ooze  
+Level: 50  
+EVs: 29 Atk / 5 SpD / 32 Spe  
+Lax Nature  
+- Helping Hand  
+- Sunny Day  
+- Endure  
+- Shadow Ball  
+

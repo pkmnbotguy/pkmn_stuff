@@ -1,0 +1,59 @@
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 21 HP / 5 Def / 10 SpD / 30 Spe
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Protect
+- Tailwind
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Flare Blitz
+- Extreme Speed
+- Protect
+
+Raichu @ Raichunite X
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Volt Tackle
+- Feint
+- Volt Switch
+- Fake Out
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Low Kick
+
+Mr-Rime @ Life Orb
+Ability: Ice Body
+Level: 50
+EVs: 32 HP / 15 Def / 10 SpA / 9 SpD
+Relaxed Nature
+- Blizzard
+- Thunderbolt
+- Expanding Force
+- Protect
+
+Slowking @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 16 Def / 10 SpA / 8 SpD
+Quiet Nature
+- Protect
+- Muddy Water
+- Chilly Reception
+- Trick Room

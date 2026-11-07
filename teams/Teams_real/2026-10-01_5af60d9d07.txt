@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Swords Dance
+- Leech Life
+- Liquidation
+
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Quiet Nature
+- Protect
+- Weather Ball
+- Solar Beam
+- Dazzling Gleam
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 25 Atk / 3 Def / 6 SpD
+Brave Nature
+- Fake Out
+- Parting Shot
+- Throat Chop
+- Flare Blitz
+
+Politoed @ Life Orb
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Protect
+- Weather Ball
+- Muddy Water
+- Ice Beam
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 14 Def / 7 SpA / 13 SpD
+Calm Nature
+- Protect
+- Trick Room
+- Expanding Force
+- Helping Hand
+
+Grapploct @ Black Belt
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Detect
+- Storm Throw
+- Mach Punch
+- Soak

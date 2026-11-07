@@ -1,0 +1,59 @@
+Typhlosion-Hisui @ Choice Scarf
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Eruption
+- Overheat
+- Shadow Ball
+- Howl
+
+Sableye @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Sunny Day
+- Encore
+- Foul Play
+- Taunt
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Swords Dance
+- Leech Life
+- Iron Head
+
+Houndstone @ Life Orb
+Ability: Sand Rush
+Level: 50
+EVs: 20 HP / 13 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Protect
+- Last Respects
+- Shadow Sneak
+- Snarl
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Dragon Dance
+- Knock Off
+- Rock Slide
+
+Ariados @ Sitrus Berry
+Ability: Insomnia
+Level: 50
+EVs: 31 HP / 20 Def / 15 SpD
+Impish Nature
+- Rage Powder
+- Lunge
+- Infestation
+- String Shot

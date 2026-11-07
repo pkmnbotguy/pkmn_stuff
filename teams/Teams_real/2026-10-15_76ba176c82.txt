@@ -1,0 +1,59 @@
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 11 Def / 23 Spe
+Timid Nature
+- Focus Blast
+- Zap Cannon
+- Encore
+- Protect
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Tailwind
+- Heat Wave
+- Struggle Bug
+- Rage Powder
+
+Altaria @ Altarianite
+Ability: Cloud Nine
+Level: 50
+EVs: 26 HP / 17 Def / 3 SpD / 20 Spe
+Timid Nature
+- Protect
+- Hyper Voice
+- Draco Meteor
+- Flamethrower
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Flip Turn
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 18 HP / 20 Def / 23 SpD / 5 Spe
+Calm Nature
+- Psychic
+- Thunderbolt
+- Helping Hand
+- Thunder Wave

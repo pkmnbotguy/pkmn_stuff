@@ -1,0 +1,59 @@
+Orthworm @ Sitrus Berry
+Ability: Earth Eater
+Level: 50
+EVs: 31 HP / 2 Atk / 1 Def / 32 SpD
+Careful Nature
+- Shed Tail
+- Helping Hand
+- Protect
+- Body Press
+
+Indeedee-F @ Colbur Berry
+Ability: Synchronize
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Trick Room
+- Imprison
+- Fake Out
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Glaive Rush
+- Icicle Crash
+- Dragon Dance
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Rock Slide
+- Dragon Dance
+- Protect
+
+Garchomp @ Life Orb
+Ability: Sand Veil
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Protect
+- Rock Slide
+
+Ceruledge @ Choice Scarf
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Flare Blitz
+- Bitter Blade
+- Poltergeist
+- Shadow Sneak

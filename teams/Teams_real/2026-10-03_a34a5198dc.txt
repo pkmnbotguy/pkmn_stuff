@@ -1,0 +1,59 @@
+Golurk @ Golurkite
+Ability: No Guard
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Poltergeist
+- Headlong Rush
+- Ice Punch
+- Protect
+
+Kommo-O @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Boomburst
+- Clanging Scales
+- Aura Sphere
+- Protect
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Quiet Nature
+- Armor Cannon
+- Protect
+- Trick Room
+- Expanding Force
+
+Meowscarada @ Focus Sash
+Ability: Protean
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Shadow Claw
+- Flower Trick
+- Skill Swap
+- Knock Off
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Psychic
+- Trick Room
+- Helping Hand
+- Follow Me
+
+Chimecho @ Chimechite
+Ability: Levitate
+Level: 50
+EVs: 31 HP / 15 Def / 15 SpA / 3 SpD / 2 Spe
+Modest Nature
+- Flash Cannon
+- Expanding Force
+- Boomburst
+- Calm Mind

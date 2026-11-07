@@ -1,0 +1,60 @@
+Weavile @ Roseli Berry  
+Ability: Pickpocket  
+Level: 50  
+EVs: 15 SpA / 32 SpD / 19 Spe  
+Hasty Nature  
+- Knock Off  
+- Nasty Plot  
+- Surf  
+- Shadow Claw  
+
+Avalugg-Hisui @ Damp Rock  
+Ability: Sturdy  
+Level: 50  
+EVs: 13 HP / 32 Atk / 21 Spe  
+Naive Nature  
+- Dig  
+- Stealth Rock  
+- Rock Blast  
+- Hard Press  
+
+Rillaboom @ Aspear Berry  
+Ability: Grassy Surge  
+Level: 50  
+EVs: 13 HP / 12 Atk / 25 SpA / 16 Spe  
+Rash Nature  
+- Focus Energy  
+- Snore  
+- Rest  
+- Frenzy Plant  
+
+Vivillon-Modern @ Charcoal  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 Atk / 2 Def / 32 Spe  
+Adamant Nature  
+- Skitter Smack  
+- U-turn  
+- Rain Dance  
+- Calm Mind  
+
+Sceptile @ Lum Berry  
+Ability: Overgrow  
+Level: 50  
+EVs: 32 HP / 8 Def / 26 Spe  
+Modest Nature  
+- Round  
+- Thunder Punch  
+- Brick Break  
+- Quick Guard  
+
+Sandaconda @ Sharp Beak  
+Ability: Sand Veil  
+Level: 50  
+EVs: 6 Atk / 29 Def / 10 SpD / 21 Spe  
+Brave Nature  
+- Sleep Talk  
+- Earth Power  
+- Wrap  
+- Dragon Rush  
+

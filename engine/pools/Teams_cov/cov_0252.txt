@@ -1,0 +1,60 @@
+Houndoom @ Kasib Berry  
+Ability: Unnerve  
+Level: 50  
+EVs: 18 HP / 16 Atk / 32 SpA  
+Brave Nature  
+- Iron Tail  
+- Mud Shot  
+- Giga Impact  
+- Sunny Day  
+
+Starmie @ Zoom Lens  
+Ability: Analytic  
+Level: 50  
+EVs: 20 HP / 15 Def / 31 SpD  
+Calm Nature  
+- Thunder Wave  
+- Ally Switch  
+- Endure  
+- Safeguard  
+
+Liepard @ Heat Rock  
+Ability: Limber  
+Level: 50  
+EVs: 28 HP / 32 Atk / 6 Def  
+Hardy Nature  
+- Copycat  
+- Encore  
+- Skitter Smack  
+- Protect  
+
+Blastoise @ Psychic Seed  
+Ability: Rain Dish  
+Level: 50  
+EVs: 29 HP / 5 SpA / 32 SpD  
+Sassy Nature  
+- Bite  
+- Substitute  
+- Scary Face  
+- Rapid Spin  
+
+Toucannon @ Sitrus Berry  
+Ability: Skill Link  
+Level: 50  
+EVs: 21 Atk / 26 Def / 13 SpA / 6 SpD  
+Quirky Nature  
+- Giga Impact  
+- Rest  
+- Protect  
+- Rock Blast  
+
+Gliscor @ Rawst Berry  
+Ability: Sand Veil  
+Level: 50  
+EVs: 27 HP / 7 SpA / 32 Spe  
+Mild Nature  
+- Payback  
+- Fling  
+- Brick Break  
+- Swords Dance  
+

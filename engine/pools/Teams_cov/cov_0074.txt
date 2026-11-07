@@ -1,0 +1,60 @@
+Chesnaught @ Shuca Berry  
+Ability: Bulletproof  
+Level: 50  
+EVs: 32 HP / 9 Atk / 25 SpA  
+Careful Nature  
+- Close Combat  
+- Brick Break  
+- Body Slam  
+- Snore  
+
+Alcremie @ Sharp Beak  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 6 HP / 5 Def / 1 SpA / 22 SpD / 32 Spe  
+Rash Nature  
+- Fake Tears  
+- Decorate  
+- Entrainment  
+- Play Rough  
+
+Corviknight @ Black Belt  
+Ability: Mirror Armor  
+Level: 50  
+EVs: 6 HP / 17 Def / 11 SpA / 32 SpD  
+Serious Nature  
+- Round  
+- Aerial Ace  
+- Tailwind  
+- Screech  
+
+Vivillon-Ocean @ King's Rock  
+Ability: Friend Guard  
+Level: 50  
+EVs: 5 HP / 5 Atk / 32 SpA / 15 SpD / 9 Spe  
+Docile Nature  
+- Substitute  
+- Psychic  
+- Energy Ball  
+- Facade  
+
+Baxcalibur @ Icy Rock  
+Ability: Ice Body  
+Level: 50  
+EVs: 29 HP / 16 Def / 21 Spe  
+Gentle Nature  
+- High Horsepower  
+- Body Press  
+- Facade  
+- Endure  
+
+Samurott-Hisui @ Yache Berry  
+Ability: Torrent  
+Level: 50  
+EVs: 4 HP / 25 Def / 32 SpA / 5 SpD  
+Serious Nature  
+- Smart Strike  
+- Blizzard  
+- Chilling Water  
+- Snore  
+

@@ -1,0 +1,60 @@
+Malamar @ Colbur Berry  
+Ability: Contrary  
+Level: 50  
+EVs: 31 Def / 16 SpD / 19 Spe  
+Impish Nature  
+- Topsy-Turvy  
+- Switcheroo  
+- Psycho Cut  
+- Pluck  
+
+Krookodile @ Misty Seed  
+Ability: Moxie  
+Level: 50  
+EVs: 28 HP / 1 Def / 12 SpA / 25 SpD  
+Quiet Nature  
+- Mega Kick  
+- Grass Knot  
+- Dragon Tail  
+- Low Sweep  
+
+Aegislash @ Binding Band  
+Ability: Stance Change  
+Level: 50  
+EVs: 10 HP / 32 Def / 9 SpD / 15 Spe  
+Bashful Nature  
+- Wide Guard  
+- Poltergeist  
+- Shadow Claw  
+- Brick Break  
+
+Hippowdon @ Psychic Seed  
+Ability: Sand Force  
+Level: 50  
+EVs: 14 HP / 10 Atk / 12 SpA / 30 Spe  
+Serious Nature  
+- Slack Off  
+- Round  
+- Dig  
+- Stomping Tantrum  
+
+Mr. Rime @ Soft Sand  
+Ability: Tangled Feet  
+Level: 50  
+EVs: 21 HP / 2 SpA / 19 SpD / 24 Spe  
+Gentle Nature  
+- Fake Tears  
+- Rapid Spin  
+- Stomping Tantrum  
+- Thunder  
+
+Squawkabilly-Yellow @ Charti Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 13 HP / 19 Def / 22 SpA / 12 Spe  
+Relaxed Nature  
+- Hyper Voice  
+- Tailwind  
+- Parting Shot  
+- Roost  
+

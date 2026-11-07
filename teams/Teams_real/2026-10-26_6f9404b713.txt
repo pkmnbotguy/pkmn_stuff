@@ -1,0 +1,59 @@
+Dragalge @ Dragalgite
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 11 Def / 23 SpA
+Modest Nature
+- Protect
+- Sludge Bomb
+- Draco Meteor
+- Flip Turn
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Relaxed Nature
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+- Fake Out
+
+Alcremie @ Rocky Helmet
+Ability: Sweet Veil
+Level: 50
+EVs: 32 HP / 32 Def / 1 SpA
+Bold Nature
+- Dazzling Gleam
+- Mystical Fire
+- Decorate
+- Helping Hand
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Dragon Claw
+- Earthquake
+- Stomping Tantrum
+
+Venusaur @ Focus Sash
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Leaf Storm
+- Sludge Bomb
+- Sleep Powder
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 24 HP / 14 Def / 11 SpA / 17 Spe
+Modest Nature
+- Protect
+- Heat Wave
+- Weather Ball
+- Ancient Power

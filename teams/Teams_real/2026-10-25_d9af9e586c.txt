@@ -1,0 +1,59 @@
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Play Rough
+- Sucker Punch
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Matcha Gotcha
+- Scald
+- Protect
+- Rage Powder
+
+Politoed @ Choice Scarf
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Muddy Water
+- Weather Ball
+- Icy Wind
+- Earth Power
+
+Krookodile @ White Herb
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Knock Off
+- High Horsepower
+- Rock Slide
+- Protect
+
+Talonflame @ Focus Sash
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Modest Nature
+- Hurricane
+- Heat Wave
+- Tailwind
+- Protect
+
+Tinkaton @ Occa Berry
+Ability: Mold Breaker
+Level: 50
+EVs: 23 HP / 8 Atk / 7 Def / 28 Spe
+Impish Nature
+- Gigaton Hammer
+- Rock Slide
+- Fake Out
+- Protect

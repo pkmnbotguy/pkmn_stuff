@@ -1,0 +1,59 @@
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Protect
+- Play Rough
+- Sucker Punch
+- Knock Off
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Life Dew
+- Trick Room
+- Shadow Ball
+- Rage Powder
+
+Armarouge @ Kasib Berry
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Bold Nature
+- Helping Hand
+- Armor Cannon
+- Wide Guard
+- Trick Room
+
+Araquanid @ Leftovers
+Ability: Water Bubble
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD
+Brave Nature
+- Protect
+- Wide Guard
+- Liquidation
+- Substitute
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Protect
+- Trick Room
+- Dazzling Gleam
+- Psychic
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Bitter Malice
+- Hyper Beam
+- Taunt

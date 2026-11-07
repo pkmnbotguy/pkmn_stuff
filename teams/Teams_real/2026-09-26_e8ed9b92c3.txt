@@ -1,0 +1,59 @@
+Absol @ Absolite Z
+Ability: Super Luck
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Night Slash
+- Shadow Claw
+- Psycho Cut
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Moonblast
+- Taunt
+- Encore
+
+Ceruledge @ Expert Belt
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Bitter Blade
+- Shadow Sneak
+- Protect
+- Brick Break
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Jolly Nature
+- Wave Crash
+- Ice Punch
+- Earthquake
+- Protect
+
+Pawmot @ Air Balloon
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Double Shock
+- Fake Out
+- Revival Blessing
+
+Scizor @ Metal Coat
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Careful Nature
+- Bug Bite
+- Bullet Punch
+- Rain Dance
+- Protect

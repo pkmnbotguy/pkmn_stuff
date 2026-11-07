@@ -1,0 +1,57 @@
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Fake Out
+- Last Resort
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sucker Punch
+- Throat Chop
+- Iron Head
+- Protect
+
+Kommo-O @ Choice Scarf
+Ability: Bulletproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Clanging Scales
+- Flamethrower
+- Flash Cannon
+
+Krookodile @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- High Horsepower
+- Knock Off
+- Curse
+- Protect
+
+Klefki @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Impish Nature
+- Light Screen
+- Reflect
+- Trick Room
+- Skitter Smack
+
+Kleavor @ Rocky Helmet
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Stone Axe
+- Lunge
+- Protect
+- Stone Edge

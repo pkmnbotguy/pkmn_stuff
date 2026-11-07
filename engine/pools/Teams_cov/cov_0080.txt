@@ -1,0 +1,60 @@
+Kangaskhan @ Metal Coat  
+Ability: Inner Focus  
+Level: 50  
+EVs: 8 Atk / 26 Def / 32 SpA  
+Quirky Nature  
+- Thief  
+- Body Slam  
+- Focus Blast  
+- Attract  
+
+Froslass @ Hard Stone  
+Ability: Snow Cloak  
+Level: 50  
+EVs: 14 HP / 29 Atk / 22 SpA / 1 Spe  
+Naive Nature  
+- Ice Spinner  
+- Psychic  
+- Round  
+- Poltergeist  
+
+Simisage @ Expert Belt  
+Ability: Overgrow  
+Level: 50  
+EVs: 7 Atk / 2 Def / 25 SpD / 32 Spe  
+Naughty Nature  
+- Sunny Day  
+- Protect  
+- Grassy Glide  
+- Facade  
+
+Houndstone @ Psychic Seed  
+Ability: Sand Rush  
+Level: 50  
+EVs: 32 HP / 3 Atk / 15 SpA / 16 Spe  
+Naive Nature  
+- Thief  
+- Endure  
+- Fire Fang  
+- Crunch  
+
+Skarmory @ Cheri Berry  
+Ability: Weak Armor  
+Level: 50  
+EVs: 27 HP / 17 Atk / 22 Spe  
+Lonely Nature  
+- Giga Impact  
+- Roost  
+- Whirlwind  
+- Night Slash  
+
+Meowstic @ Black Belt  
+Ability: Infiltrator  
+Level: 50  
+EVs: 7 HP / 26 Def / 1 SpA / 32 Spe  
+Impish Nature  
+- Skill Swap  
+- Psych Up  
+- Charge Beam  
+- Dark Pulse  
+

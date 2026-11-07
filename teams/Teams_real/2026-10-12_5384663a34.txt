@@ -1,0 +1,59 @@
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Low Kick
+- Flip Turn
+- Ice Punch
+
+Archaludon @ Focus Sash
+Ability: Stamina
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Electro Shot
+- Protect
+- Flash Cannon
+- Stealth Rock
+
+Whimsicott @ Fairy Feather
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Moonblast
+- Light Screen
+- Leech Seed
+- Encore
+
+Greninja @ Life Orb
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Hasty Nature
+- Upper Hand
+- Extrasensory
+- Dark Pulse
+- Flip Turn
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Hydro Pump
+- Ice Beam
+- Tailwind
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Make It Rain
+- Protect
+- Thunderbolt
+- Psyshock

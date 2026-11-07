@@ -1,0 +1,82 @@
+# A tour of the [setup] options. Every one of these is also mirrored in the Showdown comparison.
+# Run:  python situation.py examples/situations/setup_tour.txt
+
+[p1]
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Protect
+- Dragon Dance
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- High Horsepower
+- Iron Head
+- Protect
+- Rock Slide
+
+Corviknight @ Rocky Helmet
+Ability: Pressure
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Impish Nature
+- Brave Bird
+- Bulk Up
+- Roost
+- Protect
+
+[p2]
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Spore
+- Rage Powder
+- Pollen Puff
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect
+
+[setup]
+turn 4
+weather sand 2
+terrain grassy 3
+gravity 3
+p1 tailwind 2, stealthrock, spikes 2
+p2 reflect 3, auroraveil 3, safeguard 4, toxicspikes 1, stickyweb
+p1a hp 120, boost atk +1 spe +1
+p1b item none
+p1 Corviknight hp 50%
+p2a hp 75%, status brn, ability Pressure
+p2b moved, boost spd +2
+p2:3 status tox
+
+[turns]
+p1: Rock Slide, Iron Head p2a | p2: Shadow Ball p1a, Rage Powder
+p1: switch Corviknight, Protect | p2: Make It Rain, switch Kingambit

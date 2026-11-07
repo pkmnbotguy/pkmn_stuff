@@ -1,0 +1,59 @@
+Tyrantrum @ Life Orb
+Ability: Strong Jaw
+Level: 50
+EVs: 16 HP / 18 Atk / 32 Spe
+Jolly Nature
+- Earthquake
+- Protect
+- Ice Fang
+- Psychic Fangs
+
+Pangoro @ Choice Scarf
+Ability: Scrappy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Darkest Lariat
+- Earthquake
+- Close Combat
+- Bullet Punch
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Knock Off
+- Rock Slide
+- Dragon Dance
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Tailwind
+- Wide Guard
+- Taunt
+
+Delphox @ Delphoxite
+Ability: Magician
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Dazzling Gleam
+- Heat Wave
+- Expanding Force
+
+Rotom-Fan @ Light Clay
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Air Slash
+- Electroweb
+- Light Screen
+- Protect

@@ -1,0 +1,59 @@
+Incineroar @ Big Root
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Darkest Lariat
+- Parting Shot
+- Leech Life
+- Flare Blitz
+
+Vanilluxe @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Frost Breath
+- Ice Spinner
+- Aurora Veil
+- Ally Switch
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Trick
+- After You
+- Mystical Fire
+- Expanding Force
+
+Crabominable @ Crabominite
+Ability: Anger Point
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Careful Nature
+- Protect
+- Wide Guard
+- Knock Off
+- Drain Punch
+
+Mr-Rime @ Psychic Seed
+Ability: Ice Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Frost Breath
+- Ally Switch
+- Role Play
+- Sheer Cold
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Fake Out
+- Protect
+- Focus Blast
+- Zap Cannon

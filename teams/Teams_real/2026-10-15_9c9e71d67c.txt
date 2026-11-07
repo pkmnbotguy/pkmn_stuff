@@ -1,0 +1,59 @@
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Iron Head
+- Swords Dance
+- Leech Life
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Psychic
+- Trick Room
+- Helping Hand
+- Thunderbolt
+
+Pelipper @ Mystic Water
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Sassy Nature
+- Hurricane
+- Muddy Water
+- Weather Ball
+- Wide Guard
+
+Perrserker @ Chople Berry
+Ability: Steely Spirit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Close Combat
+- Fake Out
+- Helping Hand
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Aura Sphere
+- Water Spout
+- Ice Beam
+- Protect
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Revival Blessing
+- Close Combat
+- Double Shock
+- Fake Out

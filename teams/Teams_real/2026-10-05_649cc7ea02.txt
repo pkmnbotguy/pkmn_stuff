@@ -1,0 +1,59 @@
+Sinistcha @ Colbur Berry
+Ability: Heatproof
+Level: 50
+EVs: 31 HP / 7 Def / 28 SpD
+Sassy Nature
+- Strength Sap
+- Matcha Gotcha
+- Shadow Ball
+- Trick Room
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Hurricane
+- Muddy Water
+- Weather Ball
+- Rain Dance
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 25 SpD / 3 Spe
+Sassy Nature
+- Electro Shot
+- Flash Cannon
+- Draco Meteor
+- Aura Sphere
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Zap Cannon
+- Grass Knot
+- Focus Blast
+- Protect
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Drum Beating
+- Grassy Glide
+- Fake Out
+- U-turn
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Close Combat
+- Iron Head
+- Liquidation
+- Leech Life

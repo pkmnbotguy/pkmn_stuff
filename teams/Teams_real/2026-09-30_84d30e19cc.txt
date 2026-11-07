@@ -1,0 +1,59 @@
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Taunt
+- Quick Guard
+- Tailwind
+
+Scovillain @ Scovillainite
+Ability: Moody
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpD
+Bold Nature
+- Flamethrower
+- Giga Drain
+- Rage Powder
+- Protect
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+- Fake Out
+
+Ninetales @ Focus Sash
+Ability: Drought
+Level: 50
+EVs: 12 HP / 10 Def / 20 SpA / 24 Spe
+Timid Nature
+- Heat Wave
+- Encore
+- Mystical Fire
+- Protect
+
+Charizard @ Charizardite X
+Ability: Blaze
+Level: 50
+EVs: 14 HP / 21 Atk / 1 Def / 1 SpD / 29 Spe
+Adamant Nature
+- Dragon Claw
+- Dragon Dance
+- Fire Punch
+- Protect
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+EVs: 32 HP / 32 Def / 2 Spe
+Bold Nature
+- Quiver Dance
+- Fiery Dance
+- Struggle Bug
+- Protect

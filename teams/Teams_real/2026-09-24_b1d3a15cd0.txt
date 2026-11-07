@@ -1,0 +1,59 @@
+Slowbro @ Slowbronite
+Ability: Regenerator
+Level: 50
+EVs: 31 HP / 20 SpD / 15 Spe
+Calm Nature
+- Protect
+- Trick Room
+- Scald
+- Psychic
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Reflect
+- Light Screen
+- Spirit Break
+- Parting Shot
+
+Alcremie @ Sitrus Berry
+Ability: Aroma Veil
+Level: 50
+EVs: 32 HP / 32 Def / 1 SpA
+Bold Nature
+- Protect
+- Psych Up
+- Decorate
+- Dazzling Gleam
+
+Kommo-O @ Life Orb
+Ability: Soundproof
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Vacuum Wave
+- Focus Blast
+- Clanging Scales
+
+Blaziken @ Choice Scarf
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Rock Slide
+- Close Combat
+- Blaze Kick
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 50
+EVs: 32 HP / 7 Def / 16 SpA / 10 SpD / 1 Spe
+Bold Nature
+- Protect
+- Leech Seed
+- Giga Drain
+- Sludge Bomb

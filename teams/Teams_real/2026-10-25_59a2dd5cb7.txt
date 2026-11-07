@@ -1,0 +1,59 @@
+Aegislash @ Rocky Helmet
+Ability: Stance Change
+Level: 50
+EVs: 32 HP / 30 Atk / 4 SpD
+Brave Nature
+- Poltergeist
+- Iron Head
+- King's Shield
+- Sacred Sword
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Tailwind
+- Taunt
+- Moonblast
+- Protect
+
+Toxtricity @ Life Orb
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Thunderbolt
+- Psychic Noise
+- Sludge Bomb
+- Snarl
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 25 Def / 6 SpD / 3 Spe
+Bold Nature
+- Weather Ball
+- Muddy Water
+- Protect
+- Chilling Water
+
+Pangoro @ Black Glasses
+Ability: Scrappy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Close Combat
+- Fire Punch
+- Darkest Lariat
+- Bulk Up
+
+Mudsdale @ Leftovers
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Careful Nature
+- Body Press
+- Stomping Tantrum
+- Curse
+- Protect

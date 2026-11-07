@@ -1,0 +1,59 @@
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 24 HP / 15 Atk / 14 SpD / 13 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- U-turn
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Trick Room
+- Protect
+- Psychic
+- Imprison
+
+Toxapex @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 8 Def / 26 SpD
+Relaxed Nature
+- Toxic
+- Infestation
+- Baneful Bunker
+- Wide Guard
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Rock Slide
+- Knock Off
+- Protect
+- Dragon Dance
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Protect
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Earth Power
+- Protect
+- Heat Wave
+- Ancient Power

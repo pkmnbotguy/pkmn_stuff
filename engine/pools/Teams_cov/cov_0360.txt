@@ -1,0 +1,60 @@
+Vivillon-Archipelago @ Lum Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 2 HP / 20 Atk / 30 SpA / 14 Spe  
+Gentle Nature  
+- Giga Impact  
+- Draining Kiss  
+- Safeguard  
+- Psychic  
+
+Oranguru @ Rindo Berry  
+Ability: Inner Focus  
+Level: 50  
+EVs: 30 HP / 24 Atk / 12 Def  
+Relaxed Nature  
+- Protect  
+- Trick Room  
+- Payback  
+- Encore  
+
+Perrserker @ Yache Berry  
+Ability: Tough Claws  
+Level: 50  
+EVs: 2 HP / 9 Atk / 25 SpA / 30 SpD  
+Docile Nature  
+- Spite  
+- X-Scissor  
+- Shadow Claw  
+- Fake Tears  
+
+Tauros-Paldea-Combat @ Red Card  
+Ability: Intimidate  
+Level: 50  
+EVs: 17 Def / 29 SpA / 20 SpD  
+Hasty Nature  
+- Zen Headbutt  
+- Thief  
+- Trailblaze  
+- Double-Edge  
+
+Maushold-Four @ Bright Powder  
+Ability: Friend Guard  
+Level: 50  
+EVs: 21 Atk / 21 SpA / 24 SpD  
+Adamant Nature  
+- U-turn  
+- Hyper Voice  
+- Aerial Ace  
+- Copycat  
+
+Camerupt @ Shuca Berry  
+Ability: Anger Point  
+Level: 50  
+EVs: 27 Atk / 11 Def / 11 SpA / 9 SpD / 8 Spe  
+Brave Nature  
+- Smack Down  
+- Fire Blast  
+- Hyper Beam  
+- Endeavor  
+

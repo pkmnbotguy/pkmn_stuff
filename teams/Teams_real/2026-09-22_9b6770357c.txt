@@ -1,0 +1,59 @@
+Hydreigon @ Chople Berry
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Protect
+- Tailwind
+- Snarl
+- Draco Meteor
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- U-turn
+- Drain Punch
+- Grassy Glide
+- Fake Out
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Extreme Speed
+- Flare Blitz
+- Head Smash
+
+Farigiraf @ Grassy Seed
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Protect
+- Trick Room
+- Thunderbolt
+- Twin Beam
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Protect
+- Sucker Punch
+- Play Rough
+- Iron Head
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Water Pulse
+- Ice Beam
+- Aura Sphere

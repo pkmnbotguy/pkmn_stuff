@@ -1,0 +1,60 @@
+Altaria @ Persim Berry  
+Ability: Cloud Nine  
+Level: 50  
+EVs: 12 Def / 32 SpA / 22 SpD  
+Docile Nature  
+- Snowscape  
+- Dragon Cheer  
+- Wonder Room  
+- Feather Dance  
+
+Pinsir @ Smooth Rock  
+Ability: Moxie  
+Level: 50  
+EVs: 20 HP / 31 Def / 15 SpA  
+Bashful Nature  
+- Quick Attack  
+- Fling  
+- Thief  
+- Protect  
+
+Vivillon-Jungle @ Normal Gem  
+Ability: Friend Guard  
+Level: 50  
+EVs: 32 Atk / 13 Def / 21 SpD  
+Jolly Nature  
+- Hyper Beam  
+- Sunny Day  
+- Air Slash  
+- Sleep Talk  
+
+Scrafty @ Scope Lens  
+Ability: Moxie  
+Level: 50  
+EVs: 19 HP / 4 Atk / 2 Def / 32 SpA / 9 SpD  
+Impish Nature  
+- Sludge Bomb  
+- Encore  
+- Super Fang  
+- Zen Headbutt  
+
+Sableye @ Life Orb  
+Ability: Prankster  
+Level: 50  
+EVs: 14 HP / 32 Atk / 20 Spe  
+Gentle Nature  
+- Fire Punch  
+- Nasty Plot  
+- Night Slash  
+- Flatter  
+
+Hatterene @ Metronome  
+Ability: Anticipation  
+Level: 50  
+EVs: 12 HP / 5 Atk / 25 SpD / 24 Spe  
+Mild Nature  
+- Play Rough  
+- Mystical Fire  
+- Skill Swap  
+- Expanding Force  
+

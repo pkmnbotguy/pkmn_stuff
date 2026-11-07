@@ -1,0 +1,59 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Taunt
+- Tailwind
+- Moonblast
+- Encore
+
+Venusaur @ Occa Berry
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Solar Beam
+- Sludge Bomb
+- Sleep Powder
+- Earth Power
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 11 Def / 10 SpA / 13 Spe
+Modest Nature
+- Scald
+- Hypnosis
+- Protect
+- Coil
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 13 HP / 21 Def / 12 SpA / 17 SpD / 3 Spe
+Modest Nature
+- Hyper Voice
+- Psychic
+- Trick Room
+- Helping Hand
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Solar Beam
+- Air Slash
+- Heat Wave
+- Protect
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Dark Pulse
+- Water Pulse
+- Dragon Pulse
+- Protect

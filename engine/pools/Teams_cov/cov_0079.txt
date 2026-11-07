@@ -1,0 +1,60 @@
+Gourgeist-Large @ Colbur Berry  
+Ability: Pickup  
+Level: 50  
+EVs: 1 Atk / 3 SpA / 32 SpD / 30 Spe  
+Serious Nature  
+- Solar Beam  
+- Power Whip  
+- Shadow Ball  
+- Hex  
+
+Basculegion @ Choice Scarf  
+Ability: Swift Swim  
+Level: 50  
+EVs: 1 HP / 32 Def / 4 SpA / 29 SpD  
+Impish Nature  
+- Confuse Ray  
+- Last Respects  
+- Zen Headbutt  
+- Shadow Ball  
+
+Raichu-Alola @ Chople Berry  
+Ability: Surge Surfer  
+Level: 50  
+EVs: 21 HP / 32 Atk / 9 Def / 4 SpD  
+Docile Nature  
+- Substitute  
+- Psyshock  
+- Endure  
+- Eerie Impulse  
+
+Froslass @ Silver Powder  
+Ability: Cursed Body  
+Level: 50  
+EVs: 14 Atk / 32 Def / 11 SpA / 8 SpD / 1 Spe  
+Bold Nature  
+- Phantom Force  
+- Snore  
+- Light Screen  
+- Icicle Crash  
+
+Archaludon @ Leftovers  
+Ability: Sturdy  
+Level: 50  
+EVs: 20 HP / 4 Atk / 10 SpA / 32 Spe  
+Mild Nature  
+- Heavy Slam  
+- Reflect  
+- Meteor Beam  
+- Dark Pulse  
+
+Slowbro-Galar @ Kasib Berry  
+Ability: Own Tempo  
+Level: 50  
+EVs: 2 HP / 13 Atk / 24 SpA / 27 SpD  
+Serious Nature  
+- Nasty Plot  
+- Wonder Room  
+- Stored Power  
+- Ice Fang  
+

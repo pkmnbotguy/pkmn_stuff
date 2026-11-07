@@ -1,0 +1,59 @@
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 15 Def / 19 SpD
+Relaxed Nature
+- Earth Power
+- Protect
+- Weather Ball
+- Perish Song
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpD
+Calm Nature
+- Protect
+- Electro Shot
+- Snarl
+- Aura Sphere
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Liquidation
+- High Horsepower
+- Ice Punch
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 22 HP / 32 Atk / 12 Def
+Brave Nature
+- Fake Out
+- Protect
+- Wood Hammer
+- U-turn
+
+Incineroar @ Passho Berry
+Ability: Intimidate
+Level: 50
+EVs: 31 HP / 21 Def / 14 SpD
+Relaxed Nature
+- Fake Out
+- Protect
+- Throat Chop
+- Parting Shot
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Bold Nature
+- Protect
+- Substitute
+- Shadow Ball
+- Perish Song

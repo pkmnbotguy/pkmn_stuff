@@ -1,0 +1,60 @@
+Sceptile @ Choice Scarf  
+Ability: Overgrow  
+Level: 50  
+EVs: 10 Atk / 32 Def / 11 SpD / 13 Spe  
+Naive Nature  
+- Substitute  
+- Leaf Blade  
+- Rock Tomb  
+- Iron Tail  
+
+Vileplume @ Shell Bell  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 31 Atk / 17 Def / 14 SpA / 4 SpD  
+Quiet Nature  
+- Rest  
+- Body Slam  
+- Stun Spore  
+- Sleep Talk  
+
+Mimikyu @ Life Orb  
+Ability: Disguise  
+Level: 50  
+EVs: 31 HP / 18 Atk / 17 Spe  
+Timid Nature  
+- Hyper Beam  
+- Charm  
+- Bulk Up  
+- Copycat  
+
+Bastiodon @ Dragon Fang  
+Ability: Sturdy  
+Level: 50  
+EVs: 22 Atk / 32 SpA / 12 Spe  
+Naive Nature  
+- Facade  
+- Rock Slide  
+- Ancient Power  
+- Steel Beam  
+
+Alcremie-Caramel-Swirl @ Shed Shell  
+Ability: Aroma Veil  
+Level: 50  
+EVs: 14 HP / 32 Def / 20 Spe  
+Gentle Nature  
+- Giga Impact  
+- Hyper Beam  
+- Encore  
+- Stored Power  
+
+Vivillon-Polar @ Focus Band  
+Ability: Friend Guard  
+Level: 50  
+EVs: 5 HP / 26 Atk / 29 Def / 6 SpA  
+Modest Nature  
+- Skitter Smack  
+- Calm Mind  
+- Safeguard  
+- Whirlwind  
+

@@ -1,0 +1,60 @@
+Arcanine @ Binding Band  
+Ability: Justified  
+Level: 50  
+EVs: 30 HP / 8 SpA / 28 SpD  
+Brave Nature  
+- Sunny Day  
+- Raging Fury  
+- Burn Up  
+- Flame Charge  
+
+Metagross @ Metagrossite  
+Ability: Clear Body  
+Level: 50  
+EVs: 32 HP / 32 Def / 2 SpA  
+Timid Nature  
+- Explosion  
+- Stealth Rock  
+- Body Slam  
+- Ice Punch  
+
+Heracross @ Hard Stone  
+Ability: Swarm  
+Level: 50  
+EVs: 10 HP / 19 Def / 31 SpA / 6 SpD  
+Mild Nature  
+- Counter  
+- Bug Buzz  
+- Curse  
+- Assurance  
+
+Dragapult @ Charti Berry  
+Ability: Infiltrator  
+Level: 50  
+EVs: 17 HP / 29 Atk / 3 Def / 17 SpA  
+Hardy Nature  
+- Beat Up  
+- Draco Meteor  
+- Steel Wing  
+- U-turn  
+
+Barbaracle @ Focus Sash  
+Ability: Pickpocket  
+Level: 50  
+EVs: 26 HP / 2 Atk / 21 SpA / 17 SpD  
+Docile Nature  
+- Thief  
+- Stone Edge  
+- Beat Up  
+- Hyper Beam  
+
+Hawlucha @ Payapa Berry  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 12 HP / 15 Atk / 29 Def / 3 SpA / 7 Spe  
+Timid Nature  
+- Cross Chop  
+- Dig  
+- Fly  
+- Sky Attack  
+

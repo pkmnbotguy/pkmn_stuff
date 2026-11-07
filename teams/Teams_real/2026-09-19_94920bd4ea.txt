@@ -1,0 +1,59 @@
+Pyroar @ Pyroarite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Overheat
+- Dark Pulse
+- Protect
+
+Ninetales @ Choice Scarf
+Ability: Drought
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Heat Wave
+- Solar Beam
+- Snarl
+- Fake Tears
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Acrobatics
+- Dire Claw
+- Close Combat
+- Protect
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpA
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Calm Mind
+- Protect
+
+Barbaracle @ Barbaracite
+Ability: Tough Claws
+Level: 50
+EVs: 9 HP / 32 Atk / 4 Def / 6 SpD / 15 Spe
+Careful Nature
+- Rock Slide
+- Close Combat
+- Shell Smash
+- Protect

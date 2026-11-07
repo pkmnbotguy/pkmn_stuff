@@ -1,0 +1,60 @@
+Samurott-Hisui @ Shell Bell  
+Ability: Sharpness  
+Level: 50  
+EVs: 32 Def / 16 SpA / 18 SpD  
+Quiet Nature  
+- Blizzard  
+- Ice Beam  
+- Round  
+- Screech  
+
+Torterra @ King's Rock  
+Ability: Overgrow  
+Level: 50  
+EVs: 19 Atk / 32 Def / 15 SpD  
+Relaxed Nature  
+- Sleep Talk  
+- Swallow  
+- Attract  
+- Growth  
+
+Ariados @ Choice Scarf  
+Ability: Swarm  
+Level: 50  
+EVs: 28 Atk / 11 Def / 27 Spe  
+Brave Nature  
+- Body Slam  
+- Protect  
+- Spite  
+- Solar Beam  
+
+Vanilluxe @ Payapa Berry  
+Ability: Snow Warning  
+Level: 50  
+EVs: 27 Atk / 27 Def / 12 Spe  
+Bashful Nature  
+- Aurora Veil  
+- Ice Spinner  
+- Protect  
+- Rain Dance  
+
+Excadrill @ Normal Gem  
+Ability: Sand Rush  
+Level: 50  
+EVs: 10 HP / 30 Atk / 26 Def  
+Gentle Nature  
+- Round  
+- Fling  
+- Shadow Claw  
+- Dig  
+
+Castform @ Wacan Berry  
+Ability: Forecast  
+Level: 50  
+EVs: 5 Atk / 26 Def / 8 SpA / 27 SpD  
+Careful Nature  
+- Solar Beam  
+- Round  
+- Hydro Pump  
+- Avalanche  
+

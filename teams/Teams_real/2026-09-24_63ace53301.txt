@@ -1,0 +1,59 @@
+Pelipper @ Leftovers
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Wide Guard
+- Weather Ball
+- Tailwind
+- Hurricane
+
+Aurorus @ Focus Sash
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Quiet Nature
+- Blizzard
+- Aurora Veil
+- Protect
+- Earth Power
+
+Sceptile @ Sceptilite
+Ability: Overgrow
+Level: 50
+EVs: 14 HP / 1 Def / 26 SpA / 25 Spe
+Modest Nature
+- Solar Beam
+- Dragon Pulse
+- Shed Tail
+- Earth Power
+
+Torkoal @ Sitrus Berry
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Weather Ball
+- Solar Beam
+- Protect
+- Yawn
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- U-turn
+
+Heliolisk @ Choice Scarf
+Ability: Solar Power
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Discharge
+- Volt Switch
+- Solar Beam
+- Weather Ball

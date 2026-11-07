@@ -1,0 +1,60 @@
+Gourgeist-Small @ Red Card  
+Ability: Pickup  
+Level: 50  
+EVs: 19 HP / 18 Atk / 8 Def / 21 SpD  
+Docile Nature  
+- Sleep Talk  
+- Sunny Day  
+- Phantom Force  
+- Power Whip  
+
+Scizor @ Lum Berry  
+Ability: Light Metal  
+Level: 50  
+EVs: 24 HP / 19 Atk / 23 Def  
+Calm Nature  
+- Superpower  
+- Agility  
+- Struggle Bug  
+- Light Screen  
+
+Pawmot @ Shuca Berry  
+Ability: Natural Cure  
+Level: 50  
+EVs: 1 Atk / 4 Def / 25 SpA / 18 SpD / 18 Spe  
+Modest Nature  
+- Supercell Slam  
+- Double Shock  
+- Mach Punch  
+- Substitute  
+
+Arcanine @ Cheri Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 20 HP / 15 Atk / 24 SpA / 7 Spe  
+Impish Nature  
+- Raging Fury  
+- Aerial Ace  
+- Endure  
+- Substitute  
+
+Indeedee @ Persim Berry  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 10 HP / 1 Atk / 32 SpD / 23 Spe  
+Lax Nature  
+- Encore  
+- Extrasensory  
+- Tri Attack  
+- Dazzling Gleam  
+
+Blaziken @ Normal Gem  
+Ability: Blaze  
+Level: 50  
+EVs: 29 HP / 5 Def / 32 SpA  
+Lax Nature  
+- Aerial Ace  
+- Feather Dance  
+- Rock Slide  
+- Round  
+

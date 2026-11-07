@@ -1,0 +1,60 @@
+Froslass @ Silk Scarf  
+Ability: Cursed Body  
+Level: 50  
+EVs: 32 HP / 6 Def / 8 SpA / 20 SpD  
+Quiet Nature  
+- Scary Face  
+- Charm  
+- Nasty Plot  
+- Taunt  
+
+Ariados @ Miracle Seed  
+Ability: Swarm  
+Level: 50  
+EVs: 32 Def / 16 SpA / 18 SpD  
+Relaxed Nature  
+- Fell Stinger  
+- Infestation  
+- First Impression  
+- Toxic Thread  
+
+Sinistcha @ Shell Bell  
+Ability: Heatproof  
+Level: 50  
+EVs: 13 Atk / 31 Def / 22 Spe  
+Relaxed Nature  
+- Solar Beam  
+- Foul Play  
+- Curse  
+- Grassy Terrain  
+
+Slowbro-Galar @ Sharp Beak  
+Ability: Quick Draw  
+Level: 50  
+EVs: 14 Atk / 28 Def / 24 Spe  
+Mild Nature  
+- Amnesia  
+- Tri Attack  
+- Round  
+- Gunk Shot  
+
+Stunfisk @ Roseli Berry  
+Ability: Static  
+Level: 50  
+EVs: 25 HP / 32 Def / 9 SpD  
+Calm Nature  
+- Discharge  
+- Foul Play  
+- Pain Split  
+- Rock Tomb  
+
+Ninetales-Alola @ Wise Glasses  
+Ability: Snow Warning  
+Level: 50  
+EVs: 21 HP / 27 SpA / 15 SpD / 3 Spe  
+Modest Nature  
+- Icy Wind  
+- Dig  
+- Charm  
+- Psych Up  
+

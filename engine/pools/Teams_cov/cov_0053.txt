@@ -1,0 +1,60 @@
+Scolipede @ Charti Berry  
+Ability: Poison Point  
+Level: 50  
+EVs: 10 HP / 32 SpA / 24 SpD  
+Adamant Nature  
+- Rest  
+- Attract  
+- Pounce  
+- Throat Chop  
+
+Arcanine-Hisui @ Leppa Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 26 HP / 8 Def / 3 SpA / 29 SpD  
+Relaxed Nature  
+- Iron Head  
+- Sleep Talk  
+- Roar  
+- Facade  
+
+Steelix @ Steelixite  
+Ability: Rock Head  
+Level: 50  
+EVs: 24 HP / 10 Def / 32 SpD  
+Gentle Nature  
+- Taunt  
+- Substitute  
+- Rock Polish  
+- Magnet Rise  
+
+Sableye @ Sablenite  
+Ability: Keen Eye  
+Level: 50  
+EVs: 18 HP / 17 Atk / 31 SpA  
+Adamant Nature  
+- X-Scissor  
+- Shadow Claw  
+- Mud Shot  
+- Light Screen  
+
+Archaludon @ Silk Scarf  
+Ability: Stalwart  
+Level: 50  
+EVs: 14 HP / 10 Atk / 25 Def / 17 SpA  
+Jolly Nature  
+- Focus Energy  
+- Light Screen  
+- Stone Edge  
+- Swords Dance  
+
+Abomasnow @ Abomasite  
+Ability: Snow Warning  
+Level: 50  
+EVs: 5 HP / 32 Atk / 16 Def / 12 SpD / 1 Spe  
+Careful Nature  
+- Wood Hammer  
+- Ingrain  
+- Frost Breath  
+- Ice Hammer  
+

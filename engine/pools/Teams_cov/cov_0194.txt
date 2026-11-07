@@ -1,0 +1,60 @@
+Primarina @ Scope Lens  
+Ability: Torrent  
+Level: 50  
+EVs: 12 Atk / 32 Def / 22 Spe  
+Docile Nature  
+- Alluring Voice  
+- Snowscape  
+- Ice Spinner  
+- Substitute  
+
+Toxapex @ Charti Berry  
+Ability: Merciless  
+Level: 50  
+EVs: 22 Atk / 32 Def / 12 Spe  
+Impish Nature  
+- Baneful Bunker  
+- Facade  
+- Venoshock  
+- Payback  
+
+Tinkaton @ Quick Claw  
+Ability: Pickpocket  
+Level: 50  
+EVs: 27 HP / 9 Atk / 30 Def  
+Rash Nature  
+- Protect  
+- Rest  
+- Pounce  
+- Flatter  
+
+Banette @ Electric Seed  
+Ability: Insomnia  
+Level: 50  
+EVs: 5 HP / 18 Atk / 29 SpA / 14 SpD  
+Bold Nature  
+- Pounce  
+- Trailblaze  
+- Rain Dance  
+- Magic Room  
+
+Mr. Rime @ Leppa Berry  
+Ability: Screen Cleaner  
+Level: 50  
+EVs: 28 Def / 32 SpA / 6 Spe  
+Bold Nature  
+- Copycat  
+- Trick  
+- Safeguard  
+- Drain Punch  
+
+Zoroark-Hisui @ Psychic Seed  
+Ability: Illusion  
+Level: 50  
+EVs: 32 Atk / 32 Def / 2 SpA  
+Quiet Nature  
+- Foul Play  
+- Helping Hand  
+- Roar  
+- Rest  
+

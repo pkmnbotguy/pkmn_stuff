@@ -1,0 +1,60 @@
+Mawile @ Damp Rock  
+Ability: Intimidate  
+Level: 50  
+EVs: 12 HP / 18 Atk / 18 Def / 18 Spe  
+Gentle Nature  
+- Thunder Punch  
+- Crunch  
+- Foul Play  
+- Shadow Ball  
+
+Vivillon-Icy Snow @ Charti Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 25 HP / 8 Atk / 16 SpD / 17 Spe  
+Serious Nature  
+- Pounce  
+- Whirlwind  
+- Energy Ball  
+- Air Slash  
+
+Toxtricity-Low-Key @ Sitrus Berry  
+Ability: Technician  
+Level: 50  
+EVs: 32 Def / 32 SpA / 2 Spe  
+Bashful Nature  
+- Rest  
+- Mega Kick  
+- Parabolic Charge  
+- Throat Chop  
+
+Trevenant @ Chople Berry  
+Ability: Harvest  
+Level: 50  
+EVs: 4 HP / 11 Def / 19 SpD / 32 Spe  
+Brave Nature  
+- Leaf Storm  
+- Calm Mind  
+- Sleep Talk  
+- X-Scissor  
+
+Infernape @ Black Glasses  
+Ability: Iron Fist  
+Level: 50  
+EVs: 17 HP / 32 Atk / 11 SpA / 6 SpD  
+Docile Nature  
+- Low Sweep  
+- Flame Charge  
+- Blaze Kick  
+- Snore  
+
+Whimsicott @ Oran Berry  
+Ability: Prankster  
+Level: 50  
+EVs: 4 Atk / 6 Def / 16 SpA / 30 SpD / 10 Spe  
+Hasty Nature  
+- Tickle  
+- Moonblast  
+- Sunny Day  
+- Endeavor  
+

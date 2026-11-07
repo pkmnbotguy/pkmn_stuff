@@ -1,0 +1,59 @@
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 1 Def / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Draco Meteor
+- Flamethrower
+- Power Gem
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 28 HP / 16 Atk / 22 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 16 Atk / 2 Def / 16 SpD
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Low Kick
+
+Incineroar @ Passho Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 13 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Snarl
+- Parting Shot
+- Fake Out
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 31 HP / 20 Def / 14 SpA / 1 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Yawn
+- Detect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 17 Def / 20 SpD
+Sassy Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Protect

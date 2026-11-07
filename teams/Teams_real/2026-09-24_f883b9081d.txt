@@ -1,0 +1,59 @@
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Protect
+- Shadow Ball
+- Taunt
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Brave Nature
+- Fake Out
+- Grassy Glide
+- High Horsepower
+- U-turn
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Earth Power
+- Power Gem
+- Sludge Bomb
+- Spiky Shield
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 16 HP / 15 Def / 5 SpA / 30 Spe
+Modest Nature
+- Bug Buzz
+- Flamethrower
+- Protect
+- Quiver Dance
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 19 Def / 15 SpD
+Careful Nature
+- Light Screen
+- Parting Shot
+- Reflect
+- Spirit Break
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Earth Power
+- Dragon Pulse
+- Power Gem
+- Protect

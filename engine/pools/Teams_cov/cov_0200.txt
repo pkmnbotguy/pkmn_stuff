@@ -1,0 +1,60 @@
+Vivillon @ Colbur Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 27 HP / 32 SpA / 7 SpD  
+Naive Nature  
+- String Shot  
+- Protect  
+- Giga Impact  
+- Endure  
+
+Mudsdale @ Pecha Berry  
+Ability: Own Tempo  
+Level: 50  
+EVs: 3 HP / 5 Def / 32 SpA / 26 Spe  
+Bashful Nature  
+- Rock Tomb  
+- Payback  
+- Snore  
+- Curse  
+
+Mr. Rime @ Damp Rock  
+Ability: Ice Body  
+Level: 50  
+EVs: 13 HP / 21 Atk / 32 SpA  
+Impish Nature  
+- Ice Shard  
+- Copycat  
+- Rest  
+- Frost Breath  
+
+Roserade @ Dragon Fang  
+Ability: Poison Point  
+Level: 50  
+EVs: 26 Atk / 29 SpD / 11 Spe  
+Impish Nature  
+- Charm  
+- Seed Bomb  
+- Spikes  
+- Body Slam  
+
+Meowstic-F @ Icy Rock  
+Ability: Infiltrator  
+Level: 50  
+EVs: 13 HP / 22 Atk / 11 Def / 20 Spe  
+Gentle Nature  
+- Baton Pass  
+- Charm  
+- Trick  
+- Magic Room  
+
+Typhlosion @ Leftovers  
+Ability: Blaze  
+Level: 50  
+EVs: 32 Atk / 31 Def / 3 SpA  
+Sassy Nature  
+- Fire Spin  
+- Bulldoze  
+- Sleep Talk  
+- Helping Hand  
+

@@ -1,0 +1,60 @@
+Bastiodon @ Payapa Berry  
+Ability: Sturdy  
+Level: 50  
+EVs: 8 HP / 31 Atk / 27 SpA  
+Bold Nature  
+- Endure  
+- Scorching Sands  
+- Metal Burst  
+- Focus Energy  
+
+Vivillon-Savanna @ Poison Barb  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 16 HP / 26 SpA / 22 SpD / 2 Spe  
+Hasty Nature  
+- Round  
+- Light Screen  
+- Tailwind  
+- Sleep Powder  
+
+Watchog @ Shuca Berry  
+Ability: Keen Eye  
+Level: 50  
+EVs: 21 Atk / 10 Def / 5 SpA / 30 Spe  
+Gentle Nature  
+- Assurance  
+- Grass Knot  
+- Thunder Punch  
+- Bite  
+
+Gourgeist-Small @ Zoom Lens  
+Ability: Insomnia  
+Level: 50  
+EVs: 32 Atk / 27 SpA / 7 Spe  
+Bold Nature  
+- Scary Face  
+- Phantom Force  
+- Will-O-Wisp  
+- Trick  
+
+Hydrapple @ Pecha Berry  
+Ability: Regenerator  
+Level: 50  
+EVs: 17 HP / 17 Atk / 32 SpA  
+Naive Nature  
+- Infestation  
+- Draco Meteor  
+- Body Slam  
+- Heavy Slam  
+
+Armarouge @ Coba Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 18 Atk / 32 SpA / 16 SpD  
+Impish Nature  
+- Disable  
+- Sleep Talk  
+- Flame Charge  
+- Psych Up  
+

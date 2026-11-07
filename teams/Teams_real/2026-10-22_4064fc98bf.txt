@@ -1,0 +1,59 @@
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Dark Pulse
+- Detect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Tailwind
+- Encore
+- Sunny Day
+
+Maushold @ Chople Berry
+Ability: Friend Guard
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Super Fang
+- Protect
+- Taunt
+- Follow Me
+
+Pawmot @ Leppa Berry
+Ability: Natural Cure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Careful Nature
+- Double Shock
+- Close Combat
+- Upper Hand
+- Revival Blessing
+
+Typhlosion-Hisui @ Sitrus Berry
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Will-O-Wisp
+- Infernal Parade
+- Protect
+
+Glalie @ Glalitite
+Ability: Inner Focus
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Body Slam
+- Protect
+- Earthquake
+- Explosion

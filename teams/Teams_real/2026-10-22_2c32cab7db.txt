@@ -1,0 +1,59 @@
+Zoroark-Hisui @ Choice Scarf
+Ability: Illusion
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- U-turn
+- Snarl
+- Bitter Malice
+- Icy Wind
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat Chop
+
+Gengar @ Gengarite
+Ability: Cursed Body
+Level: 50
+EVs: 30 HP / 1 Def / 1 SpA / 28 SpD / 6 Spe
+Modest Nature
+- Protect
+- Hex
+- Sludge Bomb
+- Destiny Bond
+
+Gallade @ Scope Lens
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Wide Guard
+- Psycho Cut
+- Night Slash
+- Sacred Sword
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 10 HP / 23 Atk / 7 Def / 26 Spe
+Adamant Nature
+- Protect
+- Power Whip
+- Triple Axel
+- Zen Headbutt
+
+Meowstic @ Sitrus Berry
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 23 Def / 11 SpD
+Bold Nature
+- Fake Out
+- Thunder Wave
+- Helping Hand
+- Fake Tears

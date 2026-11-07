@@ -1,0 +1,59 @@
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 30 Atk / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dragon Dance
+- Protect
+- Knock Off
+
+Excadrill @ Soft Sand
+Ability: Sand Rush
+Level: 50
+EVs: 8 HP / 27 Atk / 31 Def
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Protect
+- Earthquake
+
+Gholdengo @ Focus Sash
+Ability: Good as Gold
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Focus Blast
+- Power Gem
+- Shadow Ball
+- Protect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 50
+EVs: 18 HP / 18 Atk / 1 Def / 1 SpD / 28 Spe
+Adamant Nature
+- Stomping Tantrum
+- Steel Roller
+- Psychic Fangs
+- Protect
+
+Salamence @ Haban Berry
+Ability: Intimidate
+Level: 50
+EVs: 31 HP / 1 Def / 30 SpA / 3 SpD / 1 Spe
+Modest Nature
+- Tailwind
+- Draco Meteor
+- Protect
+- Flamethrower
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 31 HP / 3 Def / 15 SpA / 4 SpD / 13 Spe
+Modest Nature
+- Protect
+- Hydro Pump
+- Will-O-Wisp
+- Thunderbolt

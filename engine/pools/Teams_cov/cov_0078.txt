@@ -1,0 +1,60 @@
+Wigglytuff @ Quick Claw  
+Ability: Cute Charm  
+Level: 50  
+EVs: 21 HP / 18 SpA / 27 Spe  
+Calm Nature  
+- Encore  
+- Mega Kick  
+- Fire Punch  
+- Focus Punch  
+
+Sharpedo @ Colbur Berry  
+Ability: Speed Boost  
+Level: 50  
+EVs: 30 Atk / 23 Def / 13 SpD  
+Sassy Nature  
+- Close Combat  
+- Snore  
+- Assurance  
+- Aqua Jet  
+
+Conkeldurr @ Kasib Berry  
+Ability: Guts  
+Level: 50  
+EVs: 22 HP / 27 SpA / 17 SpD  
+Gentle Nature  
+- Earthquake  
+- Attract  
+- Stone Edge  
+- Detect  
+
+Toxtricity @ Rindo Berry  
+Ability: Technician  
+Level: 50  
+EVs: 19 HP / 15 SpD / 32 Spe  
+Lonely Nature  
+- Helping Hand  
+- Stored Power  
+- Thief  
+- Sludge Wave  
+
+Jolteon @ Babiri Berry  
+Ability: Volt Absorb  
+Level: 50  
+EVs: 32 Atk / 19 Def / 15 SpA  
+Hardy Nature  
+- Double-Edge  
+- Giga Impact  
+- Bite  
+- Focus Energy  
+
+Houndoom @ Metronome  
+Ability: Early Bird  
+Level: 50  
+EVs: 25 HP / 9 Atk / 32 Spe  
+Bashful Nature  
+- Flare Blitz  
+- Rain Dance  
+- Scary Face  
+- Crunch  
+

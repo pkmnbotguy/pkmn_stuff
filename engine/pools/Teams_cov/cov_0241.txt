@@ -1,0 +1,60 @@
+Vivillon-Monsoon @ Kasib Berry  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 19 Atk / 17 Def / 30 Spe  
+Jolly Nature  
+- Tailwind  
+- Draining Kiss  
+- Substitute  
+- Solar Beam  
+
+Goodra @ Wacan Berry  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 10 Atk / 2 Def / 24 SpA / 30 SpD  
+Adamant Nature  
+- Thunderbolt  
+- Snore  
+- Sludge Bomb  
+- Breaking Swipe  
+
+Lopunny @ Never-Melt Ice  
+Ability: Klutz  
+Level: 50  
+EVs: 32 HP / 26 Atk / 8 SpD  
+Naughty Nature  
+- Low Kick  
+- Mach Punch  
+- Facade  
+- Pounce  
+
+Dragapult @ Rawst Berry  
+Ability: Clear Body  
+Level: 50  
+EVs: 18 HP / 3 Atk / 22 Def / 23 SpD  
+Quiet Nature  
+- Lock-On  
+- Dragon Darts  
+- Thief  
+- U-turn  
+
+Pelipper @ Chilan Berry  
+Ability: Keen Eye  
+Level: 50  
+EVs: 27 Def / 18 SpA / 21 SpD  
+Lonely Nature  
+- Knock Off  
+- Soak  
+- Body Slam  
+- Agility  
+
+Gliscor @ Metronome  
+Ability: Poison Heal  
+Level: 50  
+EVs: 21 HP / 25 Def / 20 SpD  
+Impish Nature  
+- Crabhammer  
+- Steel Wing  
+- Iron Tail  
+- Sleep Talk  
+

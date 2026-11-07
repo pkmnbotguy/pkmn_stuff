@@ -1,0 +1,59 @@
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Spout
+- Flash Cannon
+- Shell Smash
+- Dark Pulse
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- High Horsepower
+- Protect
+- Ice Shard
+- Icicle Spear
+
+Pawmot @ Focus Sash
+Ability: Volt Absorb
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Entrainment
+- Revival Blessing
+- Supercell Slam
+- Brick Break
+
+Chandelure @ Bright Powder
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 11 Def / 23 SpD
+Relaxed Nature
+- Minimize
+- Calm Mind
+- Clear Smog
+- Heat Wave
+
+Indeedee @ Expert Belt
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Calm Mind
+- Protect
+- Dazzling Gleam
+
+Sinistcha @ Psychic Seed
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Trick Room
+- Matcha Gotcha
+- Rage Powder
+- Life Dew

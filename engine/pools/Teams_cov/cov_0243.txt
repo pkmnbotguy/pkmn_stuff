@@ -1,0 +1,60 @@
+Vivillon-Garden @ Air Balloon  
+Ability: Friend Guard  
+Level: 50  
+EVs: 3 Def / 32 SpA / 19 SpD / 12 Spe  
+Lax Nature  
+- Calm Mind  
+- Stun Spore  
+- Sunny Day  
+- Confuse Ray  
+
+Hydrapple @ Zoom Lens  
+Ability: Regenerator  
+Level: 50  
+EVs: 30 Def / 11 SpD / 25 Spe  
+Relaxed Nature  
+- Grassy Glide  
+- Growth  
+- Energy Ball  
+- Heavy Slam  
+
+Toxapex @ Light Clay  
+Ability: Merciless  
+Level: 50  
+EVs: 23 HP / 31 Def / 12 SpA  
+Modest Nature  
+- Water Pulse  
+- Baneful Bunker  
+- Round  
+- Giga Impact  
+
+Dragonite @ Colbur Berry  
+Ability: Multiscale  
+Level: 50  
+EVs: 6 Atk / 32 SpD / 28 Spe  
+Jolly Nature  
+- Aqua Tail  
+- Sleep Talk  
+- Thunder Punch  
+- Air Slash  
+
+Floette-Eternal @ Sitrus Berry  
+Ability: Symbiosis  
+Level: 50  
+EVs: 30 HP / 32 Atk / 1 Def / 3 Spe  
+Sassy Nature  
+- Alluring Voice  
+- Charm  
+- Sunny Day  
+- Light Screen  
+
+Delphox @ Psychic Seed  
+Ability: Magician  
+Level: 50  
+EVs: 24 Def / 10 SpD / 32 Spe  
+Naive Nature  
+- Grass Knot  
+- Fire Punch  
+- Skill Swap  
+- Will-O-Wisp  
+

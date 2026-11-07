@@ -1,0 +1,60 @@
+Arbok @ Tanga Berry  
+Ability: Shed Skin  
+Level: 50  
+EVs: 11 Atk / 25 SpA / 30 Spe  
+Bold Nature  
+- Trailblaze  
+- Belch  
+- Stomping Tantrum  
+- Scale Shot  
+
+Chandelure @ Rawst Berry  
+Ability: Flash Fire  
+Level: 50  
+EVs: 17 Atk / 21 Def / 28 Spe  
+Lonely Nature  
+- Temper Flare  
+- Sunny Day  
+- Calm Mind  
+- Psych Up  
+
+Slowbro-Galar @ Twisted Spoon  
+Ability: Regenerator  
+Level: 50  
+EVs: 18 HP / 19 Atk / 29 SpA  
+Careful Nature  
+- Body Slam  
+- Trick  
+- Body Press  
+- Chilling Water  
+
+Vivillon-Continental @ Heat Rock  
+Ability: Friend Guard  
+Level: 50  
+EVs: 14 Atk / 2 Def / 18 SpA / 32 Spe  
+Careful Nature  
+- Stun Spore  
+- Energy Ball  
+- Bug Bite  
+- Hyper Beam  
+
+Lucario @ Focus Band  
+Ability: Inner Focus  
+Level: 50  
+EVs: 25 HP / 16 Atk / 25 SpD  
+Bashful Nature  
+- Zen Headbutt  
+- Feint  
+- Psychic  
+- Sleep Talk  
+
+Glaceon @ Quick Claw  
+Ability: Ice Body  
+Level: 50  
+EVs: 11 HP / 5 Def / 20 SpA / 30 SpD  
+Lonely Nature  
+- Snore  
+- Avalanche  
+- Icy Wind  
+- Mud-Slap  
+

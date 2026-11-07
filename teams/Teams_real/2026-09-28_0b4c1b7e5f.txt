@@ -1,0 +1,59 @@
+Cinderace @ Choice Scarf
+Ability: Libero
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Pyro Ball
+- Gunk Shot
+- U-turn
+- Zen Headbutt
+
+Rillaboom @ Eject Button
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Fake Out
+- Grassy Glide
+- Acrobatics
+- Endeavor
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Flamethrower
+- Power Gem
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpD
+Relaxed Nature
+- Draining Kiss
+- Scald
+- Coil
+- Hypnosis
+
+Vivillon @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sleep Powder
+- Rage Powder
+- Quiver Dance
+- Hurricane
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Trick Room
+- Imprison
+- Psychic
+- Thunderbolt

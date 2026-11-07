@@ -1,0 +1,60 @@
+Wigglytuff @ Hard Stone  
+Ability: Cute Charm  
+Level: 50  
+EVs: 29 Atk / 26 SpA / 11 Spe  
+Mild Nature  
+- Reflect  
+- Expanding Force  
+- Stockpile  
+- Charm  
+
+Dragalge @ Kebia Berry  
+Ability: Adaptability  
+Level: 50  
+EVs: 11 Atk / 5 Def / 32 SpD / 18 Spe  
+Sassy Nature  
+- Dragon Tail  
+- Muddy Water  
+- Mud-Slap  
+- Whirlpool  
+
+Meowstic @ Silk Scarf  
+Ability: Infiltrator  
+Level: 50  
+EVs: 32 HP / 11 Atk / 2 SpD / 21 Spe  
+Rash Nature  
+- Helping Hand  
+- Yawn  
+- Fake Out  
+- Psychic Noise  
+
+Camerupt @ Shuca Berry  
+Ability: Solid Rock  
+Level: 50  
+EVs: 24 Atk / 26 Def / 16 Spe  
+Timid Nature  
+- Ancient Power  
+- Yawn  
+- Stockpile  
+- Rest  
+
+Farfetch’d @ Leek  
+Ability: Keen Eye  
+Level: 50  
+EVs: 12 HP / 29 SpA / 25 Spe  
+Careful Nature  
+- Simple Beam  
+- Endure  
+- Dual Wingbeat  
+- Rest  
+
+Vivillon-High Plains @ White Herb  
+Ability: Shield Dust  
+Level: 50  
+EVs: 31 HP / 12 Atk / 12 SpA / 11 SpD  
+Mild Nature  
+- Snore  
+- Rest  
+- Air Cutter  
+- Substitute  
+

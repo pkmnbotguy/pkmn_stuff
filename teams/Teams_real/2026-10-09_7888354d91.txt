@@ -1,0 +1,59 @@
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Shell Smash
+- Water Spout
+- Flash Cannon
+
+Indeedee-F @ Leftovers
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Energy Ball
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Ancient Power
+- Earth Power
+- Protect
+- Eruption
+
+Pawmot @ Focus Sash
+Ability: Volt Absorb
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Entrainment
+- Revival Blessing
+- Supercell Slam
+- Brick Break
+
+Mr-Rime @ Sitrus Berry
+Ability: Screen Cleaner
+Level: 50
+EVs: 32 HP / 15 Def / 10 SpA / 9 SpD
+Relaxed Nature
+- Frost Breath
+- Expanding Force
+- Nasty Plot
+- Freeze-Dry
+
+Clefable @ Rocky Helmet
+Ability: Magic Guard
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Moonblast
+- Helping Hand
+- Life Dew

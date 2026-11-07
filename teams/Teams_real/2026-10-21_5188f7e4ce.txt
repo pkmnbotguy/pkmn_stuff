@@ -1,0 +1,59 @@
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Swords Dance
+- Baton Pass
+- Blaze Kick
+- Detect
+
+Annihilape @ Leftovers
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 5 Atk / 7 Def / 10 SpD / 12 Spe
+Adamant Nature
+- Drain Punch
+- Rage Fist
+- Bulk Up
+- Protect
+
+Gallade @ Sitrus Berry
+Ability: Steadfast
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Hasty Nature
+- Heal Pulse
+- Trick Room
+- Coaching
+- Protect
+
+Sneasler @ Eject Button
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Coaching
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Roost
+- Protect
+
+Crabominable @ Crabominite
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Ice Hammer
+- Drain Punch
+- Thunder Punch
+- Protect

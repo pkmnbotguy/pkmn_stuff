@@ -1,0 +1,60 @@
+Reuniclus @ Mystic Water  
+Ability: Overcoat  
+Level: 50  
+EVs: 32 HP / 32 Atk / 2 SpA  
+Timid Nature  
+- Trick Room  
+- Focus Punch  
+- Safeguard  
+- Guard Swap  
+
+Abomasnow @ Leftovers  
+Ability: Snow Warning  
+Level: 50  
+EVs: 4 HP / 15 Def / 26 SpA / 21 SpD  
+Quirky Nature  
+- Fling  
+- Body Press  
+- Trailblaze  
+- Icicle Spear  
+
+Tauros-Paldea-Combat @ Quick Claw  
+Ability: Anger Point  
+Level: 50  
+EVs: 13 HP / 22 Atk / 9 Def / 22 Spe  
+Naive Nature  
+- Swagger  
+- Dig  
+- Substitute  
+- Facade  
+
+Pyroar @ Pyroarite  
+Ability: Rivalry  
+Level: 50  
+EVs: 32 HP / 9 SpA / 16 SpD / 9 Spe  
+Hardy Nature  
+- Hyper Voice  
+- Facade  
+- Trailblaze  
+- Acrobatics  
+
+Dedenne @ Twisted Spoon  
+Ability: Plus  
+Level: 50  
+EVs: 11 Def / 14 SpA / 32 SpD / 9 Spe  
+Quirky Nature  
+- Draining Kiss  
+- Parabolic Charge  
+- Rain Dance  
+- Sunny Day  
+
+Wigglytuff @ Muscle Band  
+Ability: Competitive  
+Level: 50  
+EVs: 24 HP / 24 SpD / 18 Spe  
+Naughty Nature  
+- Focus Punch  
+- Substitute  
+- Sweet Kiss  
+- Copycat  
+

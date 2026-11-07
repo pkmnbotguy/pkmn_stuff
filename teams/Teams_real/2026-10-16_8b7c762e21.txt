@@ -1,0 +1,59 @@
+Meganium @ Meganiumite
+Ability: Leaf Guard
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Solar Beam
+- Dazzling Gleam
+- Weather Ball
+- Protect
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+Level: 50
+EVs: 31 HP / 15 Atk / 3 Def / 11 SpD / 6 Spe
+Adamant Nature
+- Liquidation
+- Ice Punch
+- Dragon Dance
+- Protect
+
+Tauros-Paldea-Aqua @ Mystic Water
+Ability: Intimidate
+Level: 50
+EVs: 13 HP / 32 Atk / 21 Spe
+Adamant Nature
+- Raging Bull
+- Close Combat
+- Aqua Jet
+- Protect
+
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Water Spout
+- Aura Sphere
+- Dark Pulse
+- Protect
+
+Squawkabilly @ Focus Sash
+Ability: Hustle
+Level: 50
+EVs: 32 HP / 2 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Final Gambit
+- Tailwind
+- Protect
+
+Decidueye @ Occa Berry
+Ability: Long Reach
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Careful Nature
+- Spirit Shackle
+- Rain Dance
+- Tailwind
+- Grassy Terrain

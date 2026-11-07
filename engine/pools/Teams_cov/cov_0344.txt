@@ -1,0 +1,60 @@
+Vivillon-Icy Snow @ Kasib Berry  
+Ability: Friend Guard  
+Level: 50  
+EVs: 2 Def / 32 SpD / 32 Spe  
+Quirky Nature  
+- Round  
+- Rain Dance  
+- Protect  
+- Stun Spore  
+
+Slowbro @ Binding Band  
+Ability: Oblivious  
+Level: 50  
+EVs: 6 HP / 9 Atk / 29 SpA / 13 SpD / 9 Spe  
+Lonely Nature  
+- Water Pulse  
+- Safeguard  
+- Rest  
+- Weather Ball  
+
+Goodra-Hisui @ Charcoal  
+Ability: Gooey  
+Level: 50  
+EVs: 32 HP / 32 Def / 2 SpA  
+Gentle Nature  
+- Water Pulse  
+- Hydro Pump  
+- Hyper Beam  
+- Weather Ball  
+
+Torkoal @ Haban Berry  
+Ability: Drought  
+Level: 50  
+EVs: 32 Atk / 25 Def / 6 SpA / 3 Spe  
+Hasty Nature  
+- Heat Crash  
+- Curse  
+- Body Press  
+- Protect  
+
+Vanilluxe @ White Herb  
+Ability: Weak Armor  
+Level: 50  
+EVs: 27 HP / 8 Atk / 3 SpD / 28 Spe  
+Brave Nature  
+- Ally Switch  
+- Mirror Coat  
+- Self-Destruct  
+- Endure  
+
+Armarouge @ Aspear Berry  
+Ability: Weak Armor  
+Level: 50  
+EVs: 12 Def / 22 SpA / 32 SpD  
+Hardy Nature  
+- Ally Switch  
+- Fling  
+- Confuse Ray  
+- Psyshock  
+
